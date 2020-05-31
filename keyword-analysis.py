@@ -2,7 +2,7 @@ import pandas as pd
 import nltk
 
 nltk.download('punkt')
-raw = pd.read_csv(r"ground_truth.csv", usecols=[5])
+raw = pd.read_csv(r"ebooks-other.csv", usecols=[0])
 
 pd.set_option('display.expand_frame_repr', False)
 pd.set_option('display.max_rows', raw.shape[0] + 1)
@@ -16,11 +16,11 @@ for token in nltk_tokens:
     if token.isnumeric():
         nltk_tokens.remove(token)
 
-
-# Counts number of occurences
+# Creates wordlist with no duplicates
 nodupes = set(nltk_tokens)
 finalist = []
 
+# Counts number of occurences
 for item in sorted(nodupes):
     count = 0
 
@@ -34,5 +34,7 @@ for item in sorted(nodupes):
     finalist.append(inputString)
 
 # Sorting
+# This also removes any one letter words
 for string in sorted(finalist):
-    print(string)
+    if len(string[1]) > 1:
+        print(string)
