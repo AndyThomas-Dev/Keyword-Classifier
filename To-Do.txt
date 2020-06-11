@@ -1,0 +1,7 @@
+- Create a LL formula
+	http://ucrel.lancs.ac.uk/llwizard.html
+
+- Test on sample input i.e. inputs that would fit into the form on the webpage as above.
+- Test on a sample set of data (2 loci) and check against
+
+'I have been taught explicitly about how to consider the user experience'
