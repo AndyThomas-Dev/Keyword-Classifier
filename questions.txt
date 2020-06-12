@@ -1,0 +1,7 @@
+Calculating log likelihood function - ask to check (and expand)
+	If I get this wrong, the whole study is compromised
+	
+	Issues are going to be due to scaling
+	have no benchmark
+	
+Being marked on code quality?
