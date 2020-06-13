@@ -4,4 +4,6 @@ Calculating log likelihood function - ask to check (and expand)
 	Issues are going to be due to scaling
 	have no benchmark
 	
+	LL: this corpus vs all other 33 corpuses		
+	
 Being marked on code quality?

@@ -3,6 +3,19 @@ import math
 import nltk
 
 
+def checkSignifance(value):
+    if value < 3.84:
+        return "Not significant"
+    if (value >= 3.84) & (value < 6.63):
+        return 0.05
+    if (value >= 6.63) & (value < 10.83):
+        return 0.01
+    if (value >= 10.83) & (value < 15.13):
+        return 0.001
+    if value >= 15.13:
+        return 0.0001
+
+
 def calculateLL(a, b, c, d):
     # a Frequency of word in corpus one.
     # b Frequency of word in corpus two.
@@ -27,9 +40,10 @@ def calculateLL(a, b, c, d):
     return 2 * (e5 + e6)
 
 
-g = 1
-b = 99
-c = 100
-d = 100
+freqC1 = 45
+freqC2 = 7
+totalC1 = 399
+totalC2 = 28339
 
-print(calculateLL(g, b, c, d))
+print(calculateLL(freqC1, freqC2, totalC1, totalC2))
+print(checkSignifance(calculateLL(freqC1, freqC2, totalC1, totalC2)))

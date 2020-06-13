@@ -13,9 +13,9 @@ def populateArrays(x, y):
     i = 0
 
     while i < 35:
-        randNumb = random.randint(1, 1)
+        randNumb = random.randint(1, y[i])
+
         x[i] = randNumb
-        y[i] = randNumb + random.randint(1, 1)
         i += 1
 
 
@@ -54,7 +54,7 @@ def calculateLL(a, b):
 
     while i < 35:
         step1[i] = b[i] * totalFreqs
-        i = i+1
+        i = i + 1
 
     # i = c * totalFreqs
     # g = d * totalFreqs
@@ -75,9 +75,10 @@ def calculateLL(a, b):
     i = 0
 
     while i < 35:
-        step3[i] = math.log(a[i] / step2[i])
-        print(a[i])
-        print(step2[i])
+        if a[i] == 0:
+            step3[i] = 0
+        else:
+            step3[i] = math.log(a[i] / step2[i])
         print(step3[i])
         i = i + 1
 
@@ -100,12 +101,16 @@ def calculateLL(a, b):
 
 
 # Frequency of the word in corpus
-wordFreq = [None] * 35
+# wordFreq = [None] * 35
+
+wordFreq = [0, 45, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 # Total words in that corpus
-totalFreq = [None] * 35
+totalFreq = [799, 399, 527, 502, 5465, 3676, 55, 150, 1506, 405, 99, 309, 153, 1337, 1860, 2330, 1993, 147, 1716, 1008,
+             76, 167, 73, 308, 202, 92, 95, 394, 1529, 152, 65, 223, 194, 175, 557]
 
-populateArrays(wordFreq, totalFreq)
+print("VASF", sum(totalFreq)-399)
+# populateArrays(wordFreq, totalFreq)
 
 print(wordFreq)
 print(sum(wordFreq))
@@ -114,7 +119,7 @@ print(sum(totalFreq))
 
 var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wordFreq[2]: "Anonymity – VPN",
        wordFreq[3]: "Anonymity – Proxies", wordFreq[4]: "Carding", wordFreq[5]: "Cashing Out",
-       wordFreq[6]: "Clearing Criminal History", wordFreq[7]: "Counterfeit Currency", wordFreq[0]: "Cryptocurrency – "
+       wordFreq[6]: "Clearing Criminal History", wordFreq[7]: "Counterfeit Currency", wordFreq[8]: "Cryptocurrency – "
                                                                                                    "General",
        wordFreq[9]: "Cryptocurrency – Trading", wordFreq[10]: "Denial of Service", wordFreq[11]: "Digital Forensics",
        wordFreq[12]: "Doxing", wordFreq[13]: "Drugs – General", wordFreq[14]: "Drugs – Production",

@@ -2,7 +2,7 @@ import pandas as pd
 import nltk
 
 nltk.download('punkt')
-raw = pd.read_csv(r"ebooks-other.csv", usecols=[0])
+raw = pd.read_csv(r"data/34-weapons.csv", usecols=[0])
 
 pd.set_option('display.expand_frame_repr', False)
 pd.set_option('display.max_rows', raw.shape[0] + 1)
@@ -38,3 +38,7 @@ for item in sorted(nodupes):
 for string in sorted(finalist):
     if len(string[1]) > 1:
         print(string)
+
+# Counts total words
+# output = sum(int(x[0]) for x in finalist)
+# print(output)
