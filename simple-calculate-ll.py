@@ -16,7 +16,7 @@ def checkSignifance(value):
         return 0.0001
 
 
-def calculateLL(a, b, c, d):
+def simpleCalculateLL(a, b, c, d):
     # a Frequency of word in corpus one.
     # b Frequency of word in corpus two.
     # c number of words in corpus one.
@@ -45,5 +45,5 @@ freqC2 = 7
 totalC1 = 399
 totalC2 = 28339
 
-print(calculateLL(freqC1, freqC2, totalC1, totalC2))
-print(checkSignifance(calculateLL(freqC1, freqC2, totalC1, totalC2)))
+print(simpleCalculateLL(freqC1, freqC2, totalC1, totalC2))
+print(checkSignifance(simpleCalculateLL(freqC1, freqC2, totalC1, totalC2)))

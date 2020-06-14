@@ -2,6 +2,7 @@ import pandas as pd
 import math
 import nltk
 import random
+import sys
 
 
 # 95th percentile; 5% level; p < 0.05; critical value = 3.84
@@ -79,7 +80,6 @@ def calculateLL(a, b):
             step3[i] = 0
         else:
             step3[i] = math.log(a[i] / step2[i])
-        print(step3[i])
         i = i + 1
 
     # e3 = math.log(a / e1)
@@ -100,22 +100,62 @@ def calculateLL(a, b):
     return 2 * (sum(step4))
 
 
+def simpleCalculateLL(a, b, c, d):
+    # a Frequency of word in corpus one.
+    # b Frequency of word in corpus two.
+    # c number of words in corpus one.
+    # d number of words in corpus two.
+
+    e = c * (a + b)
+    f = (c + d)
+
+    g = d * (a + b)
+    h = (c + d)
+
+    e1 = (e / f)
+    e2 = (g / h)
+
+    if (e1 == 0) | (a == 0):
+        e3 = 0
+    else:
+        e3 = math.log(a / e1)
+
+    if (e2 == 0) | (b == 0):
+        e4 = 0
+    else:
+        e4 = math.log(b / e2)
+
+    e5 = (a * e3)
+    e6 = (b * e4)
+
+    return 2 * (e5 + e6)
+
+
 # Frequency of the word in corpus
 # wordFreq = [None] * 35
 
 wordFreq = [0, 45, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 # Total words in that corpus
-totalFreq = [799, 399, 527, 502, 5465, 3676, 55, 150, 1506, 405, 99, 309, 153, 1337, 1860, 2330, 1993, 147, 1716, 1008,
-             76, 167, 73, 308, 202, 92, 95, 394, 1529, 152, 65, 223, 194, 175, 557]
+totalFreq = [658, 371, 381, 401, 4202, 2944, 47, 126, 1117, 254, 66, 226, 118, 982, 1442, 1880, 1567, 90, 1272, 719,
+             67, 146, 70, 254, 167, 84, 74, 329, 1051, 125, 49, 177, 178, 141, 466]
 
-print("VASF", sum(totalFreq)-399)
 # populateArrays(wordFreq, totalFreq)
 
-print(wordFreq)
-print(sum(wordFreq))
-print(totalFreq)
 print(sum(totalFreq))
+
+sumExcept = 0
+i = 0
+
+while i < 35:
+    # Enter the corpus number here
+    if i != 0:
+        sumExcept = sumExcept + totalFreq[i]
+    i = i + 1
+
+print(sumExcept, "test")
+
+result = simpleCalculateLL(1, 1, 100, 100)
 
 var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wordFreq[2]: "Anonymity – VPN",
        wordFreq[3]: "Anonymity – Proxies", wordFreq[4]: "Carding", wordFreq[5]: "Cashing Out",
@@ -140,7 +180,11 @@ var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wor
 # 99.9th percentile; 0.1% level; p < 0.001; critical value = 10.83
 # 99.99th percentile; 0.01% level; p < 0.0001; critical value = 15.13
 
-result = calculateLL(wordFreq, totalFreq)
+# a Frequency of word in corpus one.
+# b Frequency of word in corpus two.
+# c number of words in corpus one.
+# d number of words in corpus two.
 
-# print(result)
-print("Significance for", var.get(max(var)), " (", max(var), ") : ", result, checkSignifance(result))
+result = simpleCalculateLL(1, 5, totalFreq[0], sumExcept)
+
+print(result, checkSignifance(result))

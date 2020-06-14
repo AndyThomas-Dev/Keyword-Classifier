@@ -4,6 +4,9 @@ Calculating log likelihood function - ask to check (and expand)
 	Issues are going to be due to scaling
 	have no benchmark
 	
-	LL: this corpus vs all other 33 corpuses		
+	LL: this corpus vs all other 33 corpuses combined
+	I.e. you are more likely to find the word in this category, than in all the other categories
+	
+	kept lowercase - ANon ANON AnON - count the same		
 	
 Being marked on code quality?

@@ -3,10 +3,7 @@ import nltk
 
 nltk.download('punkt')
 raw = pd.read_csv(r"data/34-weapons.csv", usecols=[0])
-
-pd.set_option('display.expand_frame_repr', False)
-pd.set_option('display.max_rows', raw.shape[0] + 1)
-pd.set_option('display.max_colwidth', None)
+raw["Product Name"] = raw["Product Name"].str.lower()
 
 # This must be a string
 nltk_tokens = nltk.word_tokenize(raw[raw.columns[0]].to_string())
@@ -40,5 +37,5 @@ for string in sorted(finalist):
         print(string)
 
 # Counts total words
-# output = sum(int(x[0]) for x in finalist)
+output = sum(int(x[0]) for x in finalist)
 # print(output)
