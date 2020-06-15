@@ -1,5 +1,8 @@
 import pandas as pd
 import nltk
+import sys
+from totals import *
+
 
 nltk.download('punkt')
 raw = pd.read_csv(r"data/34-weapons.csv", usecols=[0])

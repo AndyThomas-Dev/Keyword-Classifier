@@ -2,7 +2,8 @@ import pandas as pd
 import math
 import nltk
 import random
-import sys
+from signifance import *
+from countwords import *
 
 
 # 95th percentile; 5% level; p < 0.05; critical value = 3.84
@@ -18,19 +19,6 @@ def populateArrays(x, y):
 
         x[i] = randNumb
         i += 1
-
-
-def checkSignifance(value):
-    if value < 3.84:
-        return "Not significant"
-    if (value >= 3.84) & (value < 6.63):
-        return 0.05
-    if (value >= 6.63) & (value < 10.83):
-        return 0.01
-    if (value >= 10.83) & (value < 15.13):
-        return 0.001
-    if value >= 15.13:
-        return 0.0001
 
 
 def calculateLL(a, b):
@@ -153,8 +141,6 @@ while i < 35:
         sumExcept = sumExcept + totalFreq[i]
     i = i + 1
 
-print(sumExcept, "test")
-
 result = simpleCalculateLL(1, 1, 100, 100)
 
 var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wordFreq[2]: "Anonymity – VPN",
@@ -185,6 +171,22 @@ var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wor
 # c number of words in corpus one.
 # d number of words in corpus two.
 
-result = simpleCalculateLL(1, 5, totalFreq[0], sumExcept)
+raw = pd.read_csv(r"data/0-keywords.csv", usecols=[0, 1, 2, 3, 4])
 
-print(result, checkSignifance(result))
+# # View options
+pd.set_option('display.expand_frame_repr', False)
+pd.set_option('display.max_rows', raw.shape[0] + 1)
+pd.set_option('display.max_colwidth', None)
+
+for i in range(len(raw)):
+    searchTerm = raw["word"][i]
+    exfreq = countWords(searchTerm[2:-1], 0)
+    result = simpleCalculateLL(raw["freq"][i], exfreq, totalFreq[0], sumExcept)
+    raw["LL"][i] = result
+    raw["exfreq"][i] = exfreq
+    raw["sig"][i] = checkSignifance(result)
+
+
+sortedDF = raw.sort_values(by=['LL'])
+print(sortedDF.to_string())
+sortedDF.to_csv(r'data/0-keywords.csv', index=False, header=True)

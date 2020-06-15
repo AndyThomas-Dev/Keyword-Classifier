@@ -1,3 +1,5 @@
+General
+
 Calculating log likelihood function - ask to check (and expand)
 	If I get this wrong, the whole study is compromised
 	
@@ -10,3 +12,5 @@ Calculating log likelihood function - ask to check (and expand)
 	kept lowercase - ANon ANON AnON - count the same		
 	
 Being marked on code quality?
+	Camelcase
+		Now pyCharm is flagging these as errors. I've turned it off but was interested to know how you feel about it.
