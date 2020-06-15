@@ -1,214 +1,214 @@
-freq,word
-1, '-hofmann'
-1, 'addiction'
-1, 'ages'
-1, 'almo'
-1, 'amphetamine'
-1, 'analoge-ott'
-1, 'analysis'
-1, 'aprendiendo'
-1, 'around'
-1, 'art'
-1, 'ayahuasca'
-1, 'blotter'
-1, 'brain'
-1, 'business'
-1, 'buy'
-1, 'chemical'
-1, 'chemistry'
-1, 'de'
-1, 'doctor'
-2, 'dreams'
-1, 'drogas'
-1, 'easy'
-1, 'explorer'
-1, 'fadim'
-1, 'fbi'
-1, 'future'
-1, 'genetics'
-1, 'getting'
-1, 'gu'
-1, 'hashmaking'
-1, 'hongos'
-1, 'in'
-1, 'introduction'
-1, 'james'
-1, 'jesse'
-1, 'las'
-1, 'lee'
-1, 'love'
-1, 'ls'
-1, 'manifesto'
-1, 'mex'
-1, 'microgram'
-1, 'modern'
-1, 'open'
-1, 'opio'
-1, 'overview'
-1, 'pics'
-1, 'processing'
-1, 'professor'
-1, 'revolutio'
-1, 'scientific'
-1, 'smoker'
-1, 'story'
-1, 'successful'
-1, 'successfully'
-1, 'syntheses'
-1, 'through'
-1, 'venturas'
-1, 'way'
-1, 'with'
-2, '12'
-2, '25i-nbome'
-2, '43'
-2, 'abused'
-2, 'acid'
-2, 'aids'
-2, 'alzheimer'
-2, 'an'
-2, 'anti-anxiety'
-2, 'anti-depressants'
-2, 'antidepressants'
-2, 'as'
-2, 'barbiturates'
-2, 'big'
-2, 'body'
-2, 'buzz'
-2, 'cannabinoids'
-2, 'codeine'
-2, 'cookbook'
-2, 'cubensis'
-2, 'd.'
-2, 'definitive'
-2, 'delicious'
-2, 'designer'
-2, 'diet'
-2, 'disease'
-2, 'dosing'
-2, 'dr'
-2, 'ebook'
-2, 'ecstasy'
-2, 'ed'
-2, 'enhancement'
-2, 'essential'
-2, 'etc'
-2, 'field'
-2, 'gold'
-2, 'great'
-2, 'grower'
-2, 'hal'
-2, 'hallucinogens'
-2, 'highbrow'
-2, 'history'
-2, 'how-to'
-2, 'hydroponics'
-2, 'implications'
-2, 'inhalants'
-2, 'magazines'
-2, 'me'
-2, 'megapack'
-2, 'morphine'
-2, 'narcotics'
-2, 'neurochemistry'
-2, 'nicotine'
-2, 'opium'
-2, 'other'
-2, 'otto'
-2, 'pain'
-2, 'pills'
-2, 'pr'
-2, 'prescription'
-2, 'producer'
-2, 'producers'
-2, 'proffessor'
-2, 'properly'
-2, 'psilocybe'
-2, 'psychedelics'
-2, 'psychotherapy'
-2, 'recipes'
-2, 'reconsidered'
-2, 'recreational'
-2, 'reflections'
-2, 'rick'
-2, 'ritalin'
-2, 'sacred'
-2, 'safely'
-2, 'second'
-2, 'sleep'
-2, 'smoke'
-2, 'snow'
-2, 'social'
-2, 'speed'
-2, 'strassman'
-2, 'super'
-2, 'therapeutics'
-2, 'third'
-2, 'tutorials'
-2, 'uses'
-2, '★★★'
-3, 'alchemy'
-3, 'almost'
-3, 'child'
-3, 'free'
-3, 'magic'
-3, 'my'
-3, 'pot'
-3, 'problem'
-3, 'psychedelic'
-3, 'series'
-3, 'world'
-4, '2.0'
-4, '2nd'
-4, 'changing'
-4, 'date'
-4, 'guides'
-4, 'heroin'
-4, 'medical'
-4, 'mexico'
-4, 'off'
-4, 'on'
-4, 'rape'
-4, 'revolution'
-4, 'sell'
-4, 'that'
-4, 'twice'
-4, 'web'
-4, 'weed'
-4, 'your'
-5, 'abuse'
-5, 'get'
-5, 'high'
-5, 'mdma'
-5, 'reference'
-6, 'alcohol'
-6, 'books'
-6, 'complete'
-6, 'edition'
-6, 'index'
-6, 'mushroom'
-7, 'pass'
-7, 'test'
-8, 'and'
-8, 'cocaine'
-8, 'guidebook'
-8, 'pack'
-9, 'lsd'
-9, 'molecule'
-9, 'spirit'
-10, 'cannabis'
-12, 'handbook'
-12, 'mushrooms'
-13, 'dmt'
-13, 'guide'
-17, 'of'
-18, 'how'
-18, 'marijuana'
-19, 'psilocybin'
-21, 'drug'
-31, 'to'
-41, '...'
-55, 'facts'
-55, 'straight'
-80, 'drugs'
-91, 'the'
+freq,word,exfreq,LL,sig
+1, 'de',24.0,0.01053608885364371,Not significant
+41, '...',910.0,0.0245657186606969,Not significant
+1, 'business',26.0,0.0342010775711199,Not significant
+1, 'amphetamine',27.0,0.05042425367292813,Not significant
+2, 'megapack',51.0,0.054289958408963,Not significant
+4, 'guides',75.0,0.07518704604741311,Not significant
+5, 'get',95.0,0.07781384456785667,Not significant
+2, 'big',35.0,0.08042991263477395,Not significant
+1, 'art',31.0,0.14005173639820345,Not significant
+1, 'getting',14.0,0.15670072609559216,Not significant
+1, 'introduction',14.0,0.15670072609559216,Not significant
+2, 'tutorials',32.0,0.15763066564366468,Not significant
+1, 'buy',32.0,0.16785575445920053,Not significant
+1, 'way',13.0,0.20936540014459948,Not significant
+2, 'an',30.0,0.22716529178143574,Not significant
+1, 'through',12.0,0.2730494417211733,Not significant
+3, 'free',89.0,0.3184211015599887,Not significant
+1, 'chemistry',10.0,0.44135061000035636,Not significant
+4, 'on',56.0,0.6268029043823686,Not significant
+1, 'modern',8.0,0.6837386373834928,Not significant
+1, 'analysis',8.0,0.6837386373834928,Not significant
+1, 'story',8.0,0.6837386373834928,Not significant
+8, 'pack',123.0,0.7969857894579722,Not significant
+1, 'easy',48.0,0.812191977384751,Not significant
+8, 'and',238.0,0.8651904101622971,Not significant
+4, 'your',138.0,0.9816577074747967,Not significant
+2, 'ebook',19.0,0.9877028549851774,Not significant
+2, 'recipes',19.0,0.9877028549851774,Not significant
+2, '★★★',19.0,0.9877028549851774,Not significant
+1, 'open',6.0,1.0404595173948132,Not significant
+17, 'of',277.0,1.1905285273889818,Not significant
+1, 'syntheses',5.0,1.2850392724741193,Not significant
+2, 'cookbook',16.0,1.3674772747669857,Not significant
+1, 'fbi',4.0,1.5974353489251323,Not significant
+1, 'overview',4.0,1.5974353489251323,Not significant
+1, 'processing',4.0,1.5974353489251323,Not significant
+6, 'complete',71.0,1.7091458554281047,Not significant
+3, 'my',26.0,1.7783130467099575,Not significant
+2, 'essential',13.0,1.8742561246012777,Not significant
+1, 'pics',3.0,2.012464232793781,Not significant
+1, 'future',3.0,2.012464232793781,Not significant
+1, 'scientific',3.0,2.012464232793781,Not significant
+1, 'love',3.0,2.012464232793781,Not significant
+1, 'gu',3.0,2.012464232793781,Not significant
+13, 'guide',411.0,2.0401060172280694,Not significant
+2, 'gold',11.0,2.3114631821062916,Not significant
+2, 'speed',10.0,2.5700785449482386,Not significant
+1, 'successfully',2.0,2.6017461854126074,Not significant
+1, 'around',2.0,2.6017461854126074,Not significant
+1, 'genetics',2.0,2.6017461854126074,Not significant
+1, 'brain',2.0,2.6017461854126074,Not significant
+4, 'web',32.0,2.7349545495339713,Not significant
+2, 'safely',9.0,2.8621684759043666,Not significant
+2, 'great',9.0,2.8621684759043666,Not significant
+18, 'how',582.0,3.19590992881556,Not significant
+1, 'ayahuasca',1.0,3.557928278378939,Not significant
+1, 'manifesto',1.0,3.557928278378939,Not significant
+1, 'successful',1.0,3.557928278378939,Not significant
+2, 'other',7.0,3.577893391013479,Not significant
+6, 'edition',51.0,3.6867243945158625,Not significant
+2, 'definitive',6.0,4.024928465587562,0.05
+3, 'world',14.0,4.141032405371116,0.05
+4, '2nd',23.0,4.385935756633637,0.05
+2, 'history',5.0,4.55620234473213,0.05
+2, 'super',5.0,4.55620234473213,0.05
+2, 'ed',4.0,5.203492370825215,0.05
+2, 'ecstasy',4.0,5.203492370825215,0.05
+2, 'pr',3.0,6.021231525707639,0.05
+2, 'social',3.0,6.021231525707639,0.05
+2, 'snow',3.0,6.021231525707639,0.05
+2, 'otto',3.0,6.021231525707639,0.05
+2, 'narcotics',3.0,6.021231525707639,0.05
+2, 'etc',3.0,6.021231525707639,0.05
+1, '-hofmann',0.0,6.240202806055956,0.05
+1, 'james',0.0,6.240202806055956,0.05
+1, 'hashmaking',0.0,6.240202806055956,0.05
+1, 'drogas',0.0,6.240202806055956,0.05
+1, 'doctor',0.0,6.240202806055956,0.05
+1, 'hongos',0.0,6.240202806055956,0.05
+1, 'chemical',0.0,6.240202806055956,0.05
+1, 'jesse',0.0,6.240202806055956,0.05
+1, 'blotter',0.0,6.240202806055956,0.05
+1, 'aprendiendo',0.0,6.240202806055956,0.05
+1, 'las',0.0,6.240202806055956,0.05
+1, 'lee',0.0,6.240202806055956,0.05
+1, 'analoge-ott',0.0,6.240202806055956,0.05
+1, 'ls',0.0,6.240202806055956,0.05
+1, 'fadim',0.0,6.240202806055956,0.05
+1, 'almo',0.0,6.240202806055956,0.05
+1, 'microgram',0.0,6.240202806055956,0.05
+1, 'mex',0.0,6.240202806055956,0.05
+1, 'professor',0.0,6.240202806055956,0.05
+1, 'addiction',0.0,6.240202806055956,0.05
+1, 'opio',0.0,6.240202806055956,0.05
+1, 'ages',0.0,6.240202806055956,0.05
+1, 'venturas',0.0,6.240202806055956,0.05
+1, 'explorer',0.0,6.240202806055956,0.05
+1, 'smoker',0.0,6.240202806055956,0.05
+1, 'revolutio',0.0,6.240202806055956,0.05
+4, 'weed',16.0,6.389741395700529,0.05
+1, 'in',133.0,6.463792403045796,0.05
+31, 'to',1040.0,6.652752753680332,0.01
+2, 'sleep',2.0,7.115856556757878,0.01
+2, 'as',2.0,7.115856556757878,0.01
+2, 'diet',2.0,7.115856556757878,0.01
+2, 'd.',2.0,7.115856556757878,0.01
+3, 'magic',7.0,7.135521739009345,0.01
+5, 'mdma',22.0,7.31298261853372,0.01
+1, 'with',145.0,7.37541278078905,0.01
+3, 'psychedelic',6.0,7.805238556237822,0.01
+4, 'heroin',12.0,8.049856931175125,0.01
+2, 'body',1.0,8.751634796905797,0.01
+2, 'me',1.0,8.751634796905797,0.01
+2, 'grower',1.0,8.751634796905797,0.01
+2, 'field',1.0,8.751634796905797,0.01
+2, 'delicious',1.0,8.751634796905797,0.01
+3, 'series',3.0,10.673784835136816,0.01
+3, 'pot',3.0,10.673784835136816,0.01
+4, '2.0',6.0,12.042463051415279,0.001
+3, 'almost',2.0,12.171120137200834,0.001
+2, 'rick',0.0,12.480405612111912,0.001
+2, 'ritalin',0.0,12.480405612111912,0.001
+2, 'sacred',0.0,12.480405612111912,0.001
+2, 'therapeutics',0.0,12.480405612111912,0.001
+2, 'smoke',0.0,12.480405612111912,0.001
+2, 'third',0.0,12.480405612111912,0.001
+2, 'strassman',0.0,12.480405612111912,0.001
+2, 'uses',0.0,12.480405612111912,0.001
+2, 'second',0.0,12.480405612111912,0.001
+2, 'reflections',0.0,12.480405612111912,0.001
+2, 'magazines',0.0,12.480405612111912,0.001
+2, 'reconsidered',0.0,12.480405612111912,0.001
+2, '43',0.0,12.480405612111912,0.001
+2, 'hal',0.0,12.480405612111912,0.001
+2, 'enhancement',0.0,12.480405612111912,0.001
+2, 'dr',0.0,12.480405612111912,0.001
+2, 'dosing',0.0,12.480405612111912,0.001
+2, 'disease',0.0,12.480405612111912,0.001
+2, 'abused',0.0,12.480405612111912,0.001
+2, 'acid',0.0,12.480405612111912,0.001
+2, 'hallucinogens',0.0,12.480405612111912,0.001
+2, 'designer',0.0,12.480405612111912,0.001
+2, 'aids',0.0,12.480405612111912,0.001
+2, 'alzheimer',0.0,12.480405612111912,0.001
+2, 'anti-anxiety',0.0,12.480405612111912,0.001
+2, 'codeine',0.0,12.480405612111912,0.001
+2, 'anti-depressants',0.0,12.480405612111912,0.001
+2, 'recreational',0.0,12.480405612111912,0.001
+2, 'antidepressants',0.0,12.480405612111912,0.001
+2, 'barbiturates',0.0,12.480405612111912,0.001
+2, 'cubensis',0.0,12.480405612111912,0.001
+2, 'cannabinoids',0.0,12.480405612111912,0.001
+2, 'highbrow',0.0,12.480405612111912,0.001
+2, 'hydroponics',0.0,12.480405612111912,0.001
+2, 'psychotherapy',0.0,12.480405612111912,0.001
+2, 'psychedelics',0.0,12.480405612111912,0.001
+2, 'psilocybe',0.0,12.480405612111912,0.001
+2, 'properly',0.0,12.480405612111912,0.001
+2, 'proffessor',0.0,12.480405612111912,0.001
+2, 'producers',0.0,12.480405612111912,0.001
+2, 'producer',0.0,12.480405612111912,0.001
+2, 'prescription',0.0,12.480405612111912,0.001
+2, 'how-to',0.0,12.480405612111912,0.001
+2, 'pills',0.0,12.480405612111912,0.001
+2, 'opium',0.0,12.480405612111912,0.001
+2, 'nicotine',0.0,12.480405612111912,0.001
+2, 'neurochemistry',0.0,12.480405612111912,0.001
+2, 'morphine',0.0,12.480405612111912,0.001
+2, 'dreams',0.0,12.480405612111912,0.001
+2, 'inhalants',0.0,12.480405612111912,0.001
+2, '12',0.0,12.480405612111912,0.001
+2, 'implications',0.0,12.480405612111912,0.001
+2, '25i-nbome',0.0,12.480405612111912,0.001
+2, 'pain',0.0,12.480405612111912,0.001
+2, 'buzz',0.0,12.480405612111912,0.001
+4, 'revolution',5.0,13.047073818285824,0.001
+4, 'sell',4.0,14.231713113515756,0.001
+4, 'off',4.0,14.231713113515756,0.001
+3, 'problem',1.0,14.312241455780168,0.001
+6, 'alcohol',13.0,14.916417082063546,0.001
+6, 'books',13.0,14.916417082063546,0.001
+8, 'cocaine',25.0,15.624834166016464,0.0001
+4, 'that',3.0,15.671040342105513,0.0001
+5, 'high',5.0,17.789641391894694,0.0001
+3, 'alchemy',0.0,18.72060841816787,0.0001
+3, 'child',0.0,18.72060841816787,0.0001
+4, 'changing',1.0,20.04710118340471,0.0001
+7, 'pass',11.0,20.6179305866587,0.0001
+5, 'abuse',2.0,23.005868179211706,0.0001
+5, 'reference',2.0,23.005868179211706,0.0001
+9, 'lsd',18.0,23.41571566871347,0.0001
+4, 'rape',0.0,24.960811224223825,0.0001
+4, 'date',0.0,24.960811224223825,0.0001
+4, 'twice',0.0,24.960811224223825,0.0001
+4, 'mexico',0.0,24.960811224223825,0.0001
+4, 'medical',0.0,24.960811224223825,0.0001
+12, 'handbook',31.0,26.763930027461868,0.0001
+10, 'cannabis',18.0,27.529316137020732,0.0001
+6, 'mushroom',2.0,28.624482911560335,0.0001
+6, 'index',0.0,37.44121683633574,0.0001
+7, 'test',1.0,37.743411256851466,0.0001
+8, 'guidebook',2.0,40.09420236680942,0.0001
+13, 'dmt',17.0,41.60407187847639,0.0001
+12, 'mushrooms',12.0,42.695139340547264,0.0001
+18, 'marijuana',33.0,49.0806867327468,0.0001
+9, 'spirit',1.0,49.750479981237405,0.0001
+9, 'molecule',0.0,56.161825254503604,0.0001
+21, 'drug',18.0,78.83543169983813,0.0001
+19, 'psilocybin',1.0,110.71355777579103,0.0001
+91, 'the',458.0,116.11887051803345,0.0001
+55, 'straight',1.0,333.2687295408754,0.0001
+55, 'facts',0.0,343.2111543330776,0.0001
+80, 'drugs',19.0,404.111406610666,0.0001

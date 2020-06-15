@@ -132,15 +132,6 @@ totalFreq = [658, 371, 381, 401, 4202, 2944, 47, 126, 1117, 254, 66, 226, 118, 9
 
 print(sum(totalFreq))
 
-sumExcept = 0
-i = 0
-
-while i < 35:
-    # Enter the corpus number here
-    if i != 0:
-        sumExcept = sumExcept + totalFreq[i]
-    i = i + 1
-
 result = simpleCalculateLL(1, 1, 100, 100)
 
 var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wordFreq[2]: "Anonymity – VPN",
@@ -170,23 +161,35 @@ var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wor
 # b Frequency of word in corpus two.
 # c number of words in corpus one.
 # d number of words in corpus two.
+counter = 0
+while counter < 35:
+    corpusId = counter
+    fileName = "data/" + str(corpusId) + "-keywords.csv"
+    raw = pd.read_csv(fileName, usecols=[0, 1, 2, 3, 4])
 
-raw = pd.read_csv(r"data/0-keywords.csv", usecols=[0, 1, 2, 3, 4])
+    # # View options
+    pd.set_option('display.expand_frame_repr', False)
+    pd.set_option('display.max_rows', raw.shape[0] + 1)
+    pd.set_option('display.max_colwidth', None)
 
-# # View options
-pd.set_option('display.expand_frame_repr', False)
-pd.set_option('display.max_rows', raw.shape[0] + 1)
-pd.set_option('display.max_colwidth', None)
+    sumExcept = 0
+    i = 0
 
-for i in range(len(raw)):
-    searchTerm = raw["word"][i]
-    exfreq = countWords(searchTerm[2:-1], 0)
-    result = simpleCalculateLL(raw["freq"][i], exfreq, totalFreq[0], sumExcept)
-    raw["LL"][i] = result
-    raw["exfreq"][i] = exfreq
-    raw["sig"][i] = checkSignifance(result)
+    while i < 35:
+        # Enter the corpus number here
+        if i != corpusId:
+            sumExcept = sumExcept + totalFreq[i]
+        i = i + 1
 
+    for i in range(len(raw)):
+        searchTerm = raw["word"][i]
+        exfreq = countWords(searchTerm[2:-1], corpusId)
+        result = simpleCalculateLL(raw["freq"][i], exfreq, totalFreq[corpusId], sumExcept)
+        raw["LL"][i] = result
+        raw["exfreq"][i] = exfreq
+        raw["sig"][i] = checkSignifance(result)
 
-sortedDF = raw.sort_values(by=['LL'])
-print(sortedDF.to_string())
-sortedDF.to_csv(r'data/0-keywords.csv', index=False, header=True)
+    sortedDF = raw.sort_values(by=['LL'])
+    print(sortedDF.to_string())
+    sortedDF.to_csv(fileName, index=False, header=True)
+    counter = counter + 1

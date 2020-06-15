@@ -1,483 +1,483 @@
-freq,word
-1, '-antidetect'
-1, '-frau'
-1, '-working'
-1, '3-4k'
-1, '3d'
-1, 'advance'
-1, 'amex'
-1, 'an'
-1, 'any'
-1, 'apex'
-1, 'atm'
-1, 'banks'
-1, 'bin'
-1, 'binswhich'
-1, 'broswer'
-1, 'bypass'
-1, 'citiblack'
-1, 'clone'
-1, 'cpns'
-1, 'create'
-1, 'especially'
-1, 'everyday'
-1, 'fingerprint'
-1, 'flight'
-1, 'general'
-1, 'generator'
-1, 'gold'
-1, 'grail'
-1, 'green'
-1, 'handwritten'
-1, 'highly'
-1, 'holy'
-1, 'hotel'
-1, 'id'
-1, 'included'
-1, 'info'
-1, 'killing'
-1, 'may'
-1, 'monarchs'
-1, 'moneycard'
-1, 'moneygram'
-1, 'monthly'
-1, 'name'
-1, 'non'
-1, 'ou'
-1, 'pick'
-1, 'pr'
-1, 'professional'
-1, 'protection'
-1, 'psd'
-1, 'rango'
-1, 'refund'
-1, 'reveale'
-1, 'secure'
-1, 'skimmer'
-1, 'sold'
-1, 'suu'
-1, 'system'
-1, 'ticket'
-1, 'tutos'
-1, 'up'
-1, 'v2'
-1, 'vcc'
-1, 'versi'
-1, 'where'
-1, 'withdraw'
-2, '+++'
-2, '10,000'
-2, '20,000+'
-2, '6.15.17'
-2, '6.5'
-2, '_bick'
-2, 'a-z'
-2, 'account'
-2, 'address'
-2, 'aliexpres'
-2, 'alpha02_'
-2, 'amazing'
-2, 'amd'
-2, 'android'
-2, 'anonymity'
-2, 'anti'
-2, 'are'
-2, 'area'
-2, 'bannedbooks'
-2, 'begin'
-2, 'bestbuy'
-2, 'bi'
-2, 'binlists'
-2, 'bitcoin'
-2, 'bitcoins'
-2, 'bus'
-2, 'card☣list'
-2, 'caught'
-2, 'cc|pp|fraud'
-2, 'cc★'
-2, 'checki'
-2, 'checking'
-2, 'code'
-2, 'computer'
-2, 'concepts'
-2, 'converting'
-2, 'crack'
-2, 'current'
-2, 'darkweb'
-2, 'decline'
-2, 'depth'
-2, 'direct'
-2, 'disguise'
-2, 'ebook'
-2, 'encyclopedia'
-2, 'etsy'
-2, 'every'
-2, 'ex'
-2, 'experience'
-2, 'explained'
-2, 'ez'
-2, 'ezetop'
-2, 'faili'
-2, 'first'
-2, 'flags'
-2, 'fnac'
-2, 'fres'
-2, 'fri'
-2, 'friendly'
-2, 'fuck'
-2, 'games'
-2, 'get'
-2, 'groceries/alcohol/tobac'
-2, 'gui'
-2, 'guide-help'
-2, 'guides-tutorials'
-2, 'hacked'
-2, 'in-store'
-2, 'inter'
-2, 'interesting'
-2, 'into'
-2, 'ip'
-2, 'iphones'
-2, 'jabber'
-2, 'kill'
-2, 'knowledge'
-2, 'la'
-2, 'laptop'
-2, 'latest'
-2, 'links'
-2, 'listhing/learn'
-2, 'live'
-2, 'local'
-2, 'login'
-2, 'marketplace'
-2, 'mega-pack'
-2, 'misconceptions'
-2, 'n00b'
-2, 'n00bs/dummies'
-2, 'newbies'
-2, 'newcomers'
-2, 'no'
-2, 'over'
-2, 'package'
-2, 'parts'
-2, 'pay'
-2, 'paypal/cc'
-2, 'pdf'
-2, 'phone'
-2, 'physical'
-2, 'pour'
-2, 'product'
-2, 'profit'
-2, 'red'
-2, 'reset'
-2, 'school'
-2, 'se'
-2, 'sell'
-2, 'shit'
-2, 'shop'
-2, 'shopping'
-2, 'shops'
-2, 'simple'
-2, 'spoof'
-2, 'started'
-2, 'stealer'
-2, 'stop'
-2, 'stripped'
-2, 'successfully'
-2, 'super-gu'
-2, 'suucess'
-2, 'teaching'
-2, 'terminologies'
-2, 'termswords'
-2, 'tesco'
-2, 'that'
-2, 'things'
-2, 'time'
-2, 'total'
-2, 'tutorail'
-2, 'understand'
-2, 'unviersity'
-2, 'using'
-2, 'v.1'
-2, 'vbm'
-2, 've'
-2, 'verification'
-2, 'via'
-2, 'vicious'
-2, 'visa'
-2, 'vocabulary'
-2, 'vocabulary-terms'
-2, 'voice'
-2, 'vol.ii'
-2, 'w/'
-2, 'walmart.com'
-2, 'westernunion'
-2, 'what'
-2, 'when'
-2, 'works'
-2, '|easy|'
-2, '|guides|exclusive'
-2, '▄▀▄▀▄'
-2, '★100'
-2, '★alpha02'
-2, '★best'
-2, '★important★'
-2, '★massive'
-2, '★massive★'
-2, '★★exclusive+bins'
-2, '★★walmart'
-2, '★★★'
-2, '☣easy'
-2, '✪✪✪hotels'
-3, '10'
-3, '100+'
-3, 'alpha'
-3, 'back'
-3, 'bins'
-3, 'cashing'
-3, 'ccv'
-3, 'donation'
-3, 'essential'
-3, 'exclusive'
-3, 'french'
-3, 'fresh'
-3, 'front'
-3, 'fullz'
-3, 'giftcards'
-3, 'here'
-3, 'it'
-3, 'nike'
-3, 'on'
-3, 'pages'
-3, 'safely'
-3, 'security'
-3, 'series'
-3, 'shortest'
-3, 'steps'
-3, 'template'
-3, 'tips'
-3, 'which'
-3, 'world'
-4, '100'
-4, '2017'
-4, '20k'
-4, '2k17'
-4, '66'
-4, '7.0'
-4, 'anonymous'
-4, 'avoid'
-4, 'barrybusiness'
-4, 'bit'
-4, 'ccs'
-4, 'circle'
-4, 'convert'
-4, "d'une"
-4, 'debit'
-4, 'deepweb'
-4, 'dump|carding'
-4, 'e-book'
-4, 'find'
-4, 'fraudfox'
-4, 'google'
-4, 'guide★'
-4, 'icq'
-4, 'instant'
-4, 'introduction'
-4, 'is'
-4, 'learn'
-4, 'massive'
-4, 'new'
-4, 'out'
-4, 'personal'
-4, 'phone★'
-4, 'play'
-4, 'rabbit'
-4, 'recommended'
-4, 'safety'
-4, 'solde'
-4, 'stripe'
-4, 'terms'
-4, 'understanding'
-4, 'vulnerable'
-4, 'vérifier'
-4, 'walmart'
-4, 'without'
-4, 'wo'
-4, '★2017'
-4, '★how'
-4, '★ultimate'
-5, 'antidetect'
-5, 'buy'
-5, 'collection'
-5, 'cvv2'
-5, 'hacking'
-5, 'pp'
-5, 'vbv'
-6, '+20,000'
-6, '4,650'
-6, '``'
-6, 'about'
-6, 'alpha02'
-6, 'business'
-6, 'bythes'
-6, 'ca'
-6, 'drop'
-6, 'fraud'
-6, 'getting'
-6, 'group'
-6, 'instore'
-6, 'microsoft'
-6, 'pack+icq'
-6, 'phones'
-6, 'private'
-6, 'receive'
-6, 'setup'
-6, 'smart'
-6, 'starter'
-6, 'track1'
-6, 'track2'
-6, 'underground'
-6, 'value-'
-6, 'versio'
-6, 'way★'
-6, 'websites'
-6, '✪✪✪flights'
-7, 'aliexpress'
-7, 'by'
-7, 'carded'
-7, 'mega'
-7, 'need'
-7, 'online'
-7, 'secret'
-8, '06/06/2'
-8, '1500'
-8, 'academy'
-8, 'car'
-8, 'chinese'
-8, 'cvv'
-8, 'easy'
-8, 'gift'
-8, 'goods'
-8, 'guide✪✪✪'
-8, 'hell'
-8, 'hq'
-8, 'huge'
-8, 'ii'
-8, 'key'
-8, 'liqpay'
-8, 'mmorpg'
-8, 'mobile'
-8, 'my'
-8, 'not'
-8, 'original'
-8, 'pri'
-8, 's8/iphone'
-8, 'samsung'
-8, 'software'
-8, 'step'
-8, 'transfers'
-8, 'videos'
-8, 'vmware'
-8, "★torso's★"
-8, '❻❻'
-9, '2.11'
-9, 'bonus'
-9, 'cash'
-9, 'checker+live'
-9, 'dead'
-9, 'items'
-9, 'platinum'
-9, 'union'
-9, 'uvch'
-9, 'western'
-9, 'you'
-10, '2016/2017'
-10, 'carders'
-10, 'check'
-10, 'complete'
-10, 'cybercrime'
-10, 'e-gift'
-10, 'experienced'
-10, 'gets'
-10, 'handbook'
-10, 'le'
-10, 'megapack'
-10, 'noob'
-10, 'suc'
-10, 'ultra'
-11, 'bible'
-11, 'logins'
-11, 'working'
-12, "'s"
-12, 'advanced'
-12, 'blocked'
-12, 'casino'
-12, 'ccleaner'
-12, 'fr'
-12, 'full'
-12, 'increase'
-12, 'reasons'
-12, 'v.3'
-13, 'and'
-13, 'cc/cvv'
-13, 'free'
-14, 'de'
-14, 'updated'
-15, '--'
-15, 'beginners'
-15, 'tuto'
-16, 'balance'
-16, 'best'
-16, 'dell'
-16, 'methods'
-16, 'noobs'
-16, 'or'
-16, 'vol'
-16, '✪✪✪'
-17, 'dumps'
-17, 'ultimate'
-18, 'be'
-18, 'ebay'
-18, 'uk'
-19, 'all'
-19, 'big'
-19, 'make'
-19, 'tutorials'
-19, 'with'
-20, 'cards'
-20, 'money'
-21, 'basic'
-22, 'video'
-23, 'apple'
-23, 'bank'
-23, 'credit'
-24, 'lessons'
-26, 'list'
-26, 'pack'
-26, 'pro'
-26, 'university'
-27, 'paypal'
-27, 'virtual'
-28, 'success'
-29, 'amazon'
-32, 'cashout'
-32, 'guides'
-35, 'btc'
-35, 'your'
-36, 'the'
-37, 'carder'
-37, 'of'
-39, 'from'
-40, 'in'
-52, 'cardable'
-55, 'sites'
-62, 'cc'
-70, 'guide'
-72, 'tutorial'
-78, 'method'
-81, 'card'
-81, 'for'
-106, 'how'
-166, 'to'
-179, '...'
-492, 'carding'
+freq,word,exfreq,LL,sig
+10, 'megapack',43,2.1816582180811395e-05,Not significant
+8, 'cvv',35,0.002342918363529539,Not significant
+179, '...',772,0.0031088856950634014,Not significant
+1, 'v2',4,0.003940237971241947,Not significant
+1, 'psd',4,0.003940237971241947,Not significant
+1, 'protection',4,0.003940237971241947,Not significant
+1, 'pr',4,0.003940237971241947,Not significant
+7, 'by',29,0.007090673971347328,Not significant
+2, 'total',8,0.007880475942483894,Not significant
+2, 'code',8,0.007880475942483894,Not significant
+12," ""'s""",50,0.008575479071782244,Not significant
+3, 'essential',12,0.011820713913729852,Not significant
+3, 'world',14,0.017524090082978783,Not significant
+3, 'fullz',14,0.017524090082978783,Not significant
+20, 'money',89,0.021240225735423834,Not significant
+2, '10,10,0.04006534061399325,Not significant
+2, 'live',10,0.04006534061399325,Not significant
+4, 'personal',15,0.05623490376364759,Not significant
+4, 'google',15,0.05623490376364759,Not significant
+4, '2017',15,0.05623490376364759,Not significant
+3, 'it',11,0.05685522105540142,Not significant
+3, 'tips',11,0.05685522105540142,Not significant
+3, 'steps',11,0.05685522105540142,Not significant
+2, 'gui',7,0.0624146603189315,Not significant
+2, 'into',7,0.0624146603189315,Not significant
+2, 'every',7,0.0624146603189315,Not significant
+2, 'time',7,0.0624146603189315,Not significant
+2, 'what',7,0.0624146603189315,Not significant
+26, 'pack',105,0.07687384202596093,Not significant
+1, 'atm',3,0.09048061305312344,Not significant
+1, 'professional',3,0.09048061305312344,Not significant
+1, 'secure',3,0.09048061305312344,Not significant
+1, '3d',3,0.09048061305312344,Not significant
+17, 'ultimate',67,0.09743583427763669,Not significant
+1, 'bypass',6,0.10394142401445672,Not significant
+2, 'ip',11,0.1099384865588161,Not significant
+2, 'simple',11,0.1099384865588161,Not significant
+7, 'online',35,0.14022869214897637,Not significant
+9, 'cash',45,0.18029403276296962,Not significant
+2, 'crack',6,0.18096122610624688,Not significant
+2, 'sell',6,0.18096122610624688,Not significant
+2, 'are',6,0.18096122610624688,Not significant
+2, 'knowledge',6,0.18096122610624688,Not significant
+2, 'anti',6,0.18096122610624688,Not significant
+2, 'visa',6,0.18096122610624688,Not significant
+2, 'latest',6,0.18096122610624688,Not significant
+6, 'business',21,0.1872439809567925,Not significant
+2, 'anonymity',12,0.20788284802891344,Not significant
+2, 'via',12,0.20788284802891344,Not significant
+2, 'no',12,0.20788284802891344,Not significant
+2, 'things',12,0.20788284802891344,Not significant
+8, 'easy',41,0.21852503875995488,Not significant
+5, 'buy',28,0.31857663092658495,Not significant
+8, 'mobile',27,0.3415933969295013,Not significant
+1, 'pick',2,0.351274056885182,Not significant
+1, 'monthly',2,0.351274056885182,Not significant
+1, 'green',2,0.351274056885182,Not significant
+1, 'killing',2,0.351274056885182,Not significant
+4, 'ccs',12,0.36192245221249375,Not significant
+4, 'walmart',12,0.36192245221249375,Not significant
+2, 'that',5,0.3837465964640485,Not significant
+2, 'pdf',5,0.3837465964640485,Not significant
+2, 'first',5,0.3837465964640485,Not significant
+3, 'front',8,0.45772500398312244,Not significant
+3, 'safely',8,0.45772500398312244,Not significant
+2, 'computer',14,0.4721000065974539,Not significant
+11, 'bible',37,0.4823147735168605,Not significant
+7, 'secret',22,0.48838698869945407,Not significant
+35, 'btc',171,0.49995945805601494,Not significant
+10, 'handbook',33,0.5060167771067405,Not significant
+4, 'introduction',11,0.5403892341218057,Not significant
+4, 'safety',11,0.5403892341218057,Not significant
+4, 'e-book',11,0.5403892341218057,Not significant
+106, 'how',494,0.599016083948106,Not significant
+7, 'mega',21,0.6333642913718642,Not significant
+5, 'collection',31,0.6348743371906118,Not significant
+2, 'links',4,0.702548113770364,Not significant
+2, 'pay',4,0.702548113770364,Not significant
+2, 'a-z',4,0.702548113770364,Not significant
+2, 'school',4,0.702548113770364,Not significant
+2, 'se',4,0.702548113770364,Not significant
+2, 'verification',4,0.702548113770364,Not significant
+2, 'friendly',4,0.702548113770364,Not significant
+2, 'voice',4,0.702548113770364,Not significant
+2, 'stop',4,0.702548113770364,Not significant
+2, 'over',16,0.8083951231533479,Not significant
+1, 'info',10,0.8187865517670716,Not significant
+1, 'withdraw',1,0.9789676410647464,Not significant
+1, 'suu',1,0.9789676410647464,Not significant
+1, 'non',1,0.9789676410647464,Not significant
+1, 'everyday',1,0.9789676410647464,Not significant
+3, 'exclusive',6,1.0538221706555468,Not significant
+3, 'fresh',6,1.0538221706555468,Not significant
+9, 'you',56,1.1668209951245556,Not significant
+2, 'kill',3,1.1917987598660216,Not significant
+2, 'amazing',3,1.1917987598660216,Not significant
+2, 'fuck',3,1.1917987598660216,Not significant
+2, 'phone',3,1.1917987598660216,Not significant
+8, 'my',21,1.2947349620257773,Not significant
+1, 'gold',12,1.3074624010614269,Not significant
+1, 'up',12,1.3074624010614269,Not significant
+1, 'clone',12,1.3074624010614269,Not significant
+23, 'credit',74,1.385172124131989,Not significant
+4, 'massive',8,1.405096227540728,Not significant
+2, 'ebook',19,1.4140862297318386,Not significant
+2, '★★★',19,1.4140862297318386,Not significant
+6, 'private',14,1.4251877244276763,Not significant
+13, 'free',79,1.463556950793885,Not significant
+3, 'pages',5,1.5072626860849327,Not significant
+3, 'french',5,1.5072626860849327,Not significant
+70, 'guide',354,1.6264915315061863,Not significant
+4, 'without',7,1.8420345374360663,Not significant
+4, 'understanding',7,1.8420345374360663,Not significant
+26, 'list',81,1.9110265893461769,Not significant
+10, 'complete',67,1.9217956167716048,Not significant
+2, 'address',2,1.9579352821294929,Not significant
+2, 'bi',2,1.9579352821294929,Not significant
+2, '6.5',2,1.9579352821294929,Not significant
+2, 'caught',2,1.9579352821294929,Not significant
+2, 'v.1',2,1.9579352821294929,Not significant
+2, 'concepts',2,1.9579352821294929,Not significant
+2, 'suucess',2,1.9579352821294929,Not significant
+2, '+++',2,1.9579352821294929,Not significant
+2, 'encyclopedia',2,1.9579352821294929,Not significant
+2, 'explained',2,1.9579352821294929,Not significant
+2, 'checking',2,1.9579352821294929,Not significant
+2, 'works',2,1.9579352821294929,Not significant
+6, '``',12,2.1076443413110937,Not significant
+32, 'cashout',181,2.203966930021439,Not significant
+3, 'security',29,2.231273469043053,Not significant
+4, 'new',36,2.401274089087253,Not significant
+1, 'id',16,2.427182327309147,Not significant
+15, 'beginners',38,2.7529189623538457,Not significant
+9, 'items',19,2.7873053338013314,Not significant
+35, 'your',107,2.863117877173554,Not significant
+2, 'android',25,2.8767641050643284,Not significant
+3, 'series',3,2.936902923194239,Not significant
+3, 'shortest',3,2.936902923194239,Not significant
+3, '10',3,2.936902923194239,Not significant
+3, 'template',3,2.936902923194239,Not significant
+6, 'setup',10,3.0145253721698655,Not significant
+1, 'create',18,3.0359043961837533,Not significant
+1, 'moneygram',18,3.0359043961837533,Not significant
+12, 'fr',27,3.155858870930661,Not significant
+8, 'not',15,3.223906597085737,Not significant
+2, 'parts',1,3.265225013490647,Not significant
+2, 'started',1,3.265225013490647,Not significant
+2, 'begin',1,3.265225013490647,Not significant
+2, 'successfully',1,3.265225013490647,Not significant
+2, 'direct',1,3.265225013490647,Not significant
+2, 'ez',1,3.265225013490647,Not significant
+2, 'ex',1,3.265225013490647,Not significant
+2, 'shit',1,3.265225013490647,Not significant
+2, 'inter',1,3.265225013490647,Not significant
+2, 'physical',1,3.265225013490647,Not significant
+5, 'pp',7,3.2947488394250843,Not significant
+1, 'bin',0,3.3327536599549963,Not significant
+1, 'binswhich',0,3.3327536599549963,Not significant
+1, 'broswer',0,3.3327536599549963,Not significant
+1, 'citiblack',0,3.3327536599549963,Not significant
+1, 'cpns',0,3.3327536599549963,Not significant
+1, 'flight',0,3.3327536599549963,Not significant
+1, 'handwritten',0,3.3327536599549963,Not significant
+1, 'vcc',0,3.3327536599549963,Not significant
+1, 'hotel',0,3.3327536599549963,Not significant
+1, 'holy',0,3.3327536599549963,Not significant
+1, 'general',0,3.3327536599549963,Not significant
+1, 'highly',0,3.3327536599549963,Not significant
+1, 'may',0,3.3327536599549963,Not significant
+1, 'grail',0,3.3327536599549963,Not significant
+1, 'generator',0,3.3327536599549963,Not significant
+1, 'included',0,3.3327536599549963,Not significant
+1, 'apex',0,3.3327536599549963,Not significant
+1, 'banks',0,3.3327536599549963,Not significant
+1, 'advance',0,3.3327536599549963,Not significant
+1, 'tutos',0,3.3327536599549963,Not significant
+1, 'ou',0,3.3327536599549963,Not significant
+1, 'rango',0,3.3327536599549963,Not significant
+1, 'moneycard',0,3.3327536599549963,Not significant
+1, 'versi',0,3.3327536599549963,Not significant
+1, 'where',0,3.3327536599549963,Not significant
+1, 'ticket',0,3.3327536599549963,Not significant
+1, 'amex',0,3.3327536599549963,Not significant
+1, 'skimmer',0,3.3327536599549963,Not significant
+1, 'reveale',0,3.3327536599549963,Not significant
+1, 'name',0,3.3327536599549963,Not significant
+1, '-antidetect',0,3.3327536599549963,Not significant
+1, 'monarchs',0,3.3327536599549963,Not significant
+1, 'fingerprint',0,3.3327536599549963,Not significant
+1, '-frau',0,3.3327536599549963,Not significant
+1, '-working',0,3.3327536599549963,Not significant
+1, '3-4k',0,3.3327536599549963,Not significant
+1, 'sold',0,3.3327536599549963,Not significant
+1, 'especially',0,3.3327536599549963,Not significant
+27, 'paypal',167,3.380558673015301,Not significant
+6, 'about',9,3.5753962795980705,Not significant
+6, 'getting',9,3.5753962795980705,Not significant
+19, 'with',127,3.6093304945080824,Not significant
+4, '100',42,3.7403225282656223,Not significant
+4, 'fraudfox',4,3.9158705642589857,0.05
+4, 'is',4,3.9158705642589857,0.05
+4, 'instant',4,3.9158705642589857,0.05
+4, 'barrybusiness',4,3.9158705642589857,0.05
+10, 'noob',19,3.9220128921812183,0.05
+4, 'anonymous',43,3.9792211617098197,0.05
+2, 'using',29,3.9793259004226114,0.05
+3, 'alpha',2,4.105749716471488,0.05
+3, 'back',2,4.105749716471488,0.05
+3, 'cashing',38,4.448076108607914,0.05
+16, 'best',35,4.533142054564269,0.05
+14, 'updated',29,4.537383055302724,0.05
+8, 'step',12,4.767195039464086,0.05
+8, 'ii',12,4.767195039464086,0.05
+6, 'underground',7,4.9833133066877915,0.05
+4, 'avoid',3,5.026709284061975,0.05
+4, 'wo',3,5.026709284061975,0.05
+2, 'hacked',33,5.153720005213038,0.05
+1, 'refund',25,5.325592509986247,0.05
+1, 'system',26,5.667453159926103,0.05
+11, 'working',18,5.702660066407114,0.05
+3, 'which',1,5.918382526264055,0.05
+5, 'antidetect',4,5.9736707344212885,0.05
+1, 'any',27,6.012164844814693,0.05
+2, 'package',36,6.071808792367507,0.05
+9, 'union',12,6.338274982369532,0.05
+9, 'western',12,6.338274982369532,0.05
+4, '20k',2,6.530450026981294,0.05
+4, '★how',2,6.530450026981294,0.05
+2, 'interesting',0,6.665507319909993,0.01
+2, '★massive',0,6.665507319909993,0.01
+2, 'newcomers',0,6.665507319909993,0.01
+2, 'in-store',0,6.665507319909993,0.01
+2, 'darkweb',0,6.665507319909993,0.01
+2, 'vocabulary-terms',0,6.665507319909993,0.01
+2, 'walmart.com',0,6.665507319909993,0.01
+2, 'when',0,6.665507319909993,0.01
+2, 'fri',0,6.665507319909993,0.01
+2, '★★exclusive+bins',0,6.665507319909993,0.01
+2, 'westernunion',0,6.665507319909993,0.01
+2, 'depth',0,6.665507319909993,0.01
+2, 'unviersity',0,6.665507319909993,0.01
+2, 'paypal/cc',0,6.665507319909993,0.01
+2, 'disguise',0,6.665507319909993,0.01
+2, '★massive★',0,6.665507319909993,0.01
+2, 'etsy',0,6.665507319909993,0.01
+2, '★100',0,6.665507319909993,0.01
+2, 'experience',0,6.665507319909993,0.01
+2, 'ezetop',0,6.665507319909993,0.01
+2, 'faili',0,6.665507319909993,0.01
+2, '★★walmart',0,6.665507319909993,0.01
+2, 'flags',0,6.665507319909993,0.01
+2, '✪✪✪hotels',0,6.665507319909993,0.01
+2, 'vbm',0,6.665507319909993,0.01
+2, '☣easy',0,6.665507319909993,0.01
+2, '★best',0,6.665507319909993,0.01
+2, '★important★',0,6.665507319909993,0.01
+2, 'fnac',0,6.665507319909993,0.01
+2, '★alpha02',0,6.665507319909993,0.01
+2, '20,0,6.665507319909993,0.01
+2, 've',0,6.665507319909993,0.01
+2, 'w/',0,6.665507319909993,0.01
+2, 'teaching',0,6.665507319909993,0.01
+2, 'terminologies',0,6.665507319909993,0.01
+2, 'termswords',0,6.665507319909993,0.01
+2, 'tesco',0,6.665507319909993,0.01
+2, 'laptop',0,6.665507319909993,0.01
+2, 'jabber',0,6.665507319909993,0.01
+2, 'fres',0,6.665507319909993,0.01
+2, '6.15.17',0,6.665507319909993,0.01
+2, '|guides|exclusive',0,6.665507319909993,0.01
+2, 'binlists',0,6.665507319909993,0.01
+2, 'current',0,6.665507319909993,0.01
+2, 'converting',0,6.665507319909993,0.01
+2, 'listhing/learn',0,6.665507319909993,0.01
+2, '▄▀▄▀▄',0,6.665507319909993,0.01
+2, 'cc★',0,6.665507319909993,0.01
+2, 'cc|pp|fraud',0,6.665507319909993,0.01
+2, 'card☣list',0,6.665507319909993,0.01
+2, 'bus',0,6.665507319909993,0.01
+2, 'bestbuy',0,6.665507319909993,0.01
+2, 'decline',0,6.665507319909993,0.01
+2, 'bannedbooks',0,6.665507319909993,0.01
+2, 'area',0,6.665507319909993,0.01
+2, 'amd',0,6.665507319909993,0.01
+2, 'alpha02_',0,6.665507319909993,0.01
+2, 'aliexpres',0,6.665507319909993,0.01
+2, '_bick',0,6.665507319909993,0.01
+2, 'checki',0,6.665507319909993,0.01
+2, 'guides-tutorials',0,6.665507319909993,0.01
+2, 'super-gu',0,6.665507319909993,0.01
+2, '|easy|',0,6.665507319909993,0.01
+2, 'product',0,6.665507319909993,0.01
+2, 'pour',0,6.665507319909993,0.01
+2, 'vol.ii',0,6.665507319909993,0.01
+2, 'games',0,6.665507319909993,0.01
+2, 'understand',0,6.665507319909993,0.01
+2, 'guide-help',0,6.665507319909993,0.01
+2, 'vicious',0,6.665507319909993,0.01
+2, 'groceries/alcohol/tobac',0,6.665507319909993,0.01
+2, 'vocabulary',0,6.665507319909993,0.01
+2, 'mega-pack',0,6.665507319909993,0.01
+2, 'la',0,6.665507319909993,0.01
+2, 'tutorail',0,6.665507319909993,0.01
+2, 'iphones',0,6.665507319909993,0.01
+2, 'local',0,6.665507319909993,0.01
+2, 'spoof',0,6.665507319909993,0.01
+2, 'shopping',0,6.665507319909993,0.01
+2, 'shop',0,6.665507319909993,0.01
+2, 'stealer',0,6.665507319909993,0.01
+2, 'misconceptions',0,6.665507319909993,0.01
+2, 'n00b',0,6.665507319909993,0.01
+2, 'n00bs/dummies',0,6.665507319909993,0.01
+2, 'newbies',0,6.665507319909993,0.01
+2, 'login',0,6.665507319909993,0.01
+2, 'reset',0,6.665507319909993,0.01
+2, 'stripped',0,6.665507319909993,0.01
+2, 'red',0,6.665507319909993,0.01
+2, 'profit',0,6.665507319909993,0.01
+2, 'shops',0,6.665507319909993,0.01
+2, 'marketplace',0,6.665507319909993,0.01
+16, 'or',29,6.895710127976075,0.01
+6, 'microsoft',5,6.93233222999115,0.01
+1, 'an',31,7.415746362687031,0.01
+8, 'software',8,7.831741128517971,0.01
+8, 'videos',8,7.831741128517971,0.01
+22, 'video',43,8.127829574019223,0.01
+6, '4,4,8.211499432942976,0.01
+37, 'of',257,8.432310155835204,0.01
+166, 'to',905,8.458181016016141,0.01
+23, 'bank',45,8.478765937812977,0.01
+4, 'learn',1,8.745793107787637,0.01
+16, 'methods',25,8.947847028348017,0.01
+7, 'need',5,9.122650752636014,0.01
+5, 'vbv',2,9.125599466280445,0.01
+12, 'advanced',15,9.17915933344746,0.01
+40, 'in',94,9.3063095220872,0.01
+10, 'ultra',10,9.789676410647468,0.01
+10, 'check',10,9.789676410647468,0.01
+3, 'ccv',0,9.99826097986499,0.01
+3, 'donation',0,9.99826097986499,0.01
+3, 'giftcards',0,9.99826097986499,0.01
+3, 'here',0,9.99826097986499,0.01
+3, 'nike',0,9.99826097986499,0.01
+3, 'bins',0,9.99826097986499,0.01
+3, '100+',0,9.99826097986499,0.01
+3, 'on',57,10.048185869283568,0.01
+8, 'samsung',6,10.05341856812395,0.01
+8, 'gift',6,10.05341856812395,0.01
+2, 'bitcoins',49,10.31160318323699,0.01
+39, 'from',87,10.49600842189162,0.01
+6, 'fraud',83,10.808527050392104,0.01
+15, 'tuto',19,11.286227830458106,0.001
+29, 'amazon',55,11.416591132029719,0.001
+12, 'full',12,11.747611692776957,0.001
+6, 'drop',2,11.83676505252811,0.001
+6, 'websites',2,11.83676505252811,0.001
+10, 'e-gift',8,11.947341468842577,0.001
+62, 'cc',151,12.94264699447244,0.001
+4, 'terms',0,13.331014639819985,0.001
+4, '★ultimate',0,13.331014639819985,0.001
+4, 'rabbit',0,13.331014639819985,0.001
+4, 'vulnerable',0,13.331014639819985,0.001
+4, 'stripe',0,13.331014639819985,0.001
+4, 'convert',0,13.331014639819985,0.001
+4, 'solde',0,13.331014639819985,0.001
+4, 'bit',0,13.331014639819985,0.001
+4, 'recommended',0,13.331014639819985,0.001
+4, 'vérifier',0,13.331014639819985,0.001
+4, 'play',0,13.331014639819985,0.001
+4, 'phone★',0,13.331014639819985,0.001
+4, 'debit',0,13.331014639819985,0.001
+4, 'deepweb',0,13.331014639819985,0.001
+4, 'find',0,13.331014639819985,0.001
+4, 'guide★',0,13.331014639819985,0.001
+4, 'dump|carding',0,13.331014639819985,0.001
+4, 'icq',0,13.331014639819985,0.001
+4, '7.0',0,13.331014639819985,0.001
+4, '2k17',0,13.331014639819985,0.001
+4, '66',0,13.331014639819985,0.001
+4, '★2017',0,13.331014639819985,0.001
+4, 'circle',0,13.331014639819985,0.001
+4," ""d'une""",0,13.331014639819985,0.001
+2, 'account',60,14.122941964182385,0.001
+18, 'be',22,14.152120255792543,0.001
+4, 'out',80,14.672625138885984,0.001
+6, 'starter',1,14.673696207041782,0.001
+6, 'phones',1,14.673696207041782,0.001
+6, 'receive',1,14.673696207041782,0.001
+6, 'smart',1,14.673696207041782,0.001
+8, 'hell',3,15.02747978701045,0.001
+15, '--',14,15.686495869296438,0.0001
+19, 'all',22,15.917618699172017,0.0001
+5, 'cvv2',0,16.663768299774983,0.0001
+14, 'de',11,16.968890963596156,0.0001
+8, 'key',2,17.491586215575275,0.0001
+8, 'hq',2,17.491586215575275,0.0001
+81, 'for',193,18.08694187637267,0.0001
+5, 'hacking',101,18.662476912594805,0.0001
+19, 'big',18,19.594907156350565,0.0001
+32, 'guides',47,19.680055826126463,0.0001
+6, '+20,0,19.99652195972998,0.0001
+6, 'pack+icq',0,19.99652195972998,0.0001
+6, 'track2',0,19.99652195972998,0.0001
+6, '✪✪✪flights',0,19.99652195972998,0.0001
+6, 'instore',0,19.99652195972998,0.0001
+6, 'way★',0,19.99652195972998,0.0001
+6, 'bythes',0,19.99652195972998,0.0001
+6, 'ca',0,19.99652195972998,0.0001
+6, 'versio',0,19.99652195972998,0.0001
+6, 'group',0,19.99652195972998,0.0001
+6, 'track1',0,19.99652195972998,0.0001
+6, 'value-',0,19.99652195972998,0.0001
+6, 'alpha02',0,19.99652195972998,0.0001
+9, 'bonus',2,20.40132345902161,0.0001
+16, 'vol',11,21.432232645128167,0.0001
+19, 'tutorials',15,22.94203165687997,0.0001
+7, 'aliexpress',0,23.329275619684974,0.0001
+7, 'carded',0,23.329275619684974,0.0001
+12, 'casino',4,23.67353010505622,0.0001
+20, 'cards',16,23.894682937685154,0.0001
+8, 'guide✪✪✪',0,26.66202927963997,0.0001
+8, 'huge',0,26.66202927963997,0.0001
+8, 'vmware',0,26.66202927963997,0.0001
+8," ""★torso's★""",0,26.66202927963997,0.0001
+8, 'pri',0,26.66202927963997,0.0001
+8, 'original',0,26.66202927963997,0.0001
+8, 'mmorpg',0,26.66202927963997,0.0001
+8, 'liqpay',0,26.66202927963997,0.0001
+8, 'transfers',0,26.66202927963997,0.0001
+8, 'goods',0,26.66202927963997,0.0001
+8, '❻❻',0,26.66202927963997,0.0001
+8, 'academy',0,26.66202927963997,0.0001
+8, 'car',0,26.66202927963997,0.0001
+8, '1500',0,26.66202927963997,0.0001
+8, '06/06/2',0,26.66202927963997,0.0001
+8, 'chinese',0,26.66202927963997,0.0001
+8, 's8/iphone',0,26.66202927963997,0.0001
+2, 'get',98,28.100349592217665,0.0001
+9, 'dead',0,29.99478293959497,0.0001
+9, 'platinum',0,29.99478293959497,0.0001
+9, 'uvch',0,29.99478293959497,0.0001
+9, '2.11',0,29.99478293959497,0.0001
+9, 'checker+live',0,29.99478293959497,0.0001
+16, 'balance',6,30.0549595740209,0.0001
+18, 'ebay',8,31.24341548000843,0.0001
+19, 'make',256,32.33124066187145,0.0001
+10, 'gets',0,33.327536599549966,0.0001
+10, '2016/2017',0,33.327536599549966,0.0001
+10, 'cybercrime',0,33.327536599549966,0.0001
+10, 'suc',0,33.327536599549966,0.0001
+10, 'experienced',0,33.327536599549966,0.0001
+10, 'le',0,33.327536599549966,0.0001
+10, 'carders',0,33.327536599549966,0.0001
+12, 'reasons',1,33.360922923721546,0.0001
+21, 'basic',10,35.19029145873586,0.0001
+11, 'logins',0,36.66029025950496,0.0001
+13, 'and',233,39.156314436749696,0.0001
+12, 'increase',0,39.99304391945996,0.0001
+12, 'ccleaner',0,39.99304391945996,0.0001
+12, 'v.3',0,39.99304391945996,0.0001
+12, 'blocked',0,39.99304391945996,0.0001
+26, 'pro',14,40.71910188295276,0.0001
+18, 'uk',4,40.80264691804322,0.0001
+16, 'noobs',2,41.60370851562986,0.0001
+13, 'cc/cvv',0,43.32579757941496,0.0001
+23, 'apple',6,49.59683982332415,0.0001
+16, 'dell',0,53.32405855927994,0.0001
+16, '✪✪✪',0,53.32405855927994,0.0001
+17, 'dumps',0,56.656812219234936,0.0001
+27, 'virtual',5,64.34083444492485,0.0001
+36, 'the',513,69.06921051327426,0.0001
+2, 'bitcoin',207,70.78011872607456,0.0001
+28, 'success',3,74.86143021252951,0.0001
+26, 'university',1,78.51622707506273,0.0001
+24, 'lessons',0,79.98608783891991,0.0001
+78, 'method',61,94.8911853631991,0.0001
+72, 'tutorial',46,101.41654611225003,0.0001
+37, 'carder',0,123.31188541833488,0.0001
+81, 'card',41,131.3564949054592,0.0001
+55, 'sites',2,166.81045126889674,0.0001
+52, 'cardable',0,173.30319031765984,0.0001
+492, 'carding',5,1585.8677644273291,0.0001

@@ -1,449 +1,449 @@
-freq,word
-1, 'absolute'
-1, 'accounting'
-1, 'actionscript'
-1, 'administration'
-1, 'advanced'
-1, 'aggregate'
-1, 'all'
-1, 'always'
-1, 'ap'
-1, 'application'
-1, 'architects'
-1, 'architecture'
-1, 'arduino'
-1, 'attack'
-1, 'augmented'
-1, 'autocad'
-1, 'autodesk'
-1, 'availability'
-1, 'basic'
-1, 'begin'
-1, 'beginner'
-1, 'beta'
-1, 'bette'
-1, 'beyond'
-1, 'big'
-1, 'bootstrap'
-1, 'capture'
-1, 'ccf'
-1, 'ccsp'
-1, 'cfa'
-1, 'cisco'
-1, 'cissp-issmp'
-1, 'clou'
-1, 'cloud'
-1, 'coc'
-1, 'coco'
-1, 'computer'
-1, 'computing'
-1, 'coo'
-1, 'cr'
-1, 'cre'
-1, 'curriculum'
-1, 'cybersecurity'
-1, 'da'
-1, 'databas'
-1, 'database'
-1, 'dbas'
-1, 'deep'
-1, 'defending'
-1, 'defense'
-1, 'delphi'
-1, 'designers'
-1, 'developer'
-1, 'developing'
-1, 'developme'
-1, 'digital'
-1, 'diy'
-1, 'dont'
-1, 'dragons'
-1, 'dreamweaver'
-1, 'driving'
-1, 'drones'
-1, 'du'
-1, 'ec-co'
-1, 'ec-cou'
-1, 'econo'
-1, 'edit'
-1, 'effective'
-1, 'electronics'
-1, 'elixir'
-1, 'empire'
-1, 'end'
-1, 'engineering'
-1, 'engineers'
-1, 'essbase'
-1, 'essential'
-1, 'everyone'
-1, 'ex'
-1, 'exc'
-1, 'excel'
-1, 'explorations'
-1, 'express'
-1, 'fast'
-1, 'finish'
-1, 'firewalls'
-1, 'fixed'
-1, 'flash'
-1, 'flexible'
-1, 'fly'
-1, 'forensics'
-1, 'getting'
-1, 'gmat'
-1, 'gourmet'
-1, 'graphics'
-1, 'groups'
-1, 'gui'
-1, 'hack'
-1, 'hacks'
-1, 'hours'
-1, 'human'
-1, 'iii'
-1, 'image'
-1, 'indesign'
-1, 'inf'
-1, 'infosec'
-1, 'integrating'
-1, 'inter'
-1, 'intermediate'
-1, 'iot'
-1, 'italian'
-1, 'items'
-1, 'lan'
-1, 'lang'
-1, 'learn'
-1, 'less'
-1, 'level'
-1, 'li'
-1, 'life'
-1, 'loader'
-1, 'loading'
-1, 'logical'
-1, 'mach'
-1, 'made'
-1, 'make'
-1, 'managemen'
-1, 'managing'
-1, 'mapping'
-1, 'matlab'
-1, 'max'
-1, 'metadata'
-1, 'microservices'
-1, 'migrating'
-1, 'mobile'
-1, 'modeling'
-1, 'most'
-1, 'networks'
-1, 'online'
-1, 'optimiz'
-1, 'optimiza'
-1, 'or'
-1, 'oracle'
-1, 'ours'
-1, 'over'
-1, 'own'
-1, 'p2nmap'
-1, 'passive'
-1, 'perl'
-1, 'perspective'
-1, 'photoshop'
-1, 'picasso'
-1, 'pick-5-book'
-1, 'platform'
-1, 'postgres'
-1, 'power'
-1, 'practitio'
-1, 'practitioner'
-1, 'predator'
-1, 'predict'
-1, 'predictive'
-1, 'processing'
-1, 'professional'
-1, 'progra'
-1, 'program'
-1, 'protect'
-1, 'quadcopter'
-1, 'quality'
-1, 'readable'
-1, 'reality'
-1, 'regression'
-1, 'requirements'
-1, 'revolution'
-1, 'rise'
-1, 'robotic'
-1, 'romset'
-1, 'rpg'
-1, 'sas'
-1, 'scientists'
-1, 'scripting'
-1, 'scrumban'
-1, 'secu'
-1, 'securing'
-1, 'snes'
-1, 'softwa'
-1, 'specific'
-1, 'spectru'
-1, 'start'
-1, 'stop'
-1, 'strategic'
-1, 'stu'
-1, 'successful'
-1, 'sysinternals'
-1, 'system'
-1, 'techniques'
-1, 'term'
-1, 'test'
-1, 'textbooks'
-1, 'three'
-1, 'troubleshooting'
-1, 'tutorial'
-1, 'two'
-1, 'type'
-1, 'typography'
-1, 'ubuntu'
-1, 'unleash'
-1, 'unleashed'
-1, 'unreal'
-1, 'unsupervised'
-1, 'upgrading'
-1, 'us'
-1, 'visually'
-1, 'volumes'
-1, 'ways'
-1, 'weeks'
-1, 'wireless'
-1, 'wrangling'
-1, 'write'
-1, 'writing'
-1, 'xcode'
-1, 'your'
-1, 'yourself'
-1, '͜ʖ͠≖'
-1, '͠≖'
-2, '11th'
-2, '3d'
-2, '4.5'
-2, '6th'
-2, 'a+'
-2, 'access'
-2, 'agents'
-2, 'app'
-2, 'appl'
-2, 'applications'
-2, 'asp.net'
-2, 'bash'
-2, 'book'
-2, 'building'
-2, 'business'
-2, 'cbk'
-2, 'ccfp'
-2, 'centos'
-2, 'certified'
-2, 'coder'
-2, 'cole'
-2, 'comptia'
-2, 'concepts'
-2, 'confident'
-2, 'coreos'
-2, 'creative'
-2, 'debian'
-2, 'definitive'
-2, 'design'
-2, 'devops'
-2, 'drone'
-2, 'drupal'
-2, 'editi'
-2, 'floating'
-2, 'frameworks'
-2, 'from'
-2, 'front'
-2, 'full'
-2, 'gaps'
-2, 'great'
-2, 'hard'
-2, 'html'
-2, 'ideas'
-2, 'ii'
-2, 'imac'
-2, 'instagram'
-2, 'interviews'
-2, 'into'
-2, 'ipad'
-2, 'ipod'
-2, 'joomla'
-2, 'jsp'
-2, 'languages'
-2, 'lear'
-2, 'mac'
-2, 'macbook'
-2, 'macos'
-2, 'manual'
-2, 'missing'
-2, 'models'
-2, 'multitenancy'
-2, 'multithreading'
-2, 'mysterious'
-2, 'native'
-2, 'netbeans'
-2, 'networking'
-2, 'ngrx'
-2, 'no'
-2, 'node.js'
-2, 'objective-c'
-2, 'office'
-2, 'official'
-2, 'one'
-2, 'penetration'
-2, 'progr'
-2, 'programmers'
-2, 'programmi'
-2, 'questions'
-2, 'react.js'
-2, 'rel'
-2, 'rxjava'
-2, 'scientific'
-2, 'search'
-2, 'secret'
-2, 'servlets'
-2, 'seven'
-2, 'software'
-2, 'solid'
-2, 'solut'
-2, 'sql'
-2, 'sscp'
-2, 'statistics'
-2, 'step'
-2, 'suite'
-2, 'supercomputing'
-2, 'sy'
-2, 'systems'
-2, 'teach'
-2, 'unity'
-2, 'virtual'
-2, 'virtualbox'
-2, 'virtualization'
-2, 'warfare'
-2, 'wordpress'
-3, '2d'
-3, 'adobe'
-3, 'analysis'
-3, 'angular'
-3, 'apps'
-3, 'beginning'
-3, 'cap'
-3, 'certification'
-3, 'code'
-3, 'complete'
-3, 'components'
-3, 'course'
-3, 'crash'
-3, 'cyber'
-3, 'developers'
-3, 'ed'
-3, 'engine'
-3, 'fundamentals'
-3, 'game'
-3, 'google'
-3, 'internet'
-3, 'isc'
-3, 'isc2'
-3, 'kids'
-3, 'master'
-3, 'mysql'
-3, 'network'
-3, 'php'
-3, 'practical'
-3, 'privacy'
-3, 'ruby'
-3, 'server'
-3, 'spark'
-3, 'steps'
-3, 'testing'
-3, 'things'
-3, 'understanding'
-3, 'using'
-3, 'windows'
-4, '100'
-4, '2017'
-4, 'apple'
-4, 'command'
-4, 'data'
-4, 'example'
-4, 'html5'
-4, 'ios'
-4, 'line'
-4, 'linux'
-4, 'modern'
-4, 'on'
-4, 'os'
-4, 'react'
-4, 'seo'
-4, 'sierra'
-4, 'studio'
-4, 'tricks'
-4, 'visual'
-4, 'volume'
-5, '4th'
-5, '50'
-5, 'by'
-5, 'cert'
-5, 'control'
-5, 'cookbook'
-5, 'development'
-5, 'easy'
-5, 'introduction'
-5, 'iphone'
-5, 'jquery'
-5, 'language'
-5, 'management'
-5, 'microsoft'
-5, 'rails'
-5, 'sharp'
-5, 'take'
-6, 'an'
-6, 'analytics'
-6, 'content'
-6, 'dummies'
-6, 'pro'
-6, 'projects'
-6, 'release'
-6, 'swift'
-6, 'tips'
-7, 'css3'
-7, 'early'
-8, 'css'
-8, 'reactive'
-8, 'recipes'
-9, '3rd'
-9, 'beginners'
-9, 'guides'
-9, 'machine'
-9, 'of'
-10, 'pi'
-10, 'plus'
-10, 'raspberry'
-11, 'javascript'
-12, 'coding'
-13, 'security'
-14, 'android'
-14, 'guide'
-14, 'learning'
-14, 'web'
-15, 'in'
-16, 'java'
-17, '2nd'
-17, 'python'
-22, 'murach'
-23, "'s"
-24, 'the'
-25, 'to'
-30, 'edition'
-30, 'with'
-31, 'pick-10-book'
-33, 'pick-a-book'
-42, 'for'
-50, 'programming'
-52, 'and'
-65, 'list'
-104, '...'
+freq,word,exfreq,LL,sig
+2, 'secret',27.0,0.0009894770805098235,Not significant
+1, 'essential',14.0,0.0033438213261752087,Not significant
+1, 'getting',14.0,0.0033438213261752087,Not significant
+2, 'business',25.0,0.005315090222436536,Not significant
+1, 'fast',12.0,0.008078685061230939,Not significant
+4, 'on',56.0,0.013375285304700835,Not significant
+1, 'computer',15.0,0.016032667066568668,Not significant
+1, 'own',15.0,0.016032667066568668,Not significant
+1, 'wireless',15.0,0.016032667066568668,Not significant
+1, 'deep',11.0,0.02881767029329907,Not significant
+2, 'virtual',30.0,0.032065334133137335,Not significant
+2, 'full',22.0,0.05763534058659814,Not significant
+1, 'over',17.0,0.06547840033873698,Not significant
+2, 'book',32.0,0.07414455988588808,Not significant
+1, 'beginner',9.0,0.11897955479613165,Not significant
+1, 'life',9.0,0.11897955479613165,Not significant
+4, '100',42.0,0.1788771613138862,Not significant
+1, 'gui',8.0,0.19554017694249437,Not significant
+1, 'hacks',8.0,0.19554017694249437,Not significant
+1, 'revolution',8.0,0.19554017694249437,Not significant
+2, 'step',18.0,0.2379591095922633,Not significant
+2, 'ii',18.0,0.2379591095922633,Not significant
+3, 'using',28.0,0.2959578121243318,Not significant
+1, 'test',7.0,0.3000742015060548,Not significant
+1, 'yourself',7.0,0.3000742015060548,Not significant
+1, 'networks',7.0,0.3000742015060548,Not significant
+1, 'start',7.0,0.3000742015060548,Not significant
+1, 'beyond',6.0,0.4406472050632875,Not significant
+1, 'less',6.0,0.4406472050632875,Not significant
+2, 'one',15.0,0.48775574112084863,Not significant
+1, 'advanced',26.0,0.5505272841448667,Not significant
+1, 'system',26.0,0.5505272841448667,Not significant
+3, 'privacy',24.0,0.5866205308274837,Not significant
+2, 'software',14.0,0.6001484030121096,Not significant
+1, 'items',27.0,0.6225573861919509,Not significant
+1, 'protect',5.0,0.6294200341973297,Not significant
+1, 'attack',5.0,0.6294200341973297,Not significant
+1, 'stop',5.0,0.6294200341973297,Not significant
+1, 'us',5.0,0.6294200341973297,Not significant
+5, 'easy',44.0,0.6617516869240481,Not significant
+1, 'ways',29.0,0.7743766722718253,Not significant
+1, 'basic',30.0,0.8538187749439363,Not significant
+2, 'no',12.0,0.881294410126575,Not significant
+1, 'engineering',4.0,0.8860091847030791,Not significant
+1, 'du',4.0,0.8860091847030791,Not significant
+1, 'techniques',4.0,0.8860091847030791,Not significant
+1, 'infosec',4.0,0.8860091847030791,Not significant
+1, 'processing',4.0,0.8860091847030791,Not significant
+1, 'li',4.0,0.8860091847030791,Not significant
+1, 'learn',4.0,0.8860091847030791,Not significant
+1, 'mobile',34.0,1.1918184049658187,Not significant
+1, 'rise',3.0,1.2452311426264635,Not significant
+1, 'perl',3.0,1.2452311426264635,Not significant
+1, 'edit',3.0,1.2452311426264635,Not significant
+1, 'professional',3.0,1.2452311426264635,Not significant
+1, 'end',3.0,1.2452311426264635,Not significant
+1, 'image',3.0,1.2452311426264635,Not significant
+1, 'big',36.0,1.371347309509163,Not significant
+3, 'complete',74.0,1.3768822925110804,Not significant
+1, 'forensics',37.0,1.4634077933171643,Not significant
+3, 'practical',17.0,1.4923423505553766,Not significant
+2, 'front',9.0,1.4951230734055208,Not significant
+2, 'great',9.0,1.4951230734055208,Not significant
+1, 'digital',38.0,1.5568912584508006,Not significant
+4, 'apple',25.0,1.6062117580657524,Not significant
+3, 'google',16.0,1.6804163776439052,Not significant
+3, 'course',16.0,1.6804163776439052,Not significant
+1, 'all',40.0,1.747840617735629,Not significant
+2, 'certified',8.0,1.7720183694061582,Not significant
+2, 'official',8.0,1.7720183694061582,Not significant
+1, 'write',2.0,1.7787061693000255,Not significant
+1, 'inter',2.0,1.7787061693000255,Not significant
+1, 'quality',2.0,1.7787061693000255,Not significant
+1, 'most',2.0,1.7787061693000255,Not significant
+1, 'three',2.0,1.7787061693000255,Not significant
+1, 'securing',2.0,1.7787061693000255,Not significant
+1, 'made',2.0,1.7787061693000255,Not significant
+1, 'managing',2.0,1.7787061693000255,Not significant
+1, 'pick-5-book',2.0,1.7787061693000255,Not significant
+1, 'level',2.0,1.7787061693000255,Not significant
+1, 'photoshop',2.0,1.7787061693000255,Not significant
+1, '͠≖',2.0,1.7787061693000255,Not significant
+1, 'begin',2.0,1.7787061693000255,Not significant
+1, 'ex',2.0,1.7787061693000255,Not significant
+1, 'ap',2.0,1.7787061693000255,Not significant
+1, 'defending',2.0,1.7787061693000255,Not significant
+1, 'driving',2.0,1.7787061693000255,Not significant
+1, 'cre',2.0,1.7787061693000255,Not significant
+1, '͜ʖ͠≖',2.0,1.7787061693000255,Not significant
+1, 'online',41.0,1.8451764128322927,Not significant
+9, 'guides',70.0,1.9450344672103919,Not significant
+5, 'by',31.0,2.0457216595932426,Not significant
+2, 'penetration',7.0,2.099234136624105,Not significant
+2, 'into',7.0,2.099234136624105,Not significant
+1, 'or',44.0,2.143941945884277,Not significant
+6, 'dummies',39.0,2.1913152776504745,Not significant
+2, '6th',6.0,2.490462285252927,Not significant
+2, 'definitive',6.0,2.490462285252927,Not significant
+3, 'game',12.0,2.6580275541092377,Not significant
+1, 'da',1.0,2.6790813363210932,Not significant
+1, 'loading',1.0,2.6790813363210932,Not significant
+1, 'successful',1.0,2.6790813363210932,Not significant
+1, 'textbooks',1.0,2.6790813363210932,Not significant
+1, 'two',1.0,2.6790813363210932,Not significant
+1, 'architecture',1.0,2.6790813363210932,Not significant
+1, 'application',1.0,2.6790813363210932,Not significant
+1, 'accounting',1.0,2.6790813363210932,Not significant
+1, 'logical',1.0,2.6790813363210932,Not significant
+1, 'practitioner',1.0,2.6790813363210932,Not significant
+1, 'cybersecurity',1.0,2.6790813363210932,Not significant
+1, 'empire',1.0,2.6790813363210932,Not significant
+1, 'sas',1.0,2.6790813363210932,Not significant
+1, 'defense',1.0,2.6790813363210932,Not significant
+1, 'human',1.0,2.6790813363210932,Not significant
+1, 'everyone',1.0,2.6790813363210932,Not significant
+1, 'writing',1.0,2.6790813363210932,Not significant
+2, 'app',5.0,2.965929238452231,Not significant
+2, 'building',5.0,2.965929238452231,Not significant
+3, 'steps',11.0,2.9757436440924128,Not significant
+3, 'things',11.0,2.9757436440924128,Not significant
+6, 'pro',34.0,2.984684701110753,Not significant
+4, 'seo',18.0,2.9902461468110415,Not significant
+15, 'in',119.0,3.0234784180140704,Not significant
+2, 'manual',4.0,3.557412338600051,Not significant
+2, 'applications',4.0,3.557412338600051,Not significant
+2, 'questions',4.0,3.557412338600051,Not significant
+2, 'search',4.0,3.557412338600051,Not significant
+1, 'hack',59.0,3.7547659622493157,Not significant
+4, '2017',15.0,3.857192273532494,0.05
+3, 'network',8.0,4.194658175544642,0.05
+3, 'understanding',8.0,4.194658175544642,0.05
+2, 'models',3.0,4.319344567537211,0.05
+2, 'mac',3.0,4.319344567537211,0.05
+2, 'seven',3.0,4.319344567537211,0.05
+3, 'code',7.0,4.722208616616866,0.05
+3, 'internet',7.0,4.722208616616866,0.05
+3, 'windows',7.0,4.722208616616866,0.05
+3, 'master',7.0,4.722208616616866,0.05
+6, 'an',26.0,4.747478590197035,0.05
+1, 'scripting',0.0,5.305548938052847,0.05
+1, 'robotic',0.0,5.305548938052847,0.05
+1, 'scrumban',0.0,5.305548938052847,0.05
+1, 'snes',0.0,5.305548938052847,0.05
+1, 'romset',0.0,5.305548938052847,0.05
+1, 'rpg',0.0,5.305548938052847,0.05
+1, 'scientists',0.0,5.305548938052847,0.05
+1, 'softwa',0.0,5.305548938052847,0.05
+1, 'secu',0.0,5.305548938052847,0.05
+1, 'xcode',0.0,5.305548938052847,0.05
+1, 'spectru',0.0,5.305548938052847,0.05
+1, 'wrangling',0.0,5.305548938052847,0.05
+1, 'weeks',0.0,5.305548938052847,0.05
+1, 'volumes',0.0,5.305548938052847,0.05
+1, 'visually',0.0,5.305548938052847,0.05
+1, 'upgrading',0.0,5.305548938052847,0.05
+1, 'unsupervised',0.0,5.305548938052847,0.05
+1, 'unreal',0.0,5.305548938052847,0.05
+1, 'unleashed',0.0,5.305548938052847,0.05
+1, 'unleash',0.0,5.305548938052847,0.05
+1, 'ubuntu',0.0,5.305548938052847,0.05
+1, 'typography',0.0,5.305548938052847,0.05
+1, 'type',0.0,5.305548938052847,0.05
+1, 'troubleshooting',0.0,5.305548938052847,0.05
+1, 'term',0.0,5.305548938052847,0.05
+1, 'sysinternals',0.0,5.305548938052847,0.05
+1, 'stu',0.0,5.305548938052847,0.05
+1, 'strategic',0.0,5.305548938052847,0.05
+1, 'specific',0.0,5.305548938052847,0.05
+1, 'requirements',0.0,5.305548938052847,0.05
+1, 'absolute',0.0,5.305548938052847,0.05
+1, 'reality',0.0,5.305548938052847,0.05
+1, 'curriculum',0.0,5.305548938052847,0.05
+1, 'databas',0.0,5.305548938052847,0.05
+1, 'database',0.0,5.305548938052847,0.05
+1, 'dbas',0.0,5.305548938052847,0.05
+1, 'delphi',0.0,5.305548938052847,0.05
+1, 'designers',0.0,5.305548938052847,0.05
+1, 'developer',0.0,5.305548938052847,0.05
+1, 'developing',0.0,5.305548938052847,0.05
+1, 'developme',0.0,5.305548938052847,0.05
+1, 'diy',0.0,5.305548938052847,0.05
+1, 'cr',0.0,5.305548938052847,0.05
+1, 'dont',0.0,5.305548938052847,0.05
+1, 'dreamweaver',0.0,5.305548938052847,0.05
+1, 'drones',0.0,5.305548938052847,0.05
+1, 'ec-co',0.0,5.305548938052847,0.05
+1, 'ec-cou',0.0,5.305548938052847,0.05
+1, 'econo',0.0,5.305548938052847,0.05
+1, 'effective',0.0,5.305548938052847,0.05
+1, 'electronics',0.0,5.305548938052847,0.05
+1, 'elixir',0.0,5.305548938052847,0.05
+1, 'engineers',0.0,5.305548938052847,0.05
+1, 'essbase',0.0,5.305548938052847,0.05
+1, 'dragons',0.0,5.305548938052847,0.05
+1, 'regression',0.0,5.305548938052847,0.05
+1, 'coo',0.0,5.305548938052847,0.05
+1, 'coco',0.0,5.305548938052847,0.05
+1, 'actionscript',0.0,5.305548938052847,0.05
+1, 'administration',0.0,5.305548938052847,0.05
+1, 'aggregate',0.0,5.305548938052847,0.05
+1, 'always',0.0,5.305548938052847,0.05
+1, 'architects',0.0,5.305548938052847,0.05
+1, 'arduino',0.0,5.305548938052847,0.05
+1, 'augmented',0.0,5.305548938052847,0.05
+1, 'autocad',0.0,5.305548938052847,0.05
+1, 'autodesk',0.0,5.305548938052847,0.05
+1, 'availability',0.0,5.305548938052847,0.05
+1, 'computing',0.0,5.305548938052847,0.05
+1, 'beta',0.0,5.305548938052847,0.05
+1, 'bootstrap',0.0,5.305548938052847,0.05
+1, 'capture',0.0,5.305548938052847,0.05
+1, 'ccf',0.0,5.305548938052847,0.05
+1, 'ccsp',0.0,5.305548938052847,0.05
+1, 'cfa',0.0,5.305548938052847,0.05
+1, 'cisco',0.0,5.305548938052847,0.05
+1, 'cissp-issmp',0.0,5.305548938052847,0.05
+1, 'clou',0.0,5.305548938052847,0.05
+1, 'cloud',0.0,5.305548938052847,0.05
+1, 'coc',0.0,5.305548938052847,0.05
+1, 'bette',0.0,5.305548938052847,0.05
+1, 'excel',0.0,5.305548938052847,0.05
+1, 'exc',0.0,5.305548938052847,0.05
+1, 'express',0.0,5.305548938052847,0.05
+1, 'metadata',0.0,5.305548938052847,0.05
+1, 'microservices',0.0,5.305548938052847,0.05
+1, 'migrating',0.0,5.305548938052847,0.05
+1, 'modeling',0.0,5.305548938052847,0.05
+1, 'optimiza',0.0,5.305548938052847,0.05
+1, 'oracle',0.0,5.305548938052847,0.05
+1, 'ours',0.0,5.305548938052847,0.05
+1, 'p2nmap',0.0,5.305548938052847,0.05
+1, 'passive',0.0,5.305548938052847,0.05
+1, 'perspective',0.0,5.305548938052847,0.05
+1, 'explorations',0.0,5.305548938052847,0.05
+1, 'picasso',0.0,5.305548938052847,0.05
+1, 'postgres',0.0,5.305548938052847,0.05
+1, 'power',0.0,5.305548938052847,0.05
+1, 'practitio',0.0,5.305548938052847,0.05
+1, 'predator',0.0,5.305548938052847,0.05
+1, 'predict',0.0,5.305548938052847,0.05
+1, 'predictive',0.0,5.305548938052847,0.05
+1, 'progra',0.0,5.305548938052847,0.05
+1, 'program',0.0,5.305548938052847,0.05
+1, 'quadcopter',0.0,5.305548938052847,0.05
+1, 'readable',0.0,5.305548938052847,0.05
+1, 'platform',0.0,5.305548938052847,0.05
+1, 'matlab',0.0,5.305548938052847,0.05
+1, 'max',0.0,5.305548938052847,0.05
+1, 'managemen',0.0,5.305548938052847,0.05
+1, 'finish',0.0,5.305548938052847,0.05
+1, 'firewalls',0.0,5.305548938052847,0.05
+1, 'fixed',0.0,5.305548938052847,0.05
+1, 'flash',0.0,5.305548938052847,0.05
+1, 'flexible',0.0,5.305548938052847,0.05
+1, 'fly',0.0,5.305548938052847,0.05
+1, 'gmat',0.0,5.305548938052847,0.05
+1, 'gourmet',0.0,5.305548938052847,0.05
+1, 'graphics',0.0,5.305548938052847,0.05
+1, 'groups',0.0,5.305548938052847,0.05
+1, 'hours',0.0,5.305548938052847,0.05
+1, 'mapping',0.0,5.305548938052847,0.05
+1, 'iii',0.0,5.305548938052847,0.05
+1, 'inf',0.0,5.305548938052847,0.05
+1, 'integrating',0.0,5.305548938052847,0.05
+1, 'intermediate',0.0,5.305548938052847,0.05
+1, 'iot',0.0,5.305548938052847,0.05
+1, 'italian',0.0,5.305548938052847,0.05
+1, 'lan',0.0,5.305548938052847,0.05
+1, 'lang',0.0,5.305548938052847,0.05
+1, 'loader',0.0,5.305548938052847,0.05
+1, 'mach',0.0,5.305548938052847,0.05
+1, 'indesign',0.0,5.305548938052847,0.05
+1, 'optimiz',0.0,5.305548938052847,0.05
+3, 'analysis',6.0,5.336118507900076,0.05
+2, 'systems',2.0,5.3581626726421865,0.05
+2, 'scientific',2.0,5.3581626726421865,0.05
+2, '3d',2.0,5.3581626726421865,0.05
+2, 'access',2.0,5.3581626726421865,0.05
+2, 'confident',2.0,5.3581626726421865,0.05
+2, 'concepts',2.0,5.3581626726421865,0.05
+9, 'beginners',44.0,5.887057085162857,0.05
+24, 'the',525.0,6.869433580424705,0.01
+2, 'sql',1.0,6.938133986844845,0.01
+2, 'ipad',1.0,6.938133986844845,0.01
+2, 'drone',1.0,6.938133986844845,0.01
+2, 'design',1.0,6.938133986844845,0.01
+2, 'solid',1.0,6.938133986844845,0.01
+2, 'mysterious',1.0,6.938133986844845,0.01
+2, 'warfare',1.0,6.938133986844845,0.01
+3, 'engine',4.0,6.940417830384048,0.01
+3, 'testing',4.0,6.940417830384048,0.01
+4, 'ios',8.0,7.114824677200102,0.01
+5, 'cookbook',13.0,7.156998390947619,0.01
+3, 'ed',3.0,8.03724400896328,0.01
+2, 'from',124.0,8.189493259617638,0.01
+5, 'introduction',10.0,8.89353084650013,0.01
+9, 'of',285.0,8.918431737301557,0.01
+4, 'modern',5.0,9.587492975999702,0.01
+5, 'iphone',8.0,10.37347415154688,0.01
+2, 'debian',0.0,10.611097876105694,0.01
+2, 'macbook',0.0,10.611097876105694,0.01
+2, 'drupal',0.0,10.611097876105694,0.01
+2, 'editi',0.0,10.611097876105694,0.01
+2, 'wordpress',0.0,10.611097876105694,0.01
+2, 'devops',0.0,10.611097876105694,0.01
+2, 'creative',0.0,10.611097876105694,0.01
+2, 'coder',0.0,10.611097876105694,0.01
+2, 'comptia',0.0,10.611097876105694,0.01
+2, 'cole',0.0,10.611097876105694,0.01
+2, 'virtualization',0.0,10.611097876105694,0.01
+2, 'lear',0.0,10.611097876105694,0.01
+2, 'ccfp',0.0,10.611097876105694,0.01
+2, 'cbk',0.0,10.611097876105694,0.01
+2, 'bash',0.0,10.611097876105694,0.01
+2, 'asp.net',0.0,10.611097876105694,0.01
+2, 'appl',0.0,10.611097876105694,0.01
+2, 'agents',0.0,10.611097876105694,0.01
+2, 'a+',0.0,10.611097876105694,0.01
+2, '4.5',0.0,10.611097876105694,0.01
+2, '11th',0.0,10.611097876105694,0.01
+2, 'coreos',0.0,10.611097876105694,0.01
+2, 'virtualbox',0.0,10.611097876105694,0.01
+2, 'centos',0.0,10.611097876105694,0.01
+2, 'unity',0.0,10.611097876105694,0.01
+2, 'imac',0.0,10.611097876105694,0.01
+2, 'rxjava',0.0,10.611097876105694,0.01
+2, 'multitenancy',0.0,10.611097876105694,0.01
+2, 'react.js',0.0,10.611097876105694,0.01
+2, 'instagram',0.0,10.611097876105694,0.01
+2, 'programmi',0.0,10.611097876105694,0.01
+2, 'programmers',0.0,10.611097876105694,0.01
+2, 'progr',0.0,10.611097876105694,0.01
+2, 'interviews',0.0,10.611097876105694,0.01
+2, 'ipod',0.0,10.611097876105694,0.01
+2, 'office',0.0,10.611097876105694,0.01
+2, 'ideas',0.0,10.611097876105694,0.01
+2, 'macos',0.0,10.611097876105694,0.01
+2, 'objective-c',0.0,10.611097876105694,0.01
+2, 'node.js',0.0,10.611097876105694,0.01
+2, 'joomla',0.0,10.611097876105694,0.01
+2, 'ngrx',0.0,10.611097876105694,0.01
+2, 'missing',0.0,10.611097876105694,0.01
+2, 'floating',0.0,10.611097876105694,0.01
+2, 'networking',0.0,10.611097876105694,0.01
+2, 'jsp',0.0,10.611097876105694,0.01
+2, 'netbeans',0.0,10.611097876105694,0.01
+2, 'native',0.0,10.611097876105694,0.01
+2, 'multithreading',0.0,10.611097876105694,0.01
+2, 'languages',0.0,10.611097876105694,0.01
+2, 'html',0.0,10.611097876105694,0.01
+2, 'rel',0.0,10.611097876105694,0.01
+2, 'supercomputing',0.0,10.611097876105694,0.01
+2, 'teach',0.0,10.611097876105694,0.01
+2, 'frameworks',0.0,10.611097876105694,0.01
+2, 'servlets',0.0,10.611097876105694,0.01
+2, 'sy',0.0,10.611097876105694,0.01
+2, 'statistics',0.0,10.611097876105694,0.01
+2, 'hard',0.0,10.611097876105694,0.01
+2, 'gaps',0.0,10.611097876105694,0.01
+2, 'suite',0.0,10.611097876105694,0.01
+2, 'solut',0.0,10.611097876105694,0.01
+2, 'sscp',0.0,10.611097876105694,0.01
+4, 'data',4.0,10.716325345284373,0.01
+4, 'linux',4.0,10.716325345284373,0.01
+4, 'tricks',4.0,10.716325345284373,0.01
+1, 'tutorial',117.0,10.868849406270176,0.001
+14, 'guide',410.0,11.155850686208183,0.001
+5, '50',7.0,11.249954150023811,0.001
+3, 'cyber',1.0,11.5640867777161,0.001
+3, 'spark',1.0,11.5640867777161,0.001
+3, 'adobe',1.0,11.5640867777161,0.001
+3, 'apps',1.0,11.5640867777161,0.001
+5, 'microsoft',6.0,12.246268166825914,0.001
+4, 'line',2.0,13.87626797368969,0.001
+6, 'tips',8.0,13.880835660768096,0.001
+1, 'your',141.0,14.00403165757018,0.001
+3, 'isc2',0.0,15.91664681415854,0.0001
+3, 'php',0.0,15.91664681415854,0.0001
+3, '2d',0.0,15.91664681415854,0.0001
+3, 'isc',0.0,15.91664681415854,0.0001
+3, 'ruby',0.0,15.91664681415854,0.0001
+3, 'server',0.0,15.91664681415854,0.0001
+3, 'angular',0.0,15.91664681415854,0.0001
+3, 'kids',0.0,15.91664681415854,0.0001
+3, 'components',0.0,15.91664681415854,0.0001
+3, 'fundamentals',0.0,15.91664681415854,0.0001
+3, 'developers',0.0,15.91664681415854,0.0001
+3, 'beginning',0.0,15.91664681415854,0.0001
+3, 'crash',0.0,15.91664681415854,0.0001
+3, 'cap',0.0,15.91664681415854,0.0001
+3, 'certification',0.0,15.91664681415854,0.0001
+3, 'mysql',0.0,15.91664681415854,0.0001
+4, 'os',1.0,16.364292637337535,0.0001
+4, 'visual',1.0,16.364292637337535,0.0001
+8, 'recipes',13.0,16.4337716475207,0.0001
+5, 'take',2.0,18.444212691086687,0.0001
+5, '4th',2.0,18.444212691086687,0.0001
+5, 'control',2.0,18.444212691086687,0.0001
+104, '...',847.0,19.02421542844894,0.0001
+4, 'command',0.0,21.222195752211388,0.0001
+4, 'example',0.0,21.222195752211388,0.0001
+4, 'html5',0.0,21.222195752211388,0.0001
+4, 'react',0.0,21.222195752211388,0.0001
+4, 'sierra',0.0,21.222195752211388,0.0001
+4, 'studio',0.0,21.222195752211388,0.0001
+4, 'volume',0.0,21.222195752211388,0.0001
+5, 'language',1.0,21.267131304376605,0.0001
+42, 'for',232.0,21.98934144439032,0.0001
+6, 'projects',2.0,23.1281735554322,0.0001
+6, 'release',2.0,23.1281735554322,0.0001
+5, 'management',0.0,26.527744690264235,0.0001
+5, 'development',0.0,26.527744690264235,0.0001
+5, 'cert',0.0,26.527744690264235,0.0001
+5, 'sharp',0.0,26.527744690264235,0.0001
+5, 'rails',0.0,26.527744690264235,0.0001
+5, 'jquery',0.0,26.527744690264235,0.0001
+9, 'machine',7.0,26.842733653185153,0.0001
+30, 'with',116.0,27.80815181808832,0.0001
+7, 'early',2.0,27.8963732243482,0.0001
+9, '3rd',6.0,28.436317155246094,0.0001
+13, 'security',19.0,28.518704207481733,0.0001
+14, 'web',22.0,29.378459392069672,0.0001
+6, 'content',0.0,31.83329362831708,0.0001
+6, 'analytics',0.0,31.83329362831708,0.0001
+6, 'swift',0.0,31.83329362831708,0.0001
+1, 'make',274.0,32.11283454130073,0.0001
+7, 'css3',0.0,37.13884256636993,0.0001
+14, 'android',13.0,38.78435745833764,0.0001
+8, 'reactive',0.0,42.444391504422775,0.0001
+8, 'css',0.0,42.444391504422775,0.0001
+10, 'pi',2.0,42.53426260875321,0.0001
+10, 'raspberry',2.0,42.53426260875321,0.0001
+23," ""'s""",39.0,45.9522278602905,0.0001
+25, 'to',1046.0,48.1959644022747,0.0001
+52, 'and',194.0,50.47123892762268,0.0001
+14, 'learning',6.0,50.71983977359227,0.0001
+10, 'plus',0.0,53.05548938052847,0.0001
+17, '2nd',10.0,56.06130794553715,0.0001
+11, 'javascript',0.0,58.36103831858131,0.0001
+12, 'coding',0.0,63.66658725663416,0.0001
+17, 'python',3.0,73.72433179618284,0.0001
+30, 'edition',27.0,84.25092752612655,0.0001
+16, 'java',0.0,84.88878300884555,0.0001
+22, 'murach',0.0,116.72207663716262,0.0001
+31, 'pick-10-book',3.0,144.61674517735108,0.0001
+33, 'pick-a-book',5.0,146.22105060020743,0.0001
+65, 'list',42.0,207.64699048216,0.0001
+50, 'programming',2.0,248.61523167624432,0.0001
