@@ -1,16 +1,18 @@
 General
 
-Calculating log likelihood function - ask to check (and expand)
-	If I get this wrong, the whole study is compromised
+Hope you're both doing well -
+
+Just to give you guys an update, all my taught modules are done with so I'm on the project essentially full-time now. I'll try and give an update every week if that's okay with yourselves.
+
+Quick summary on where I am currently:
+Tokenised & counted word freq for the ground truth data. Kept lowercase - ANon ANON AnON - count would be 3x 'anon'
+Made a function that can calculates log likelihood. It basically follows the logic from http://ucrel.lancs.ac.uk/llwizard.html with Corpus 1 the category the word is from, Corpus 2 being all other categories combined. I.e. you are more likely to find the word in this category, than in all the other categories.
+Used this function to create LL for every word for each corpus in the ground truth data. 
+Started to categorise just the forum thread titles. I've only just started this part today but so far it's producing the results I'm expecting.
+
+Issues/Questions:
+	Overlapping keywords - for example, 'anonymity' flags for more than one cat. Dealt with this currently by assigning the 		title to both cats. Think this is reasonable as titles could easily span multiple cats.
 	
-	Issues are going to be due to scaling
-	have no benchmark
-	
-	LL: this corpus vs all other 33 corpuses combined
-	I.e. you are more likely to find the word in this category, than in all the other categories
-	
-	kept lowercase - ANon ANON AnON - count the same		
-	
-Being marked on code quality?
+	I probably should have asked this earlier but am I being marked on code quality?
 	Camelcase
 		Now pyCharm is flagging these as errors. I've turned it off but was interested to know how you feel about it.

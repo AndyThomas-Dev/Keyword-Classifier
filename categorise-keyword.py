@@ -3,7 +3,11 @@ import pandas as pd
 # Assigns a category to a post based on inclusion of keyword.
 
 # Only id & subject
-raw = pd.read_csv(r"forum.csv", usecols=[2, 4, 6])
+raw = pd.read_csv(r"data/titles-only.csv", usecols=[0, 1])
+
+# Adds leading & trailing space - makes searching simpler
+for i in range(len(raw)):
+    raw["subject"][i] = "| " + raw["subject"][i] + " |"
 
 # Drops NA values - necessary for searches to work properly
 raw = raw.dropna()
@@ -11,16 +15,22 @@ raw = raw.dropna()
 # Removes duplicates
 # raw = raw.drop_duplicates()
 
+
 # Assigns category based on keywords - result returned in raw2
 # Seperate dataframes are created for each category and then merged
-anonymityOther = raw[raw['body'].str.contains('anonymity')]
+anonymityOther = raw[raw['subject'].str.contains('anonymity|untraceable|disappear|completely|privacy|secure',
+                                                 case=False)]
 anonymityOther.insert(2, 'cat', 'Anonymity – Other')
 
-anonymityTor = raw[raw['body'].str.contains('tor|browser')]
+anonymityTor = raw[raw['subject'].str.contains(' tor | browser | dark |anonymity', case=False)]
 anonymityTor.insert(2, 'cat', 'Anonymity – Tor')
 
-# anonymityProxies = raw[raw['body'].str.contains('SOCKS|VPN')]
-# anonymityProxies.insert(2, 'cat', 'Anonymity – Proxies')
+anonymityVPN = raw[raw['subject'].str.contains(' hidemyass.com | detect |ipvanish.com| lifetime | premium | vpn',
+                                               case=False)]
+anonymityVPN.insert(2, 'cat', 'Anonymity – VPN')
+
+anonymityProxies = raw[raw['subject'].str.contains(' ip | proxy | providers | socks | socks5 ', case=False)]
+anonymityProxies.insert(2, 'cat', 'Anonymity – Proxies')
 #
 # cryptocurrencyGeneral = raw[raw['body'].str.contains('bitcoin|btc')]
 # cryptocurrencyGeneral.insert(2, 'cat', 'Cryptography - General')
@@ -35,7 +45,7 @@ anonymityTor.insert(2, 'cat', 'Anonymity – Tor')
 # counterfeit.insert(2, 'cat', 'Counterfeit Currency')
 
 # Merging dataframes
-df_row = pd.concat([anonymityOther, anonymityTor])
+df_row = pd.concat([anonymityOther, anonymityTor, anonymityVPN, anonymityProxies])
 
 # # View options
 pd.set_option('display.expand_frame_repr', False)

@@ -20,3 +20,4 @@ pd.set_option('display.max_rows', raw.shape[0]+1)
 pd.set_option('display.max_colwidth', -1)
 
 print(raw)
+raw.to_csv("data/titles-only.csv", index=False, header=True)
