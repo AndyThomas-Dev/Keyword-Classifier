@@ -4,21 +4,13 @@ import nltk
 import random
 from signifance import *
 from countwords import *
+from sumAllWords import *
 
 
 # 95th percentile; 5% level; p < 0.05; critical value = 3.84
 # 99th percentile; 1% level; p < 0.01; critical value = 6.63
 # 99.9th percentile; 0.1% level; p < 0.001; critical value = 10.83
 # 99.99th percentile; 0.01% level; p < 0.0001; critical value = 15.13
-
-def populateArrays(x, y):
-    i = 0
-
-    while i < 35:
-        randNumb = random.randint(1, y[i])
-
-        x[i] = randNumb
-        i += 1
 
 
 def calculateLL(a, b):
@@ -122,15 +114,10 @@ def simpleCalculateLL(a, b, c, d):
 # Frequency of the word in corpus
 # wordFreq = [None] * 35
 
-wordFreq = [0, 45, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+wordFreq = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 # Total words in that corpus
-totalFreq = [658, 371, 381, 401, 4202, 2944, 47, 126, 1117, 254, 66, 226, 118, 982, 1442, 1880, 1567, 90, 1272, 719,
-             67, 146, 70, 254, 167, 84, 74, 329, 1051, 125, 49, 177, 178, 141, 466]
-
-# populateArrays(wordFreq, totalFreq)
-
-print(sum(totalFreq))
+totalFreq = sumAllWords()
 
 result = simpleCalculateLL(1, 1, 100, 100)
 
@@ -164,8 +151,15 @@ var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wor
 counter = 0
 while counter < 35:
     corpusId = counter
-    fileName = "data/" + str(corpusId) + "-keywords.csv"
-    raw = pd.read_csv(fileName, usecols=[0, 1, 2, 3, 4])
+
+    # Enter raw keywords
+    fileName = "data/raw-keywords/" + str(corpusId) + "-keywords2.csv"
+    raw = pd.read_csv(fileName, usecols=[0, 1])
+
+    # Create new columns if needed
+    raw["exfreq"] = 0
+    raw["LL"] = 0
+    raw["sig"] = 0
 
     # # View options
     pd.set_option('display.expand_frame_repr', False)
@@ -176,14 +170,13 @@ while counter < 35:
     i = 0
 
     while i < 35:
-        # Enter the corpus number here
         if i != corpusId:
             sumExcept = sumExcept + totalFreq[i]
         i = i + 1
 
     for i in range(len(raw)):
         searchTerm = raw["word"][i]
-        exfreq = countWords(searchTerm[2:-1], corpusId)
+        exfreq = countWords(searchTerm, corpusId)
         result = simpleCalculateLL(raw["freq"][i], exfreq, totalFreq[corpusId], sumExcept)
         raw["LL"][i] = result
         raw["exfreq"][i] = exfreq
@@ -191,5 +184,7 @@ while counter < 35:
 
     sortedDF = raw.sort_values(by=['LL'])
     print(sortedDF.to_string())
-    sortedDF.to_csv(fileName, index=False, header=True)
+
+    outputFilename = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
+    sortedDF.to_csv(outputFilename, index=False, header=True)
     counter = counter + 1

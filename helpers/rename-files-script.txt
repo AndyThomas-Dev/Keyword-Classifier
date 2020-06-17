@@ -1,0 +1,6 @@
+a=0
+for i in *.csv; do
+  new=$(printf "%d.csv" "$a") 
+  mv -i -- "$i" "$new"
+  let a=a+1
+done

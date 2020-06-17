@@ -1,0 +1,35 @@
+freq,word,exfreq,LL,sig
+1,with,128,0,Not significant
+4,the,418,0,Not significant
+2,guide,396,0,Not significant
+2,make,165,0,Not significant
+8,to,945,1,Not significant
+2,ultimate,84,2,Not significant
+1,only,12,3,Not significant
+1,windows,9,3,0.05
+4,and,245,3,Not significant
+1,idiots,3,5,0
+8,how,453,7,0.01
+2,noobs,16,8,0.01
+2,practical,14,8,0.01
+1,exchanging,0,10,0
+1,files,0,10,0
+1,gpg4usb,0,10,0
+2,fast,7,11,0.001
+2,safely,7,11,0.001
+2,email,5,12,0.001
+2,keys,4,13,0.001
+2,encryption,3,14,0.001
+2,newbie,2,15,0.0001
+2,secure,2,15,0.0001
+2,n00bs,0,20,0.0001
+2,paranoid,0,20,0.0001
+2,securely,0,20,0.0001
+2,better,0,20,0.0001
+12,for,260,29,0.0001
+3,gpg,0,31,0.0001
+10,tutorial,108,36,0.0001
+6,use,12,39,0.0001
+5,newbs,0,51,0.0001
+5,gpg4win,0,51,0.0001
+21,pgp,0,218,0.0001

@@ -1,0 +1,203 @@
+freq,word,exfreq,LL,sig
+2,complete,55,0,Not significant
+3,get,93,0,Not significant
+1,computer,15,0,Not significant
+2,pack,97,0,Not significant
+2,from,122,0,Not significant
+2,by,34,0,Not significant
+1,dummies,43,0,Not significant
+1,ebook,14,0,Not significant
+1,world,12,0,Not significant
+1,book,29,0,Not significant
+1,facebook,13,0,Not significant
+1,full,21,0,Not significant
+1,usa,16,0,Not significant
+1,google,18,0,Not significant
+1,hack,59,0,Not significant
+1,pro,39,0,Not significant
+1,practical,15,0,Not significant
+1,know,10,0,Not significant
+1,out,73,0,Not significant
+1,fr,38,0,Not significant
+4,in,124,0,Not significant
+1,new,39,0,Not significant
+10,guide,388,0,Not significant
+8,for,264,0,Not significant
+1,about,14,0,Not significant
+1,account,61,0,Not significant
+1,basic,30,0,Not significant
+6,paypal,172,0,Not significant
+1,3rd,15,0,Not significant
+7,of,269,0,Not significant
+1,smart,6,1,Not significant
+1,hacking,102,1,Not significant
+1,fbi,7,1,Not significant
+1,21,5,1,Not significant
+1,20,5,1,Not significant
+1,girls,5,1,Not significant
+11,and,238,1,Not significant
+1,is,5,1,Not significant
+1,13,5,1,Not significant
+28,...,712,1,Not significant
+1,other,7,1,Not significant
+1,proof,8,1,Not significant
+1,stop,5,1,Not significant
+1,avoid,6,1,Not significant
+1,windows,9,1,Not significant
+1,nsa,5,1,Not significant
+1,delete,6,1,Not significant
+1,everything,8,1,Not significant
+1,change,7,1,Not significant
+1,which,3,2,Not significant
+1,infosec,4,2,Not significant
+4,on,56,2,Not significant
+1,as,3,2,Not significant
+1,33,4,2,Not significant
+1,keep,3,2,Not significant
+3,mobile,32,2,Not significant
+1,government,4,2,Not significant
+1,anon,4,2,Not significant
+1,off,3,2,Not significant
+1,list,106,2,Not significant
+3,digital,36,2,Not significant
+1,pick-5-book,2,3,Not significant
+2,steps,12,3,Not significant
+1,shit,2,3,Not significant
+2,safety,13,3,Not significant
+1,social,2,3,Not significant
+5,you,60,3,Not significant
+2,must,13,3,Not significant
+6,ultimate,80,3,Not significant
+3,buy,28,3,Not significant
+1,'s,133,3,Not significant
+38,to,915,3,Not significant
+1,hidden,2,3,Not significant
+1,mistakes,2,3,Not significant
+1,96,2,3,Not significant
+1,future,2,3,Not significant
+1,but,2,3,Not significant
+1,da,1,4,0.05
+1,hiding,1,4,0.05
+1,cybersecurity,1,4,0.05
+2,life,8,4,0.05
+2,internet,8,4,0.05
+1,architecture,1,4,0.05
+1,edit,1,4,0.05
+2,darknet,9,4,0.05
+1,everyone,1,4,0.05
+22,how,439,4,0.05
+1,111,1,4,0.05
+1,after,1,4,0.05
+1,detection,1,4,0.05
+3,an,17,5,0.05
+2,usd,6,5,0.05
+2,drop,6,5,0.05
+2,email,5,5,0.05
+2,take,5,5,0.05
+2,identity,6,5,0.05
+2,data,6,5,0.05
+2,every,5,5,0.05
+3,personal,16,5,0.05
+4,big,28,5,0.05
+4,--,26,6,0.05
+10,your,128,6,0.05
+1,cover,0,7,0.01
+1,consultation,0,7,0.01
+1,now,0,7,0.01
+1,coll,0,7,0.01
+1,changing,0,7,0.01
+3,simple,10,7,0.01
+1,beating,0,7,0.01
+1,arrest,0,7,0.01
+6,guides,46,7,0.01
+1,anonymit,0,7,0.01
+1,91,0,7,0.01
+1,82,0,7,0.01
+1,56,0,7,0.01
+1,nation,0,7,0.01
+1,camera,0,7,0.01
+1,value,0,7,0.01
+1,dig,0,7,0.01
+1,surfer,0,7,0.01
+1,grandpa,0,7,0.01
+1,many,0,7,0.01
+1,snowden,0,7,0.01
+1,sms,0,7,0.01
+1,lead,0,7,0.01
+1,home,0,7,0.01
+1,swiped,0,7,0.01
+1,secrecy,0,7,0.01
+1,knows,0,7,0.01
+1,reading,0,7,0.01
+1,please,0,7,0.01
+1,intruders,0,7,0.01
+1,presence,0,7,0.01
+1,quest,0,7,0.01
+1,information,0,7,0.01
+1,sale,0,7,0.01
+1,media,0,7,0.01
+1,spying,0,7,0.01
+1,if,0,7,0.01
+1,tip,0,7,0.01
+1,usage,0,7,0.01
+1,dragnet,0,7,0.01
+2,back,3,7,0.01
+2,anarchist,3,7,0.01
+1,eliminating,0,7,0.01
+2,amazing,3,7,0.01
+1,obfuscation,0,7,0.01
+1,yes,0,7,0.01
+3,tools,7,9,0.01
+3,yourself,5,10,0.01
+3,basics,5,10,0.01
+2,spoofer,1,10,0.01
+6,be,34,10,0.01
+2,three,1,10,0.01
+3,user,4,11,0.001
+6,security,26,12,0.001
+2,handle,0,14,0.001
+2,bbbb,0,14,0.001
+2,barefoot,0,14,0.001
+2,point,0,14,0.001
+2,subpoena,0,14,0.001
+2,surveillance,0,14,0.001
+3,protection,2,14,0.001
+2,disapear,0,14,0.001
+2,orginal,0,14,0.001
+11,free,80,15,0.001
+4,fresh,5,16,0.0001
+3,stay,1,16,0.0001
+29,the,393,16,0.0001
+3,safe,1,16,0.0001
+7,web,25,17,0.0001
+5,deep,7,19,0.0001
+4,voice,2,20,0.0001
+4,being,2,20,0.0001
+3,anonymization,0,21,0.0001
+6,anonimity,10,21,0.0001
+3,asset,0,21,0.0001
+3,brother,0,21,0.0001
+3,communication,0,21,0.0001
+3,invisible,0,21,0.0001
+3,text,0,21,0.0001
+5,true,3,24,0.0001
+6,essential,7,24,0.0001
+10,online,32,26,0.0001
+5,kit,2,26,0.0001
+9,ways,21,27,0.0001
+4,surf,0,28,0.0001
+4,maker,0,28,0.0001
+4,protecting,0,28,0.0001
+4,genuine,0,28,0.0001
+5,protect,1,29,0.0001
+7,live,5,33,0.0001
+8,setup,8,34,0.0001
+6,untraceable,0,42,0.0001
+6,startpack,0,42,0.0001
+9,anonymity,4,47,0.0001
+7,completely,0,49,0.0001
+7,bye,0,49,0.0001
+19,100,48,56,0.0001
+11,disappear,4,60,0.0001
+21,privacy,6,119,0.0001
+31,anonymous,16,158,0.0001

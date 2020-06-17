@@ -1,44 +1,52 @@
 import pandas as pd
 import nltk
 import sys
-from totals import *
 
+# REQUIREMENTS
+# 35x seperate ground truth data files
 
 nltk.download('punkt')
-raw = pd.read_csv(r"data/34-weapons.csv", usecols=[0])
-raw["Product Name"] = raw["Product Name"].str.lower()
 
-# This must be a string
-nltk_tokens = nltk.word_tokenize(raw[raw.columns[0]].to_string())
+corpusId = 0
 
-# Numbers removed
-for token in nltk_tokens:
-    if token.isnumeric():
-        nltk_tokens.remove(token)
+for corpusId in range(35):
+    inputFilename = "data/gt/" + str(corpusId) + "-2.csv"
+    raw = pd.read_csv(inputFilename, usecols=[0])
+    raw["Product Name"] = raw["Product Name"].str.lower()
 
-# Creates wordlist with no duplicates
-nodupes = set(nltk_tokens)
-finalist = []
+    # This must be a string
+    nltk_tokens = nltk.word_tokenize(raw[raw.columns[0]].to_string())
 
-# Counts number of occurences
-for item in sorted(nodupes):
-    count = 0
-
+    # Numbers removed
     for token in nltk_tokens:
-        # print("[" + token + "]")
-        if token == item:
-            count = count + 1
+        if token.isnumeric():
+            nltk_tokens.remove(token)
 
-    # print(count, "|", item)
-    inputString = count, item
-    finalist.append(inputString)
+    # Creates wordlist with no duplicates
+    nodupes = set(nltk_tokens)
+    finalist = []
 
-# Sorting
-# This also removes any one letter words
-for string in sorted(finalist):
-    if len(string[1]) > 1:
-        print(string)
+    # Counts number of occurences
+    for item in sorted(nodupes):
+        count = 0
 
-# Counts total words
-output = sum(int(x[0]) for x in finalist)
-# print(output)
+        for token in nltk_tokens:
+            if token == item:
+                count = count + 1
+
+        inputString = count, item
+        finalist.append(inputString)
+
+    column_names = ["freq", "word"]
+    df = pd.DataFrame(columns=column_names)
+    temp = pd.DataFrame(columns=column_names)
+    # Sorting
+    # This also removes any one letter words
+    for string in sorted(finalist):
+        if len(string[1]) > 1:
+            modDfObj = df.append({'freq': string[0], 'word': string[1]}, ignore_index=True)
+            df = modDfObj
+
+    outputFilename = "data/raw-keywords/" + str(corpusId) + "-keywords2.csv"
+    df.to_csv(outputFilename, index=False, header=True)
+    corpusId = corpusId + 1

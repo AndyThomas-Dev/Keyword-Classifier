@@ -1,0 +1,177 @@
+freq,word,exfreq,LL,sig
+3,you,62,0,Not significant
+1,edition,50,0,Not significant
+1,hacked,34,0,Not significant
+6,from,118,0,Not significant
+2,--,28,0,Not significant
+1,introduction,13,0,Not significant
+1,learning,19,0,Not significant
+1,lifetime,38,0,Not significant
+1,mobile,34,0,Not significant
+1,network,10,0,Not significant
+3,money,106,0,Not significant
+3,list,104,0,Not significant
+1,pick-10-book,33,0,Not significant
+3,get,93,0,Not significant
+1,security,31,0,Not significant
+1,software,15,0,Not significant
+2,video,65,0,Not significant
+1,tool,10,0,Not significant
+1,ultra,19,0,Not significant
+1,university,26,0,Not significant
+1,ebooks,23,0,Not significant
+8,of,268,0,Not significant
+5,'s,129,0,Not significant
+29,to,924,0,Not significant
+1,best,52,0,Not significant
+1,become,10,0,Not significant
+2,free,89,0,Not significant
+1,books,12,0,Not significant
+2,pick-a-book,36,0,Not significant
+2,on,58,0,Not significant
+12,guide,386,0,Not significant
+1,pages,7,1,Not significant
+1,12,6,1,Not significant
+2,your,136,1,Not significant
+2,any,24,1,Not significant
+2,items,25,1,Not significant
+2,in,126,1,Not significant
+2,system,25,1,Not significant
+2,with,127,1,Not significant
+4,complete,53,1,Not significant
+1,attack,5,1,Not significant
+2,practical,14,2,Not significant
+1,cyber,3,2,Not significant
+1,encyclopedia,3,2,Not significant
+1,super,4,2,Not significant
+1,service,4,2,Not significant
+1,black,3,2,Not significant
+1,38,3,2,Not significant
+2,secrets,15,2,Not significant
+2,over,14,2,Not significant
+1,18,2,3,Not significant
+2,ip,11,3,Not significant
+1,62,2,3,Not significant
+1,someone,2,3,Not significant
+1,sql,2,3,Not significant
+2,understanding,9,3,Not significant
+1,39,2,3,Not significant
+2,e-book,11,3,Not significant
+2,world,11,3,Not significant
+1,117,2,3,Not significant
+1,10.000,2,3,Not significant
+2,code,8,4,0.05
+2,tools,8,4,0.05
+2,into,8,4,0.05
+1,thinking,1,4,0.05
+1,120,1,4,0.05
+1,48,1,4,0.05
+1,5th,1,4,0.05
+1,84,1,4,0.05
+1,withdraw,1,4,0.05
+1,97,1,4,0.05
+1,90,1,4,0.05
+1,most,1,4,0.05
+3,and,246,4,0.05
+2,fbi,6,5,0.05
+4,collection,28,5,0.05
+2,app,5,5,0.05
+3,computer,13,5,0.05
+17,for,255,5,0.05
+5,dummies,39,5,0.05
+4,tutorials,22,6,0.05
+8,ultimate,78,6,0.05
+1,-1417,0,6,0
+2,offer,4,6,0.05
+1,indepth,0,6,0.01
+1,pentest,0,6,0.01
+1,stopping,0,6,0.01
+1,penetr,0,6,0.01
+1,study,0,6,0.01
+1,their,0,6,0.01
+1,year,0,6,0.01
+1,next,0,6,0.01
+1,nessus,0,6,0.01
+1,injection,0,6,0.01
+1,playbook,0,6,0.01
+1,hole,0,6,0.01
+1,solutions,0,6,0.01
+1,hands-on,0,6,0.01
+1,-406,0,6,0
+1,"2,6gb",0,6,0.01
+1,85,0,6,0.01
+2,forensic,4,6,0.05
+1,60,0,6,0.01
+1,hitch,0,6,0.01
+2,source,3,7,0.01
+6,how,455,7,0.01
+2,toolkit,3,7,0.01
+2,genius,2,8,0.01
+2,a-z,2,8,0.01
+2,address,2,8,0.01
+6,updated,37,8,0.01
+2,systems,2,8,0.01
+2,firefox,1,9,0.01
+41,...,699,9,0.01
+3,penetration,6,9,0.01
+10,pack,89,9,0.01
+4,machine,12,10,0.01
+3,testing,4,11,0.001
+4,more,9,11,0.001
+6,handbook,24,12,0.001
+2,countryhacked,0,13,0.001
+2,planet,0,13,0.001
+2,cheapest,0,13,0.001
+2,swindle,0,13,0.001
+2,beginne,0,13,0.001
+2,extensions,0,13,0.001
+2,rdps,0,13,0.001
+2,grading,0,13,0.001
+2,turning,0,13,0.001
+2,pen,0,13,0.001
+2,ozrort,0,13,0.001
+2,whats,0,13,0.001
+3,than,2,13,0.001
+2,noo,0,13,0.001
+2,wit,0,13,0.001
+2,market,0,13,0.001
+2,becoming,0,13,0.001
+4,go,6,14,0.001
+4,master,6,14,0.001
+3,atm,1,16,0.0001
+7,mega,19,18,0.0001
+4,school,2,19,0.0001
+3,ar,0,20,0.0001
+6,massive,10,20,0.0001
+3,rdp,0,20,0.0001
+3,1000,0,20,0.0001
+9,megapack,30,21,0.0001
+6,underground,7,23,0.0001
+36,the,386,25,0.0001
+1,carding,492,25,0.0001
+4,coca,0,27,0.0001
+4,cola,0,27,0.0001
+4,▓▒░,0,27,0.0001
+4,much,0,27,0.0001
+10,art,21,30,0.0001
+6,hackers,1,35,0.0001
+6,hackpack,0,40,0.0001
+6,14gb,0,40,0.0001
+6,2gb,0,40,0.0001
+11,advanced,15,40,0.0001
+6,3gb,0,40,0.0001
+15,beginners,35,43,0.0001
+8,official,2,44,0.0001
+8,certified,2,44,0.0001
+8,ethical,0,54,0.0001
+8,★★,0,54,0.0001
+12,course,7,57,0.0001
+21,hack,39,68,0.0001
+10,mega-software,0,68,0.0001
+10,site,0,68,0.0001
+10,russian,0,68,0.0001
+10,link,0,68,0.0001
+11,persistent,0,74,0.0001
+11,threat,0,74,0.0001
+22,hacker,2,136,0.0001
+62,hacking,41,286,0.0001

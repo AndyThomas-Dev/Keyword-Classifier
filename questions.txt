@@ -16,3 +16,14 @@ Issues/Questions:
 	I probably should have asked this earlier but am I being marked on code quality?
 	Camelcase
 		Now pyCharm is flagging these as errors. I've turned it off but was interested to know how you feel about it.
+		
+--
+
+ Thanks for the comments Matt, very helpful.
+ 
+ On the classifier:
+ The classifier I've built at the moment isn't very sophisticated (though I understand it needs to be improved, I just wanted to get a general feel of whether the keywords were correct). It essentially checks to see if the string contains one of the highest (top 5) LL words for that category. Occasionally I have used my own discretion to remove a keyword.
+
+Running it on the sorted market data for the cats I've done so far it's broadly correct (cohen's kappa: 0.78) - I can see how multiple cats could cause problems here.
+
+I've spent most of today building a classifier which calculates total LL scores, as you discussed.

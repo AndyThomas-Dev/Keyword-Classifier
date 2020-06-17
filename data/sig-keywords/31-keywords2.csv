@@ -1,0 +1,60 @@
+freq,word,exfreq,LL,sig
+2,the,420,0,Not significant
+1,new,39,0,Not significant
+2,from,122,0,Not significant
+1,get,95,0,Not significant
+6,to,947,0,Not significant
+8,...,732,0,Not significant
+6,how,455,1,Not significant
+1,guide,397,1,Not significant
+1,bible,37,1,Not significant
+2,100,65,2,Not significant
+1,over,15,2,Not significant
+1,gb,7,3,Not significant
+1,proof,8,3,Not significant
+2,best,51,3,Not significant
+1,change,7,3,Not significant
+1,driver,6,4,0.05
+1,australia,2,5,0
+4,pack,95,6,0.01
+2,usa,15,7,0.01
+2,world,11,8,0.01
+8,of,268,9,0.01
+1,11+,0,9,0
+1,india,0,9,0.01
+1,europe,0,9,0.01
+1,docs,0,9,0.01
+1,birthcert+passport+dl+ssn,0,9,0.01
+1,addre,0,9,0
+1,across,0,9,0
+1,3062,0,9,0
+1,2376,0,9,0
+1,international,0,9,0.01
+1,idpacks,0,9,0.01
+2,identity,6,10,0.01
+2,templates,4,11,0.001
+2,15,5,11,0.001
+6,your,132,11,0.001
+2,template,3,12,0.001
+2,price,2,13,0.001
+2,states,1,15,0.0001
+2,drivers,1,15,0.0001
+2,driving,1,15,0.0001
+4,mega,22,16,0.0001
+4,uk,18,18,0.0001
+2,quality/authentic,0,19,0.0001
+2,around,0,19,0.0001
+2,279,0,19,0.0001
+2,ids,0,19,0.0001
+5,all,30,20,0.0001
+3,us,3,20,0.0001
+6,fake,16,32,0.0001
+4,australian,0,38,0.0001
+4,passport/license,0,38,0.0001
+4,authentic,0,38,0.0001
+6,pass,5,43,0.0001
+8,id,9,54,0.0001
+6,scan,0,58,0.0001
+7,license,1,62,0.0001
+8,scans,2,67,0.0001
+9,passport,0,87,0.0001
