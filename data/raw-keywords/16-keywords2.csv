@@ -1,6 +1,8 @@
 freq,word
 0,'s
 0,...
+0,make
+0,to
 1,--
 1,-32
 1,1.3
@@ -276,7 +278,6 @@ freq,word
 1,logical
 1,mach
 1,made
-1,make
 1,managemen
 1,managing
 1,mapping
@@ -608,7 +609,6 @@ freq,word
 19,guide
 24,the
 25,murach
-29,to
 31,pick-10-book
 32,with
 33,pick-a-book

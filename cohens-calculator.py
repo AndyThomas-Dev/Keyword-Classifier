@@ -33,7 +33,7 @@ def printCat(number):
     return cats[number]
 
 
-rows = 1001
+rows = 3800
 
 andy = pd.read_csv(r"data/cc-sources/keywordScore5.csv", usecols=[1], nrows=rows)
 auto = pd.read_csv(r"data/cc-sources/keywordScore5.csv", usecols=[3], nrows=rows)
@@ -74,3 +74,5 @@ for i in range(35):
         print("---------")
     else:
         print(i, "- No entries.", matches[i], totals[i])
+
+print(raw)

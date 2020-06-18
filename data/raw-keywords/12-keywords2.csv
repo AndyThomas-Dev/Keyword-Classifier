@@ -1,4 +1,6 @@
 freq,word
+0,how
+0,to
 1,10
 1,11
 1,15
@@ -8,7 +10,6 @@ freq,word
 1,23
 2,complete
 2,dox
-2,how
 2,the
 4,about
 4,all
@@ -18,6 +19,5 @@ freq,word
 12,expert
 12,noob
 12,revenge
-14,to
 18,guide
 22,doxing

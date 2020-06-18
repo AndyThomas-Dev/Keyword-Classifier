@@ -51,7 +51,7 @@ def tokeniseString(string):
 
     for token in nltk_tokens:
         result = getTotalLLScore(token)
-        print(token, result)
+        # print(token, result)
 
         for i in range(35):
             sumAll[i] = sumAll[i] + result[i]
@@ -61,8 +61,8 @@ def tokeniseString(string):
 
 
 # Testing features
-x = "mdma synthesis for beginners"
-array = tokeniseString(x.lower())
-
-print('Max value in Dict: ', max(array))
-print('Key With Max value in Dict: ', getLabel(array))
+# x = "Make a tax lien disappear"
+# array = tokeniseString(x.lower())
+#
+# print('Max value in Dict: ', max(array))
+# print('Key With Max value in Dict: ', getLabel(array))

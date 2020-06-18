@@ -1,6 +1,7 @@
 freq,word
 0,'s
 0,...
+0,to
 1,10
 1,11
 1,13
@@ -61,7 +62,6 @@ freq,word
 1,source
 1,threatscape
 1,through
-1,to
 1,tools
 1,tracking
 1,triage
