@@ -1,9 +1,8 @@
 freq,word,exfreq,LL,sig
-1,application,1,7,0.01
-1,truly,0,10,0.01
 1,ride,0,10,0.01
+1,truly,0,10,0.01
 1,device,0,10,0.01
-10,of,266,18,0.0001
+10,of,270,17,0.0001
 2,hacking-android,0,20,0.0001
 2,exp,0,20,0.0001
 5,android,20,25,0.0001

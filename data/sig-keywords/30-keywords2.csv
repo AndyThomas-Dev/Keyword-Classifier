@@ -1,16 +1,16 @@
 freq,word,exfreq,LL,sig
-4,...,736,2,Not significant
-2,accounts,39,8,0
-1,50k,0,12,0
+0,...,0,0,Not significant
+2,accounts,39,8,0.01
+1,50k,0,12,0.001
 4,list,103,14,0.001
-2,gmail,5,15,0
-2,million,6,15,0
-2,mail.ru,0,24,0
-2,5.000.000,0,24,0
-4,web,28,24,0.0001
-3,email,4,26,0
+2,gmail,5,15,0.0001
+2,million,6,15,0.0001
+4,web,32,23,0.0001
+2,5.000.000,0,24,0.0001
+2,mail.ru,0,24,0.0001
+3,email,4,26,0.0001
 4,deep,8,33,0.0001
-3,addresses,0,36,0
+3,addresses,0,36,0.0001
 4,links,2,40,0.0001
 4,onion,1,43,0.0001
 4,uncen,0,48,0.0001

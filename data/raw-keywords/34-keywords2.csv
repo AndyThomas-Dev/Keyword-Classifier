@@ -1,4 +1,16 @@
 freq,word
+0,'s
+0,...
+1,13
+1,21
+1,23
+1,31
+1,72
+1,76
+1,78
+1,85
+1,90
+1,93
 1,almost
 1,bomb.rtf
 1,books
@@ -96,7 +108,6 @@ freq,word
 3,kitchen
 3,pack
 3,workshop
-4,...
 4,advanced
 4,book
 4,c4
@@ -119,7 +130,6 @@ freq,word
 9,weapons
 11,gun
 11,guns
-12,'s
 12,gunsmithing
 14,cookbook
 14,homemade

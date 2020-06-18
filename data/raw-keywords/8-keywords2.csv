@@ -1,4 +1,6 @@
 freq,word
+0,'s
+0,...
 1,10
 1,117
 1,12
@@ -175,7 +177,6 @@ freq,word
 4,usd
 4,v1
 4,zcash
-6,'s
 6,2nd
 6,beginner
 6,beyond
@@ -221,6 +222,5 @@ freq,word
 25,to
 30,bitcoins
 43,guide
-53,...
 56,the
 117,bitcoin

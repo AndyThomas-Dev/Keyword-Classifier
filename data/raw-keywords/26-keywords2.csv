@@ -1,5 +1,6 @@
 freq,word
-1,'s
+0,'s
+0,...
 1,advanced
 1,beginner
 1,botnets
@@ -33,7 +34,6 @@ freq,word
 3,and
 3,guide
 3,the
-4,...
 4,computer
 4,viruses
 6,malware

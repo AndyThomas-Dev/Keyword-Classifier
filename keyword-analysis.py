@@ -31,7 +31,7 @@ for corpusId in range(35):
         count = 0
 
         for token in nltk_tokens:
-            if token == item:
+            if (token == item) & (token != "...") & (token != "'s"):
                 count = count + 1
 
         inputString = count, item

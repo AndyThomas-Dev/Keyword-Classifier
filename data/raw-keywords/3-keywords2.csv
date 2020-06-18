@@ -1,4 +1,5 @@
 freq,word
+0,...
 1,8gb
 1,anonymity
 1,anonymous
@@ -80,7 +81,6 @@ freq,word
 10,top
 10,tutorial
 12,for
-15,...
 18,video
 19,socks
 25,how

@@ -1,88 +1,88 @@
 freq,word,exfreq,LL,sig
+0,...,0,0,Not significant
 1,you,64,0,Not significant
+1,ultimate,87,0,Not significant
 1,on,59,0,Not significant
-1,ultimate,85,0,Not significant
-1,in,127,0,Not significant
-6,and,243,0,Not significant
-1,with,128,0,Not significant
-9,the,413,0,Not significant
-1,pack,98,0,Not significant
+1,in,129,0,Not significant
+6,and,235,0,Not significant
+1,pack,120,0,Not significant
 1,by,35,0,Not significant
-15,...,725,0,Not significant
-1,beginners,49,0,Not significant
+9,the,519,0,Not significant
+1,beginners,51,0,Not significant
 1,anonymous,46,0,Not significant
-1,setup,15,1,Not significant
 1,windows,9,1,Not significant
 2,lifetime,37,1,Not significant
+1,setup,15,1,Not significant
 2,accounts,39,1,Not significant
 2,premium,36,1,Not significant
+1,anonymity,14,1,Not significant
+1,with,146,1,Not significant
 3,out,71,1,Not significant
-1,anonymity,12,1,Not significant
 1,master,9,1,Not significant
-3,guide,395,2,Not significant
+2,any,26,2,Not significant
 3,cash,51,2,Not significant
 2,tuto,32,2,Not significant
-2,any,24,2,Not significant
 1,easily,8,2,Not significant
 2,--,28,2,Not significant
 1,secure,3,3,Not significant
-1,os,4,3,Not significant
+2,an,22,3,Not significant
 2,step,18,3,Not significant
 1,protection,4,3,Not significant
+1,os,4,3,Not significant
 1,encryption,4,3,Not significant
-2,an,18,3,Not significant
 2,software,14,4,0.05
+3,guide,443,4,0.05
 2,private,16,4,0.05
 4,tor,48,5,0.05
-7,your,131,5,0.05
+7,your,136,5,0.05
+30,to,1041,5,0.05
 1,vm,1,5,0.05
 2,fresh,7,6,0.01
 2,hq,8,6,0.05
 12,for,260,7,0.01
-1,8gb,0,8,0
-30,to,923,8,0.01
+1,whonix,0,8,0.01
+1,8gb,0,8,0.01
 1,bootable,0,8,0.01
 1,comp,0,8,0.01
-1,dns,0,8,0.01
-1,whonix,0,8,0.01
-1,usb,0,8,0.01
-1,subnetting,0,8,0.01
 1,encrypted,0,8,0.01
 1,help,0,8,0.01
+1,proxifier,0,8,0.01
+1,proxychain,0,8,0.01
+1,dns,0,8,0.01
 1,st,0,8,0.01
 1,socks-change,0,8,0.01
-1,proxychain,0,8,0.01
-1,proxifier,0,8,0.01
+1,usb,0,8,0.01
+1,subnetting,0,8,0.01
 2,service,3,9,0.01
-2,newbie,2,10,0.01
 2,important,2,10,0.01
+2,newbie,2,10,0.01
+25,how,587,13,0.001
 5,using,26,13,0.001
+10,tutorial,108,15,0.0001
 2,changer,0,16,0.0001
 2,adress,0,16,0.0001
-10,tutorial,108,16,0.0001
 2,worldwide,0,16,0.0001
 2,proxies,0,16,0.0001
 2,vn5socks.net,0,16,0.0001
 3,mac,2,17,0.0001
-25,how,436,23,0.0001
-4,clean,2,24,0.0001
-6,use,12,26,0.0001
-4,country,0,32,0.0001
-4,settings,0,32,0.0001
-4,ssh,0,32,0.0001
+4,clean,4,21,0.0001
+6,use,12,25,0.0001
 4,vps,0,32,0.0001
-7,up,6,38,0.0001
-8,way,11,39,0.0001
+4,ssh,0,32,0.0001
+4,settings,0,32,0.0001
+4,country,0,32,0.0001
+7,up,10,33,0.0001
+8,way,12,37,0.0001
 6,change,2,39,0.0001
 5,putty,0,40,0.0001
-10,my,16,46,0.0001
+10,my,18,44,0.0001
 7,set,1,50,0.0001
 7,proxy,0,56,0.0001
 9,ip,4,56,0.0001
 10,top,6,59,0.0001
-8,apply,0,64,0.0001
 8,right,0,64,0.0001
-18,video,49,69,0.0001
+8,apply,0,64,0.0001
+18,video,49,68,0.0001
 10,providers,0,80,0.0001
-19,socks,2,140,0.0001
-30,socks5,1,233,0.0001
+19,socks,2,139,0.0001
+30,socks5,1,232,0.0001

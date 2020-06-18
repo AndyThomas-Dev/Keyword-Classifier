@@ -1,88 +1,88 @@
 freq,word,exfreq,LL,sig
-1,pack,98,0,Not significant
-1,socks5,30,0,Not significant
-1,using,30,0,Not significant
-1,not,21,0,Not significant
-3,in,125,0,Not significant
-1,tutorial,117,0,Not significant
+0,...,0,0,Not significant
 4,for,268,0,Not significant
+3,in,127,0,Not significant
+3,get,97,0,Not significant
 2,on,58,0,Not significant
-1,android,24,0,Not significant
-1,advanced,25,0,Not significant
-1,ultimate,85,0,Not significant
 2,list,105,0,Not significant
+21,to,1050,0,Not significant
+1,using,30,0,Not significant
+1,ultimate,87,0,Not significant
+1,tutorial,117,0,Not significant
+1,socks5,30,0,Not significant
+1,pack,120,0,Not significant
+1,not,21,0,Not significant
 2,bitcoin,201,0,Not significant
-21,to,932,1,Not significant
-1,setup,15,1,Not significant
+1,android,24,0,Not significant
+1,advanced,26,0,Not significant
+1,over,17,1,Not significant
+2,bible,46,1,Not significant
 2,sites,45,1,Not significant
-3,get,93,1,Not significant
-1,over,15,1,Not significant
 1,have,12,1,Not significant
-2,bible,36,1,Not significant
 1,must,14,1,Not significant
-18,...,722,2,Not significant
-1,13,5,2,Not significant
-5,with,124,2,Not significant
-1,12,6,2,Not significant
+1,setup,15,1,Not significant
+5,with,142,2,Not significant
+2,privacy,25,2,Not significant
 1,traffic,6,2,Not significant
-1,onion,4,3,Not significant
+1,12,8,2,Not significant
+1,13,5,2,Not significant
 1,33,4,3,Not significant
-2,privacy,25,3,Not significant
+16,how,596,3,Not significant
 1,40,3,3,Not significant
 1,encryption,4,3,Not significant
+13,guide,433,3,Not significant
 1,safe,3,3,Not significant
+1,onion,4,3,Not significant
 1,stay,3,3,Not significant
-2,expert,16,4,0.05
-2,create,17,4,0.05
 2,website,14,4,0.05
+1,19,2,4,0.05
+3,handbook,40,4,0.05
 1,firefox,2,4,0.05
 1,27,2,4,0.05
-1,19,2,4,0.05
+2,create,17,4,0.05
+2,expert,16,4,0.05
 1,vm,1,5,0.05
-13,guide,385,5,0.05
-3,handbook,27,6,0.05
 2,darknet,9,6,0.05
-16,how,445,7,0.01
 2,user,5,8,0.01
-1,+++tor,0,8,0
-1,privately,0,8,0.01
-1,45,0,8,0.01
-1,2017+++,0,8,0.01
 1,chaining,0,8,0.01
-1,fucked,0,8,0.01
+1,2017+++,0,8,0.01
 2,anonymously,4,8,0.01
-1,middlebox,0,8,0.01
-1,quickstart,0,8,0.01
 1,router,0,8,0.01
+1,fucked,0,8,0.01
+1,middlebox,0,8,0.01
+1,privately,0,8,0.01
+1,quickstart,0,8,0.01
 1,routing,0,8,0.01
 1,47,0,8,0.01
+1,+++tor,0,8,0.01
 1,unofficial,0,8,0.01
 1,vb,0,8,0.01
+1,45,0,8,0.01
 2,service,3,9,0.01
-3,anonymity,10,10,0.001
-13,of,263,10,0.01
+5,beginners,47,9,0.01
+13,of,267,10,0.01
+3,anonymity,12,10,0.01
 2,access,2,10,0.001
-5,beginners,45,10,0.01
 5,online,37,11,0.001
+21,the,507,12,0.001
 2,hidden,1,12,0.001
+5,security,30,13,0.001
 3,start,5,14,0.001
-5,security,27,14,0.001
-2,uti,0,16,0.0001
 2,must-read,0,16,0.0001
-2,72000+,0,16,0.0001
+2,uti,0,16,0.0001
 2,step-by,0,16,0.0001
 2,remaining,0,16,0.0001
 2,extreme,0,16,0.0001
-3,quick,2,18,0.0001
+2,72000+,0,16,0.0001
+3,quick,2,17,0.0001
 7,anonymous,40,19,0.0001
-21,the,401,19,0.0001
 3,tails,0,24,0.0001
 4,anon,1,27,0.0001
-20,and,229,32,0.0001
+20,and,221,33,0.0001
 5,net,0,41,0.0001
 11,be,29,44,0.0001
 7,browser,0,57,0.0001
 10,anonimity,6,61,0.0001
-13,art,18,65,0.0001
-18,dark,2,135,0.0001
-46,tor,6,341,0.0001
+13,art,19,64,0.0001
+18,dark,2,134,0.0001
+46,tor,6,340,0.0001

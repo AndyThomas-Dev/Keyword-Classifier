@@ -19,6 +19,3 @@ def countWords(word, corpusId):
         i = i + 1
     print(corpusId, word, "Exc: ", count)
     return count
-
-
-# print(countWords("tor", 1))

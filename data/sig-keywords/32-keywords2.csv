@@ -1,41 +1,41 @@
 freq,word,exfreq,LL,sig
-2,and,247,0,Not significant
-4,the,418,0,Not significant
-1,in,127,0,Not significant
-4,for,268,1,Not significant
-1,month,12,2,Not significant
+0,...,0,0,Not significant
+1,in,129,0,Not significant
+4,the,524,0,Not significant
+4,for,268,0,Not significant
+2,and,239,0,Not significant
+2,complete,70,1,Not significant
 2,you,63,2,Not significant
-2,complete,55,2,Not significant
-4,to,949,2,Not significant
-2,dummies,42,3,Not significant
-2,...,738,3,Not significant
+1,month,12,2,Not significant
+2,dummies,43,3,Not significant
+4,to,1067,3,Not significant
+1,first,6,3,0.05
+2,secrets,36,3,0.05
 2,ways,28,4,0.05
-1,21,5,4,0
-2,web,30,4,0.05
-1,first,3,5,0
-2,2017,25,5,0.05
-1,18,2,5,0
-4,from,120,5,0.05
-1,101,1,6,0
-4,get,92,6,0.01
-1,guaranteed,1,6,0
-1,26,1,6,0
+2,web,34,4,0.05
+4,from,122,4,0.05
+1,21,5,4,0.05
+2,2017,35,4,0.05
+1,18,2,5,0.05
+4,get,96,6,0.05
+1,guaranteed,1,6,0.01
+1,26,1,6,0.01
+1,101,1,6,0.01
 2,website,14,7,0.01
 2,top,14,7,0.01
-2,secrets,15,7,0.01
 2,must,13,7,0.01
 2,simple,11,8,0.01
 2,more,11,8,0.01
-1,customers,0,9,0
+1,customers,0,9,0.01
 1,page,0,9,0.01
 4,on,56,9,0.01
 1,result,0,9,0.01
 2,master,8,9,0.01
-2,avoid,5,10,0.001
+4,edition,54,9,0.01
+2,avoid,5,10,0.01
+2,techniques,6,10,0.01
 2,what,6,10,0.01
-2,techniques,4,11,0.001
 2,is,4,11,0.001
-4,edition,47,11,0.001
 2,11,3,12,0.001
 2,quick,3,12,0.001
 2,made,1,15,0.0001
@@ -46,10 +46,10 @@ freq,word,exfreq,LL,sig
 2,ranking,0,19,0.0001
 2,do-it-yourself,0,19,0.0001
 2,ruin,0,19,0.0001
-9,your,129,21,0.0001
+9,your,134,20,0.0001
 4,tips,10,21,0.0001
-4,6th,4,27,0.0001
-4,negative,4,27,0.0001
+4,6th,4,26,0.0001
+4,negative,4,26,0.0001
 4,engine,3,28,0.0001
 4,remove,2,30,0.0001
 4,search,2,30,0.0001
@@ -57,6 +57,6 @@ freq,word,exfreq,LL,sig
 4,optimization,0,38,0.0001
 5,steal,2,39,0.0001
 6,traffic,1,51,0.0001
-7,competitors,0,67,0.0001
-11,google,8,79,0.0001
-18,seo,4,151,0.0001
+7,competitors,0,66,0.0001
+11,google,8,78,0.0001
+18,seo,4,150,0.0001

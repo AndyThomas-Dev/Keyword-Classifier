@@ -1,4 +1,6 @@
 freq,word
+0,'s
+0,...
 1,'re
 1,01-04-20-politische-biographie
 1,1-leo-frank-case-watsons-magazine-january-1915
@@ -36,6 +38,8 @@ freq,word
 1,299
 1,303
 1,31
+1,315
+1,316
 1,37
 1,38
 1,3d
@@ -311,6 +315,7 @@ freq,word
 1,pick-a-book
 1,picking
 1,plots
+1,pocket
 1,politics
 1,ponzimonium
 1,practice
@@ -444,7 +449,6 @@ freq,word
 2,chemicals
 2,co
 2,confident
-2,contemporary
 2,control
 2,conversation
 2,course
@@ -453,6 +457,7 @@ freq,word
 2,david
 2,dawkins
 2,derrida
+2,dispirited
 2,dostoyevsky
 2,dw010
 2,economics
@@ -481,9 +486,11 @@ freq,word
 2,lane
 2,listen
 2,little
+2,long
 2,lord
 2,machining
 2,magick
+2,makes
 2,man
 2,managing
 2,mastering
@@ -500,6 +507,7 @@ freq,word
 2,panic
 2,pi
 2,powers
+2,preppers
 2,pro
 2,punishment
 2,quotable
@@ -512,12 +520,14 @@ freq,word
 2,so
 2,someone
 2,soul
+2,spirituality
 2,ss
 2,standard
 2,stop
 2,su
 2,tap
 2,tears
+2,term
 2,theory
 2,think
 2,thoth
@@ -571,9 +581,7 @@ freq,word
 3,real
 3,rich
 3,richard
-3,sex
 3,success
-3,survival
 3,techniques
 3,tricks
 3,true
@@ -584,6 +592,7 @@ freq,word
 4,1984
 4,anyone
 4,at
+4,contemporary
 4,cookbook
 4,do
 4,english
@@ -603,6 +612,7 @@ freq,word
 4,questions
 4,seconds
 4,secrets
+4,sex
 4,start
 4,story
 4,things
@@ -613,6 +623,7 @@ freq,word
 5,like
 5,money
 5,safety
+5,survival
 5,witchcraft
 5,͠≖
 6,baudrillard
@@ -651,7 +662,6 @@ freq,word
 10,people
 10,skills
 10,your
-11,'s
 11,science
 14,in
 16,100
@@ -661,10 +671,9 @@ freq,word
 21,collection
 23,ebooks
 27,for
-29,guide
 31,and
-40,how
+32,guide
+42,how
 64,to
 66,of
-77,...
 95,the

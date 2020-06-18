@@ -1,5 +1,6 @@
 freq,word
-1,'s
+0,'s
+0,...
 1,111
 1,13
 1,20
@@ -54,7 +55,6 @@ freq,word
 1,hack
 1,hacking
 1,hidden
-1,hiding
 1,home
 1,if
 1,information
@@ -79,7 +79,6 @@ freq,word
 1,out
 1,pick-5-book
 1,please
-1,practical
 1,presence
 1,pro
 1,proof
@@ -123,10 +122,13 @@ freq,word
 2,internet
 2,life
 2,must
+2,onli
 2,orginal
 2,pack
+2,plain
 2,point
 2,safety
+2,sight
 2,spoofer
 2,steps
 2,subpoena
@@ -143,9 +145,11 @@ freq,word
 3,communication
 3,digital
 3,get
+3,hiding
 3,invisible
 3,mobile
 3,personal
+3,practical
 3,protection
 3,safe
 3,simple
@@ -159,7 +163,6 @@ freq,word
 4,big
 4,fresh
 4,genuine
-4,in
 4,maker
 4,on
 4,protecting
@@ -174,6 +177,7 @@ freq,word
 6,be
 6,essential
 6,guides
+6,in
 6,paypal
 6,security
 6,startpack
@@ -186,18 +190,17 @@ freq,word
 7,web
 8,for
 8,setup
-9,anonymity
 9,ways
 10,guide
 10,online
 10,your
 11,and
+11,anonymity
 11,disappear
 11,free
 19,100
 21,privacy
 22,how
-28,...
 29,the
 31,anonymous
 38,to

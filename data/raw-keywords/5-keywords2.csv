@@ -1,4 +1,6 @@
 freq,word
+0,'s
+0,...
 1,106
 1,11
 1,143
@@ -220,7 +222,6 @@ freq,word
 8,videos
 9,get
 9,or
-10,'s
 10,coinbase
 10,de
 10,free
@@ -276,7 +277,6 @@ freq,word
 38,method
 49,credit
 67,out
-73,...
 73,bitcoin
 96,guide
 148,paypal

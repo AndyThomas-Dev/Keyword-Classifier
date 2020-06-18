@@ -1,40 +1,40 @@
 freq,word,exfreq,LL,sig
-1,your,137,0,Not significant
-1,ultimate,85,0,Not significant
-1,and,248,0,Not significant
-1,free,90,0,Not significant
-1,get,95,0,Not significant
+0,...,0,0,Not significant
+1,your,142,0,Not significant
 1,hacking,102,0,Not significant
-2,how,459,0,Not significant
-8,...,732,1,Not significant
-2,money,107,1,Not significant
-1,the,421,1,Not significant
-1,security,31,1,Not significant
-1,guide,397,1,Not significant
+1,get,99,0,Not significant
+1,free,95,0,Not significant
+1,ultimate,87,0,Not significant
+1,and,240,0,Not significant
+2,how,610,1,Not significant
+1,guide,445,1,Not significant
 1,package,35,1,Not significant
+1,security,34,1,Not significant
+2,money,109,1,Not significant
+1,the,527,2,Not significant
 1,own,15,2,Not significant
-1,tips,13,3,Not significant
-2,to,951,3,0.05
 2,hack,58,3,Not significant
 1,50,13,3,Not significant
 1,iphone,12,3,Not significant
-2,or,43,4,0.05
+1,tips,13,3,Not significant
+1,13,5,4,0.05
+1,uber,6,4,0.05
 1,tricks,7,4,0.05
 1,applications,5,4,0.05
-1,uber,6,4,0.05
-1,20,5,4,0
-1,13,5,4,0
-1,definitive,3,5,0.05
+1,20,5,4,0.05
+1,definitive,7,4,0.05
+2,or,43,4,0.05
+4,with,143,5,0.05
+1,application,3,5,0.05
+2,to,1069,5,0.05
 1,apps,3,5,0.05
-4,with,125,6,0.05
-2,mega,24,6,0.05
 1,unlimited,2,6,0.05
+2,mega,24,6,0.05
 1,securing,2,6,0.05
-1,application,1,7,0.01
-1,truly,0,10,0.01
 1,ride,0,10,0.01
+1,truly,0,10,0.01
 1,device,0,10,0.01
-10,of,266,18,0.0001
+10,of,270,17,0.0001
 2,hacking-android,0,20,0.0001
 2,exp,0,20,0.0001
 5,android,20,25,0.0001

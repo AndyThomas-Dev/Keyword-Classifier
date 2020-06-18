@@ -1,39 +1,39 @@
 freq,word,exfreq,LL,sig
-4,the,418,0,Not significant
-1,from,123,0,Not significant
-2,make,165,0,Not significant
-2,...,738,1,Not significant
-2,in,126,1,Not significant
-4,and,245,2,Not significant
-2,get,94,2,Not significant
-2,video,65,3,Not significant
+0,...,0,0,Not significant
+1,from,125,0,Not significant
+4,the,524,0,Not significant
+2,make,272,0,Not significant
+1,cocaine,26,1,Not significant
+2,get,98,1,Not significant
+2,in,128,1,Not significant
+4,and,237,2,Not significant
+2,video,65,2,Not significant
 1,v.2,8,3,0.05
+2,marijuana,49,3,0.05
 2,or,43,4,0.05
 2,methods,39,4,0.05
-1,cocaine,2,6,0
+2,tutorials,32,5,0.05
+10,how,602,6,0.05
+4,pack,117,6,0.05
+2,not,20,6,0.01
+2,ebook,21,6,0.01
 1,guns,2,6,0.05
-2,tutorials,24,6,0.05
-2,not,20,7,0.01
-1,extract,1,7,0
-2,ebook,13,8,0.01
-4,pack,95,8,0.01
-10,how,451,10,0.01
-2,safely,7,10,0.01
-1,paper,0,10,0.01
+1,paper,2,6,0.05
+1,paperboard,2,6,0.05
+1,extract,1,7,0.01
+2,safely,9,9,0.01
 1,stealth,0,10,0.01
-1,paperboard,0,10,0.01
-2,super,3,13,0.001
+2,super,5,11,0.001
+5,drugs,85,12,0.001
+11,guide,435,13,0.001
 2,caught,2,14,0.001
-11,guide,387,15,0.0001
 2,work,1,16,0.0001
-2,stealthy,0,20,0.0001
+21,to,1050,18,0.0001
 2,smuggiling,0,20,0.0001
 2,concealment,0,20,0.0001
-2,marijuana,0,20,0.0001
 2,mail,0,20,0.0001
-21,to,932,22,0.0001
+2,stealthy,0,20,0.0001
 4,usps,0,40,0.0001
-5,drugs,0,50,0.0001
-9,ship,0,91,0.0001
-11,smuggling,0,111,0.0001
-13,postal,0,131,0.0001
+9,ship,0,90,0.0001
+11,smuggling,0,110,0.0001
+13,postal,0,130,0.0001

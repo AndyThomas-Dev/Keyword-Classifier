@@ -1,251 +1,199 @@
 freq,word,exfreq,LL,sig
-2,MDMA,22,0,Not significant
+0,'s,0,0,Not significant
+1,story,8,0,Not significant
+1,introduction,14,0,Not significant
 1,through,12,0,Not significant
-1,PSYCHEDELIC,6,0,Not significant
-1,Chemistry,11,0,Not significant
-2,To,69,0,Not significant
-1,into,9,0,Not significant
-2,edition,49,0,Not significant
-1,GUIDE,11,0,Not significant
-1,instant,8,0,Not significant
+1,way,19,0,Not significant
+1,getting,14,0,Not significant
 2,2nd,24,0,Not significant
-1,Grow,27,0,Not significant
-1,Easy,6,0,Not significant
-1,great,6,0,Not significant
-4,on,56,0,Not significant
-1,de,16,0,Not significant
+1,fbi,8,0,Not significant
+1,easy,50,0,Not significant
+2,an,22,0,Not significant
+2,big,35,0,Not significant
+5,get,95,0,Not significant
+1,chemistry,10,0,Not significant
+4,your,139,0,Not significant
 1,buy,30,0,Not significant
-14,and,235,0,Not significant
-1,Amphetamine,27,0,Not significant
-14,of,262,0,Not significant
-19,the,403,0,Not significant
-1,Growing,13,0,Not significant
-1,Syntheses,4,1,Not significant
-1,Open,3,1,Not significant
-1,Overview,4,1,Not significant
-1,Great,3,1,Not significant
-1,Manual,4,1,Not significant
-1,Time,3,1,Not significant
-2,free,89,1,Not significant
-2,Pack,8,2,Not significant
-1,Genetics,2,2,Not significant
-1,Bud,2,2,Not significant
-1,Big,2,2,Not significant
-2,Heroin,6,3,Not significant
-2,Tutorials,6,3,Not significant
-1,Ayahuasca,1,3,Not significant
-13,'s,121,4,0.05
-11,How,99,4,0.05
-4,Secrets,21,4,0.05
-1,get,95,4,0.05
-2,Cookbook,4,4,0.05
-3,Complete,10,4,0.05
-1,Story,0,5,0.05
-1,Strains,0,5,0.05
-1,Systems,0,5,0.05
-1,THE,0,5,0.05
-1,Successfully,0,5,0.05
-1,Smoker,0,5,0.05
-1,las,0,5,0.05
-1,Value,0,5,0.05
-1,Venturas,0,5,0.05
-1,Way,0,5,0.05
-1,auto-delivery,0,5,0.05
-1,drogas,0,5,0.05
-1,Scientific,0,5,0.05
-1,mdma,0,5,0.05
-2,Grower,3,5,0.05
-2,Narcotics,3,5,0.05
-2,Otto,3,5,0.05
-2,Snow,3,5,0.05
-4,Cocaine,16,5,0.05
-1,Unlimited,0,5,0.05
-1,SUCCESSFULLY,0,5,0.05
-1,'S,0,5,0
-1,Revolutionary,0,5,0.05
-1,Across,0,5,0
-1,Experiences,0,5,0.05
-1,Ages,0,5,0
-1,Analoge-Ott,0,5,0.05
-1,Analysis,0,5,0.05
-1,Aprendiendo,0,5,0.05
-1,Around,0,5,0.05
-1,Art,0,5,0.05
-1,Biology,0,5,0.05
-1,Enjoy,0,5,0.05
-1,Blotter,0,5,0.05
-1,Case,0,5,0.05
-1,Challenging,0,5,0.05
-1,Chemical,0,5,0.05
-1,EXPLORER,0,5,0.05
-1,Cultures,0,5,0.05
-1,Dreams.The,0,5,0.05
-1,Dreams,0,5,0.05
-1,Run,0,5,0.05
-1,Doctor,0,5,0.05
-1,Dispensary,0,5,0.05
-1,Facility,0,5,0.05
-1,Fadiman,0,5,0.05
-1,Business,0,5,0.05
-1,Future,0,5,0.05
-1,PH.D,0,5,0.05
-1,Near-Death,0,5,0.05
-1,Mystical,0,5,0.05
-1,Fbi,0,5,0.05
-1,PSILOCYBIN,0,5,0.05
-1,Modern,0,5,0.05
-1,Microgram,0,5,0.05
-1,Professionals,0,5,0.05
-1,Professor,0,5,0.05
-1,PDF,0,5,0.05
-1,Love,0,5,0.05
-1,Lee,0,5,0.05
-1,Manifesto,0,5,0.05
-1,Introduction,0,5,0.05
-1,LSD_,0,5,0.05
-1,James,0,5,0.05
-1,Hashmaking,0,5,0.05
-1,Jesse,0,5,0.05
-1,Grade,0,5,0.05
-1,Journey,0,5,0.05
-1,Identify,0,5,0.05
-2,Definitive,2,6,0.05
-2,Gold,2,6,0.05
-2,as,2,6,0.05
-5,Cannabis,20,6,0.01
-2,An,2,6,0.05
-2,Ebook,2,6,0.05
-3,Magic,7,6,0.05
-1,in,127,7,0.01
-2,Of,1,8,0.01
-2,Recipes,1,8,0.01
-4,Alcohol,9,8,0.01
-2,BIG,1,8,0.01
-2,Delicious,1,8,0.01
-2,Pot,1,8,0.01
-2,Proffessor,0,11,0.001
-2,Psychedelic,0,11,0.001
-2,Psychedelics,0,11,0.001
-2,Psychotherapy,0,11,0.001
-2,Rape,0,11,0.001
-2,Products,0,11,0.001
-2,Reconsidered,0,11,0.001
-2,Psilocybe,0,11,0.001
-2,Recreational,0,11,0.001
-2,Social,0,11,0.001
-2,Relievers,0,11,0.001
-4,GUIDES,6,11,0.001
-4,2.0,6,11,0.001
-2,Producers,0,11,0.001
-2,dosing,0,11,0.001
-2,Uses,0,11,0.001
-2,Therapeutics,0,11,0.001
-2,Strassman,0,11,0.001
-2,Smoke,0,11,0.001
-2,Sleep,0,11,0.001
-2,Safely,0,11,0.001
-2,Sacred,0,11,0.001
-2,SUPER,0,11,0.001
-2,Ritalin,0,11,0.001
-2,Rick,0,11,0.001
-2,Research,0,11,0.001
-2,Reflections,0,11,0.001
-2,Producer,0,11,0.001
-2,Properly,0,11,0.001
-2,Prescription,0,11,0.001
-2,Enhancement,0,11,0.001
-2,Ecstasy,0,11,0.001
-2,Dr,0,11,0.001
-2,Dmt,0,11,0.001
-2,Disease,0,11,0.001
-2,Diet,0,11,0.001
-2,Designer,0,11,0.001
-2,Abused,0,11,0.001
-2,Date,0,11,0.001
-2,Body,0,11,0.001
-2,Acid,0,11,0.001
-2,Aids,0,11,0.001
-2,Alzheimer,0,11,0.001
-2,Codeine,0,11,0.001
-2,Child,0,11,0.001
-2,Cannabinoids,0,11,0.001
-2,Anti-Depressants,0,11,0.001
-2,BOOKS,0,11,0.001
-2,CIA,0,11,0.001
-2,Buzz,0,11,0.001
-2,Cubensis,0,11,0.001
-2,Field,0,11,0.001
-2,Essential,0,11,0.001
-2,Hallucinogens,0,11,0.001
-2,Pills,0,11,0.001
-2,Pain,0,11,0.001
-2,Other,0,11,0.001
-2,Opium,0,11,0.001
-2,OF,0,11,0.001
-2,Nicotine,0,11,0.001
-2,Neurochemistry,0,11,0.001
-2,My,0,11,0.001
-2,Hallucinogenic,0,11,0.001
-2,Methylphenidate,0,11,0.001
-2,Morphine,0,11,0.001
-2,Megapack,0,11,0.001
-2,Magazines,0,11,0.001
-2,Inhalants,0,11,0.001
-2,Implications,0,11,0.001
-2,Hydroponics,0,11,0.001
-2,How-To,0,11,0.001
-2,History,0,11,0.001
-2,Highbrow,0,11,0.001
-2,25i-NBOMe,0,11,0.001
-2,Memory,0,11,0.001
-2,Problem,0,11,0.001
-3,Free,1,13,0.001
-5,DRUGS,5,16,0.0001
-4,Medical,2,16,0.0001
-2,for,270,16,0.0001
-3,D.,0,17,0.0001
-3,Getting,0,17,0.0001
-3,Alchemy,0,17,0.0001
-5,Reference,4,17,0.0001
-4,Almost,1,18,0.0001
-6,PACK,6,19,0.0001
-11,TO,30,21,0.0001
-11,HOW,30,21,0.0001
-5,World,2,21,0.0001
-4,Off,0,23,0.0001
-4,Revolution,0,23,0.0001
-4,SELL,0,23,0.0001
-4,Get,0,23,0.0001
-4,Changing,0,23,0.0001
-4,Your,0,23,0.0001
-4,Weed,0,23,0.0001
-4,That,0,23,0.0001
-4,Twice,0,23,0.0001
-4,Books,0,23,0.0001
-4,Web,0,23,0.0001
-10,LSD,18,24,0.0001
-10,DMT,17,25,0.0001
-8,Drug,8,26,0.0001
-6,Mushroom,2,26,0.0001
-18,to,935,26,0.0001
-5,CANNABIS,0,29,0.0001
-5,Abuse,0,29,0.0001
-5,Mexico,0,29,0.0001
-6,INDEX,0,35,0.0001
-7,TEST,0,41,0.0001
-7,PASS,0,41,0.0001
-7,High,0,41,0.0001
-15,Guide,22,41,0.0001
-8,Guidebook,0,47,0.0001
-13,DRUG,10,47,0.0001
-12,Mushrooms,6,49,0.0001
-9,Spirit,0,53,0.0001
-9,Molecule,0,53,0.0001
-20,Marijuana,31,54,0.0001
-12,Handbook,1,64,0.0001
-19,Psilocybin,1,105,0.0001
-52,Facts,0,309,0.0001
-52,Straight,0,309,0.0001
-75,The,34,315,0.0001
-73,Drugs,9,379,0.0001
-181,,0,1079,0.0001
+1,de,16,0,Not significant
+2,cookbook,21,0,Not significant
+0,...,0,0,Not significant
+2,my,26,0,Not significant
+2,megapack,45,0,Not significant
+2,tutorials,32,0,Not significant
+3,complete,69,0,Not significant
+3,free,93,0,Not significant
+1,business,16,0,Not significant
+1,amphetamine,27,0,Not significant
+1,analysis,8,0,Not significant
+2,ebook,21,0,Not significant
+4,guides,58,0,Not significant
+1,art,31,0,Not significant
+4,on,56,0,Not significant
+2,edition,56,0,Not significant
+1,modern,8,0,Not significant
+8,pack,113,1,Not significant
+13,guide,433,1,Not significant
+20,how,592,1,Not significant
+7,and,234,1,Not significant
+1,open,6,1,Not significant
+1,syntheses,5,1,Not significant
+1,overview,4,1,Not significant
+2,recipes,19,1,Not significant
+1,ayahuasca,4,1,Not significant
+2,heroin,12,2,Not significant
+2,essential,13,2,Not significant
+1,successfully,2,2,Not significant
+2,gold,11,2,Not significant
+1,genetics,2,2,Not significant
+3,mdma,23,2,Not significant
+1,scientific,2,2,Not significant
+1,gu,3,2,Not significant
+1,love,3,2,Not significant
+1,around,2,2,Not significant
+1,132,2,2,Not significant
+1,future,3,2,Not significant
+17,of,263,2,Not significant
+2,safely,9,3,Not significant
+2,12,7,3,Not significant
+33,to,1038,3,Not significant
+1,successful,1,3,Not significant
+1,136,1,3,Not significant
+4,web,32,3,Not significant
+1,88,1,3,Not significant
+1,44,1,3,Not significant
+1,manifesto,1,3,Not significant
+2,great,9,3,Not significant
+2,other,8,3,Not significant
+3,world,13,4,0.05
+2,super,5,4,0.05
+2,history,5,4,0.05
+2,definitive,6,4,0.05
+4,cocaine,23,4,0.05
+2,ecstasy,4,5,0.05
+1,in,129,5,0.05
+2,snow,3,6,0.05
+1,analoge-ott,0,6,0.05
+1,aprendiendo,0,6,0.05
+2,social,3,6,0.05
+2,otto,3,6,0.05
+1,ages,0,6,0.05
+2,narcotics,3,6,0.05
+1,ls,0,6,0.05
+1,hashmaking,0,6,0.05
+1,mex,0,6,0.05
+1,microgram,0,6,0.05
+1,lee,0,6,0.05
+1,las,0,6,0.05
+1,jesse,0,6,0.05
+1,professor,0,6,0.05
+1,revolutio,0,6,0.05
+1,smoker,0,6,0.05
+1,james,0,6,0.05
+1,chemical,0,6,0.05
+1,fadim,0,6,0.05
+1,explorer,0,6,0.05
+1,drogas,0,6,0.05
+1,dreams.the,0,6,0.05
+1,dreams,0,6,0.05
+2,pr,3,6,0.05
+1,doctor,0,6,0.05
+1,blotter,0,6,0.05
+1,venturas,0,6,0.05
+2,sleep,2,7,0.01
+3,magic,7,7,0.01
+2,d.,2,7,0.01
+2,diet,2,7,0.01
+4,alcohol,13,8,0.01
+3,almost,5,8,0.01
+3,psychedelic,6,8,0.01
+2,problem,1,9,0.01
+2,pot,1,9,0.01
+2,delicious,1,9,0.01
+2,body,1,9,0.01
+2,field,1,9,0.01
+2,grower,1,9,0.01
+2,43,1,9,0.01
+2,smoke,0,12,0.001
+2,uses,0,12,0.001
+2,reconsidered,0,12,0.001
+2,strassman,0,12,0.001
+2,sacred,0,12,0.001
+2,ritalin,0,12,0.001
+2,rick,0,12,0.001
+2,reflections,0,12,0.001
+2,recreational,0,12,0.001
+4,2.0,6,12,0.001
+2,hydroponics,0,12,0.001
+2,psychotherapy,0,12,0.001
+2,highbrow,0,12,0.001
+2,hallucinogens,0,12,0.001
+2,hal,0,12,0.001
+2,enhancement,0,12,0.001
+2,dosing,0,12,0.001
+2,disease,0,12,0.001
+2,acid,0,12,0.001
+2,aids,0,12,0.001
+2,alzheimer,0,12,0.001
+2,designer,0,12,0.001
+2,date,0,12,0.001
+2,anti-depressants,0,12,0.001
+2,buzz,0,12,0.001
+2,child,0,12,0.001
+2,cubensis,0,12,0.001
+2,how-to,0,12,0.001
+2,rape,0,12,0.001
+2,abused,0,12,0.001
+2,25i-nbome,0,12,0.001
+2,psychedelics,0,12,0.001
+2,psilocybe,0,12,0.001
+2,properly,0,12,0.001
+2,proffessor,0,12,0.001
+2,producers,0,12,0.001
+2,producer,0,12,0.001
+2,implications,0,12,0.001
+2,prescription,0,12,0.001
+2,pain,0,12,0.001
+2,opium,0,12,0.001
+2,nicotine,0,12,0.001
+2,neurochemistry,0,12,0.001
+2,morphine,0,12,0.001
+2,magazines,0,12,0.001
+2,inhalants,0,12,0.001
+2,pills,0,12,0.001
+2,codeine,0,12,0.001
+4,revolution,5,13,0.001
+4,sell,4,14,0.001
+4,off,4,14,0.001
+6,books,13,15,0.0001
+4,that,3,16,0.0001
+7,lsd,18,16,0.0001
+5,high,5,18,0.0001
+4,as,2,18,0.0001
+3,alchemy,0,19,0.0001
+4,changing,1,20,0.0001
+5,abuse,2,23,0.0001
+5,reference,2,23,0.0001
+4,therapeutics,0,25,0.0001
+4,cannabinoids,0,25,0.0001
+4,twice,0,25,0.0001
+4,mexico,0,25,0.0001
+4,weed,0,25,0.0001
+4,medical,0,25,0.0001
+12,handbook,31,28,0.0001
+10,cannabis,18,28,0.0001
+6,mushroom,2,29,0.0001
+9,pass,11,30,0.0001
+11,dmt,17,34,0.0001
+6,index,0,38,0.0001
+8,guidebook,2,41,0.0001
+12,mushrooms,12,44,0.0001
+9,test,1,50,0.0001
+18,marijuana,33,51,0.0001
+9,spirit,0,57,0.0001
+9,molecule,0,57,0.0001
+23,drug,18,91,0.0001
+19,psilocybin,1,113,0.0001
+87,the,441,119,0.0001
+52,straight,1,321,0.0001
+52,facts,0,331,0.0001
+72,drugs,18,370,0.0001

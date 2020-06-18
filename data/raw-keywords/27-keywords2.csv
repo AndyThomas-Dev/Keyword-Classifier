@@ -1,4 +1,5 @@
 freq,word
+0,...
 1,boost
 1,bureau
 1,in
@@ -51,7 +52,6 @@ freq,word
 10,and
 12,report
 13,from
-14,...
 14,your
 16,create
 17,cpn

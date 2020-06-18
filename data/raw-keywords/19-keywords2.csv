@@ -1,4 +1,6 @@
 freq,word
+0,'s
+0,...
 1,-1417
 1,-406
 1,10.000
@@ -135,7 +137,6 @@ freq,word
 4,school
 4,tutorials
 4,▓▒░
-5,'s
 5,dummies
 6,14gb
 6,2gb
@@ -173,5 +174,4 @@ freq,word
 22,hacker
 29,to
 36,the
-41,...
 62,hacking

@@ -1,5 +1,6 @@
 freq,word
-1,'s
+0,'s
+0,...
 1,about
 1,and
 1,ass
@@ -92,7 +93,6 @@ freq,word
 6,ipvanish.com
 9,free
 10,warranty
-14,...
 32,premium
 36,lifetime
 38,vpn

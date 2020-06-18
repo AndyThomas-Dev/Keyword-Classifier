@@ -1,7 +1,6 @@
 freq,word,exfreq,LL,sig
-2,dummies,42,6,0.01
+2,dummies,43,6,0.01
 1,hands,2,7,0.01
-1,essentials,2,7,0.01
 2,book,28,8,0.01
 2,top,14,10,0.001
 1,rootkits,0,11,0.001
@@ -13,10 +12,10 @@ freq,word,exfreq,LL,sig
 2,source,3,16,0.0001
 2,black,2,17,0.0001
 2,stealing,0,22,0.0001
-2,phildelphia,0,22,0.0001
 2,others,0,22,0.0001
+2,phildelphia,0,22,0.0001
 2,ransomware,0,22,0.0001
-3,analysis,5,23,0.0001
+3,analysis,6,22,0.0001
 4,computer,12,27,0.0001
 4,viruses,0,45,0.0001
 6,malware,8,49,0.0001

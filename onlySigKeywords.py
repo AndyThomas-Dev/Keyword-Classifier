@@ -16,7 +16,7 @@ for corpusId in range(35):
 
     outputFile = "data/use-keywords/" + str(corpusId) + "-keywords2.csv"
     new.to_csv(outputFile, index=False, header=True)
-    
+
     corpusId = corpusId + 1
 
 

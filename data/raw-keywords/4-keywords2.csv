@@ -1,4 +1,6 @@
 freq,word
+0,'s
+0,...
 1,-2657
 1,-antidetect
 1,-fraud
@@ -432,7 +434,6 @@ freq,word
 17,all
 17,dumps
 17,paypal
-18,'s
 18,be
 18,best
 18,ebay
@@ -475,6 +476,5 @@ freq,word
 81,for
 84,guide
 108,how
-129,...
 166,to
 488,carding

@@ -13,13 +13,4 @@ def sumAllWords():
         raw = pd.read_csv(fileName, usecols=[0])
         values[i] = raw['freq'].sum()
 
-    # arrayValues = [0] * 35
-    #
-    # for i in values:
-    #     arrayValues[i] = int(values[i])
-
     return values
-
-
-x = sumAllWords()
-print(x)

@@ -1,19 +1,19 @@
 freq,word,exfreq,LL,sig
-3,...,737,0,Not significant
-4,to,949,0,Not significant
-2,of,274,1,Not significant
-4,how,457,3,Not significant
+0,...,0,0,Not significant
+4,to,1067,0,Not significant
+2,of,278,1,Not significant
+4,how,608,1,Not significant
+2,pack,119,3,Not significant
 3,for,269,3,Not significant
-2,pack,97,4,0.05
-2,guides,50,6,0
-2,easy,39,7,0
+2,guides,60,5,0.05
+2,easy,49,6,0.05
 2,ways,28,8,0.01
-2,very,22,9,0.01
-2,10,10,12,0
+2,very,24,9,0.01
+2,10,10,12,0.001
 3,wireless,13,19,0.0001
-2,nice,0,23,0
-3,models,2,28,0.0001
-8,your,130,32,0.0001
+2,nice,0,23,0.0001
+3,models,2,27,0.0001
+8,your,135,31,0.0001
 3,complex,0,34,0.0001
 3,diffusion,0,34,0.0001
 4,virus,1,41,0.0001

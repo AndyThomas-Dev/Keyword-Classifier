@@ -1,4 +1,6 @@
 freq,word
+0,'s
+0,...
 1,guaranteed
 1,one
 1,proof
@@ -23,7 +25,6 @@ freq,word
 3,day
 3,double
 3,your
-4,'s
 4,earn
 4,limited
 4,offer
@@ -39,7 +40,6 @@ freq,word
 8,to
 10,alt-coins
 10,ton
-12,...
 12,of
 15,100
 16,money

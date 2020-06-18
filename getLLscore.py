@@ -15,12 +15,12 @@ def getTotalLLScore(searchTerm):
 
 
 def getLLscore(searchTerm, corpusId):
-    fileName = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
+    fileName = "data/use-keywords/" + str(corpusId) + "-keywords2.csv"
     raw = pd.read_csv(fileName, usecols=[0, 1, 2, 3, 4])
 
     for i in range(len(raw)):
 
-        if raw["word"][i][2:-1] == searchTerm:
+        if raw["word"][i] == searchTerm:
             value = raw["LL"][i]
             return value
 
@@ -51,6 +51,7 @@ def tokeniseString(string):
 
     for token in nltk_tokens:
         result = getTotalLLScore(token)
+        print(token, result)
 
         for i in range(35):
             sumAll[i] = sumAll[i] + result[i]
@@ -59,7 +60,8 @@ def tokeniseString(string):
     return sumAll
 
 
-x = "Australia and New Zealand"
+# Testing features
+x = "mdma synthesis for beginners"
 array = tokeniseString(x.lower())
 
 print('Max value in Dict: ', max(array))

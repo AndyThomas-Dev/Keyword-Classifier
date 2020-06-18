@@ -1,5 +1,6 @@
 freq,word
-1,'s
+0,'s
+0,...
 1,10
 1,11
 1,13
@@ -101,6 +102,5 @@ freq,word
 6,guide
 6,the
 8,and
-12,...
 12,digital
 37,forensics
