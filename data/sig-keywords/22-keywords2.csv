@@ -1,20 +1,20 @@
 freq,word,exfreq,LL,sig
-1,hack,59,1,Not significant
-6,to,1065,1,Not significant
-1,anonymous,46,2,Not significant
-1,or,44,2,Not significant
-1,``,6,5,0
-6,the,522,6,0.05
-7,how,605,7,0.01
-1,spoofer,2,7,0.01
-1,'',0,11,0
+0,how,0,0,Not significant
+0,to,0,0,Not significant
+1,hack,67,1,Not significant
+1,anonymous,45,2,Not significant
+1,or,54,2,Not significant
+1,``,8,5,0.05
+1,'',6,6,0.05
+6,the,556,7,0.01
+1,spoofer,1,8,0.01
 1,intercept,0,11,0.001
-6,of,274,12,0.001
-2,phone,7,13,0.001
-2,call,0,22,0.0001
-6,get,94,23,0.0001
-6,an,18,41,0.0001
-6,id,11,46,0.0001
-6,number,9,48,0.0001
-6,unknown,0,68,0.0001
-6,caller,0,68,0.0001
+2,phone,8,13,0.001
+6,of,295,13,0.001
+2,call,0,23,0.0001
+6,get,106,24,0.0001
+6,an,18,43,0.0001
+6,id,15,45,0.0001
+6,number,13,46,0.0001
+6,caller,0,70,0.0001
+6,unknown,0,70,0.0001

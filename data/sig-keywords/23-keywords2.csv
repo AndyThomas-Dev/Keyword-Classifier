@@ -1,53 +1,80 @@
 freq,word,exfreq,LL,sig
 0,...,0,0,Not significant
-3,and,238,0,Not significant
-2,money,109,0,Not significant
-1,paypal,177,0,Not significant
-4,for,268,0,Not significant
-3,guide,443,1,Not significant
-2,easy,49,1,Not significant
-1,10,11,2,Not significant
-4,get,96,3,0.05
-1,13,5,3,Not significant
-1,21,5,3,Not significant
-2,ebook,21,4,0.05
-1,38,3,4,0.05
-1,40,3,4,0.05
-1,poker,3,4,0.05
-4,free,92,4,0.05
-2,earn,17,5,0.05
-1,securing,2,5,0.05
-1,19,2,5,0.05
-1,46,2,5,0.05
-1,43,2,5,0.05
-1,44,1,6,0.05
-3,web,33,6,0.05
-4,account,58,6,0.01
-1,26,1,6,0.05
-3,ways,27,7,0.01
-2,exposed,7,8,0.01
-1,cheating,0,8,0.01
-2,pages,6,8,0.01
-1,▄▀▄▀▄▀▄▀▄▀▄▀▄,0,8,0.01
-4,premium,34,10,0.01
-2,youtube,2,12,0.001
-4,any,24,12,0.001
-30,to,1041,15,0.0001
-4,casino,12,17,0.0001
-2,fan,0,17,0.0001
-3,applications,3,18,0.0001
-4,exploit,8,20,0.0001
-7,accounts,34,24,0.0001
-27,how,585,30,0.0001
-6,fast,7,34,0.0001
-4,netflix,0,35,0.0001
-5,gmail,2,35,0.0001
-4,hotmail,0,35,0.0001
-6,reliable,0,52,0.0001
-10,system,17,52,0.0001
-16,hacking,87,53,0.0001
-12,very,14,69,0.0001
-15,online,27,77,0.0001
-10,multi-hacker,0,87,0.0001
-13,facebook,1,106,0.0001
-22,hack,38,115,0.0001
+0,how,0,0,Not significant
+0,make,0,0,Not significant
+0,to,0,0,Not significant
+6,paypal,184,0,Not significant
+4,your,151,0,Not significant
+4,with,153,0,Not significant
+4,in,138,0,Not significant
+4,for,287,0,Not significant
+5,tutorial,119,1,Not significant
+4,free,94,1,Not significant
+2,pro,40,1,Not significant
+6,guide,452,1,Not significant
+1,10,12,1,Not significant
+2,ebook,21,2,Not significant
+1,38,4,2,Not significant
+1,40,4,2,Not significant
+1,21,4,2,Not significant
+1,13,6,2,Not significant
+3,web,37,3,Not significant
+1,poker,3,3,Not significant
+1,19,3,3,Not significant
+1,46,2,4,0.05
+1,securing,2,4,0.05
+1,43,2,4,0.05
+1,32,2,4,0.05
+3,ways,27,4,0.05
+5,complete,73,4,0.05
+1,26,1,5,0.05
+1,44,1,5,0.05
+12,and,256,5,0.05
+2,code,10,5,0.05
+4,premium,34,6,0.01
+2,exposed,7,6,0.05
+4,mobile,35,6,0.01
+7,ultimate,92,7,0.01
+1,cheating,0,7,0.01
+2,youtube,4,8,0.01
+6,easy,51,10,0.01
+5,hacked,35,10,0.01
+4,own,18,10,0.001
+9,get,103,11,0.001
+10,money,114,12,0.001
+4,number,15,12,0.001
+4,bypass,12,13,0.001
+4,casino,12,13,0.001
+4,test,10,14,0.001
+3,applications,3,15,0.001
+2,serial,0,15,0.0001
+2,blaster,0,15,0.0001
+4,exploit,8,16,0.0001
+6,earn,25,17,0.0001
+4,cracker,3,21,0.0001
+4,bot,2,23,0.0001
+5,v2,5,25,0.0001
+5,followers,4,26,0.0001
+6,fast,7,28,0.0001
+5,unlimited,3,28,0.0001
+5,gmail,2,30,0.0001
+6,pages,6,30,0.0001
+5,login,2,30,0.0001
+4,netflix,0,31,0.0001
+4,vertification,0,31,0.0001
+4,blackhat,0,31,0.0001
+4,hotmail,0,31,0.0001
+9,any,24,32,0.0001
+13,account,59,35,0.0001
+5,skype,0,38,0.0001
+12,accounts,37,40,0.0001
+10,system,17,42,0.0001
+6,fan,0,46,0.0001
+6,reliable,0,46,0.0001
+12,very,14,57,0.0001
+15,online,29,61,0.0001
+24,hacking,89,72,0.0001
+10,multi-hacker,0,77,0.0001
+17,instagram,2,119,0.0001
+31,hack,37,148,0.0001
+31,facebook,1,231,0.0001

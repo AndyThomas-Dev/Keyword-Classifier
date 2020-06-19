@@ -1,6 +1,8 @@
 freq,word
 0,'s
 0,...
+0,how
+0,to
 1,-1417
 1,-406
 1,10.000
@@ -145,7 +147,6 @@ freq,word
 6,hackers
 6,hackpack
 6,handbook
-6,how
 6,massive
 6,underground
 6,updated
@@ -172,6 +173,5 @@ freq,word
 17,for
 21,hack
 22,hacker
-29,to
 36,the
 62,hacking

@@ -1,4 +1,6 @@
 freq,word
+0,how
+0,to
 1,''
 1,``
 1,anonymous
@@ -15,6 +17,4 @@ freq,word
 6,number
 6,of
 6,the
-6,to
 6,unknown
-7,how

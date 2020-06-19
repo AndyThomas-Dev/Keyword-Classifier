@@ -61,8 +61,8 @@ def tokeniseString(string):
 
 
 # Testing features
-# x = "Make a tax lien disappear"
-# array = tokeniseString(x.lower())
-#
-# print('Max value in Dict: ', max(array))
-# print('Key With Max value in Dict: ', getLabel(array))
+x = "ANONYMOUS SAFE EMAIL ACCOUNT"
+array = tokeniseString(x.lower())
+
+print('Max value in Dict: ', max(array))
+print('Key With Max value in Dict: ', getLabel(array))

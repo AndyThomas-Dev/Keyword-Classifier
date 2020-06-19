@@ -1,60 +1,67 @@
 freq,word,exfreq,LL,sig
 0,...,0,0,Not significant
-1,secrets,37,0,Not significant
-1,pack,120,0,Not significant
-2,with,145,0,Not significant
-1,in,129,0,Not significant
-2,for,270,1,Not significant
-2,accounts,39,2,Not significant
-22,to,1049,2,Not significant
-2,making,35,2,Not significant
-2,items,25,3,Not significant
-2,info,9,6,0.01
-10,and,231,7,0.01
-1,bureau,0,8,0.01
-2,user,5,8,0.01
-4,new,36,8,0.01
+2,with,155,0,Not significant
+1,secrets,41,0,Not significant
+1,pack,135,0,Not significant
+1,in,141,0,Not significant
+0,to,0,0,Not significant
+0,how,0,0,Not significant
+2,accounts,47,1,Not significant
+1,50,14,1,Not significant
+2,making,38,1,Not significant
+1,51,2,4,0.05
+10,for,281,4,0.05
+2,items,16,4,0.05
+1,49,2,4,0.05
+1,52,1,5,0.05
+10,and,258,5,0.05
+4,new,38,7,0.01
+1,sys,0,8,0.01
+7,get,105,8,0.01
 1,boost,0,8,0.01
-1,█★,0,8,0.01
-2,line,4,9,0.01
+2,user,5,8,0.01
 2,remove,4,9,0.01
-7,get,93,10,0.001
-2,cre,1,13,0.001
-2,contact,0,16,0.0001
-2,au,0,16,0.0001
-2,vendor,0,16,0.0001
-2,authorised,0,16,0.0001
-2,tri-merged,0,16,0.0001
-2,scores,0,16,0.0001
-2,ri,0,16,0.0001
-2,resale,0,16,0.0001
-2,reputable,0,16,0.0001
-2,primaries,0,16,0.0001
-2,bureaus,0,16,0.0001
+2,line,4,9,0.01
+6,or,49,13,0.001
 2,tradelines-,0,16,0.0001
+2,au,0,16,0.0001
+2,authorised,0,16,0.0001
 2,mega-system,0,16,0.0001
-25,how,587,19,0.0001
+2,scores,0,16,0.0001
+2,primaries,0,16,0.0001
+2,resale,0,16,0.0001
+2,ri,0,16,0.0001
+2,tri-merged,0,16,0.0001
+4,info,9,17,0.0001
+5,number,14,19,0.0001
+4,identity,5,20,0.0001
 4,negative,4,22,0.0001
-4,identity,4,22,0.0001
-5,number,10,23,0.0001
-3,ghosts,0,25,0.0001
-5,high,5,28,0.0001
-13,from,113,29,0.0001
-6,own,10,29,0.0001
-14,your,129,30,0.0001
+6,personal,19,22,0.0001
+3,ghosts,0,24,0.0001
+3,bureaus,0,24,0.0001
+6,own,16,24,0.0001
+5,high,8,24,0.0001
+13,from,124,25,0.0001
+14,your,141,26,0.0001
+4,cre,1,28,0.0001
+4,vendor,0,33,0.0001
+4,teste,0,33,0.0001
 4,score,0,33,0.0001
 4,collections,0,33,0.0001
-4,teste,0,33,0.0001
-5,scratch,0,42,0.0001
-6,delete,1,44,0.0001
-8,trade,6,48,0.0001
-6,add,0,50,0.0001
-8,clone,5,50,0.0001
-8,it,4,52,0.0001
-8,profile,0,67,0.0001
-8,tri-merge,0,67,0.0001
-8,lines,0,67,0.0001
-21,credit,76,77,0.0001
-12,report,0,100,0.0001
-16,create,3,118,0.0001
-17,cpn,0,143,0.0001
+4,contact,0,33,0.0001
+4,reputable,0,33,0.0001
+5,scratch,0,41,0.0001
+8,trade,9,42,0.0001
+6,delete,1,43,0.0001
+8,clone,8,44,0.0001
+6,repair,0,49,0.0001
+6,tradeline,0,49,0.0001
+8,it,5,49,0.0001
+6,add,0,49,0.0001
+8,profile,0,66,0.0001
+8,tri-merge,0,66,0.0001
+8,lines,0,66,0.0001
+12,report,1,92,0.0001
+16,create,7,104,0.0001
+27,credit,76,107,0.0001
+25,cpn,0,206,0.0001

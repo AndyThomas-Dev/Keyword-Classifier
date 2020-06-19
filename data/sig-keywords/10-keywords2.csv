@@ -1,27 +1,27 @@
 freq,word,exfreq,LL,sig
 0,...,0,0,Not significant
-1,and,240,0,Not significant
+1,and,267,0,Not significant
 1,megapack,46,2,Not significant
 1,software,15,4,0.05
-4,for,268,6,0.05
+4,for,287,5,0.05
+3,you,62,10,0.001
 1,ddosers,0,11,0.001
 1,defen,0,11,0.001
-3,you,62,11,0.001
-3,methods,38,13,0.001
-2,tools,8,13,0.001
-2,linux,6,14,0.001
-3,all,35,14,0.001
-3,ever,22,16,0.0001
+3,methods,39,13,0.001
+3,all,37,13,0.001
+2,linux,8,13,0.001
+2,tools,6,14,0.001
+3,ever,23,16,0.0001
+2,build,2,17,0.0001
 2,defending,1,19,0.0001
-2,stresser,0,23,0.0001
-2,build,0,23,0.0001
-2,botnet,0,23,0.0001
 2,ghostsquad,0,23,0.0001
+2,botnet,0,23,0.0001
+2,stresser,0,23,0.0001
 3,perl,1,30,0.0001
-3,could,0,35,0.0001
-3,dos,0,35,0.0001
-3,experimental,0,35,0.0001
-3,imagin,0,35,0.0001
-3,scripts,0,35,0.0001
-3,theoretical,0,35,0.0001
-6,ddos,1,64,0.0001
+3,could,0,34,0.0001
+3,dos,0,34,0.0001
+3,experimental,0,34,0.0001
+3,imagin,0,34,0.0001
+3,scripts,0,34,0.0001
+3,theoretical,0,34,0.0001
+6,ddos,0,69,0.0001

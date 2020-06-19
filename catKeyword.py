@@ -5,7 +5,8 @@ from getLLscore import tokeniseString, getLabel
 # Calculates a LLscore for each entry and assigns a category based on this
 
 # Nrows: determines how many rows to sort.
-raw = pd.read_csv(r"data/source/market/full_listings.csv", usecols=[5, 8], nrows=4)
+lines = 3930
+raw = pd.read_csv(r"data/source/market/full_listings.csv", usecols=[5, 7], nrows=lines)
 
 # Add new columns
 raw.insert(2, "LLSum", 0)
@@ -20,7 +21,7 @@ for i in range(len(raw)):
         raw["AutoCat"][i] = "eBooks – Other"
     else:
         array = tokeniseString(raw["subject"][i].lower())
-        print(i, "--", i/3800, "%")
+        print(i, "--", i/lines, "%")
         print(raw["subject"][i])
         print('Max value in Dict: ', max(array))
         print('Key With Max value in Dict: ', getLabel(array))
@@ -31,4 +32,4 @@ for i in range(len(raw)):
         raw["LLSum"][i] = max(array)
 
 
-raw.to_csv(r'data/sorted_listings_cat6.csv', index=False, header=True)
+raw.to_csv(r'data/sorted_listings_cat7.csv', index=False, header=True)
