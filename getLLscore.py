@@ -27,20 +27,37 @@ def getLLscore(searchTerm, corpusId):
     return 0
 
 
+def allValuesZero(sumAll):
+    count = 0
+    for i in range(35):
+        if sumAll[0] == 0:
+            count = count + 1
+    if count == 34:
+        return True
+    else:
+        return False
+
+
 def getLabel(sumAll):
-    var = {sumAll[0]: "Anonymity – Other", sumAll[1]: "Anonymity – Tor", sumAll[2]: "Anonymity – VPN",
-           sumAll[3]: "Anonymity – Proxies", sumAll[4]: "Carding", sumAll[5]: "Cashing Out",
-           sumAll[6]: "Clearing Criminal History", sumAll[7]: "Counterfeit Currency", sumAll[8]: "Cryptocurrency – "
-                                                                                                 "General",
-           sumAll[9]: "Cryptocurrency – Trading", sumAll[10]: "Denial of Service", sumAll[11]: "Digital Forensics",
-           sumAll[12]: "Doxing", sumAll[13]: "Drugs – General", sumAll[14]: "Drugs – Production",
-           sumAll[15]: "eBooks – Other", sumAll[16]: "eBooks – Technical", sumAll[17]: "eWhoring",
-           sumAll[18]: "Fraud", sumAll[19]: "Hacking – General", sumAll[20]: "Hacking – Malware Supply Chain",
-           sumAll[21]: "Hacking – Mobile", sumAll[22]: "Hacking – Phreaking", sumAll[23]: "Hacking – Website",
-           sumAll[24]: "Hacking – Wireless Networks", sumAll[25]: "Lockpicking", sumAll[26]: "Malware Authorship",
-           sumAll[27]: "Modifying Credit", sumAll[28]: "Other", sumAll[29]: "PGP/GPG",
-           sumAll[30]: "Resources – Contact Lists", sumAll[31]: "Resources – Identity Documents", sumAll[32]: "SEO",
-           sumAll[33]: "Transportation/Stealth", sumAll[34]: "Weaponry & Explosives"}
+    threshold = 80
+    if max(sumAll) < threshold:
+        return "Other"
+    elif allValuesZero(sumAll):
+        return "Other"
+    else:
+        var = {sumAll[0]: "Anonymity – Other", sumAll[1]: "Anonymity – Tor", sumAll[2]: "Anonymity – VPN",
+               sumAll[3]: "Anonymity – Proxies", sumAll[4]: "Carding", sumAll[5]: "Cashing Out",
+               sumAll[6]: "Clearing Criminal History", sumAll[7]: "Counterfeit Currency", sumAll[8]: "Cryptocurrency – "
+                                                                                                     "General",
+               sumAll[9]: "Cryptocurrency – Trading", sumAll[10]: "Denial of Service", sumAll[11]: "Digital Forensics",
+               sumAll[12]: "Doxing", sumAll[13]: "Drugs – General", sumAll[14]: "Drugs – Production",
+               sumAll[15]: "eBooks – Other", sumAll[16]: "eBooks – Technical", sumAll[17]: "eWhoring",
+               sumAll[18]: "Fraud", sumAll[19]: "Hacking – General", sumAll[20]: "Hacking – Malware Supply Chain",
+               sumAll[21]: "Hacking – Mobile", sumAll[22]: "Hacking – Phreaking", sumAll[23]: "Hacking – Website",
+               sumAll[24]: "Hacking – Wireless Networks", sumAll[25]: "Lockpicking", sumAll[26]: "Malware Authorship",
+               sumAll[27]: "Modifying Credit", sumAll[28]: "Other", sumAll[29]: "PGP/GPG",
+               sumAll[30]: "Resources – Contact Lists", sumAll[31]: "Resources – Identity Documents", sumAll[32]: "SEO",
+               sumAll[33]: "Transportation/Stealth", sumAll[34]: "Weaponry & Explosives"}
 
     return var.get(max(var))
 
@@ -61,7 +78,7 @@ def tokeniseString(string):
 
 
 # Testing features
-x = "ANONYMOUS SAFE EMAIL ACCOUNT"
+x = "pm's"
 array = tokeniseString(x.lower())
 
 print('Max value in Dict: ', max(array))

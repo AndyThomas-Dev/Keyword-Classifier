@@ -32,7 +32,7 @@ for corpusId in range(35):
 
         for token in nltk_tokens:
             if (token == item) & (token != "...") & (token != "'s") & (token != "how") & (token != "to") & \
-                    (token != "make"):
+                    (token != "make") & (token != "and"):
                 count = count + 1
 
         inputString = count, item
