@@ -1,80 +1,115 @@
 freq,word,exfreq,LL,sig
+0,'s,0,0,Not significant
+1,uk,40,0,Not significant
+1,website,20,0,Not significant
+1,site,19,0,Not significant
+2,from,175,0,Not significant
+1,on,103,0,Not significant
+1,massive,18,0,Not significant
+4,in,169,0,Not significant
+4,your,189,0,Not significant
+1,day,44,0,Not significant
+1,an,38,0,Not significant
+5,with,199,0,Not significant
+1,vouched,34,0,Not significant
+0,to,0,0,Not significant
 0,...,0,0,Not significant
+0,and,0,0,Not significant
+8,guide,548,0,Not significant
 0,how,0,0,Not significant
 0,make,0,0,Not significant
-0,to,0,0,Not significant
-6,paypal,184,0,Not significant
-4,your,151,0,Not significant
-4,with,153,0,Not significant
-4,in,138,0,Not significant
-4,for,287,0,Not significant
-5,tutorial,119,1,Not significant
-4,free,94,1,Not significant
-2,pro,40,1,Not significant
-6,guide,452,1,Not significant
 1,10,12,1,Not significant
-2,ebook,21,2,Not significant
-1,38,4,2,Not significant
-1,40,4,2,Not significant
-1,21,4,2,Not significant
+4,for,383,1,Not significant
+1,never,10,1,Not significant
+5,tutorial,138,1,Not significant
+1,into,15,1,Not significant
+4,free,125,1,Not significant
+7,paypal,230,1,Not significant
+1,master,10,1,Not significant
 1,13,6,2,Not significant
-3,web,37,3,Not significant
-1,poker,3,3,Not significant
+1,poker,4,3,Not significant
+1,maker,4,3,Not significant
+1,38,4,3,Not significant
+1,21,4,3,Not significant
+2,ebook,23,3,Not significant
+1,40,4,3,Not significant
 1,19,3,3,Not significant
-1,46,2,4,0.05
+3,pro,42,3,Not significant
 1,securing,2,4,0.05
-1,43,2,4,0.05
+5,complete,83,4,0.05
 1,32,2,4,0.05
-3,ways,27,4,0.05
-5,complete,73,4,0.05
+1,46,2,4,0.05
+1,43,2,4,0.05
+3,web,37,4,0.05
+3,ways,29,5,0.05
+1,vobinator,1,5,0.05
+1,anywhere,1,5,0.05
 1,26,1,5,0.05
+1,500/day,1,5,0.05
+2,code,12,5,0.05
 1,44,1,5,0.05
-12,and,256,5,0.05
-2,code,10,5,0.05
-4,premium,34,6,0.01
-2,exposed,7,6,0.05
-4,mobile,35,6,0.01
-7,ultimate,92,7,0.01
-1,cheating,0,7,0.01
+1,ma,1,5,0.05
+2,exposed,7,6,0.01
+1,of,348,6,0.01
+4,premium,37,7,0.01
+4,mobile,36,7,0.01
+1,â£120,0,8,0.01
+1,casinos,0,8,0.01
+5,hacked,49,8,0.01
+1,adsense,0,8,0.01
+1,twitter,0,8,0.01
+1,cheating,0,8,0.01
+1,fiverr,0,8,0.01
+7,ultimate,102,8,0.01
+1,1.17,0,8,0.01
+1,gaming,0,8,0.01
+1,large,0,8,0.01
+1,havij,0,8,0.01
+1,adverts,0,8,0.01
+1,â£60,0,8,0.01
+1,suspended/limited,0,8,0.01
+1,sophisti,0,8,0.01
+1,onlline,0,8,0.01
+1,revered,0,8,0.01
 2,youtube,4,8,0.01
-6,easy,51,10,0.01
-5,hacked,35,10,0.01
-4,own,18,10,0.001
-9,get,103,11,0.001
-10,money,114,12,0.001
-4,number,15,12,0.001
-4,bypass,12,13,0.001
-4,casino,12,13,0.001
-4,test,10,14,0.001
-3,applications,3,15,0.001
-2,serial,0,15,0.0001
-2,blaster,0,15,0.0001
-4,exploit,8,16,0.0001
-6,earn,25,17,0.0001
-4,cracker,3,21,0.0001
-4,bot,2,23,0.0001
-5,v2,5,25,0.0001
-5,followers,4,26,0.0001
-6,fast,7,28,0.0001
-5,unlimited,3,28,0.0001
-5,gmail,2,30,0.0001
-6,pages,6,30,0.0001
-5,login,2,30,0.0001
-4,netflix,0,31,0.0001
-4,vertification,0,31,0.0001
-4,blackhat,0,31,0.0001
-4,hotmail,0,31,0.0001
-9,any,24,32,0.0001
-13,account,59,35,0.0001
-5,skype,0,38,0.0001
-12,accounts,37,40,0.0001
-10,system,17,42,0.0001
-6,fan,0,46,0.0001
-6,reliable,0,46,0.0001
-12,very,14,57,0.0001
-15,online,29,61,0.0001
-24,hacking,89,72,0.0001
-10,multi-hacker,0,77,0.0001
-17,instagram,2,119,0.0001
-31,hack,37,148,0.0001
-31,facebook,1,231,0.0001
+1,si,0,8,0.01
+4,own,25,9,0.01
+4,number,20,11,0.001
+10,get,134,12,0.001
+7,easy,64,13,0.001
+10,money,129,13,0.001
+4,bypass,12,14,0.001
+4,casino,12,14,0.001
+4,test,12,14,0.001
+3,applications,3,16,0.0001
+2,blaster,0,16,0.0001
+2,serial,0,16,0.0001
+6,earn,28,17,0.0001
+4,blackhat,3,22,0.0001
+4,cracker,3,22,0.0001
+4,bot,2,24,0.0001
+5,v2,5,26,0.0001
+5,unlimited,5,26,0.0001
+5,followers,4,28,0.0001
+5,login,3,29,0.0001
+9,any,34,29,0.0001
+6,fast,7,30,0.0001
+13,account,85,31,0.0001
+4,hotmail,0,32,0.0001
+6,pages,6,32,0.0001
+5,gmail,2,32,0.0001
+4,vertification,0,32,0.0001
+4,netflix,0,32,0.0001
+5,skype,1,35,0.0001
+12,accounts,47,39,0.0001
+6,reliable,1,42,0.0001
+10,system,17,45,0.0001
+6,fan,0,48,0.0001
+9,exploit,8,49,0.0001
+15,online,36,60,0.0001
+13,very,15,66,0.0001
+10,multi-hacker,0,80,0.0001
+25,hacking,95,82,0.0001
+17,instagram,2,124,0.0001
+31,hack,43,151,0.0001
+32,facebook,1,249,0.0001

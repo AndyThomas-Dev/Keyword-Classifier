@@ -1,81 +1,223 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,with,156,0,Not significant
-1,your,154,0,Not significant
-1,out,82,0,Not significant
-2,in,140,0,Not significant
-5,the,557,0,Not significant
-1,from,136,0,Not significant
-1,account,71,0,Not significant
+1,full,26,0,Not significant
+7,from,170,0,Not significant
+1,here,13,0,Not significant
+12,guide,544,0,Not significant
+1,iphone,15,0,Not significant
+1,up,31,0,Not significant
+1,it,31,0,Not significant
+1,le,15,0,Not significant
+1,pi,14,0,Not significant
+1,link,13,0,Not significant
+1,security,77,0,Not significant
+1,must,21,0,Not significant
+1,n't,11,0,Not significant
+1,report,12,0,Not significant
+1,only,20,0,Not significant
+1,other,14,0,Not significant
+1,own,28,0,Not significant
+1,raspberry,14,0,Not significant
+1,this,27,0,Not significant
+2,complete,86,0,Not significant
+6,with,198,0,Not significant
+2,you,106,0,Not significant
+1,anonymity,17,0,Not significant
+1,are,12,0,Not significant
+2,ultimate,107,0,Not significant
 0,to,0,0,Not significant
-0,...,0,0,Not significant
-0,how,0,0,Not significant
+1,ca,11,0,Not significant
+3,my,65,0,Not significant
+1,all,46,0,Not significant
 0,make,0,0,Not significant
-6,guide,452,0,Not significant
-1,not,24,1,Not significant
-2,ultimate,97,1,Not significant
-1,only,12,2,Not significant
-1,lock,15,2,Not significant
-1,report,12,2,Not significant
-5,and,263,2,Not significant
-1,double,10,2,Not significant
-2,easy,55,2,Not significant
-1,french,8,3,Not significant
-1,windows,9,3,Not significant
-2,by,40,3,Not significant
-1,idiots,3,4,0.05
-1,do,5,4,0.05
-1,this,2,5,0.05
-2,practical,20,5,0.05
-1,has,1,6,0.01
-2,noobs,16,6,0.05
-1,fixed,1,6,0.01
-1,public,1,6,0.01
-2,simple,13,7,0.01
-2,fast,11,7,0.01
-2,linux,8,8,0.01
-2,safely,10,8,0.01
-1,windows/linux,0,9,0.01
-1,translat,0,9,0.01
-1,ugh,0,9,0.01
-1,interesting,0,9,0.01
-1,expired,0,9,0.01
-1,files,0,9,0.01
-1,thread,0,9,0.01
-1,forum,0,9,0.01
-1,edge,0,9,0.01
-1,gpg/pgp,0,9,0.01
-1,encrypt,0,9,0.01
-1,gpg4usb,0,9,0.01
-1,exchanging,0,9,0.01
-1,p.g.p,0,9,0.01
-1,pgp/gpg,0,9,0.01
-1,avoiding,0,9,0.01
-1,sha-1,0,9,0.01
-1,signing,0,9,0.01
-1,sk,0,9,0.01
-1,sword,0,9,0.01
-1,changed,0,9,0.01
-2,email,5,10,0.01
-2,english,4,11,0.001
-2,keys,4,11,0.001
-2,encryption,3,12,0.001
-2,secure,2,13,0.001
-2,man,2,13,0.001
-2,newbie,2,13,0.001
-2,plain,2,13,0.001
-3,key,10,14,0.001
-4,step,26,14,0.001
-12,for,279,17,0.0001
-2,paranoid,0,18,0.0001
-2,securely,0,18,0.0001
-2,n00bs,0,18,0.0001
-2,enabled/disabled,0,18,0.0001
-2,better,0,18,0.0001
-3,autopgp,0,28,0.0001
-11,tutorial,113,31,0.0001
-7,use,12,41,0.0001
-5,gpg4win,0,47,0.0001
-5,newbs,0,47,0.0001
-8,gpg,0,75,0.0001
-28,pgp,0,263,0.0001
+0,how,0,0,Not significant
+0,and,0,0,Not significant
+2,or,72,0,Not significant
+0,...,0,0,Not significant
+5,out,107,0,Not significant
+3,using,62,0,Not significant
+2,working,39,0,Not significant
+1,profile,8,1,Not significant
+2,get,142,1,Not significant
+2,question,28,1,Not significant
+1,volume,6,1,Not significant
+8,your,185,1,Not significant
+8,in,165,1,Not significant
+4,easy,67,1,Not significant
+5,account,93,1,Not significant
+6,of,343,1,Not significant
+1,problem,7,1,Not significant
+1,warning,10,1,Not significant
+1,forum,6,1,Not significant
+1,development,9,1,Not significant
+1,evo,3,2,Not significant
+1,if,5,2,Not significant
+1,files,3,2,Not significant
+1,import,4,2,Not significant
+2,computer,17,2,Not significant
+2,email,19,2,Not significant
+2,getting,18,2,Not significant
+2,learning,20,2,Not significant
+2,noobs,17,2,Not significant
+1,trying,5,2,Not significant
+2,practical,20,2,Not significant
+1,ubuntu,3,2,Not significant
+1,idiots,3,2,Not significant
+1,setting,5,2,Not significant
+1,page,3,2,Not significant
+1,been,4,2,Not significant
+2,questions,20,2,Not significant
+2,user,13,3,Not significant
+1,--,140,3,Not significant
+2,test,14,3,Not significant
+2,want,12,3,Not significant
+2,fast,11,3,Not significant
+2,safely,13,3,Not significant
+1,wan,2,3,Not significant
+1,issue,2,3,Not significant
+2,beginner,11,3,Not significant
+2,secure,13,3,Not significant
+1,pm,2,3,Not significant
+1,na,2,3,Not significant
+2,mac,10,4,0.05
+2,stop,8,4,0.05
+2,newbie,9,4,0.05
+2,version,9,4,0.05
+1,place,1,4,0.05
+1,reading,1,4,0.05
+6,by,65,5,0.05
+4,private,29,5,0.05
+2,please,6,5,0.05
+3,vendor,16,5,0.05
+2,learn,7,5,0.05
+2,nsa,6,5,0.05
+9,the,632,5,0.05
+2,..,5,6,0.05
+4,can,24,6,0.01
+3,windows,13,6,0.01
+2,client,5,6,0.05
+2,back,5,6,0.05
+8,on,96,6,0.05
+2,server,4,6,0.01
+20,for,367,6,0.05
+1,share,0,7,0.01
+1,thread,0,7,0.01
+2,paranoid,3,7,0.01
+1,05/28/14,0,7,0.01
+1,privnote,0,7,0.01
+1,sig,0,7,0.01
+1,match,0,7,0.01
+1,decrypt,0,7,0.01
+1,past,0,7,0.01
+1,recovery,0,7,0.01
+1,bestcrypt,0,7,0.01
+1,sk,0,7,0.01
+3,double,12,7,0.01
+1,msgs,0,7,0.01
+1,compromised,0,7,0.01
+1,vend,0,7,0.01
+2,needed,3,7,0.01
+1,gpg4usb,0,7,0.01
+1,exchanging,0,7,0.01
+6,not,51,7,0.01
+1,word,0,7,0.01
+1,versions,0,7,0.01
+5,tails,34,7,0.01
+1,ended,0,7,0.01
+1,possibly,0,7,0.01
+1,vs.,0,7,0.01
+1,disk,0,7,0.01
+2,lost,3,7,0.01
+1,interesting,0,7,0.01
+1,encyrpt/decrypt,0,7,0.01
+2,trouble,2,8,0.01
+2,.....,2,8,0.01
+2,drive,2,8,0.01
+2,encrypting,2,8,0.01
+2,vendors,2,8,0.01
+3,bmr,7,9,0.01
+2,practice,1,10,0.01
+4,simple,14,10,0.01
+2,admins,1,10,0.01
+2,highly,1,10,0.01
+3,error,3,13,0.001
+5,lock,15,14,0.001
+2,webbased,0,14,0.001
+2,vs,0,14,0.001
+6,need,24,14,0.001
+2,messaging,0,14,0.001
+2,spacing,0,14,0.001
+2,n00bs,0,14,0.001
+2,message,0,14,0.001
+2,stick,0,14,0.001
+2,keeps,0,14,0.001
+2,integrated,0,14,0.001
+2,heart.pm,0,14,0.001
+2,governments,0,14,0.001
+2,flag,0,14,0.001
+2,pgp4win,0,14,0.001
+2,end2end,0,14,0.001
+2,bungee,0,14,0.001
+2,better,0,14,0.001
+2,auto,0,14,0.001
+2,apotheosis,0,14,0.001
+2,apg,0,14,0.001
+2,512-qubit,0,14,0.001
+2,3.pm,0,14,0.001
+2,'skynet,0,14,0.001
+2,compromisable,0,14,0.001
+2,pimp,0,14,0.001
+2,mailing,0,14,0.001
+2,side,0,14,0.001
+2,prove,0,14,0.001
+2,securely,0,14,0.001
+2,repost,0,14,0.001
+2,retrieving,0,14,0.001
+2,recomended,0,14,0.001
+2,problems,0,14,0.001
+2,sombody,0,14,0.001
+2,quantum,0,14,0.001
+8,do,39,16,0.0001
+5,public,9,17,0.0001
+5,has,9,17,0.0001
+4,english,4,17,0.0001
+9,use,46,17,0.0001
+4,plain,4,17,0.0001
+4,man,4,17,0.0001
+5,french,8,18,0.0001
+8,step,32,18,0.0001
+4,usb,3,19,0.0001
+4,encrypted,3,19,0.0001
+3,gpg/pgp,0,21,0.0001
+3,changed,0,21,0.0001
+3,avoiding,0,21,0.0001
+3,ugh,0,21,0.0001
+3,edge,0,21,0.0001
+4,pls,2,21,0.0001
+6,linux,11,21,0.0001
+3,windows/linux,0,21,0.0001
+3,p.g.p,0,21,0.0001
+3,passphrase,0,21,0.0001
+3,translat,0,21,0.0001
+3,pgp/gpg,0,21,0.0001
+3,sha-1,0,21,0.0001
+3,sword,0,21,0.0001
+4,issues,1,23,0.0001
+7,me,12,25,0.0001
+5,fixed,3,25,0.0001
+5,encrypt,2,27,0.0001
+4,enabled/disabled,0,28,0.0001
+4,decrypting,0,28,0.0001
+4,signing,0,28,0.0001
+6,keys,4,29,0.0001
+19,tutorial,124,30,0.0001
+5,expired,0,35,0.0001
+10,encryption,7,48,0.0001
+7,newbs,0,49,0.0001
+7,gpg4win,0,49,0.0001
+7,autopgp,0,49,0.0001
+17,help,35,57,0.0001
+8,truecrypt,0,57,0.0001
+23,key,10,124,0.0001
+18,gpg,0,128,0.0001
+103,pgp,4,700,0.0001

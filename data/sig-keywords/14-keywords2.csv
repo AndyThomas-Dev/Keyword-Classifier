@@ -1,189 +1,214 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,one,16,0,Not significant
+1,now,9,0,Not significant
+2,it,30,0,Not significant
 1,handbook,42,0,Not significant
+1,one,23,0,Not significant
+1,own,28,0,Not significant
 1,psilocybin,19,0,Not significant
-4,edition,54,0,Not significant
 1,recipes,19,0,Not significant
-4,free,94,0,Not significant
-1,dummies,45,0,Not significant
-2,very,24,0,Not significant
-2,an,22,0,Not significant
-3,big,36,0,Not significant
-2,beginners,51,0,Not significant
-2,any,31,0,Not significant
-14,of,287,0,Not significant
-1,advanced,27,0,Not significant
-2,or,53,0,Not significant
-2,full,22,0,Not significant
-0,to,0,0,Not significant
-0,make,0,0,Not significant
-0,how,0,0,Not significant
+1,dummies,46,0,Not significant
+3,all,44,0,Not significant
+3,beginners,53,0,Not significant
+2,full,25,0,Not significant
+2,very,26,0,Not significant
+14,for,373,0,Not significant
+14,of,335,0,Not significant
+2,any,41,0,Not significant
 0,...,0,0,Not significant
-13,for,278,0,Not significant
-3,all,37,0,Not significant
+0,and,0,0,Not significant
+0,how,0,0,Not significant
+0,make,0,0,Not significant
+0,to,0,0,Not significant
+4,free,125,0,Not significant
+2,an,37,0,Not significant
+5,from,172,0,Not significant
+2,by,69,0,Not significant
+2,over,22,0,Not significant
+1,advanced,30,0,Not significant
+2,or,72,0,Not significant
+2,vouched,33,0,Not significant
+3,big,38,1,Not significant
+2,3rd,18,1,Not significant
+1,most,7,1,Not significant
+4,edition,55,1,Not significant
+2,clean,18,1,Not significant
+1,bonus,6,1,Not significant
+2,ultimate,107,1,Not significant
 2,science,15,1,Not significant
-2,3rd,16,1,Not significant
-2,ultimate,97,1,Not significant
-2,over,16,1,Not significant
-2,e-book,14,1,Not significant
-1,most,6,1,Not significant
-1,bonus,5,1,Not significant
-27,guide,431,1,Not significant
+4,making,37,2,Not significant
+1,cheap,2,2,Not significant
+2,everything,11,2,Not significant
 1,159,2,2,Not significant
-6,guides,58,2,Not significant
-2,it,11,2,Not significant
-2,gold,11,2,Not significant
-4,making,36,2,Not significant
-7,and,261,2,Not significant
+2,e-book,14,2,Not significant
+1,step-by,2,2,Not significant
+2,gold,14,2,Not significant
+1,processing,2,2,Not significant
+4,step,36,2,Not significant
 1,grower,2,2,Not significant
-1,pot,2,2,Not significant
-2,everything,9,2,Not significant
-3,from,134,2,Not significant
-2,clean,9,2,Not significant
 1,delicious,2,2,Not significant
-2,mushroom,6,3,0.05
-1,132,1,3,Not significant
 1,154,1,3,Not significant
-2,crack,6,3,0.05
-1,catalog,1,3,Not significant
-1,introductory,1,3,Not significant
-2,4th,6,3,0.05
-2,survival,7,3,Not significant
+1,etc,1,3,Not significant
 1,extract,1,3,Not significant
-2,yourself,6,3,0.05
-1,now,1,3,Not significant
-2,definitive,6,3,0.05
-2,basics,8,3,Not significant
-2,reference,5,4,0.05
-2,method,137,4,0.05
-2,less,5,4,0.05
-5,collection,31,4,0.05
-2,͠≖,5,4,0.05
-36,the,526,4,0.05
-4,practical,18,5,0.05
-2,e-books,3,5,0.05
+1,132,1,3,Not significant
+2,yourself,9,3,Not significant
+1,catalog,1,3,Not significant
+6,guides,63,3,Not significant
+1,introductory,1,3,Not significant
+2,basics,9,3,Not significant
+2,crack,6,4,0.05
+2,definitive,6,4,0.05
+2,4th,6,4,0.05
+7,easy,64,4,0.05
+2,method,175,4,0.05
+2,remove,6,4,0.05
+2,survival,7,4,0.05
+2,mushroom,6,4,0.05
+2,reference,5,5,0.05
+2,edit,5,5,0.05
+2,͠≖,5,5,0.05
+2,less,5,5,0.05
 2,͜ʖ͠≖,4,5,0.05
-2,step-by-step,3,5,0.05
-7,easy,50,5,0.05
-6,megapack,41,5,0.05
 2,a-z,4,5,0.05
-1,extraction,0,6,0.05
-3,great,8,6,0.05
-1,impregnate,0,6,0.05
-4,books,15,6,0.01
-1,etc,0,6,0.05
-1,whole,0,6,0.05
-1,po,0,6,0.05
-1,synthese,0,6,0.05
-1,manu,0,6,0.05
+5,collection,31,5,0.05
+33,guide,523,5,0.05
+1,md,0,6,0.05
 1,manufacturer,0,6,0.05
-1,shake,0,6,0.05
-1,closet,0,6,0.05
-1,94,0,6,0.05
-1,aliphadic_acid_anhydrides_-_gb_patent_0299342,0,6,0.05
-1,bake,0,6,0.05
-1,cheap,0,6,0.05
-1,chemi,0,6,0.05
+1,manu,0,6,0.05
+1,impregnate,0,6,0.05
+1,extraction,0,6,0.05
 1,culture,0,6,0.05
-14,pack,122,7,0.01
+2,step-by-step,3,6,0.05
+1,closet,0,6,0.05
+1,chemi,0,6,0.05
+1,barncat,0,6,0.05
+1,bake,0,6,0.05
+1,aliphadic_acid_anhydrides_-_gb_patent_0299342,0,6,0.05
+1,94,0,6,0.05
+1,4-mdma,0,6,0.05
+1,mda,0,6,0.05
+4,practical,18,6,0.05
+1,po,0,6,0.05
+1,sierraromeo,0,6,0.05
+4,books,17,6,0.01
+6,megapack,42,6,0.05
+2,e-books,3,6,0.05
+1,shake,0,6,0.05
+3,time,10,6,0.05
+1,sythesis,0,6,0.05
+1,synthese,0,6,0.05
+1,whole,0,6,0.05
+2,pot,3,6,0.05
+3,great,8,7,0.01
+3,open,8,7,0.01
+1,in,172,7,0.01
+2,buds,2,7,0.01
 2,chemicals,2,7,0.01
-2,edit,2,7,0.01
-3,time,6,7,0.01
-1,in,141,7,0.01
-2,paperboard,1,8,0.01
-2,8th,1,8,0.01
-2,genetics,1,8,0.01
-6,tutorials,28,8,0.01
-2,paper,1,8,0.01
-3,first,5,8,0.01
-2,green,1,8,0.01
-2,production,1,8,0.01
-3,contemporary,4,9,0.01
-3,open,4,9,0.01
-4,fast,9,9,0.01
-3,narcotics,2,12,0.001
-2,cultivation,0,12,0.001
-3,snow,2,12,0.001
-2,wash,0,12,0.001
-6,ebook,17,12,0.001
-4,gui,5,12,0.001
-2,cultivator,0,12,0.001
-2,tryptamine,0,12,0.001
-2,instructional,0,12,0.001
-2,indoor/outdoor,0,12,0.001
-2,indoor,0,12,0.001
-2,impurties,0,12,0.001
-2,horticulture,0,12,0.001
-2,homemade,0,12,0.001
-2,growers,0,12,0.001
-2,greg,0,12,0.001
-2,uncle,0,12,0.001
-2,civilizations,0,12,0.001
-2,gigapack,0,12,0.001
-2,clandestine,0,12,0.001
-2,freebase,0,12,0.001
-2,fester,0,12,0.001
-2,clash,0,12,0.001
-2,commons,0,12,0.001
-2,cooking,0,12,0.001
-2,chemist,0,12,0.001
-2,lsd-25,0,12,0.001
+40,the,601,8,0.01
+3,first,6,8,0.01
+6,tutorials,28,9,0.01
+2,paper,1,9,0.01
+2,genetics,1,9,0.01
+2,green,1,9,0.01
+1,your,192,9,0.01
+2,8th,1,9,0.01
+2,clash,1,9,0.01
+14,pack,123,10,0.01
+3,contemporary,4,10,0.01
+4,fast,9,10,0.01
+3,pics,3,11,0.001
 3,otto,2,12,0.001
-2,manufacturing,0,12,0.001
-2,med,0,12,0.001
-2,purify,0,12,0.001
-2,cann,0,12,0.001
-2,ref,0,12,0.001
-2,practically,0,12,0.001
-2,remaking,0,12,0.001
-2,buds,0,12,0.001
-2,oz,0,12,0.001
-2,bud,0,12,0.001
-2,breeders,0,12,0.001
-2,synthesis-sources-easy,0,12,0.001
-12,complete,66,13,0.001
-13,drugs,77,13,0.001
-4,almost,4,14,0.001
-10,bible,38,16,0.0001
-4,shipping,2,17,0.0001
-7,cookbook,15,17,0.0001
-4,manual,2,17,0.0001
-3,laboratory,0,18,0.0001
-3,pics,0,18,0.0001
-3,cookbooks,0,18,0.0001
-3,methamphetamine,0,18,0.0001
-4,overview,1,19,0.0001
-4,ayahuasca,1,19,0.0001
-23,with,134,24,0.0001
-4,pictures,0,24,0.0001
-5,syntheses,1,25,0.0001
-6,psychedelic,3,26,0.0001
-8,at,9,26,0.0001
-7,magic,3,31,0.0001
-5,organic,0,31,0.0001
-6,manufacture,0,37,0.0001
-6,elite,0,37,0.0001
-6,ghb,0,37,0.0001
-12,mushrooms,12,42,0.0001
-8,home,1,43,0.0001
-10,speed,4,45,0.0001
-11,alcohol,6,46,0.0001
-16,ebooks,24,47,0.0001
-10,chemistry,1,55,0.0001
-18,drug,23,57,0.0001
-12,heroin,2,63,0.0001
-17,dmt,11,69,0.0001
-21,secrets,21,74,0.0001
-18,cannabis,10,76,0.0001
-18,lsd,7,82,0.0001
-16,banned,2,86,0.0001
-15,photos,0,93,0.0001
-17,synthesis,0,105,0.0001
-22,cocaine,5,111,0.0001
-21,meth,3,112,0.0001
-19,growing,0,117,0.0001
-23,mdma,3,124,0.0001
-31,marijuana,21,124,0.0001
-27,amphetamine,1,159,0.0001
-27,grow,0,167,0.0001
+3,production,2,12,0.001
+3,snow,2,12,0.001
+3,narcotics,2,12,0.001
+4,shipping,7,12,0.001
+6,ebook,19,12,0.001
+2,bud,0,13,0.001
+2,and/or,0,13,0.001
+2,cann,0,13,0.001
+13,drugs,88,13,0.001
+2,acetone,0,13,0.001
+2,chemist,0,13,0.001
+2,pleasures,0,13,0.001
+2,ephedrine,0,13,0.001
+2,civilizations,0,13,0.001
+2,cultivator,0,13,0.001
+2,cooking,0,13,0.001
+2,clandestine,0,13,0.001
+2,commons,0,13,0.001
+2,breeders,0,13,0.001
+2,cocai,0,13,0.001
+4,almost,6,13,0.001
+2,paperboard,0,13,0.001
+2,fester,0,13,0.001
+2,tryptamine,0,13,0.001
+2,oz,0,13,0.001
+2,remaking,0,13,0.001
+2,med,0,13,0.001
+2,manufacturing,0,13,0.001
+2,soma,0,13,0.001
+2,lsd-25,0,13,0.001
+2,style,0,13,0.001
+2,levamisole,0,13,0.001
+2,synthesis-sources-easy,0,13,0.001
+2,purify,0,13,0.001
+2,instructional,0,13,0.001
+2,uncle,0,13,0.001
+2,indoor,0,13,0.001
+2,wash,0,13,0.001
+2,practically,0,13,0.001
+2,washes,0,13,0.001
+2,impurties,0,13,0.001
+2,horticulture,0,13,0.001
+2,growers,0,13,0.001
+2,greg,0,13,0.001
+2,gigapack,0,13,0.001
+2,freebase,0,13,0.001
+2,indoor/outdoor,0,13,0.001
+2,ref,0,13,0.001
+4,gui,5,14,0.001
+10,bible,38,18,0.0001
+4,manual,2,18,0.0001
+7,cookbook,15,19,0.0001
+3,laboratory,0,19,0.0001
+3,methamphetamine,0,19,0.0001
+3,cookbooks,0,19,0.0001
+8,at,21,19,0.0001
+6,we,9,19,0.0001
+23,with,181,20,0.0001
+4,pictures,1,21,0.0001
+4,overview,1,21,0.0001
+4,ayahuasca,1,21,0.0001
+15,complete,73,22,0.0001
+4,homemade,0,26,0.0001
+4,cultivation,0,26,0.0001
+6,psychedelic,3,27,0.0001
+5,syntheses,1,27,0.0001
+5,organic,0,32,0.0001
+7,magic,3,33,0.0001
+8,home,4,37,0.0001
+6,manufacture,0,39,0.0001
+6,elite,0,39,0.0001
+6,ghb,0,39,0.0001
+12,mushrooms,14,43,0.0001
+10,speed,4,48,0.0001
+11,alcohol,6,49,0.0001
+16,ebooks,25,51,0.0001
+10,chemistry,1,58,0.0001
+18,drug,26,59,0.0001
+12,heroin,2,66,0.0001
+14,weed,5,69,0.0001
+18,cannabis,13,75,0.0001
+18,dmt,13,75,0.0001
+21,secrets,21,80,0.0001
+18,lsd,10,81,0.0001
+16,banned,4,84,0.0001
+15,photos,0,97,0.0001
+18,synthesis,0,117,0.0001
+21,meth,3,118,0.0001
+24,mdma,6,126,0.0001
+31,marijuana,22,131,0.0001
+25,cocaine,5,135,0.0001
+25,growing,0,162,0.0001
+27,amphetamine,1,167,0.0001
+41,grow,0,266,0.0001

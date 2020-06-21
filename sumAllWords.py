@@ -14,3 +14,7 @@ def sumAllWords():
         values[i] = raw['freq'].sum()
 
     return values
+
+
+# Testing:
+print(sumAllWords())

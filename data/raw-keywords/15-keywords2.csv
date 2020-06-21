@@ -1,6 +1,7 @@
 freq,word
 0,'s
 0,...
+0,and
 0,how
 0,make
 0,to
@@ -247,11 +248,13 @@ freq,word
 1,introductory
 1,ipad
 1,iphone
+1,iphones
 1,isis
 1,it
 1,iv
 1,jesuit
 1,john
+1,journeying
 1,julia
 1,kaplan
 1,keep
@@ -356,7 +359,6 @@ freq,word
 1,principles
 1,printing
 1,prismatic
-1,private
 1,problem
 1,processes
 1,production
@@ -382,6 +384,7 @@ freq,word
 1,self
 1,sell
 1,set
+1,sexunderthesun
 1,shadow
 1,shadows
 1,sharpening
@@ -445,7 +448,6 @@ freq,word
 1,wars
 1,was
 1,way
-1,we
 1,wealth
 1,what
 1,why
@@ -485,6 +487,7 @@ freq,word
 2,basil
 2,be
 2,beginner
+2,benson
 2,bestseller
 2,bi
 2,bible
@@ -555,9 +558,11 @@ freq,word
 2,pi
 2,powers
 2,preppers
+2,private
 2,pro
 2,punishment
 2,quotable
+2,ragnar
 2,raspberry
 2,rings
 2,robert
@@ -587,6 +592,7 @@ freq,word
 2,visit
 2,wallace
 2,wattles
+2,we
 2,weird
 2,who
 2,wi
@@ -604,7 +610,6 @@ freq,word
 3,9gb
 3,about
 3,agile
-3,all
 3,anarchy
 3,any
 3,cookbook
@@ -644,6 +649,7 @@ freq,word
 3,with
 3,͜ʖ͠≖
 4,1984
+4,all
 4,anyone
 4,art
 4,contemporary
@@ -674,7 +680,6 @@ freq,word
 4,time
 4,zizek
 4,͠≖
-5,are
 5,do
 5,e-book
 5,feminism
@@ -684,11 +689,10 @@ freq,word
 5,safety
 5,survival
 5,witchcraft
-6,books
+6,are
 6,business
 6,buy
 6,complete
-6,ebook
 6,edition
 6,engels
 6,esoteric
@@ -706,9 +710,11 @@ freq,word
 7,big
 7,by
 7,crowley
-7,get
 7,handbook
 8,at
+8,books
+8,ebook
+8,get
 8,only
 8,operative
 8,over
@@ -730,8 +736,7 @@ freq,word
 21,book
 21,collection
 23,ebooks
-30,for
+31,for
 32,guide
-38,and
 79,of
 110,the

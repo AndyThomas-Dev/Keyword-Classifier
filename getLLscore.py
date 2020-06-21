@@ -68,7 +68,7 @@ def tokeniseString(string):
 
     for token in nltk_tokens:
         result = getTotalLLScore(token)
-        # print(token, result)
+        print(token, result)
 
         for i in range(35):
             sumAll[i] = sumAll[i] + result[i]
@@ -78,7 +78,7 @@ def tokeniseString(string):
 
 
 # Testing features
-x = "pm's"
+x = " :D Lockpicking guide(noob friendly) only ***8$*** "
 array = tokeniseString(x.lower())
 
 print('Max value in Dict: ', max(array))

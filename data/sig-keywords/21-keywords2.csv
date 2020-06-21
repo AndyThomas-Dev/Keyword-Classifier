@@ -1,52 +1,56 @@
 freq,word,exfreq,LL,sig
 0,...,0,0,Not significant
-1,your,154,0,Not significant
-1,ultimate,98,0,Not significant
-1,get,111,0,Not significant
-1,free,97,0,Not significant
-1,and,267,0,Not significant
-1,hacking,112,0,Not significant
-0,how,0,0,Not significant
+1,method,176,0,Not significant
+1,hacking,119,0,Not significant
+1,free,128,0,Not significant
+1,your,192,0,Not significant
+1,ultimate,108,0,Not significant
 0,to,0,0,Not significant
-2,money,122,1,Not significant
-1,security,35,1,Not significant
-1,guide,457,1,Not significant
-1,package,37,1,Not significant
-2,hack,66,2,Not significant
-1,the,561,2,Not significant
-1,50,14,2,Not significant
-1,own,21,2,Not significant
-1,tips,13,3,Not significant
-2,or,53,3,Not significant
-1,iphone,12,3,Not significant
-1,13,6,4,0.05
-4,with,153,4,0.05
-1,tricks,7,4,0.05
-1,definitive,7,4,0.05
+0,and,0,0,Not significant
+0,how,0,0,Not significant
+1,security,77,0,Not significant
+1,package,46,1,Not significant
+1,guide,555,1,Not significant
+2,money,137,1,Not significant
+2,get,142,1,Not significant
+1,the,640,2,Not significant
+1,own,28,2,Not significant
+1,tips,14,3,Not significant
+2,or,72,3,Not significant
+2,hack,72,3,Not significant
+1,iphone,15,3,Not significant
+1,50,14,3,Not significant
+4,with,200,4,0.05
 1,uber,7,4,0.05
-1,unlimited,7,4,0.05
-1,applications,5,4,0.05
-2,mega,32,5,0.05
+1,tricks,8,4,0.05
+1,13,6,4,0.05
+1,definitive,7,4,0.05
+1,applications,5,5,0.05
 1,20,4,5,0.05
-1,apps,3,5,0.05
-1,application,3,5,0.05
-1,securing,2,6,0.05
-1,truly,0,10,0.01
-1,device,0,10,0.01
+2,mega,33,5,0.05
+1,clash,2,6,0.01
+1,securing,2,6,0.01
+1,apps,3,6,0.05
+1,application,3,6,0.05
 1,ride,0,10,0.01
-10,of,291,16,0.0001
-2,hacking-android,0,20,0.0001
+1,gems,0,10,0.01
+1,device,0,10,0.01
+1,truly,0,10,0.01
+1,clans,0,10,0.01
+2,unlimited,8,11,0.001
 2,exp,0,20,0.0001
-4,penetration,7,25,0.0001
-5,android,20,25,0.0001
-4,hacks,5,27,0.0001
-4,attack,2,32,0.0001
-5,ios,7,34,0.0001
-4,te,1,35,0.0001
-4,secuirty,0,40,0.0001
-4,smartphone,0,40,0.0001
-10,bank,56,45,0.0001
-10,mobile,29,56,0.0001
-8,exploit,4,65,0.0001
-10,america,1,93,0.0001
-10,bussines,0,100,0.0001
+2,hacking-android,0,20,0.0001
+11,of,338,21,0.0001
+4,penetration,7,27,0.0001
+5,android,21,27,0.0001
+4,hacks,5,29,0.0001
+4,attack,2,34,0.0001
+4,te,1,36,0.0001
+5,ios,7,36,0.0001
+4,secuirty,0,41,0.0001
+4,smartphone,0,41,0.0001
+10,bank,74,44,0.0001
+10,mobile,30,60,0.0001
+8,exploit,9,60,0.0001
+10,america,1,98,0.0001
+10,bussines,0,104,0.0001

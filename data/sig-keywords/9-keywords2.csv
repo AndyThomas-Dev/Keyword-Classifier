@@ -1,49 +1,49 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
 0,...,0,0,Not significant
+0,and,0,0,Not significant
 0,how,0,0,Not significant
 0,make,0,0,Not significant
 0,to,0,0,Not significant
-3,your,152,0,Not significant
-2,ultimate,97,0,Not significant
-2,and,266,0,Not significant
-1,one,16,1,Not significant
-1,proof,8,2,Not significant
-2,the,560,4,0.05
-5,in,137,4,0.05
-2,blockchain,16,5,0.05
-3,bitcoins,46,5,0.05
-1,guaranteed,2,5,0.05
-2,month,12,6,0.05
-2,basics,8,7,0.01
-2,life,9,7,0.01
-1,cryptos/forex,0,8,0.01
-1,screenshot,0,8,0.01
-1,cryptos100,0,8,0.01
-4,day,37,10,0.01
-12,of,289,12,0.001
-2,cryp,2,12,0.001
-2,x180,1,13,0.001
-3,double,8,13,0.001
-2,guarante,0,17,0.0001
-2,investing,0,17,0.0001
-3,10.000,1,22,0.0001
-3,altcoin,0,26,0.0001
-4,limited,2,27,0.0001
-4,offer,2,27,0.0001
-6,currency,16,27,0.0001
-5,million,3,33,0.0001
-8,earn,23,35,0.0001
-6,cryptocurrency,4,39,0.0001
-6,crypto,2,44,0.0001
-16,money,108,48,0.0001
-6,signals,0,53,0.0001
-6,cryptos,0,53,0.0001
-9,trade,8,56,0.0001
-7,forex,0,61,0.0001
-15,100,54,61,0.0001
-9,altcoins,4,63,0.0001
-10,alt-coins,0,88,0.0001
-10,ton,0,88,0.0001
-23,legal,7,171,0.0001
-33,trading,2,276,0.0001
+3,your,190,0,Not significant
+2,ultimate,107,0,Not significant
+1,one,23,1,Not significant
+3,bitcoins,81,3,Not significant
+1,proof,8,3,Not significant
+2,the,639,3,Not significant
+5,in,168,4,0.05
+1,guaranteed,5,4,0.05
+2,blockchain,19,5,0.05
+2,month,12,7,0.01
+2,life,9,8,0.01
+2,basics,9,8,0.01
+1,cryptos/forex,0,9,0.01
+1,screenshot,0,9,0.01
+1,cryptos100,0,9,0.01
+4,day,41,11,0.001
+2,cryp,2,13,0.001
+3,double,12,13,0.001
+2,x180,1,14,0.001
+12,of,337,14,0.001
+2,investing,0,18,0.0001
+2,guarante,0,18,0.0001
+3,10.000,1,23,0.0001
+4,offer,5,25,0.0001
+4,limited,4,26,0.0001
+3,altcoin,0,28,0.0001
+6,currency,18,29,0.0001
+5,million,3,36,0.0001
+8,earn,26,38,0.0001
+6,cryptocurrency,4,42,0.0001
+6,crypto,2,47,0.0001
+16,money,123,52,0.0001
+6,cryptos,0,56,0.0001
+6,signals,0,56,0.0001
+9,trade,10,58,0.0001
+7,forex,0,65,0.0001
+9,altcoins,4,68,0.0001
+15,100,55,68,0.0001
+10,alt-coins,0,93,0.0001
+10,ton,0,93,0.0001
+23,legal,8,180,0.0001
+33,trading,2,293,0.0001

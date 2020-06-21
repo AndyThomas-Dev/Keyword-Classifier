@@ -1,46 +1,51 @@
 freq,word,exfreq,LL,sig
 0,...,0,0,Not significant
-3,the,559,0,Not significant
+4,for,383,0,Not significant
+3,the,638,0,Not significant
+0,and,0,0,Not significant
 0,to,0,0,Not significant
-4,for,287,1,Not significant
-1,mega,33,1,Not significant
-1,10,12,2,Not significant
-5,of,296,2,Not significant
-2,sites,50,3,Not significant
-3,ultimate,96,3,Not significant
-2,success,31,4,0.05
+1,mega,34,1,Not significant
+5,of,344,2,Not significant
+2,sites,52,3,Not significant
+1,10,12,3,Not significant
+1,passwords,5,4,0.05
+3,ultimate,106,4,0.05
 1,11,5,4,0.05
-2,way,20,6,0.05
-2,private,19,6,0.05
-3,accounts,46,7,0.01
-2,link,10,8,0.01
-1,50k,0,9,0.01
-2,million,6,10,0.01
+2,private,31,5,0.05
+2,success,31,5,0.05
+2,way,24,6,0.05
+1,adresses,1,7,0.01
+3,accounts,56,7,0.01
+2,link,12,8,0.01
+1,50k,0,10,0.01
+2,clearnet,7,10,0.01
+1,28,0,10,0.01
+1,fed,0,10,0.01
 2,gmail,5,11,0.001
-4,working,29,14,0.001
-2,5.000.000,0,19,0.0001
-2,darkness,0,19,0.0001
-2,april,0,19,0.0001
-2,markets,0,19,0.0001
-3,email,4,19,0.0001
-2,clearnet,0,19,0.0001
-9,list,104,25,0.0001
-4,most,3,29,0.0001
-3,mail.ru,0,29,0.0001
-3,addresses,0,29,0.0001
-4,newbies,2,31,0.0001
-4,useful,2,31,0.0001
-4,links,2,31,0.0001
-8,web,32,37,0.0001
-4,uncen,0,38,0.0001
-4,7839+,0,38,0.0001
-4,lin,0,38,0.0001
-4,awesome,0,38,0.0001
-4,600+,0,38,0.0001
-4,5000+,0,38,0.0001
-4,popular,0,38,0.0001
-7,websites,8,47,0.0001
-5,directory,0,48,0.0001
-8,deep,8,55,0.0001
-13,darknet,12,91,0.0001
-11,onion,1,99,0.0001
+2,million,6,11,0.001
+2,markets,4,12,0.001
+4,working,37,14,0.001
+2,darkness,0,20,0.0001
+2,5.000.000,0,20,0.0001
+2,april,0,20,0.0001
+4,email,17,20,0.0001
+3,addresses,3,22,0.0001
+4,links,7,26,0.0001
+9,list,110,28,0.0001
+4,most,4,29,0.0001
+3,mail.ru,0,30,0.0001
+4,newbies,3,30,0.0001
+4,useful,2,32,0.0001
+4,awesome,1,35,0.0001
+4,popular,0,40,0.0001
+4,uncen,0,40,0.0001
+4,7839+,0,40,0.0001
+4,5000+,0,40,0.0001
+4,600+,0,40,0.0001
+4,lin,0,40,0.0001
+8,web,32,41,0.0001
+5,directory,0,50,0.0001
+7,websites,8,50,0.0001
+8,deep,8,58,0.0001
+13,darknet,14,94,0.0001
+11,onion,3,96,0.0001

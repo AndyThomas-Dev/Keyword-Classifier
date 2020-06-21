@@ -1,6 +1,7 @@
 freq,word
 0,'s
 0,...
+0,and
 0,how
 0,make
 0,to
@@ -9,6 +10,8 @@ freq,word
 1,beginner
 1,botnets
 1,builders
+1,datamining/spyware
+1,embedd
 1,essentials
 1,guid
 1,hands
@@ -17,7 +20,7 @@ freq,word
 1,practical
 1,rootkits
 1,software
-1,windows
+1,warning
 2,advanced
 2,bitcoin
 2,black
@@ -38,7 +41,7 @@ freq,word
 2,stealing
 2,top
 2,virus
-3,and
+2,windows
 3,antivirus
 3,bypass
 3,dummies

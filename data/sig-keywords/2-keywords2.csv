@@ -1,99 +1,176 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-2,get,110,0,Not significant
-2,btc,204,0,Not significant
-4,for,287,0,Not significant
+2,security,76,0,Not significant
+2,accounts,57,0,Not significant
+4,from,173,0,Not significant
+1,have,18,0,Not significant
+1,help,51,0,Not significant
+1,world,18,0,Not significant
+1,windows,15,0,Not significant
+2,tor,115,0,Not significant
+1,use,54,0,Not significant
+1,mobile,39,0,Not significant
+1,need,29,0,Not significant
+1,on,103,0,Not significant
+1,ultimate,108,0,Not significant
 1,privacy,26,0,Not significant
-1,on,59,0,Not significant
-1,my,28,0,Not significant
-1,mobile,38,0,Not significant
-1,ultimate,98,0,Not significant
-1,best,52,0,Not significant
+1,tails,38,0,Not significant
+4,pack,133,0,Not significant
+2,pro,43,0,Not significant
+1,encryption,16,0,Not significant
+1,cardable,52,0,Not significant
 0,...,0,0,Not significant
-1,be,39,0,Not significant
+0,and,0,0,Not significant
+0,how,0,0,Not significant
 0,to,0,0,Not significant
-2,accounts,47,1,Not significant
-1,everything,10,1,Not significant
-2,methods,40,1,Not significant
-2,pro,40,1,Not significant
-4,pack,132,1,Not significant
-2,tor,50,1,Not significant
-1,world,17,1,Not significant
-1,about,14,1,Not significant
-1,unlimited,7,2,Not significant
-1,phones,6,2,Not significant
-1,being,5,2,Not significant
-2,up,18,3,0.05
-1,encryption,4,3,Not significant
-3,anonymous,43,3,Not significant
-2,socks,22,3,Not significant
-1,so,2,4,0.05
-1,and,267,4,0.05
+1,about,26,0,Not significant
+1,android,25,0,Not significant
+2,out,110,0,Not significant
+7,for,380,0,Not significant
+2,get,142,0,Not significant
+1,anyone,17,0,Not significant
+1,be,44,0,Not significant
+2,methods,48,0,Not significant
+2,not,55,0,Not significant
+2,or,72,0,Not significant
+4,with,200,0,Not significant
+1,by,70,0,Not significant
+1,at,28,0,Not significant
+2,socks,38,1,Not significant
+1,unlimited,9,1,Not significant
+3,best,73,1,Not significant
+1,tutorial,142,1,Not significant
+2,what,38,1,Not significant
+3,anonymous,56,1,Not significant
+1,time,12,1,Not significant
+2,any,41,1,Not significant
+1,same,10,1,Not significant
+3,is,57,1,Not significant
+1,everything,12,1,Not significant
+4,you,104,1,Not significant
+3,using,62,1,Not significant
+1,home,11,1,Not significant
+3,my,65,1,Not significant
+1,mac,11,1,Not significant
+2,question,28,2,Not significant
+1,client,6,2,Not significant
+1,why,6,2,Not significant
+1,which,5,2,Not significant
+1,in,172,2,Not significant
+1,so,5,2,Not significant
+1,phones,7,2,Not significant
+1,being,7,2,Not significant
+1,been,4,2,Not significant
+3,do,44,2,Not significant
+2,one,22,2,Not significant
+1,infected,6,2,Not significant
+2,btc,269,3,Not significant
+2,ip,19,3,Not significant
+1,rdp,3,3,Not significant
+1,connect,2,4,0.05
+1,hide,2,4,0.05
+2,set,11,4,0.05
+1,vm,2,4,0.05
 1,priv,2,4,0.05
-2,no,12,5,0.05
-2,autopilot,8,6,0.05
-2,cracked,6,7,0.01
-2,crack,6,7,0.01
-1,fastest,0,8,0.01
-1,hide,0,8,0.01
-2,pr,4,8,0.01
-1,hide.me,0,8,0.01
-1,vpn-,0,8,0.01
-1,privatoria,0,8,0.01
-1,tor-,0,8,0.01
-1,totaly,0,8,0.01
-1,ass,0,8,0.01
-1,doble,0,8,0.01
-1,guide,457,9,0.01
-2,professional,2,10,0.01
-2,bundle,2,10,0.01
-2,logs,2,10,0.01
+2,double,13,4,0.05
+1,thru,2,4,0.05
+2,autopilot,8,5,0.05
+1,configure,1,5,0.05
+1,router,1,5,0.05
+1,bitcoin,255,5,0.05
+2,good,9,5,0.05
+3,can,25,5,0.05
+2,does,9,5,0.05
+2,vip72,7,6,0.05
+4,no,36,6,0.05
+2,gb,6,6,0.01
+2,cracked,6,6,0.01
+2,crack,6,6,0.01
+2,....,6,6,0.01
+1,stable,0,7,0.01
+1,vpn-whonix-vpn-tor-socks5,0,7,0.01
+1,totaly,0,7,0.01
+2,blackhat,5,7,0.01
+1,tor-,0,7,0.01
+2,pr,5,7,0.01
+1,recommened,0,7,0.01
+1,purevpn,0,7,0.01
+1,privatoria,0,7,0.01
+1,plz,0,7,0.01
+1,vpn-,0,7,0.01
+1,bolehvpn,0,7,0.01
+1,aswell,0,7,0.01
+1,fastest,0,7,0.01
+1,doble,0,7,0.01
+1,ass,0,7,0.01
+1,hide.me,0,7,0.01
+4,safety,27,8,0.01
+2,bundle,4,8,0.01
+2,looking,4,8,0.01
+2,vps,4,8,0.01
+4,up,28,8,0.01
+2,block,2,10,0.01
 2,v.1,2,10,0.01
-4,safety,11,15,0.0001
-2,torguard.net,0,16,0.0001
-2,tunnelbear,0,16,0.0001
-9,free,89,16,0.0001
-2,vpn+rdp+socks5+more,0,16,0.0001
-2,vpn+socks,0,16,0.0001
-2,vpn-socks5premium,0,16,0.0001
-2,vyprvpn,0,16,0.0001
-2,zenmate.com,0,16,0.0001
-2,–premium,0,16,0.0001
-2,vpn+proxy,0,16,0.0001
-2,strongvpn.com,0,16,0.0001
-2,ironsocket.com,0,16,0.0001
-2,purevpn.com,0,16,0.0001
-2,avira,0,16,0.0001
-2,airvpn.org,0,16,0.0001
-2,15+,0,16,0.0001
-2,btguard,0,16,0.0001
-2,connec,0,16,0.0001
-2,connections,0,16,0.0001
-2,sources,0,16,0.0001
-2,cyberghost,0,16,0.0001
-2,expressvpn.com,0,16,0.0001
-2,highest,0,16,0.0001
-2,....,0,16,0.0001
-2,multiple,0,16,0.0001
-2,nordvpn.com,0,16,0.0001
-2,paranoic,0,16,0.0001
-2,phantom,0,16,0.0001
-2,expressvpn,0,16,0.0001
-4,life,7,18,0.0001
-4,antidetect,5,20,0.0001
-4,fraudfox,4,21,0.0001
-4,hidemyass.com,0,32,0.0001
-4,2x,0,32,0.0001
-4,+am,0,32,0.0001
-4,vm+2,0,32,0.0001
-4,vpns,0,32,0.0001
-5,anti,2,32,0.0001
-4,ipvanish,0,32,0.0001
-5,detect,0,40,0.0001
-5,ff,0,40,0.0001
-6,ipvanish.com,0,48,0.0001
-10,warranty,0,81,0.0001
-39,account,33,219,0.0001
-32,premium,6,227,0.0001
-36,lifetime,3,272,0.0001
-38,vpn,0,309,0.0001
+2,point,2,10,0.01
+2,professional,2,10,0.01
+2,multiple,1,11,0.001
+2,recommend,1,11,0.001
+2,classic,1,11,0.001
+2,there,1,11,0.001
+2,vpn+proxy,0,15,0.0001
+2,vpn+socks,0,15,0.0001
+2,zorro,0,15,0.0001
+2,vyprvpn,0,15,0.0001
+2,zenmate.com,0,15,0.0001
+2,–premium,0,15,0.0001
+1,guide,555,15,0.0001
+2,vpn-socks5premium,0,15,0.0001
+2,expressvpn,0,15,0.0001
+2,vpn+rdp+socks5+more,0,15,0.0001
+2,use/reccomend,0,15,0.0001
+2,highest,0,15,0.0001
+2,connec,0,15,0.0001
+2,ironsocket.com,0,15,0.0001
+2,liberty,0,15,0.0001
+2,vene,0,15,0.0001
+2,months,0,15,0.0001
+2,expressvpn.com,0,15,0.0001
+2,nordvpn.com,0,15,0.0001
+2,btguard,0,15,0.0001
+2,bolivia,0,15,0.0001
+2,paranoic,0,15,0.0001
+2,northkorea,0,15,0.0001
+2,prepaid,0,15,0.0001
+2,tunnelbear,0,15,0.0001
+2,torguard.net,0,15,0.0001
+2,strongvpn.com,0,15,0.0001
+2,sources,0,15,0.0001
+2,15+,0,15,0.0001
+2,phantom,0,15,0.0001
+2,sending,0,15,0.0001
+2,airvpn.org,0,15,0.0001
+2,avira,0,15,0.0001
+2,purevpn.com,0,15,0.0001
+2,connections,0,15,0.0001
+5,service,14,17,0.0001
+4,life,7,17,0.0001
+4,antidetect,5,18,0.0001
+4,fraudfox,4,20,0.0001
+13,free,116,21,0.0001
+5,anti,2,30,0.0001
+4,ipvanish,0,31,0.0001
+4,vm+2,0,31,0.0001
+4,hidemyass.com,0,31,0.0001
+4,2x,0,31,0.0001
+4,+am,0,31,0.0001
+6,logs,2,37,0.0001
+5,cyberghost,0,38,0.0001
+5,detect,0,38,0.0001
+5,ff,0,38,0.0001
+6,ipvanish.com,0,46,0.0001
+6,vpns,0,46,0.0001
+10,warranty,0,77,0.0001
+39,account,59,174,0.0001
+32,premium,9,206,0.0001
+36,lifetime,3,259,0.0001
+74,vpn,5,539,0.0001

@@ -1,20 +1,36 @@
 freq,word,exfreq,LL,sig
+0,...,0,0,Not significant
 0,how,0,0,Not significant
 0,to,0,0,Not significant
-1,hack,67,1,Not significant
-1,anonymous,45,2,Not significant
-1,or,54,2,Not significant
-1,``,8,5,0.05
-1,'',6,6,0.05
-6,the,556,7,0.01
-1,spoofer,1,8,0.01
+1,on,103,0,Not significant
+1,guide,555,0,Not significant
+1,or,73,1,Not significant
+1,hack,73,1,Not significant
+1,cards,42,2,Not significant
+1,vouched,34,2,Not significant
+1,mobile,39,2,Not significant
+1,uk,40,2,Not significant
+1,ip,20,3,Not significant
+1,``,17,3,Not significant
+1,'',17,3,Not significant
+2,free,127,3,Not significant
+1,data,10,4,0.05
+6,the,635,4,0.05
+2,buy,40,7,0.01
+6,of,343,10,0.01
+1,storing,0,11,0.001
+1,sim,0,11,0.001
+1,sensitive,0,11,0.001
 1,intercept,0,11,0.001
-2,phone,8,13,0.001
-6,of,295,13,0.001
-2,call,0,23,0.0001
-6,get,106,24,0.0001
-6,an,18,43,0.0001
-6,id,15,45,0.0001
-6,number,13,46,0.0001
-6,caller,0,70,0.0001
-6,unknown,0,70,0.0001
+1,contracts,0,11,0.001
+4,anonymous,55,16,0.0001
+2,sms,0,22,0.0001
+4,phone,13,27,0.0001
+8,get,136,30,0.0001
+3,call,0,34,0.0001
+6,an,33,35,0.0001
+4,spoofer,1,40,0.0001
+6,id,20,40,0.0001
+6,number,18,41,0.0001
+6,caller,0,68,0.0001
+6,unknown,0,68,0.0001

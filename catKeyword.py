@@ -5,8 +5,8 @@ from getLLscore import tokeniseString, getLabel
 # Calculates a LLscore for each entry and assigns a category based on this
 
 # Nrows: determines how many rows to sort.
-lines = 100
-raw = pd.read_csv(r"data/sorted-titles-only.csv", usecols=[1, 2, 3, 4], nrows=lines)
+lines = 892
+raw = pd.read_csv(r"data/only-sorted-titles.csv", usecols=[1, 2, 3, 4], nrows=lines)
 
 # Add new columns
 # raw.insert(3, "LLSum", 0)
@@ -20,9 +20,15 @@ for i in range(len(raw)):
     elif raw["subject"][i].lower().find("anarchist cookbook") > -1:
         raw["AutoCat"][i] = "Weaponry & Explosives"
     else:
-        array = tokeniseString(raw["subject"][i].lower())
-        # print(i, "--", i/lines, "%")
-        # print(raw["subject"][i])
+
+        searchString = raw["subject"][i].lower()
+        amendedString = searchString.replace("-", " ").replace("?", " ").replace("+", " ").replace("[", " ")\
+            .replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ")
+
+        array = tokeniseString(amendedString)
+        print(i, "--", i/lines, "%")
+        print(raw["subject"][i])
+        print(amendedString)
         print('Max value in Dict: ', max(array))
         print('Key With Max value in Dict: ', getLabel(array))
 
@@ -30,4 +36,4 @@ for i in range(len(raw)):
         raw["LLSum"][i] = max(array)
 
 
-raw.to_csv(r'data/cc-sources/sortedTitles1.csv', index=False, header=True)
+raw.to_csv(r'data/cc-sources/sortedTitles2.csv', index=False, header=True)

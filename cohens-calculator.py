@@ -35,12 +35,12 @@ def printCat(number):
 
 # rows = 3800
 
-andy = pd.read_csv(r"data/cc-sources/sortedTitles1.csv", usecols=[1])
-auto = pd.read_csv(r"data/cc-sources/sortedTitles1.csv", usecols=[3])
+andy = pd.read_csv(r"data/cc-sources/sortedTitles2.csv", usecols=[1])
+auto = pd.read_csv(r"data/cc-sources/sortedTitles2.csv", usecols=[3])
 
 print("Overrall: ", cohen_kappa_score(andy, auto))
 
-raw = pd.read_csv(r"data/cc-sources/sortedTitles1.csv", usecols=[0, 1, 3])
+raw = pd.read_csv(r"data/cc-sources/sortedTitles2.csv", usecols=[0, 1, 3])
 
 raw.insert(2, "Match", 0)
 

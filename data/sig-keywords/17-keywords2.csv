@@ -1,25 +1,30 @@
 freq,word,exfreq,LL,sig
 0,...,0,0,Not significant
-3,the,559,0,Not significant
-1,15,6,5,0.05
-3,pack,133,5,0.05
+3,the,638,0,Not significant
+1,items,20,3,Not significant
+2,guides,67,5,0.05
+1,pics,5,6,0.05
+1,templa,4,6,0.05
+3,pack,134,6,0.05
+1,000,1,8,0.01
 2,ultra,18,9,0.01
-2,biggest,12,10,0.01
-2,websites,13,10,0.01
+8,guide,548,10,0.001
+4,ultimate,105,11,0.001
+2,websites,13,11,0.001
+2,biggest,13,11,0.001
 1,terminator,0,11,0.001
-4,ultimate,95,11,0.001
-8,guide,450,11,0.001
-2,70,2,16,0.0001
-4,by,38,17,0.0001
-4,new,38,17,0.0001
-2,pictures+videos,0,22,0.0001
-2,1500+,0,22,0.0001
+1,ewhore,0,11,0.001
+4,new,78,14,0.001
+4,by,67,15,0.0001
+2,70,2,17,0.0001
 2,whoring,0,22,0.0001
-4,||,4,32,0.0001
-4,e-whore,0,44,0.0001
-4,paradise,0,44,0.0001
-4,theshop™,0,44,0.0001
-4,80+,0,44,0.0001
-6,e-whoring,0,66,0.0001
-8,autopilot,2,78,0.0001
-8,ewhoring,0,88,0.0001
+2,1500+,0,22,0.0001
+2,pictures+videos,0,22,0.0001
+4,||,5,33,0.0001
+4,paradise,1,40,0.0001
+4,theshop™,0,45,0.0001
+4,80+,0,45,0.0001
+4,e-whore,0,45,0.0001
+6,e-whoring,0,68,0.0001
+8,autopilot,2,81,0.0001
+8,ewhoring,0,91,0.0001

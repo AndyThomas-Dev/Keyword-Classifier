@@ -1,56 +1,82 @@
 freq,word,exfreq,LL,sig
 0,...,0,0,Not significant
+0,and,0,0,Not significant
 0,how,0,0,Not significant
 0,to,0,0,Not significant
-4,and,264,0,Not significant
-4,the,558,0,Not significant
-1,beginners,52,0,Not significant
-1,megapack,46,0,Not significant
-6,guide,452,0,Not significant
-1,software,15,2,Not significant
-3,tutorial,121,2,Not significant
-1,building,6,3,Not significant
-6,for,285,3,Not significant
-2,security,34,3,0.05
-3,free,95,3,Not significant
+1,or,73,0,Not significant
+1,beginners,55,0,Not significant
+1,not,56,0,Not significant
+1,my,67,0,Not significant
+1,megapack,47,0,Not significant
+6,guide,550,0,Not significant
+4,the,637,0,Not significant
+1,is,59,0,Not significant
+3,free,126,1,Not significant
+3,tutorial,140,1,Not significant
+1,it,31,1,Not significant
+1,me,18,1,Not significant
+1,buying,19,1,Not significant
+1,safe,16,2,Not significant
+1,building,7,3,Not significant
+1,please,7,3,Not significant
+1,someone,6,3,Not significant
+2,safety,29,4,0.05
+1,could,5,4,0.05
 1,17,5,4,0.05
-2,any,31,4,0.05
-3,video,64,4,0.05
-1,mac,5,4,0.05
-2,hacker,22,5,0.05
-1,sec,2,5,0.05
+3,video,63,4,0.05
+3,using,62,4,0.05
+2,questions,20,5,0.05
+9,for,378,5,0.05
 1,31,2,5,0.05
+1,sec,2,5,0.05
 1,23,1,6,0.05
-2,tool,9,8,0.01
+1,type,1,6,0.05
+3,any,40,6,0.01
+2,software,16,6,0.05
+2,tool,13,7,0.01
+4,security,74,7,0.01
 2,penetration,9,8,0.01
-2,||,6,9,0.01
-2,testing,7,9,0.01
-1,simply,0,9,0.01
 1,lab,0,9,0.01
-2,crack,6,9,0.01
+1,tell,0,9,0.01
 1,sniffers,0,9,0.01
+1,hotspots,0,9,0.01
+1,w-lan,0,9,0.01
+2,||,7,9,0.01
+1,wif,0,9,0.01
+2,testing,7,9,0.01
+1,programm,0,9,0.01
 1,pentesting,0,9,0.01
+1,hows,0,9,0.01
+1,cu,0,9,0.01
+2,crack,6,9,0.01
+3,hacker,22,10,0.01
 4,bible,44,10,0.01
-4,dummies,42,11,0.001
-3,gift,13,12,0.001
+4,dummies,43,10,0.01
+2,..,5,10,0.01
+3,gift,17,11,0.001
+3,mac,9,14,0.001
 3,exposed,6,16,0.0001
-2,r3,0,18,0.0001
-2,averiguar,0,18,0.0001
-2,pa,0,18,0.0001
 2,con,0,18,0.0001
+2,connection,0,18,0.0001
 3,cracker,4,18,0.0001
-2,wpa,0,18,0.0001
 2,wardriving,0,18,0.0001
-2,cracking,0,18,0.0001
+2,averiguar,0,18,0.0001
+2,r3,0,18,0.0001
 2,claves,0,18,0.0001
+2,pa,0,18,0.0001
+3,cracking,4,18,0.0001
+5,network,11,26,0.0001
 4,freebies,4,26,0.0001
-3,automated,0,28,0.0001
-5,network,7,30,0.0001
-10,hack,58,37,0.0001
-4,backtrack,0,37,0.0001
-4,passwords,0,37,0.0001
+3,simply,0,27,0.0001
+3,wpa,0,27,0.0001
+3,automated,0,27,0.0001
+5,public,9,28,0.0001
 4,wep,0,37,0.0001
+4,wi-fi,0,37,0.0001
+4,backtrack,0,37,0.0001
+5,passwords,1,41,0.0001
+13,hack,61,53,0.0001
 7,networks,1,59,0.0001
-18,hacking,95,71,0.0001
+19,hacking,101,74,0.0001
 15,wireless,4,120,0.0001
-27,wifi,0,252,0.0001
+32,wifi,1,289,0.0001

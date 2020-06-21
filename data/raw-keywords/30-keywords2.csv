@@ -1,10 +1,15 @@
 freq,word
 0,...
+0,and
 0,to
 1,10
 1,11
+1,28
 1,50k
+1,adresses
+1,fed
 1,mega
+1,passwords
 2,5.000.000
 2,april
 2,clearnet
@@ -19,7 +24,6 @@ freq,word
 2,way
 3,accounts
 3,addresses
-3,email
 3,mail.ru
 3,the
 3,ultimate
@@ -27,6 +31,7 @@ freq,word
 4,600+
 4,7839+
 4,awesome
+4,email
 4,for
 4,lin
 4,links
