@@ -78,7 +78,7 @@ def tokeniseString(string):
 
 
 # Testing features
-x = " :D Lockpicking guide(noob friendly) only ***8$*** "
+x = "Australian Drops Guide"
 array = tokeniseString(x.lower())
 
 print('Max value in Dict: ', max(array))
