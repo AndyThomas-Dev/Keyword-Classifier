@@ -3,7 +3,7 @@ import pandas as pd
 # Assigns a category to a post based on inclusion of keyword.
 
 # File to rip data from
-raw = pd.read_csv(r"data/titles-only-set6.csv", usecols=[1, 2])
+raw = pd.read_csv(r"data/titles-only-set7.csv", usecols=[1, 2])
 raw = raw.dropna()
 
 # File to rip data to

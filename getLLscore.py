@@ -79,7 +79,7 @@ def tokeniseString(string):
 
 
 # Testing features
-x = "Deleting identifying information after product has been shipped."
+x = "Chances of CD on small amounts of MDMA?"
 array = tokeniseString(x.lower())
 
 print('Max value in Dict: ', max(array))

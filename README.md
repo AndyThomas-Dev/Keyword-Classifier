@@ -14,7 +14,7 @@ The code will operates under some key assumptions:
 
 This step is only required if there is ready sorted data that needs to be added to the ground truth data set.
 
-The Python script will rip the items from the input file into the relevant ground truth category. Any duplicates are removed in the process.
+The Python script will rip the items from the input file into the relevant ground truth category. Any duplicates are removed in the process. This prevents certain titles, for example where the same listing has been posted a large number of times being overrepresented. 
 
 ## 1. Extracting keywords from ground truth data.
 #### Filename: keyword-analysis.py

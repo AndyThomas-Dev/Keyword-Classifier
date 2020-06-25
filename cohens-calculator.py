@@ -62,8 +62,6 @@ pd.set_option('display.expand_frame_repr', False)
 pd.set_option('display.max_rows', raw.shape[0] + 1)
 pd.set_option('display.max_colwidth', None)
 
-# print(raw)
-
 print(matches)
 print(totals)
 
@@ -75,4 +73,5 @@ for i in range(35):
     else:
         print(i, "- No entries.", matches[i], totals[i])
 
-print(raw)
+sortedDF = raw.sort_values(by=['New Code'])
+print(sortedDF)
