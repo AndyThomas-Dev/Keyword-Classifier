@@ -2,13 +2,13 @@ freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
 0,make,0,0,Not significant
 0,to,0,0,Not significant
-1,the,414,0,Not significant
-1,from,81,2,Not significant
-1,or,40,4,0.05
+1,the,440,0,Not significant
+1,from,87,2,Not significant
+1,or,49,4,0.05
 1,clean,13,6,0.05
-1,internet,10,6,0.01
-2,your,111,7,0.01
-1,clone,7,7,0.01
+1,internet,11,6,0.01
+2,your,119,7,0.01
+1,clone,9,7,0.01
 1,disappear,5,8,0.01
 1,tax,4,8,0.01
 1,history,5,8,0.01

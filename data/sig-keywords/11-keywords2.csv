@@ -1,120 +1,140 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-7,the,408,0,Not significant
-4,of,219,0,Not significant
-4,guide,321,0,Not significant
-4,for,268,0,Not significant
-2,with,125,0,Not significant
-1,in,118,0,Not significant
+8,the,433,0,Not significant
+5,for,289,0,Not significant
+4,of,240,0,Not significant
+4,guide,357,0,Not significant
+2,with,136,0,Not significant
+2,in,134,0,Not significant
+2,hacking,68,0,Not significant
+1,security,69,0,Not significant
+1,pack,86,0,Not significant
+1,on,101,0,Not significant
 1,hack,34,0,Not significant
-1,free,82,0,Not significant
-1,my,41,0,Not significant
+1,guides,53,0,Not significant
+1,free,97,0,Not significant
+1,big,26,0,Not significant
+1,my,45,0,Not significant
 0,and,0,0,Not significant
 0,to,0,0,Not significant
-3,list,100,1,Not significant
-1,pro,16,1,Not significant
+1,data,13,1,Not significant
 1,phone,14,1,Not significant
-2,hacking,62,1,Not significant
-1,mobile,17,1,Not significant
-1,big,22,1,Not significant
-3,book,103,1,Not significant
+1,cookbook,13,1,Not significant
+3,book,105,1,Not significant
+1,into,14,1,Not significant
+1,3rd,16,1,Not significant
+3,list,101,1,Not significant
+1,google,13,1,Not significant
+1,getting,16,1,Not significant
+1,way,16,1,Not significant
+1,system,18,1,Not significant
+1,without,14,1,Not significant
 1,ways,17,1,Not significant
-1,3rd,15,1,Not significant
-1,2nd,17,1,Not significant
-1,way,13,1,Not significant
-1,mastering,8,2,Not significant
-1,malware,8,2,Not significant
-1,open,10,2,Not significant
-1,ios,8,2,Not significant
-1,police,7,2,Not significant
-1,without,12,2,Not significant
-1,into,12,2,Not significant
-1,cookbook,12,2,Not significant
-2,best,47,2,Not significant
-2,edition,36,2,Not significant
+1,pro,15,1,Not significant
 1,12,7,2,Not significant
+1,internet,11,2,Not significant
+1,hackers,7,2,Not significant
+1,police,8,2,Not significant
+1,if,7,2,Not significant
+1,open,11,2,Not significant
+1,ios,10,2,Not significant
+1,14,7,2,Not significant
+1,20,7,2,Not significant
+1,malware,8,2,Not significant
+1,mastering,8,2,Not significant
+1,cloud,7,2,Not significant
 3,pick,76,2,Not significant
-1,10,7,2,Not significant
-1,data,11,2,Not significant
-1,internet,10,2,Not significant
-1,tools,5,3,Not significant
-1,tool,5,3,Not significant
-1,through,5,3,Not significant
-1,11,4,3,0.05
+1,bonus,8,2,Not significant
+1,10,10,2,Not significant
+1,expert,5,3,Not significant
+1,32,4,3,Not significant
+1,systems,5,3,Not significant
 1,laptop,6,3,Not significant
-1,20,5,3,Not significant
-1,14,4,3,0.05
-1,hackers,6,3,Not significant
-1,if,6,3,Not significant
-1,16,4,3,0.05
-1,4th,4,3,0.05
-1,bonus,6,3,Not significant
-1,13,3,4,0.05
-1,21,3,4,0.05
-1,investigation,3,4,0.05
-1,30,3,4,0.05
+1,18,5,3,Not significant
+1,4th,5,3,Not significant
+1,5th,4,3,Not significant
+1,13,4,3,Not significant
+1,11,4,3,Not significant
+1,pc,4,3,Not significant
+1,through,6,3,Not significant
+1,19,4,3,Not significant
+1,cia,4,3,Not significant
+1,tool,6,3,Not significant
+1,21,5,3,Not significant
+1,16,4,3,Not significant
+1,practitioner,2,4,0.05
+1,tracking,3,4,0.05
+1,processing,2,4,0.05
+1,started,3,4,0.05
 1,source,3,4,0.05
-1,18,3,4,0.05
-1,infosec,2,5,0.05
-1,drive,2,5,0.05
-1,expert,2,5,0.05
-1,pc,2,5,0.05
-2,android,18,5,0.05
+1,24,2,4,0.05
+2,mobile,17,4,0.05
+1,killing,3,4,0.05
+1,26,2,4,0.05
+1,29,3,4,0.05
+1,30,3,4,0.05
+1,33,2,4,0.05
+1,35,2,4,0.05
+1,22,3,4,0.05
+1,computing,2,4,0.05
+2,2nd,21,4,0.05
+1,drive,2,4,0.05
+1,hard,2,4,0.05
+1,15,3,4,0.05
+2,linux,17,4,0.05
+1,infosec,2,4,0.05
+1,investigation,3,4,0.05
+3,best,48,4,0.05
+1,shell,2,4,0.05
+1,trace,1,5,0.05
 2,practical,15,5,0.05
-2,linux,15,5,0.05
-1,hard,2,5,0.05
-1,31,2,5,0.05
-1,killing,2,5,0.05
-1,24,2,5,0.05
-1,processing,2,5,0.05
-2,system,11,6,0.01
-1,tracking,1,6,0.05
-1,cia,1,6,0.05
-1,tra,1,6,0.05
-1,practitioner,1,6,0.05
-1,procedures,1,6,0.05
-1,field,1,6,0.05
-1,registry,0,8,0.01
-1,operating,0,8,0.01
-1,readiness,0,8,0.01
+1,practices,1,5,0.05
+1,procedures,1,5,0.05
+1,23,1,5,0.05
+1,scripting,1,5,0.05
+1,34,1,5,0.05
+1,31,1,5,0.05
+2,analysis,7,7,0.01
+1,enforcement,0,8,0.01
 1,capabilities,0,8,0.01
-1,implementing,0,8,0.01
-1,investigati,0,8,0.01
-1,investigations,0,8,0.01
-1,clo,0,8,0.01
-1,magnetic,0,8,0.01
-1,looks,0,8,0.01
-1,assessing,0,8,0.01
-1,ief,0,8,0.01
-1,law,0,8,0.01
-1,hadoop,0,8,0.01
-1,practic,0,8,0.01
-2,analysis,6,8,0.01
-1,workbench,0,8,0.01
-1,response,0,8,0.01
-1,scriptin,0,8,0.01
-1,shell,0,8,0.01
-1,threatscape,0,8,0.01
 1,evidence,0,8,0.01
-1,enf,0,8,0.01
+2,tools,6,8,0.01
+1,hadoop,0,8,0.01
+1,ief,0,8,0.01
+1,implementing,0,8,0.01
+1,assessing,0,8,0.01
 1,incident,0,8,0.01
-1,triage,0,8,0.01
-1,trial,0,8,0.01
-1,electronic,0,8,0.01
+1,law,0,8,0.01
+1,response,0,8,0.01
+1,looks,0,8,0.01
+1,workbench,0,8,0.01
+1,ma,0,8,0.01
 1,wiping,0,8,0.01
-1,cyb,0,8,0.01
+1,magnetic,0,8,0.01
+1,27,0,8,0.01
+1,trial,0,8,0.01
+1,triage,0,8,0.01
+1,operating,0,8,0.01
 1,preserving,0,8,0.01
-1,34,0,8,0.01
+1,threatscape,0,8,0.01
+1,readiness,0,8,0.01
+1,registry,0,8,0.01
+1,electronic,0,8,0.01
+1,cyberspace,0,8,0.01
+3,python,16,9,0.01
+2,nsa,5,9,0.01
+3,android,18,9,0.01
 2,basics,5,9,0.01
-3,python,15,10,0.01
-3,windows,14,10,0.001
-2,fbi,4,10,0.01
-3,learning,14,10,0.001
-2,nsa,3,10,0.001
-3,network,10,12,0.001
+3,learning,14,10,0.01
+3,windows,15,10,0.01
+5,edition,52,10,0.01
+3,network,12,11,0.001
 3,computer,8,13,0.001
 2,primer,1,13,0.001
+2,field,1,13,0.001
+3,fbi,4,16,0.0001
+2,investigations,0,17,0.0001
 3,toolkit,1,21,0.0001
-5,forensic,1,38,0.0001
-11,digital,12,65,0.0001
-29,forensics,1,246,0.0001
+7,forensic,1,54,0.0001
+13,digital,14,75,0.0001
+31,forensics,1,258,0.0001

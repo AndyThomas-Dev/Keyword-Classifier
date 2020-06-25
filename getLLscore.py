@@ -39,7 +39,8 @@ def allValuesZero(sumAll):
 
 
 def getLabel(sumAll):
-    threshold = 80
+    # Enter threshold here
+    threshold = 15
     if max(sumAll) < threshold:
         return "Other"
     elif allValuesZero(sumAll):

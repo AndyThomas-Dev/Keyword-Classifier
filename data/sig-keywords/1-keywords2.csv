@@ -1,174 +1,189 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-1,data,11,0,Not significant
-4,get,88,0,Not significant
-1,dummies,26,0,Not significant
-1,easy,37,0,Not significant
-1,email,20,0,Not significant
-3,you,74,0,Not significant
-1,handbook,18,0,Not significant
-1,internet,10,0,Not significant
-2,what,35,0,Not significant
-1,it,24,0,Not significant
-2,using,41,0,Not significant
-1,mail,17,0,Not significant
-1,my,41,0,Not significant
-1,no,33,0,Not significant
-1,or,40,0,Not significant
-1,package,29,0,Not significant
-1,pp,21,0,Not significant
-1,vpn,78,0,Not significant
-1,working,22,0,Not significant
-1,us,16,0,Not significant
-1,updated,20,0,Not significant
-1,ultimate,59,0,Not significant
-1,tutorial,68,0,Not significant
-1,darknet,10,0,Not significant
-1,this,23,0,Not significant
-2,in,117,0,Not significant
-1,site,10,0,Not significant
-2,list,101,0,Not significant
-1,question,19,0,Not significant
-2,pgp,62,0,Not significant
-1,private,17,0,Not significant
-1,step,24,0,Not significant
-1,create,10,0,Not significant
-1,whonix,10,0,Not significant
-6,of,217,0,Not significant
-8,for,264,0,Not significant
-1,bible,16,0,Not significant
-1,``,15,0,Not significant
-11,guide,314,0,Not significant
-1,basic,18,0,Not significant
-1,as,11,0,Not significant
-4,your,109,0,Not significant
-1,android,19,0,Not significant
-1,bitcoins,43,0,Not significant
-1,buying,12,0,Not significant
-11,the,404,0,Not significant
-1,advanced,12,0,Not significant
-0,to,0,0,Not significant
-0,make,0,0,Not significant
+1,have,11,0,Not significant
+1,tutorial,72,0,Not significant
 1,check,14,0,Not significant
-1,can,29,0,Not significant
+1,it,26,0,Not significant
+1,or,49,0,Not significant
+2,list,102,0,Not significant
+1,internet,11,0,Not significant
+1,create,10,0,Not significant
+1,data,13,0,Not significant
+2,what,37,0,Not significant
+1,updated,23,0,Not significant
+2,my,44,0,Not significant
+3,your,118,0,Not significant
+1,site,11,0,Not significant
+1,dummies,27,0,Not significant
+1,easy,49,0,Not significant
+1,package,32,0,Not significant
+1,pp,25,0,Not significant
+2,pgp,66,0,Not significant
+1,private,17,0,Not significant
+3,new,55,0,Not significant
+1,question,20,0,Not significant
+3,bitcoin,141,0,Not significant
+6,of,238,0,Not significant
+1,ultimate,60,0,Not significant
+1,open,11,0,Not significant
 0,how,0,0,Not significant
-1,should,8,1,Not significant
-1,method,107,1,Not significant
-1,info,8,1,Not significant
-1,massive,8,1,Not significant
-2,socks5,27,1,Not significant
-1,bad,5,1,Not significant
+0,make,0,0,Not significant
+0,to,0,0,Not significant
+12,guide,349,0,Not significant
+1,yourself,13,0,Not significant
+1,mail,18,0,Not significant
+1,working,32,0,Not significant
+1,whonix,10,0,Not significant
+2,using,43,0,Not significant
+1,bitcoins,47,0,Not significant
+1,``,16,0,Not significant
+1,no,42,0,Not significant
+11,the,430,0,Not significant
+1,android,20,0,Not significant
+1,bible,17,0,Not significant
+1,basic,19,0,Not significant
+1,as,13,0,Not significant
+1,wallet,11,0,Not significant
+1,handbook,19,0,Not significant
+8,for,286,0,Not significant
+1,advanced,14,0,Not significant
+1,now,20,0,Not significant
+1,nsa,6,1,Not significant
+2,step,26,1,Not significant
+2,this,25,1,Not significant
+1,off,8,1,Not significant
+2,socks5,29,1,Not significant
+2,sites,27,1,Not significant
+1,newbies,6,1,Not significant
+1,pack,86,1,Not significant
+1,stay,7,1,Not significant
 1,rdp,5,1,Not significant
-1,looking,5,1,Not significant
+1,would,5,1,Not significant
 1,whats,6,1,Not significant
-1,off,9,1,Not significant
-1,provider,7,1,Not significant
-1,anonymously,7,1,Not significant
-1,icq,5,1,Not significant
-1,stay,5,1,Not significant
-3,by,43,1,Not significant
 1,website,7,1,Not significant
 1,warning,6,1,Not significant
-1,wallet,9,1,Not significant
+1,vpn,83,1,Not significant
 1,vm,6,1,Not significant
-1,would,5,1,Not significant
+2,can,29,1,Not significant
 1,user,9,1,Not significant
-1,de,7,1,Not significant
-5,on,89,1,Not significant
-1,pack,84,1,Not significant
-1,20,5,1,Not significant
-2,privacy,21,1,Not significant
+2,email,22,1,Not significant
 1,traffic,5,1,Not significant
-1,through,5,1,Not significant
-1,than,5,1,Not significant
-3,new,51,1,Not significant
-2,sites,25,1,Not significant
-1,have,9,1,Not significant
-3,do,45,1,Not significant
-1,am,7,1,Not significant
+1,today,5,1,Not significant
+1,through,6,1,Not significant
+1,than,8,1,Not significant
+1,start,5,1,Not significant
+1,should,8,1,Not significant
+1,services,6,1,Not significant
 2,own,20,1,Not significant
-1,client,4,2,Not significant
+1,risk,5,1,Not significant
+2,privacy,24,1,Not significant
+1,provider,7,1,Not significant
+1,messaging,5,1,Not significant
+2,2017,20,1,Not significant
+3,do,49,1,Not significant
+1,am,5,1,Not significant
+1,info,9,1,Not significant
+1,from,87,1,Not significant
+3,by,44,1,Not significant
+5,get,95,1,Not significant
+1,encrypted,5,1,Not significant
+1,expert,5,1,Not significant
+1,18,5,1,Not significant
+1,20,7,1,Not significant
+1,links,5,1,Not significant
+1,de,7,1,Not significant
+4,you,74,1,Not significant
+1,21,5,1,Not significant
+1,looking,5,1,Not significant
+1,massive,8,1,Not significant
+1,icq,5,1,Not significant
 1,quick,3,2,Not significant
-1,see,3,2,Not significant
-1,start,4,2,Not significant
-2,2017,19,2,Not significant
-2,'',14,2,Not significant
-1,21,3,2,Not significant
-1,access,3,2,Not significant
-1,password,3,2,Not significant
-1,paypal,112,2,Not significant
-1,long,3,2,Not significant
-1,jabber,4,2,Not significant
-1,firefox,4,2,Not significant
-1,links,4,2,Not significant
-1,much,3,2,Not significant
+1,method,117,2,Not significant
+1,users,3,2,Not significant
 1,error,3,2,Not significant
-1,like,3,2,Not significant
+3,setup,30,2,Not significant
 1,different,3,2,Not significant
 1,chaining,3,2,Not significant
-1,encrypt,3,2,Not significant
-1,bitcoin,137,3,Not significant
-1,users,2,3,Not significant
-2,le,13,3,Not significant
-1,expert,2,3,Not significant
+1,firefox,4,2,Not significant
+1,see,3,2,Not significant
+1,access,3,2,Not significant
+1,project,3,2,Not significant
+1,jabber,4,2,Not significant
+1,long,3,2,Not significant
+2,us,19,2,Not significant
+3,beginners,33,2,Not significant
+1,password,4,2,Not significant
+2,'',16,2,Not significant
+1,paypal,120,2,Not significant
+1,like,4,2,Not significant
+1,much,3,2,Not significant
+1,hosting,4,2,Not significant
+1,million,4,2,Not significant
 4,use,44,3,Not significant
-2,encryption,12,3,Not significant
-3,setup,27,3,Not significant
 1,storage,2,3,Not significant
-1,26,2,3,Not significant
-3,beginners,29,3,Not significant
-1,settings,2,3,Not significant
+1,too,2,3,Not significant
 1,still,2,3,Not significant
-2,must,11,3,Not significant
+2,le,13,3,Not significant
+2,must,13,3,Not significant
+2,darknet,11,3,Not significant
+1,url,2,3,Not significant
+1,ssh,2,3,Not significant
+1,settings,2,3,Not significant
+2,buying,13,3,Not significant
 1,router,2,3,Not significant
-1,possible,2,3,Not significant
 1,plain,2,3,Not significant
-2,network,11,3,Not significant
-1,currently,1,4,0.05
-2,really,8,4,0.05
+1,released,2,3,Not significant
+1,possible,2,3,Not significant
+1,35,2,3,Not significant
+1,26,2,3,Not significant
+2,encryption,13,3,Not significant
+1,23,1,4,0.05
+1,yahoo,1,4,0.05
 1,wtf,1,4,0.05
-1,quickstart,1,4,0.05
-1,compromised,1,4,0.05
-1,combo,1,4,0.05
-1,node,1,4,0.05
-1,under,1,4,0.05
-1,project,1,4,0.05
-2,work,8,4,0.05
-1,configure,1,4,0.05
-1,increase,1,4,0.05
-1,transferring,1,4,0.05
-3,safe,20,4,0.05
-1,69,1,4,0.05
-1,ssh,1,4,0.05
-1,safer,1,4,0.05
-1,35,1,4,0.05
-1,hole,1,4,0.05
 1,alternative,1,4,0.05
+1,under,1,4,0.05
+1,chat,1,4,0.05
+7,on,95,4,0.05
+1,node,1,4,0.05
+1,transferring,1,4,0.05
+2,work,8,4,0.05
+1,increase,1,4,0.05
+1,hole,1,4,0.05
+1,highest,1,4,0.05
+1,quickstart,1,4,0.05
+1,safer,1,4,0.05
+2,really,9,4,0.05
+1,combo,1,4,0.05
+1,compromised,1,4,0.05
+1,currently,1,4,0.05
 1,their,1,4,0.05
-2,read,9,4,0.05
-4,anonymous,32,5,0.05
-9,with,118,5,0.05
-3,service,13,6,0.05
+2,net,6,5,0.05
+3,service,16,5,0.05
 2,why,5,6,0.05
-2,net,5,6,0.05
-6,security,55,6,0.05
-1,xmpp,0,7,0.01
-2,clearnet,3,7,0.01
-5,not,33,7,0.01
-2,fucked,3,7,0.01
-1,yahoo,0,7,0.01
-4,online,21,7,0.01
-2,term,3,7,0.01
+2,bad,5,6,0.05
+2,bundle,4,6,0.01
+3,network,12,6,0.01
+10,with,128,6,0.05
+2,clearnet,4,6,0.01
+2,client,4,6,0.01
+4,safe,26,6,0.05
+2,shit,3,7,0.01
 2,enough,3,7,0.01
-2,bundle,3,7,0.01
-1,rsa,0,7,0.01
-1,vb,0,7,0.01
-1,itself,0,7,0.01
+2,invisible,3,7,0.01
+2,fucked,3,7,0.01
+3,anonymity,10,7,0.01
+7,security,63,7,0.01
+5,not,34,7,0.01
+3,read,10,7,0.01
+1,stand,0,7,0.01
+1,xmpp,0,7,0.01
+1,ops,0,7,0.01
+1,middlebox,0,7,0.01
+1,manager,0,7,0.01
+1,keeping,0,7,0.01
 1,isolation,0,7,0.01
 1,iran,0,7,0.01
-1,vidalia,0,7,0.01
-1,ille,0,7,0.01
-1,highes,0,7,0.01
+1,increases,0,7,0.01
 1,header,0,7,0.01
 1,gov,0,7,0.01
 1,goes,0,7,0.01
@@ -177,58 +192,65 @@ freq,word,exfreq,LL,sig
 1,exit,0,7,0.01
 1,downloading,0,7,0.01
 1,download,0,7,0.01
-1,configuration,0,7,0.01
-1,configur,0,7,0.01
+1,domains,0,7,0.01
+1,corrupted,0,7,0.01
+1,configuring,0,7,0.01
 1,chrome,0,7,0.01
-1,cha,0,7,0.01
+1,bridges,0,7,0.01
 1,blacklists,0,7,0.01
 1,bit,0,7,0.01
 1,anonymize,0,7,0.01
 1,alone,0,7,0.01
 1,acting,0,7,0.01
-1,23,0,7,0.01
-1,14_,0,7,0.01
-1,keeping,0,7,0.01
-1,manager,0,7,0.01
-1,increases,0,7,0.01
-1,unofficial,0,7,0.01
-1,torbrowser,0,7,0.01
-1,torchat,0,7,0.01
+1,42,0,7,0.01
+1,14_en,0,7,0.01
+1,overloaded,0,7,0.01
+1,pidgin,0,7,0.01
+1,itself,0,7,0.01
+1,torbox,0,7,0.01
 1,tries,0,7,0.01
-1,starts,0,7,0.01
-1,stand,0,7,0.01
 1,trojan,0,7,0.01
+1,trough,0,7,0.01
+1,torchat,0,7,0.01
+1,utility,0,7,0.01
+1,torbrowser,0,7,0.01
+1,vb,0,7,0.01
+1,vidalia,0,7,0.01
 1,tor2web,0,7,0.01
-1,routing,0,7,0.01
 1,stays,0,7,0.01
+1,preceding,0,7,0.01
+1,writeprints,0,7,0.01
+1,www,0,7,0.01
+1,rsa,0,7,0.01
+1,unofficial,0,7,0.01
+1,routing,0,7,0.01
 1,remaining,0,7,0.01
 1,record,0,7,0.01
-1,torbox,0,7,0.01
-1,trough,0,7,0.01
 1,protocol,0,7,0.01
 1,privately,0,7,0.01
-1,pidgin,0,7,0.01
-1,overloaded,0,7,0.01
-1,ops,0,7,0.01
-1,uti,0,7,0.01
-1,middlebox,0,7,0.01
-2,hidden,2,8,0.01
-3,anonymity,9,8,0.01
-4,over,16,9,0.01
-2,anonimity,1,10,0.01
-2,files,1,10,0.01
+1,starts,0,7,0.01
+2,term,2,8,0.01
+4,over,19,8,0.01
+3,anonymously,7,9,0.01
+2,illegal,1,10,0.01
+4,art,13,10,0.01
 3,when,6,10,0.01
-3,onion,6,10,0.01
-3,anon,6,10,0.01
-4,art,12,11,0.001
-8,is,52,12,0.001
+2,files,1,10,0.01
+2,anonimity,1,10,0.01
+2,configure,1,10,0.01
+8,is,54,12,0.001
 3,update,3,13,0.001
-7,tails,32,14,0.001
+6,online,25,13,0.001
 2,tbb,0,14,0.001
-2,detected,0,14,0.001
+7,tails,32,14,0.001
+2,configuration,0,14,0.001
 2,extreme,0,14,0.001
-7,be,26,17,0.0001
+7,anonymous,33,14,0.001
+2,detected,0,14,0.001
+4,onion,7,14,0.001
+3,hidden,2,14,0.001
+7,be,29,15,0.0001
 3,browsing,0,21,0.0001
 6,dark,1,36,0.0001
-13,browser,0,92,0.0001
-77,tor,19,452,0.0001
+13,browser,1,84,0.0001
+81,tor,19,476,0.0001

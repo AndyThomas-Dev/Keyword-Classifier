@@ -1,16 +1,16 @@
 freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
 0,to,0,0,Not significant
-1,the,414,0,Not significant
+1,the,440,0,Not significant
 1,complete,45,3,Not significant
-1,noob,15,5,0.05
-1,become,5,7,0.01
+1,noob,16,5,0.05
+1,become,6,7,0.01
+1,expert,5,7,0.01
 1,god,4,8,0.01
-1,expert,2,9,0.01
 1,revenge,1,10,0.01
-2,all,37,10,0.01
-4,guide,321,10,0.01
-2,about,21,12,0.001
+2,all,40,10,0.01
+4,guide,357,10,0.01
+2,about,25,12,0.001
 1,dox,0,13,0.001
-2,full,13,14,0.001
-5,doxing,0,65,0.0001
+2,full,17,13,0.001
+5,doxing,0,66,0.0001

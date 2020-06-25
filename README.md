@@ -7,6 +7,15 @@ The code will operates under some key assumptions:
 - The CSV filenames 0-34 correspond to the categories outlined in cats.txt
 - For example, the CSV file named 29.csv in data/gt contains the ground truth data for the PGP/GPG category.
 
+## Adding to Ground Truth data (if required)
+#### Filename: addFileToGT.py
+#### Inputs: input.csv
+#### Outputs: data/gt/
+
+This step is only required if there is ready sorted data that needs to be added to the ground truth data set.
+
+The Python script will rip the items from the input file into the relevant ground truth category. Any duplicates are removed in the process.
+
 ## 1. Extracting keywords from ground truth data.
 #### Filename: keyword-analysis.py
 #### Inputs: data/rgt

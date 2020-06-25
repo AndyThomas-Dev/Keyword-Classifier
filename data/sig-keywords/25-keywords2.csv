@@ -1,30 +1,30 @@
 freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
 0,to,0,0,Not significant
-2,the,413,0,Not significant
-1,for,271,0,Not significant
+2,the,439,0,Not significant
+1,for,293,0,Not significant
 1,pick,78,1,Not significant
-2,of,221,2,Not significant
-1,new,53,2,Not significant
+2,of,242,2,Not significant
+1,only,36,2,Not significant
+1,new,57,2,Not significant
 1,complete,45,2,Not significant
-1,collection,20,3,0.05
-3,guide,322,3,Not significant
-1,making,22,3,Not significant
-1,any,29,3,Not significant
-1,only,20,3,0.05
-1,books,17,4,0.05
-1,noob,15,4,0.05
-1,secrets,17,4,0.05
-1,police,7,5,0.05
-1,friendly,5,6,0.05
-2,video,16,11,0.001
-1,door,0,11,0.001
-1,millennium,0,11,0.001
-1,locks,0,11,0.001
-1,electromagnetic,0,11,0.001
-1,defeating,0,11,0.001
-2,improvised,0,23,0.0001
-2,picks,0,23,0.0001
+3,guide,358,3,Not significant
+1,making,23,3,Not significant
+1,any,33,3,Not significant
+1,collection,22,3,0.05
+1,books,19,4,0.05
+1,noob,16,4,0.05
+1,secrets,20,4,0.05
+1,police,8,5,0.05
+1,friendly,8,5,0.05
+2,video,20,10,0.01
+1,electromagnetic,0,12,0.001
+1,millennium,0,12,0.001
+1,locks,0,12,0.001
+1,defeating,0,12,0.001
+1,door,0,12,0.001
+2,improvised,0,24,0.0001
 3,picking,4,26,0.0001
-3,lockpicking,0,35,0.0001
-7,lock,1,76,0.0001
+3,picks,0,36,0.0001
+3,lockpicking,0,36,0.0001
+7,lock,1,78,0.0001
