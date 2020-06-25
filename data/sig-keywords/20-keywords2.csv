@@ -1,27 +1,26 @@
 freq,word,exfreq,LL,sig
-0,...,0,0,Not significant
 0,how,0,0,Not significant
+1,for,271,0,Not significant
+1,of,222,0,Not significant
 0,to,0,0,Not significant
-1,method,176,0,Not significant
-2,of,347,1,Not significant
-1,on,103,1,Not significant
-3,for,384,2,Not significant
-2,pack,135,3,0.05
-1,anyone,17,4,0.05
-2,guides,67,6,0.05
-1,send,4,7,0.01
-1,keylogger,2,8,0.01
-2,very,26,9,0.01
-2,ways,30,9,0.01
-3,easy,68,11,0.001
-2,10,11,13,0.001
-3,wireless,16,19,0.0001
-2,nice,0,24,0.0001
-3,models,2,29,0.0001
-8,your,185,30,0.0001
-3,complex,0,36,0.0001
-3,diffusion,0,36,0.0001
-4,virus,2,40,0.0001
-4,spread,0,48,0.0001
-4,spreading,0,48,0.0001
-7,malware,8,63,0.0001
+1,on,93,1,Not significant
+1,pack,84,1,Not significant
+1,method,107,1,Not significant
+1,guides,48,2,Not significant
+1,ways,17,4,0.05
+1,anyone,16,4,0.05
+1,very,11,5,0.05
+1,wireless,11,5,0.05
+1,10,7,6,0.05
+1,send,8,6,0.05
+1,models,1,9,0.01
+2,easy,36,9,0.01
+1,keylogger,1,9,0.01
+1,nice,0,12,0.001
+1,diffusion,0,12,0.001
+1,complex,0,12,0.001
+4,your,109,15,0.0001
+2,virus,2,19,0.0001
+2,spread,0,24,0.0001
+2,spreading,0,24,0.0001
+3,malware,6,26,0.0001

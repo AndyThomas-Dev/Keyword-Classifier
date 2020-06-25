@@ -6,21 +6,33 @@ import sys
 # 35x seperate ground truth data files
 
 nltk.download('punkt')
-
-corpusId = 0
+corpusId = 33
 
 for corpusId in range(35):
     inputFilename = "data/gt/" + str(corpusId) + "-2.csv"
     raw = pd.read_csv(inputFilename, usecols=[0])
+
+    # Forces lowercase
     raw["Product Name"] = raw["Product Name"].str.lower()
 
+    pd.set_option('display.expand_frame_repr', False)
+    pd.set_option('display.max_rows', raw.shape[0] + 1)
+    pd.set_option('display.max_colwidth', None)
+
+    inputString = raw[raw.columns[0]].to_string().replace("-", " ").replace("?", " ").replace("+", " ")\
+        .replace("[", " ").replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ").replace("|", " ") \
+        .replace("#", " ")
+
+    print(inputString)
     # This must be a string
-    nltk_tokens = nltk.word_tokenize(raw[raw.columns[0]].to_string())
+    nltk_tokens = nltk.word_tokenize(inputString)
 
     # Numbers removed
     for token in nltk_tokens:
         if token.isnumeric():
             nltk_tokens.remove(token)
+    # else:
+    #     print(corpusId, token)
 
     # Creates wordlist with no duplicates
     nodupes = set(nltk_tokens)
@@ -41,6 +53,7 @@ for corpusId in range(35):
     column_names = ["freq", "word"]
     df = pd.DataFrame(columns=column_names)
     temp = pd.DataFrame(columns=column_names)
+
     # Sorting
     # This also removes any one letter words
     for string in sorted(finalist):
@@ -51,3 +64,9 @@ for corpusId in range(35):
     outputFilename = "data/raw-keywords/" + str(corpusId) + "-keywords2.csv"
     df.to_csv(outputFilename, index=False, header=True)
     corpusId = corpusId + 1
+
+    # pd.set_option('display.expand_frame_repr', False)
+    # pd.set_option('display.max_rows', raw.shape[0] + 1)
+    # pd.set_option('display.max_colwidth', None)
+
+    # print(raw)

@@ -5,10 +5,11 @@ from getLLscore import tokeniseString, getLabel
 # Calculates a LLscore for each entry and assigns a category based on this
 
 # Nrows: determines how many rows to sort.
-lines = 892
-raw = pd.read_csv(r"data/only-sorted-titles.csv", usecols=[1, 2, 3, 4], nrows=lines)
+lines = 100
+inputFile = "data/input.csv"
+raw = pd.read_csv(inputFile, usecols=[1, 2, 3, 4], nrows=lines)
 
-# Add new columns
+# Add new columns (if required)
 # raw.insert(3, "LLSum", 0)
 # raw.insert(4, "AutoCat", 0)
 

@@ -1,146 +1,156 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,new,82,0,Not significant
-1,me,19,0,Not significant
-10,the,641,0,Not significant
-1,handbook,43,0,Not significant
-9,guide,556,0,Not significant
-1,get,144,0,Not significant
-1,pro,45,0,Not significant
-2,ultimate,109,0,Not significant
-1,books,21,0,Not significant
-1,free,129,0,Not significant
-2,complete,88,0,Not significant
-0,...,0,0,Not significant
-0,and,0,0,Not significant
-1,all,47,0,Not significant
-0,how,0,0,Not significant
-3,pack,137,0,Not significant
+2,book,106,0,Not significant
+1,complete,46,0,Not significant
+1,do,48,0,Not significant
+1,big,23,0,Not significant
+1,free,83,0,Not significant
+1,from,82,0,Not significant
+1,get,92,0,Not significant
+1,updated,21,0,Not significant
+1,guides,49,0,Not significant
+1,an,28,0,Not significant
+2,pack,85,0,Not significant
+1,ultimate,60,0,Not significant
+3,for,272,0,Not significant
+1,all,39,0,Not significant
+1,making,23,0,Not significant
+6,the,415,0,Not significant
+1,me,23,0,Not significant
+1,new,54,0,Not significant
 0,to,0,0,Not significant
 0,make,0,0,Not significant
-4,for,387,0,Not significant
-1,techniques,10,1,Not significant
-1,template,12,1,Not significant
-1,want,14,1,Not significant
-9,of,349,1,Not significant
-2,an,39,1,Not significant
-1,from,177,1,Not significant
-2,bible,48,1,Not significant
-2,big,41,1,Not significant
-2,buy,42,1,Not significant
-1,almost,10,1,Not significant
-2,making,41,1,Not significant
-1,first,9,2,Not significant
-1,listing,6,2,Not significant
-1,manual,6,2,Not significant
-2,vol,27,2,Not significant
-1,super,7,2,Not significant
-2,ebook,25,3,Not significant
-1,cia,4,3,Not significant
-1,ok,3,3,0.05
-1,hidden,5,3,Not significant
-1,street,2,4,0.05
-1,aussie,2,4,0.05
-2,tool,15,4,0.05
-1,do-it-yourself,2,4,0.05
-2,simple,18,4,0.05
+0,how,0,0,Not significant
+0,and,0,0,Not significant
+1,it,25,0,Not significant
+1,by,46,0,Not significant
+1,handbook,19,1,Not significant
+1,megapack,18,1,Not significant
+1,pro,17,1,Not significant
+1,ebook,18,1,Not significant
+1,science,12,1,Not significant
+7,guide,325,1,Not significant
+1,books,18,1,Not significant
+6,of,223,1,Not significant
+1,bible,17,1,Not significant
+1,tool,6,2,Not significant
+1,techniques,7,2,Not significant
+1,version,7,2,Not significant
+1,first,6,2,Not significant
+1,super,8,2,Not significant
+1,next,6,2,Not significant
+1,want,10,2,Not significant
+1,almost,8,2,Not significant
+2,buy,32,2,Not significant
+1,simple,10,2,Not significant
+1,pay,9,2,Not significant
+1,yourself,10,2,Not significant
+1,template,5,3,Not significant
+1,underground,4,3,Not significant
+1,listing,4,3,Not significant
+1,anti,5,3,Not significant
+1,17,4,3,Not significant
+1,man,5,3,Not significant
+1,vol,5,3,Not significant
+1,manual,4,3,Not significant
+1,hidden,4,3,Not significant
+2,step,25,3,Not significant
+1,18,4,3,Not significant
+1,black,5,3,Not significant
 1,printing,2,4,0.05
-2,science,17,4,0.05
-2,version,11,5,0.05
-2,underground,13,5,0.05
+1,made,2,4,0.05
+1,24,3,4,0.05
+1,street,2,4,0.05
+1,ok,3,4,0.05
+1,cia,2,4,0.05
+1,american,2,4,0.05
+1,build,3,4,0.05
+1,diy,2,4,0.05
+1,field,2,4,0.05
+1,william,2,4,0.05
+1,anarchy,3,4,0.05
 1,dictionary,1,5,0.05
-1,firearms,1,5,0.05
 1,give,1,5,0.05
-2,pay,8,6,0.01
-2,man,8,6,0.01
-2,black,6,7,0.01
-2,next,6,7,0.01
-1,gas,0,8,0.01
-1,lighter,0,8,0.01
-1,handgun,0,8,0.01
-1,tactics,0,8,0.01
-1,yo,0,8,0.01
-1,sabotage,0,8,0.01
-1,bomb.rtf,0,8,0.01
-1,liberator,0,8,0.01
-1,submachine,0,8,0.01
-1,afp,0,8,0.01
+1,approach,1,5,0.05
+1,aussie,1,5,0.05
+1,poor,1,5,0.05
+1,rpg,1,5,0.05
+1,firearms,1,5,0.05
+1,anarchists,1,5,0.05
+2,advanced,13,5,0.05
+1,down,1,5,0.05
+1,undetectable,0,8,0.01
+1,thrower,0,8,0.01
 1,silencers,0,8,0.01
+1,shotgun,0,8,0.01
+1,sister,0,8,0.01
+1,shoulder,0,8,0.01
+1,thermite,0,8,0.01
+1,submachine,0,8,0.01
+1,yo,0,8,0.01
+2,modern,6,8,0.01
+1,weap,0,8,0.01
+1,tactics,0,8,0.01
+1,tank,0,8,0.01
+1,shocker,0,8,0.01
+2,14,5,8,0.01
+1,ugly,0,8,0.01
+1,mines,0,8,0.01
+1,sabotage,0,8,0.01
+1,flame,0,8,0.01
+1,fired,0,8,0.01
+1,fertilizer,0,8,0.01
+1,explosive,0,8,0.01
+1,earth,0,8,0.01
+1,dynamite,0,8,0.01
+1,semtex,0,8,0.01
+1,coockbook,0,8,0.01
+1,cocktail,0,8,0.01
+1,claymore,0,8,0.01
+1,care,0,8,0.01
+1,built,0,8,0.01
+1,bomb,0,8,0.01
+1,ammo,0,8,0.01
+1,ak,0,8,0.01
+1,afp,0,8,0.01
+1,accessories,0,8,0.01
+1,gas,0,8,0.01
+1,grenade,0,8,0.01
+1,cow,0,8,0.01
+1,hand,0,8,0.01
+1,powell,0,8,0.01
+1,grenades,0,8,0.01
 1,powder,0,8,0.01
+1,molotov,0,8,0.01
+1,rdx,0,8,0.01
+1,recipe,0,8,0.01
+1,prod,0,8,0.01
+1,manufactured,0,8,0.01
+1,rtf,0,8,0.01
+1,lighter,0,8,0.01
+1,liberator,0,8,0.01
+1,launchers,0,8,0.01
+1,kitchen,0,8,0.01
+1,kalashnikov,0,8,0.01
+1,incendiaries,0,8,0.01
+1,handgun,0,8,0.01
+1,propellants,0,8,0.01
 2,3d,4,9,0.01
-4,advanced,31,9,0.01
-4,book,32,9,0.01
-3,home,12,10,0.01
-2,diy,3,10,0.01
-2,american,3,10,0.01
-6,guides,69,10,0.01
-2,anarchy,3,10,0.01
-2,william,2,11,0.001
-2,4.14,1,12,0.001
-2,anarchists,1,12,0.001
-2,rpg,1,12,0.001
-6,updated,49,13,0.001
-6,megapack,48,13,0.001
-2,thrower,0,16,0.0001
-2,ugly,0,16,0.0001
-2,shoulder,0,16,0.0001
-2,undetectable,0,16,0.0001
-2,weap,0,16,0.0001
-2,shotgun,0,16,0.0001
-2,shocker,0,16,0.0001
-2,semtex,0,16,0.0001
-2,thermite,0,16,0.0001
-2,sister,0,16,0.0001
-2,fired,0,16,0.0001
-2,rdx,0,16,0.0001
-2,ammo,0,16,0.0001
-2,ammunition,0,16,0.0001
-2,anti-tank,0,16,0.0001
-2,approac,0,16,0.0001
-2,bombs,0,16,0.0001
-2,c-4,0,16,0.0001
-2,care,0,16,0.0001
-2,claymore,0,16,0.0001
-2,recipe,0,16,0.0001
-2,cow,0,16,0.0001
-2,down-to-earth,0,16,0.0001
-2,dynamite,0,16,0.0001
-2,explosive,0,16,0.0001
-2,field-manufactured,0,16,0.0001
-2,cocktail,0,16,0.0001
-2,flame,0,16,0.0001
-2,powell,0,16,0.0001
-2,mines,0,16,0.0001
-2,prod,0,16,0.0001
-2,propellants,0,16,0.0001
-2,launchers,0,16,0.0001
-2,molotov,0,16,0.0001
-2,incendiaries,0,16,0.0001
-2,home-made,0,16,0.0001
-2,poor,0,16,0.0001
-2,home-built,0,16,0.0001
-2,hand,0,16,0.0001
-2,grenades,0,16,0.0001
-2,grenade,0,16,0.0001
-4,modern,9,17,0.0001
-5,survival,9,23,0.0001
-3,munitions,0,24,0.0001
-3,kitchen,0,24,0.0001
-3,fertilizer,0,24,0.0001
-3,workshop,0,24,0.0001
-4,iv,1,28,0.0001
-4,caching,0,33,0.0001
-4,c4,0,33,0.0001
-6,ak-47,0,49,0.0001
-6,kalashnikov,0,49,0.0001
-6,coockbook,0,49,0.0001
-9,improvised,5,56,0.0001
-8,accessorie,0,66,0.0001
-14,cookbook,22,69,0.0001
-11,guns,3,77,0.0001
-14,homemade,4,97,0.0001
-12,gunsmithing,0,99,0.0001
-12,weapons,0,99,0.0001
-16,anarchist,4,113,0.0001
-14,gun,0,116,0.0001
-15,explosives,0,124,0.0001
+2,iv,1,13,0.001
+3,survival,5,15,0.0001
+4,home,12,16,0.0001
+2,munitions,0,17,0.0001
+2,caching,0,17,0.0001
+2,c4,0,17,0.0001
+2,bombs,0,17,0.0001
+2,ammunition,0,17,0.0001
+2,workshop,0,17,0.0001
+3,guns,2,18,0.0001
+3,gunsmithing,0,25,0.0001
+4,improvised,2,26,0.0001
+7,cookbook,13,34,0.0001
+6,anarchist,3,39,0.0001
+8,homemade,2,58,0.0001
+7,gun,0,59,0.0001
+7,weapons,0,59,0.0001
+8,explosives,0,68,0.0001

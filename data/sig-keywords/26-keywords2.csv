@@ -1,58 +1,56 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-0,...,0,0,Not significant
 0,and,0,0,Not significant
 0,how,0,0,Not significant
 0,make,0,0,Not significant
 0,to,0,0,Not significant
-3,for,384,0,Not significant
-3,guide,553,0,Not significant
-3,the,638,0,Not significant
-2,bitcoin,254,0,Not significant
-1,on,103,0,Not significant
-2,get,142,1,Not significant
-1,megapack,47,1,Not significant
-4,of,345,2,Not significant
-1,practical,21,2,Not significant
-1,software,17,3,Not significant
-1,beginner,12,3,0.05
-1,warning,10,4,0.05
-1,essentials,4,5,0.05
-1,13,6,5,0.05
-2,advanced,29,7,0.01
-1,14,2,7,0.01
-2,book,30,7,0.01
-1,hands,2,7,0.01
-2,top,18,8,0.01
-2,windows,14,9,0.01
-3,dummies,44,10,0.01
-1,guid,0,10,0.001
-2,code,12,10,0.01
-1,datamining/spyware,0,10,0.001
-1,rootkits,0,10,0.001
-1,embedd,0,10,0.001
-1,builders,0,10,0.001
-1,botnets,0,10,0.001
-2,pdf,8,11,0.001
-2,little,4,14,0.001
-2,black,4,14,0.001
-2,virus,4,14,0.001
-2,source,3,15,0.0001
-2,slaves,2,16,0.0001
-3,bypass,13,17,0.0001
-2,keylogger,1,18,0.0001
-2,others,1,18,0.0001
-2,spytech,0,21,0.0001
-2,spyagent,0,21,0.0001
-2,ransomware,0,21,0.0001
-2,phildelphia,0,21,0.0001
-2,lots,0,21,0.0001
-4,create,22,21,0.0001
-2,stealing,0,21,0.0001
-4,analysis,6,30,0.0001
-3,antivirus,0,32,0.0001
-3,fud,0,32,0.0001
-5,computer,14,32,0.0001
-5,viruses,0,54,0.0001
-5,backdoor,0,54,0.0001
-7,malware,8,55,0.0001
+2,the,413,0,Not significant
+2,guide,323,0,Not significant
+1,bitcoin,137,0,Not significant
+1,book,105,0,Not significant
+1,on,93,0,Not significant
+1,get,91,0,Not significant
+1,for,271,0,Not significant
+2,of,221,1,Not significant
+1,dummies,26,2,Not significant
+1,software,14,3,Not significant
+1,practical,16,3,Not significant
+1,megapack,17,3,Not significant
+1,beginner,8,4,0.05
+1,code,10,4,0.05
+1,advanced,12,4,0.05
+1,bypass,5,5,0.05
+1,top,6,5,0.05
+1,warning,6,5,0.05
+1,pdf,6,5,0.05
+1,black,4,6,0.05
+1,hands,3,6,0.05
+1,little,3,6,0.05
+1,source,3,6,0.05
+1,essentials,2,7,0.01
+1,others,2,7,0.01
+1,slaves,1,8,0.01
+1,keylogger,1,8,0.01
+2,windows,15,9,0.01
+2,computer,9,11,0.001
+1,antivirus,0,11,0.001
+1,stealing,0,11,0.001
+1,spyware,0,11,0.001
+2,create,9,11,0.001
+1,spytech,0,11,0.001
+1,embedd,0,11,0.001
+1,datamining,0,11,0.001
+1,rootkits,0,11,0.001
+1,ransomware,0,11,0.001
+1,botnets,0,11,0.001
+1,phildelphia,0,11,0.001
+1,builders,0,11,0.001
+1,lots,0,11,0.001
+1,guid,0,11,0.001
+1,fud,0,11,0.001
+1,spyagent,0,11,0.001
+2,virus,2,16,0.0001
+2,backdoor,0,22,0.0001
+3,analysis,5,22,0.0001
+2,viruses,0,22,0.0001
+5,malware,4,43,0.0001
