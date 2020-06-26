@@ -12,8 +12,9 @@ new = raw[raw['New Code'].isnull()]
 new = new.sample(frac=1)
 
 # Use this if you wish to limit results
-# items = 100
-# result_df = new.head(items-1)
+items = 8170
+result_df = new.head(items)
+print(result_df)
 
 outputFile = "eval/shuffled/shuffled.csv"
-new.to_csv(outputFile, index=False, header=True)
+result_df.to_csv(outputFile, index=False, header=True)

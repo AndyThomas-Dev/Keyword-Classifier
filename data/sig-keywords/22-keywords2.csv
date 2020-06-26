@@ -1,48 +1,66 @@
 freq,word,exfreq,LL,sig
+0,and,0,0,Not significant
+1,guide,408,0,Not significant
+1,free,130,0,Not significant
+2,of,278,0,Not significant
+2,the,491,0,Not significant
+1,on,124,0,Not significant
 0,how,0,0,Not significant
 0,to,0,0,Not significant
-1,guide,360,0,Not significant
-1,free,97,0,Not significant
-1,on,101,0,Not significant
-2,of,242,0,Not significant
-2,the,439,0,Not significant
-1,vouched,54,1,Not significant
-1,or,49,1,Not significant
-1,what,38,2,Not significant
-1,hack,34,2,Not significant
-1,buy,37,2,Not significant
-1,are,17,3,Not significant
-1,``,16,3,Not significant
-1,'',17,3,Not significant
-1,mobile,18,3,Not significant
-1,data,13,4,0.05
-1,iphone,12,4,0.05
-1,etc,6,5,0.05
-2,uk,38,6,0.01
-1,smart,3,6,0.01
-1,phones,3,6,0.01
-1,samsung,3,6,0.01
-2,cards,29,7,0.01
-1,around,2,7,0.01
-2,an,26,8,0.01
-2,id,14,10,0.01
-1,confusion,0,11,0.001
-1,contracts,0,11,0.001
-1,landline,0,11,0.001
-4,get,96,11,0.001
-1,htc,0,11,0.001
-1,storing,0,11,0.001
-1,sms,0,11,0.001
-1,intercept,0,11,0.001
-1,sensitive,0,11,0.001
-1,exactly,0,11,0.001
-3,anonymous,37,12,0.001
-2,verification,3,15,0.0001
-2,call,2,16,0.0001
-2,burner,1,18,0.0001
-2,spoofer,1,18,0.0001
-2,unknown,1,18,0.0001
-3,number,10,19,0.0001
-2,caller,0,22,0.0001
-2,sim,0,22,0.0001
-6,phone,9,46,0.0001
+1,vouched,50,1,Not significant
+1,what,39,1,Not significant
+1,buy,48,1,Not significant
+1,setup,41,1,Not significant
+1,2nd,35,1,Not significant
+1,or,60,1,Not significant
+1,are,21,2,Not significant
+1,virtual,19,2,Not significant
+1,data,23,2,Not significant
+1,``,20,2,Not significant
+1,anyone,22,2,Not significant
+1,hack,30,2,Not significant
+1,'',20,2,Not significant
+1,mobile,22,2,Not significant
+1,know,16,3,Not significant
+1,services,9,4,0.05
+1,iphone,10,4,0.05
+1,etc,10,4,0.05
+2,uk,52,4,0.05
+1,alternative,4,5,0.05
+1,thoughts,3,6,0.05
+2,cards,33,6,0.05
+1,smart,3,6,0.05
+1,samsung,3,6,0.05
+1,exactly,2,6,0.01
+1,around,1,7,0.01
+1,knows,1,7,0.01
+1,spoofing,1,7,0.01
+2,an,26,7,0.01
+1,authentication,1,7,0.01
+2,id,16,8,0.01
+4,get,113,8,0.01
+3,anonymous,45,9,0.01
+1,authorization,0,10,0.01
+1,landline,0,10,0.01
+1,workaround,0,10,0.01
+1,cell,0,10,0.01
+1,confusion,0,10,0.01
+1,storing,0,10,0.01
+1,sms,0,10,0.01
+1,htc,0,10,0.01
+1,sims,0,10,0.01
+1,intercept,0,10,0.01
+1,sensitive,0,10,0.01
+1,anoyone,0,10,0.01
+1,contracts,0,10,0.01
+2,verification,4,13,0.001
+2,call,3,14,0.001
+2,sim,1,17,0.0001
+2,spoofer,1,17,0.0001
+2,caller,0,21,0.0001
+2,factor,0,21,0.0001
+2,unknown,0,21,0.0001
+4,number,8,27,0.0001
+4,phones,4,31,0.0001
+7,burner,2,65,0.0001
+10,phone,8,81,0.0001

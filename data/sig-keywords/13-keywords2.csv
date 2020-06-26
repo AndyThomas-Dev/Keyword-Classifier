@@ -1,359 +1,386 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,does,7,0,Not significant
-1,own,21,0,Not significant
-1,pdf,8,0,Not significant
-1,police,8,0,Not significant
-1,problem,9,0,Not significant
-1,questions,17,0,Not significant
-1,recipes,11,0,Not significant
-1,safely,14,0,Not significant
-1,send,9,0,Not significant
-1,de,7,0,Not significant
-1,setup,32,0,Not significant
-1,create,10,0,Not significant
-1,than,8,0,Not significant
-1,time,14,0,Not significant
-1,tutorials,22,0,Not significant
-1,uk,39,0,Not significant
-1,unlimited,7,0,Not significant
-1,other,10,0,Not significant
-1,order,8,0,Not significant
-1,open,11,0,Not significant
-1,drops,10,0,Not significant
-1,grow,11,0,Not significant
-1,gold,11,0,Not significant
-1,info,9,0,Not significant
+1,internet,12,0,Not significant
 1,instant,7,0,Not significant
-1,introduction,13,0,Not significant
-1,it,26,0,Not significant
-1,just,7,0,Not significant
-1,find,7,0,Not significant
-1,up,29,0,Not significant
-1,megapack,17,0,Not significant
-1,most,7,0,Not significant
-1,my,45,0,Not significant
-1,need,25,0,Not significant
-1,newbie,9,0,Not significant
-1,one,27,0,Not significant
-1,edition,56,0,Not significant
-1,ebook,19,0,Not significant
-1,easy,49,0,Not significant
-1,methods,29,0,Not significant
-1,us,20,0,Not significant
-1,growing,11,0,Not significant
-1,analysis,8,0,Not significant
-2,best,49,0,Not significant
-1,at,27,0,Not significant
-1,art,16,0,Not significant
-2,buy,36,0,Not significant
-1,are,17,0,Not significant
-2,help,43,0,Not significant
-3,get,97,0,Not significant
-1,wallet,11,0,Not significant
-1,amphetamine,11,0,Not significant
-4,from,84,0,Not significant
-2,use,46,0,Not significant
-2,web,24,0,Not significant
-1,advice,12,0,Not significant
-3,complete,43,0,Not significant
-2,only,35,0,Not significant
-2,an,26,0,Not significant
-3,your,118,0,Not significant
-1,when,8,0,Not significant
-1,being,7,0,Not significant
-1,2nd,22,0,Not significant
-0,and,0,0,Not significant
-1,want,10,0,Not significant
-1,business,15,0,Not significant
+1,want,11,0,Not significant
+1,info,9,0,Not significant
+1,what,36,0,Not significant
+1,when,9,0,Not significant
+1,where,7,0,Not significant
+2,2nd,38,0,Not significant
+2,an,25,0,Not significant
+1,growing,13,0,Not significant
+1,gold,14,0,Not significant
+1,getting,16,0,Not significant
+2,best,63,0,Not significant
+1,find,8,0,Not significant
+2,help,58,0,Not significant
+1,etc,10,0,Not significant
+1,essential,7,0,Not significant
+2,megapack,22,0,Not significant
+1,ed,11,0,Not significant
+1,ebook,22,0,Not significant
+1,easy,50,0,Not significant
+1,drops,14,0,Not significant
+1,does,9,0,Not significant
+1,create,9,0,Not significant
+2,tutorials,27,0,Not significant
+2,up,32,0,Not significant
+1,clone,9,0,Not significant
+1,introduction,30,0,Not significant
+1,clean,17,0,Not significant
+1,it,36,0,Not significant
+1,just,13,0,Not significant
+1,secrets,21,0,Not significant
+1,safe,36,0,Not significant
+1,send,9,0,Not significant
+1,setup,40,0,Not significant
+1,questions,18,0,Not significant
+1,police,7,0,Not significant
+1,super,8,0,Not significant
+1,pdf,8,0,Not significant
+1,own,23,0,Not significant
+1,over,29,0,Not significant
+1,than,10,0,Not significant
+1,other,12,0,Not significant
+1,this,31,0,Not significant
+1,open,11,0,Not significant
+1,only,34,0,Not significant
+1,one,31,0,Not significant
+1,off,8,0,Not significant
+1,newbie,11,0,Not significant
+1,through,10,0,Not significant
+1,need,41,0,Not significant
+1,time,15,0,Not significant
+1,most,9,0,Not significant
+1,methods,36,0,Not significant
+1,meth,8,0,Not significant
+1,unlimited,8,0,Not significant
+1,us,26,0,Not significant
+1,like,7,0,Not significant
+1,wallet,16,0,Not significant
+1,chemistry,8,0,Not significant
+1,grow,12,0,Not significant
+1,cheap,12,0,Not significant
+1,business,18,0,Not significant
+3,edition,75,0,Not significant
 1,bitcoins,47,0,Not significant
-1,way,16,0,Not significant
-0,how,0,0,Not significant
-5,on,97,0,Not significant
+1,but,7,0,Not significant
+1,being,8,0,Not significant
+1,become,8,0,Not significant
+3,from,89,0,Not significant
+1,at,26,0,Not significant
+1,art,17,0,Not significant
+1,are,16,0,Not significant
+3,my,51,0,Not significant
+1,advice,17,0,Not significant
+2,web,26,0,Not significant
+6,on,122,0,Not significant
+4,get,109,0,Not significant
+0,and,0,0,Not significant
 0,to,0,0,Not significant
-1,what,38,0,Not significant
-1,modern,5,1,Not significant
-1,lessons,6,1,Not significant
-1,instagram,5,1,Not significant
-4,guides,50,1,Not significant
-1,manual,5,1,Not significant
-10,guide,351,1,Not significant
-6,pack,81,1,Not significant
-6,free,92,1,Not significant
+2,usa,22,0,Not significant
+1,analysis,12,0,Not significant
+5,pack,97,0,Not significant
+2,use,49,0,Not significant
+4,guides,57,0,Not significant
+2,vendor,24,0,Not significant
+0,how,0,0,Not significant
+1,picking,5,1,Not significant
+1,beyond,4,1,Not significant
+1,pgp,72,1,Not significant
+1,would,6,1,Not significant
+1,new,64,1,Not significant
+1,manual,6,1,Not significant
+1,we,6,1,Not significant
+1,australia,5,1,Not significant
 1,messaging,5,1,Not significant
-1,link,5,1,Not significant
+1,pics,6,1,Not significant
 1,vendors,4,1,Not significant
-2,usa,18,1,Not significant
-1,value,4,1,Not significant
-1,we,5,1,Not significant
-1,heroin,4,1,Not significant
-1,through,6,1,Not significant
-1,systems,5,1,Not significant
-1,story,6,1,Not significant
-2,vendor,19,1,Not significant
-1,where,6,1,Not significant
-1,would,5,1,Not significant
+1,value,5,1,Not significant
+1,illegal,4,1,Not significant
 2,basic,18,1,Not significant
+1,systems,6,1,Not significant
+1,modern,5,1,Not significant
+2,into,15,1,Not significant
+1,ca,5,1,Not significant
+1,speed,5,1,Not significant
 1,reputable,4,1,Not significant
-1,pgp,67,1,Not significant
-2,getting,15,1,Not significant
-2,secrets,19,1,Not significant
+3,big,31,1,Not significant
 1,stop,5,1,Not significant
-1,top,6,1,Not significant
-1,picking,6,1,Not significant
-1,delivery,5,1,Not significant
-1,17,5,1,Not significant
-1,cheap,6,1,Not significant
 1,fbi,6,1,Not significant
-1,chemistry,5,1,Not significant
+2,cookbook,18,1,Not significant
+1,play,4,1,Not significant
+2,safely,15,1,Not significant
+1,story,5,1,Not significant
+1,delivery,6,1,Not significant
 1,definitive,5,1,Not significant
-1,become,6,1,Not significant
-1,anti,4,1,Not significant
-1,essential,6,1,Not significant
-1,clearnet,5,1,Not significant
-1,light,2,2,Not significant
-1,love,2,2,Not significant
-1,death,2,2,Not significant
-1,experiences,2,2,Not significant
-1,syntheses,3,2,Not significant
+1,sellers,2,2,Not significant
+1,is,78,2,Not significant
 1,around,2,2,Not significant
-1,field,2,2,Not significant
-1,auto,3,2,Not significant
-1,otto,2,2,Not significant
-1,overview,2,2,Not significant
-1,play,3,2,Not significant
-1,canadian,2,2,Not significant
-1,pot,2,2,Not significant
-1,product,3,2,Not significant
+1,65,2,2,Not significant
+1,run,2,2,Not significant
+2,order,11,2,Not significant
+1,87,3,2,Not significant
+1,104,3,2,Not significant
+2,your,120,2,Not significant
+1,look,3,2,Not significant
+1,love,3,2,Not significant
+1,used,3,2,Not significant
+1,research,2,2,Not significant
+3,way,26,2,Not significant
 1,case,3,2,Not significant
-2,cookbook,12,2,Not significant
-2,with,136,2,Not significant
-1,snow,2,2,Not significant
-1,king,2,2,Not significant
-3,big,24,2,Not significant
-1,73,2,2,Not significant
-1,hide,2,2,Not significant
-1,sleep,2,2,Not significant
-1,genetics,2,2,Not significant
-1,47,3,2,Not significant
-1,43,2,2,Not significant
 1,future,2,2,Not significant
-7,for,287,2,Not significant
-1,lab,1,3,Not significant
-1,smoke,1,3,Not significant
-1,opsec,1,3,Not significant
-1,ayahuasca,1,3,Not significant
+9,free,122,2,Not significant
+1,auto,3,2,Not significant
+1,genetics,3,2,Not significant
+1,brain,2,2,Not significant
+1,wash,2,2,Not significant
+1,107,3,2,Not significant
+1,field,2,2,Not significant
+1,scientific,2,2,Not significant
+4,buy,40,2,Not significant
+1,guy,3,2,Not significant
+1,hide,2,2,Not significant
+1,64,2,2,Not significant
+1,exactly,2,2,Not significant
+10,guide,404,3,Not significant
+1,series,1,3,Not significant
+1,product,1,3,Not significant
+1,purchasing,1,3,Not significant
+1,taking,1,3,Not significant
+1,across,1,3,Not significant
+1,sr,1,3,Not significant
+1,recommendations,1,3,Not significant
 1,tests,1,3,Not significant
+1,snow,1,3,Not significant
+1,otto,1,3,Not significant
+1,43,1,3,Not significant
+1,106,1,3,Not significant
+1,those,1,3,Not significant
+1,53,1,3,Not significant
+1,second,1,3,Not significant
+1,identify,1,3,Not significant
+3,books,18,3,Not significant
+2,heroin,7,3,0.05
+2,great,8,3,Not significant
+1,finding,1,3,Not significant
+1,follow,1,3,Not significant
 1,bud,1,3,Not significant
 1,body,1,3,Not significant
-1,odds,1,3,Not significant
-1,buds,1,3,Not significant
-1,wash,1,3,Not significant
-1,reddit,1,3,Not significant
-1,identify,1,3,Not significant
-1,diet,1,3,Not significant
-1,sr,1,3,Not significant
-1,delicious,1,3,Not significant
-1,chemical,1,3,Not significant
-1,biology,1,3,Not significant
 1,grower,1,3,Not significant
-1,electricity,1,3,Not significant
-1,follow,1,3,Not significant
-1,legally,1,3,Not significant
-1,across,1,3,Not significant
-1,sellers,1,3,Not significant
-1,scientific,1,3,Not significant
-1,manifesto,1,3,Not significant
-1,used,1,3,Not significant
-1,recommendations,1,3,Not significant
-2,off,7,3,0.05
 1,helicopters,1,3,Not significant
+1,ayahuasca,1,3,Not significant
 1,intercepted,1,3,Not significant
-1,shopping,1,3,Not significant
-2,that,6,4,0.05
-2,buyer,5,4,0.05
-2,alcohol,5,4,0.05
-2,great,6,4,0.05
-2,sell,6,4,0.05
-2,social,5,4,0.05
-2,super,6,4,0.05
-2,12,6,4,0.05
-3,cocaine,14,4,0.05
-3,buying,12,5,0.05
-3,into,12,5,0.05
-1,in,135,5,0.05
-2,got,4,5,0.05
-2,history,4,5,0.05
-3,as,11,5,0.05
-3,world,12,5,0.05
+1,diet,1,3,Not significant
+1,canadian,1,3,Not significant
+1,lab,1,3,Not significant
+1,trusted,1,3,Not significant
+3,with,175,3,Not significant
+1,charge,1,3,Not significant
+1,manifesto,1,3,Not significant
+1,designer,1,3,Not significant
+2,sell,9,3,Not significant
+1,light,1,3,Not significant
+2,that,9,3,Not significant
+1,chemical,1,3,Not significant
+2,anti,5,4,0.05
+6,for,308,4,0.05
+2,in,159,4,0.05
+3,problem,14,4,0.05
+2,de,6,4,0.05
+3,high,16,4,0.05
+2,changing,4,5,0.05
+6,complete,44,5,0.05
+3,as,12,5,0.05
+1,small,0,6,0.05
+2,revolution,3,6,0.05
+1,silk,0,6,0.05
+1,shopping,0,6,0.05
+2,ordering,3,6,0.05
+1,smoker,0,6,0.05
+2,reference,3,6,0.05
+1,sleep,0,6,0.05
 1,trip,0,6,0.05
-1,tour,0,6,0.05
-1,cultures,0,6,0.05
-1,child,0,6,0.05
-1,taking,0,6,0.05
+2,mushroom,3,6,0.05
+1,sneaking,0,6,0.05
 1,strains,0,6,0.05
-1,grows,0,6,0.05
-1,therapeutics,0,6,0.05
 1,strassman,0,6,0.05
+1,tour,0,6,0.05
+1,zealand,0,6,0.05
+1,wide,0,6,0.05
+1,vitamin,0,6,0.05
+1,therapeutics,0,6,0.05
+1,verifiable,0,6,0.05
+1,third,0,6,0.05
+1,uses,0,6,0.05
+1,though,0,6,0.05
+1,twice,0,6,0.05
+2,narcotics,3,6,0.05
+1,venturas,0,6,0.05
+1,possession,0,6,0.05
+1,saftest,0,6,0.05
+1,cultures,0,6,0.05
+1,dealing,0,6,0.05
+1,depressants,0,6,0.05
+1,disease,0,6,0.05
+1,dispensary,0,6,0.05
+1,dr,0,6,0.05
+1,edible,0,6,0.05
+1,eigth,0,6,0.05
+1,seas,0,6,0.05
+1,enhancement,0,6,0.05
+1,codeine,0,6,0.05
+1,enjoy,0,6,0.05
+1,eutous,0,6,0.05
+1,explorer,0,6,0.05
+1,facility,0,6,0.05
+1,fadiman,0,6,0.05
+1,fentanyl,0,6,0.05
+1,fresno,0,6,0.05
+1,ge,0,6,0.05
+1,gig,0,6,0.05
+1,glassware,0,6,0.05
+1,grows,0,6,0.05
+1,escohotado,0,6,0.05
 1,hallucinogenic,0,6,0.05
+1,cocaina,0,6,0.05
 1,challenging,0,6,0.05
+1,10g,0,6,0.05
 1,25g,0,6,0.05
-1,25i,0,6,0.05
-1,aaaa,0,6,0.05
+1,a215s,0,6,0.05
 1,abused,0,6,0.05
+1,addiction,0,6,0.05
 1,ages,0,6,0.05
 1,aids,0,6,0.05
 1,airport,0,6,0.05
 1,alzheimer,0,6,0.05
 1,amounts,0,6,0.05
-2,revolution,3,6,0.05
+1,chances,0,6,0.05
 1,analoge,0,6,0.05
-1,aprendiendo,0,6,0.05
-2,cia,3,6,0.05
-2,changing,3,6,0.05
-1,xanax,0,6,0.05
+1,anxiety,0,6,0.05
+1,aussie,0,6,0.05
+1,barbiturates,0,6,0.05
 1,blotter,0,6,0.05
 1,buzz,0,6,0.05
-1,vitamin,0,6,0.05
-1,verifiable,0,6,0.05
-1,venturas,0,6,0.05
+1,cafe,0,6,0.05
 1,cannabinoids,0,6,0.05
 1,cart,0,6,0.05
-1,uses,0,6,0.05
 1,cautions,0,6,0.05
 1,cd,0,6,0.05
-1,chances,0,6,0.05
-1,aussie,0,6,0.05
-1,codeine,0,6,0.05
-1,smoker,0,6,0.05
-1,mbb,0,6,0.05
-1,medications,0,6,0.05
-1,facility,0,6,0.05
-1,memory,0,6,0.05
-1,explorer,0,6,0.05
-1,methylphenidate,0,6,0.05
-1,sneaking,0,6,0.05
-1,eutous,0,6,0.05
-1,fadiman,0,6,0.05
+1,antidepressants,0,6,0.05
+1,hallucinogens,0,6,0.05
+1,electricity,0,6,0.05
+1,hofmann,0,6,0.05
+1,microgram,0,6,0.05
 1,morphine,0,6,0.05
-1,mystical,0,6,0.05
-1,nbome,0,6,0.05
-1,near,0,6,0.05
-1,enhancement,0,6,0.05
+1,mysticism,0,6,0.05
 1,neurochemistry,0,6,0.05
 1,nicotine,0,6,0.05
-1,eigth,0,6,0.05
-1,drogas,0,6,0.05
-1,enjoy,0,6,0.05
+1,odds,0,6,0.05
+1,opio,0,6,0.05
 1,opium,0,6,0.05
-1,magazines,0,6,0.05
-1,lsd_,0,6,0.05
-1,hallucinogens,0,6,0.05
-1,hashmaking,0,6,0.05
-1,highbrow,0,6,0.05
-1,hydroponics,0,6,0.05
-1,implications,0,6,0.05
-1,importation,0,6,0.05
-1,index,0,6,0.05
-1,infared,0,6,0.05
-1,mafia,0,6,0.05
-1,glassware,0,6,0.05
-1,gig,0,6,0.05
-1,james,0,6,0.05
-1,jesse,0,6,0.05
-1,journey,0,6,0.05
-1,finding,0,6,0.05
-1,las,0,6,0.05
-1,lee,0,6,0.05
-1,lower,0,6,0.05
-1,inhalants,0,6,0.05
-1,dr,0,6,0.05
-1,microgram,0,6,0.05
-1,proffessor,0,6,0.05
-1,producer,0,6,0.05
-1,producers,0,6,0.05
-1,professionals,0,6,0.05
-1,professor,0,6,0.05
-1,properly,0,6,0.05
-1,sacred,0,6,0.05
-1,date,0,6,0.05
-1,psilocybe,0,6,0.05
-1,psychedelics,0,6,0.05
-1,ricin,0,6,0.05
-1,psychotherapy,0,6,0.05
-1,rape,0,6,0.05
-1,dosing,0,6,0.05
-1,reconsidered,0,6,0.05
-1,recreational,0,6,0.05
-1,reflections,0,6,0.05
-1,relievers,0,6,0.05
-1,reselling,0,6,0.05
-1,revolutionary,0,6,0.05
-1,small,0,6,0.05
-1,depressants,0,6,0.05
-1,run,0,6,0.05
-1,silk,0,6,0.05
-1,designer,0,6,0.05
-1,role,0,6,0.05
 1,ott,0,6,0.05
 1,ounces,0,6,0.05
-1,doctor,0,6,0.05
-1,oxide,0,6,0.05
+1,hashmaking,0,6,0.05
 1,pain,0,6,0.05
-1,road's,0,6,0.05
-1,ritalin,0,6,0.05
-1,dispensary,0,6,0.05
 1,ph,0,6,0.05
-1,disease,0,6,0.05
 1,pills,0,6,0.05
-1,possession,0,6,0.05
+1,methylphenidate,0,6,0.05
+1,poisonous,0,6,0.05
+1,producers,0,6,0.05
+1,professor,0,6,0.05
+1,proffessor,0,6,0.05
+1,psilocybe,0,6,0.05
+1,psychedelics,0,6,0.05
+1,reconsidered,0,6,0.05
+1,recreational,0,6,0.05
+1,relievers,0,6,0.05
+1,ricin,0,6,0.05
 1,rick,0,6,0.05
-2,mushroom,2,7,0.01
+1,ritalin,0,6,0.05
+1,road's,0,6,0.05
+1,role,0,6,0.05
+1,roxys,0,6,0.05
+1,producer,0,6,0.05
+1,mephedrone,0,6,0.05
+1,oxide,0,6,0.05
+1,james,0,6,0.05
+1,jesse,0,6,0.05
+1,inhalants,0,6,0.05
+1,infared,0,6,0.05
+1,indicted,0,6,0.05
+1,journey,0,6,0.05
+1,lee,0,6,0.05
+1,legally,0,6,0.05
+1,lower,0,6,0.05
+1,magazines,0,6,0.05
+1,mafia,0,6,0.05
+1,hongos,0,6,0.05
+1,memory,0,6,0.05
+1,index,0,6,0.05
+1,implications,0,6,0.05
+1,mbb,0,6,0.05
+21,of,258,7,0.01
 2,busted,2,7,0.01
-2,narcotics,2,7,0.01
-2,magic,2,7,0.01
-2,research,2,7,0.01
 2,ecstasy,2,7,0.01
-4,mdma,14,7,0.01
-4,books,16,7,0.01
-20,of,224,8,0.01
-2,successfully,1,9,0.01
-2,ordering,1,9,0.01
-2,psychedelic,1,9,0.01
-2,trusted,1,9,0.01
-3,pass,4,10,0.01
-5,handbook,15,11,0.001
-2,trips,0,12,0.001
-2,road,0,12,0.001
-2,products,0,12,0.001
-3,reference,2,12,0.001
-3,test,2,12,0.001
-2,nitrous,0,12,0.001
-2,friend,0,12,0.001
-2,dreams,0,12,0.001
+2,psychedelic,2,7,0.01
+2,date,2,7,0.01
+2,spirit,2,7,0.01
+4,world,13,8,0.01
+4,buying,11,9,0.01
+2,road,1,9,0.01
+5,cocaine,15,10,0.001
+3,buyer,3,11,0.001
+3,got,3,11,0.001
+4,history,6,12,0.001
 2,cubensis,0,12,0.001
-2,acid,0,12,0.001
-2,twice,0,12,0.001
+4,social,6,12,0.001
+2,25i,0,12,0.001
+2,nitrous,0,12,0.001
+2,aprendiendo,0,12,0.001
 2,alchemy,0,12,0.001
-5,high,11,13,0.001
-4,almost,5,13,0.001
-3,abuse,1,14,0.001
-3,spirit,1,14,0.001
+2,nbome,0,12,0.001
+2,friend,0,12,0.001
+2,lsd_,0,12,0.001
+2,reflections,0,12,0.001
+2,sixties,0,12,0.001
+2,las,0,12,0.001
+2,trips,0,12,0.001
+2,hydroponics,0,12,0.001
+2,grade,0,12,0.001
+2,sacred,0,12,0.001
+2,molecule,0,12,0.001
+2,rape,0,12,0.001
+2,products,0,12,0.001
+2,prescription,0,12,0.001
+2,dosing,0,12,0.001
+3,magic,2,12,0.001
+2,drogas,0,12,0.001
+4,cia,4,14,0.001
+4,alcohol,4,14,0.001
+3,successfully,1,14,0.001
+6,handbook,16,14,0.001
 3,medical,1,14,0.001
-3,prescription,0,19,0.0001
-3,molecule,0,19,0.0001
+7,mdma,19,16,0.0001
+5,pass,6,17,0.0001
+5,weed,6,17,0.0001
+3,child,0,19,0.0001
 3,mexico,0,19,0.0001
-3,grade,0,19,0.0001
-6,dmt,5,24,0.0001
-5,guidebook,2,24,0.0001
-6,weed,3,27,0.0001
-9,drug,12,30,0.0001
-9,cannabis,11,31,0.0001
-9,lsd,10,32,0.0001
-8,mushrooms,2,41,0.0001
-55,the,386,54,0.0001
-10,psilocybin,1,57,0.0001
-17,marijuana,17,64,0.0001
-23,straight,5,122,0.0001
-23,facts,1,140,0.0001
-42,drugs,16,204,0.0001
+5,test,4,20,0.0001
+4,abuse,1,20,0.0001
+6,almost,6,22,0.0001
+5,guidebook,2,23,0.0001
+4,dreams,0,25,0.0001
+4,acid,0,25,0.0001
+7,dmt,5,29,0.0001
+9,cannabis,9,33,0.0001
+11,lsd,12,39,0.0001
+9,mushrooms,4,42,0.0001
+9,psilocybin,1,51,0.0001
+15,marijuana,17,53,0.0001
+16,drug,14,62,0.0001
+64,the,421,67,0.0001
+28,straight,5,152,0.0001
+28,facts,1,171,0.0001
+53,drugs,19,259,0.0001

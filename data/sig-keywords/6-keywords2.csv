@@ -2,20 +2,21 @@ freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
 0,make,0,0,Not significant
 0,to,0,0,Not significant
-1,the,440,0,Not significant
-1,from,87,2,Not significant
-1,or,49,4,0.05
-1,clean,13,6,0.05
-1,internet,11,6,0.01
-2,your,119,7,0.01
-1,clone,9,7,0.01
-1,disappear,5,8,0.01
-1,tax,4,8,0.01
-1,history,5,8,0.01
-1,clear,2,9,0.01
-1,image,3,9,0.01
+1,the,484,0,Not significant
+1,from,91,2,Not significant
+1,or,59,3,Not significant
+1,internet,12,6,0.05
+1,tax,6,7,0.01
+1,disappear,6,7,0.01
+1,image,4,8,0.01
+1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,4,8,0.01
+1,clear,1,10,0.01
+3,your,119,12,0.001
 1,lien,0,13,0.001
 1,mugshot,0,13,0.001
 1,records,0,13,0.001
 1,removal,0,13,0.001
-2,criminal,0,27,0.0001
+2,clean,16,14,0.001
+2,clone,8,16,0.0001
+2,history,8,16,0.0001
+3,criminal,0,40,0.0001

@@ -7,6 +7,7 @@ freq,word
 1,buy
 1,could
 1,ddosers
+1,discussion
 1,dos
 1,ever
 1,ghostsquad
@@ -15,6 +16,7 @@ freq,word
 1,know
 1,linux
 1,megapack
+1,onion
 1,script
 1,scripts
 1,software
@@ -29,4 +31,4 @@ freq,word
 2,perl
 2,theoretical
 3,for
-4,ddos
+5,ddos

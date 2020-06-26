@@ -1,394 +1,403 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,need,25,0,Not significant
-1,nsa,6,0,Not significant
-1,number,12,0,Not significant
-1,open,11,0,Not significant
-1,other,10,0,Not significant
-1,pages,6,0,Not significant
-1,pay,6,0,Not significant
+1,needed,8,0,Not significant
+1,not,42,0,Not significant
+1,nsa,10,0,Not significant
+1,number,13,0,Not significant
+1,other,12,0,Not significant
+1,pages,8,0,Not significant
+1,pay,9,0,Not significant
 1,per,12,0,Not significant
-1,plus,8,0,Not significant
-1,private,17,0,Not significant
-1,programming,43,0,Not significant
-1,real,8,0,Not significant
-1,really,10,0,Not significant
-1,refund,20,0,Not significant
-1,release,6,0,Not significant
-1,safe,29,0,Not significant
-1,safety,17,0,Not significant
-1,must,14,0,Not significant
-1,month,9,0,Not significant
-1,machine,9,0,Not significant
-1,legal,11,0,Not significant
-1,course,10,0,Not significant
-1,daily,7,0,Not significant
-1,ebay,18,0,Not significant
-1,email,23,0,Not significant
-1,every,8,0,Not significant
-1,everything,11,0,Not significant
-1,fake,27,0,Not significant
-1,good,14,0,Not significant
+1,need,41,0,Not significant
+1,plus,10,0,Not significant
+1,private,22,0,Not significant
+1,real,11,0,Not significant
+1,really,11,0,Not significant
+1,refund,24,0,Not significant
+1,release,12,0,Not significant
 1,same,7,0,Not significant
-1,guaranteed,8,0,Not significant
-1,handbook,19,0,Not significant
-1,have,11,0,Not significant
-1,help,44,0,Not significant
-1,info,9,0,Not significant
-1,introduction,13,0,Not significant
-1,just,7,0,Not significant
-1,laundering,7,0,Not significant
-1,learning,16,0,Not significant
-1,guidebook,6,0,Not significant
-1,science,12,0,Not significant
-1,sell,7,0,Not significant
+1,science,14,0,Not significant
 1,should,8,0,Not significant
-2,straight,26,0,Not significant
-2,working,31,0,Not significant
-3,by,44,0,Not significant
-3,complete,43,0,Not significant
-3,edition,54,0,Not significant
-3,free,95,0,Not significant
-3,get,97,0,Not significant
-3,on,99,0,Not significant
-2,secrets,19,0,Not significant
-3,or,47,0,Not significant
-3,use,45,0,Not significant
-4,easy,46,0,Not significant
-4,is,58,0,Not significant
-4,pack,83,0,Not significant
-4,security,66,0,Not significant
-5,method,113,0,Not significant
-7,with,131,0,Not significant
-14,of,230,0,Not significant
-3,tutorial,70,0,Not significant
-1,com,19,0,Not significant
-2,not,37,0,Not significant
-2,ip,18,0,Not significant
-1,simple,10,0,Not significant
-1,some,7,0,Not significant
-1,through,6,0,Not significant
-1,time,14,0,Not significant
-1,tutorials,22,0,Not significant
-1,uk,39,0,Not significant
-1,usd,7,0,Not significant
-1,via,9,0,Not significant
-2,new,56,0,Not significant
-1,week,12,0,Not significant
-1,world,14,0,Not significant
+1,price,13,0,Not significant
+1,simple,13,0,Not significant
+1,must,16,0,Not significant
+1,machine,14,0,Not significant
+1,com,20,0,Not significant
+1,course,8,0,Not significant
+1,does,9,0,Not significant
+1,early,10,0,Not significant
+1,ebay,19,0,Not significant
+1,economics,7,0,Not significant
+1,email,25,0,Not significant
+1,every,9,0,Not significant
+1,month,11,0,Not significant
+1,everything,13,0,Not significant
+1,handbook,21,0,Not significant
+1,have,16,0,Not significant
+1,here,11,0,Not significant
+1,info,9,0,Not significant
+1,introduction,30,0,Not significant
+1,just,13,0,Not significant
+1,learning,25,0,Not significant
+1,legal,10,0,Not significant
+1,good,14,0,Not significant
+1,through,10,0,Not significant
+1,time,15,0,Not significant
+1,tricks,7,0,Not significant
+3,by,48,0,Not significant
+3,get,110,0,Not significant
+3,methods,34,0,Not significant
+3,new,62,0,Not significant
+3,or,57,0,Not significant
+3,tutorial,71,0,Not significant
+3,what,34,0,Not significant
+4,free,127,0,Not significant
+3,anonymous,44,0,Not significant
+4,list,104,0,Not significant
+4,pack,98,0,Not significant
+4,pick,72,0,Not significant
+5,book,102,0,Not significant
+5,is,74,0,Not significant
+5,on,123,0,Not significant
+5,security,80,0,Not significant
+6,with,172,0,Not significant
+14,of,265,0,Not significant
+4,method,112,0,Not significant
+2,working,33,0,Not significant
+2,straight,31,0,Not significant
+2,secrets,20,0,Not significant
+1,tutorials,28,0,Not significant
+1,usb,9,0,Not significant
+1,vouched,51,0,Not significant
+1,want,11,0,Not significant
+1,week,15,0,Not significant
+1,which,9,0,Not significant
+1,works,10,0,Not significant
+1,world,16,0,Not significant
 1,yourself,13,0,Not significant
-2,about,25,0,Not significant
-2,anonymous,38,0,Not significant
-2,at,26,0,Not significant
-2,beginners,34,0,Not significant
-2,cash,41,0,Not significant
-2,guides,52,0,Not significant
-1,works,8,0,Not significant
-1,coinbase,7,0,Not significant
-1,questions,17,0,Not significant
-1,anyone,16,0,Not significant
-1,being,7,0,Not significant
-1,bible,17,0,Not significant
-1,20,7,0,Not significant
-1,12,7,0,Not significant
-1,100,31,0,Not significant
-1,atm,6,0,Not significant
-1,any,33,0,Not significant
-1,'',17,0,Not significant
-1,analysis,8,0,Not significant
-0,to,0,0,Not significant
-1,an,27,0,Not significant
-1,before,6,0,Not significant
-0,make,0,0,Not significant
+2,2nd,38,0,Not significant
+2,at,25,0,Not significant
+2,beginners,39,0,Not significant
+2,cash,45,0,Not significant
+2,complete,48,0,Not significant
+2,dummies,26,0,Not significant
+2,edition,76,0,Not significant
+2,guides,59,0,Not significant
+2,programming,56,0,Not significant
+2,safe,35,0,Not significant
+1,coinbase,8,0,Not significant
+1,cia,7,0,Not significant
+1,possible,7,0,Not significant
 1,after,8,0,Not significant
-1,advanced,14,0,Not significant
-1,be,35,0,Not significant
-0,and,0,0,Not significant
+1,anyone,17,0,Not significant
+1,atm,11,0,Not significant
+0,to,0,0,Not significant
+1,10,9,0,Not significant
+1,about,31,0,Not significant
+1,be,42,0,Not significant
+0,make,0,0,Not significant
+1,'',21,0,Not significant
+1,before,7,0,Not significant
+1,being,8,0,Not significant
+1,address,20,0,Not significant
+1,advanced,13,0,Not significant
+1,check,13,0,Not significant
+1,bible,20,0,Not significant
+1,``,20,0,Not significant
+1,any,40,0,Not significant
+1,100,28,0,Not significant
 0,how,0,0,Not significant
-1,``,16,0,Not significant
-1,check,14,0,Not significant
-1,50,8,0,Not significant
-1,track,3,1,Not significant
-1,29,3,1,Not significant
-2,here,12,1,Not significant
-1,australia,4,1,Not significant
-1,auto,3,1,Not significant
-1,autopilot,3,1,Not significant
-3,book,105,1,Not significant
-1,22,3,1,Not significant
-1,21,5,1,Not significant
-1,mixer,5,1,Not significant
-1,62,3,1,Not significant
-3,dummies,25,1,Not significant
-1,18,5,1,Not significant
-1,major,3,1,Not significant
-1,banned,4,1,Not significant
-1,17,5,1,Not significant
-1,level,3,1,Not significant
-2,card,78,1,Not significant
-3,it,24,1,Not significant
-2,getting,15,1,Not significant
-2,virtual,14,1,Not significant
-1,anon,5,1,Not significant
-1,project,3,1,Not significant
-1,47,3,1,Not significant
-1,account,56,1,Not significant
-2,phone,13,1,Not significant
-2,pick,77,1,Not significant
-1,skrill,4,1,Not significant
-2,safely,13,1,Not significant
-1,see,3,1,Not significant
-1,users,3,1,Not significant
-2,secure,16,1,Not significant
-1,vcc,4,1,Not significant
+1,an,26,0,Not significant
+1,analysis,12,0,Not significant
+1,anon,7,0,Not significant
+0,and,0,0,Not significant
+2,gold,13,1,Not significant
+1,bin,4,1,Not significant
+1,22,5,1,Not significant
+1,altcoins,4,1,Not significant
+1,today,4,1,Not significant
+2,secure,18,1,Not significant
+1,laundering,6,1,Not significant
+1,ii,4,1,Not significant
+1,risk,6,1,Not significant
+1,track,4,1,Not significant
+1,best,64,1,Not significant
+4,easy,47,1,Not significant
 1,against,4,1,Not significant
-1,age,4,1,Not significant
-1,30,3,1,Not significant
-1,risk,5,1,Not significant
-1,verification,4,1,Not significant
-1,altcoins,3,1,Not significant
-1,amazon,57,1,Not significant
-1,vouched,54,1,Not significant
-1,we,5,1,Not significant
-1,projects,4,1,Not significant
-1,67,3,1,Not significant
-1,cia,4,1,Not significant
-1,research,3,1,Not significant
-1,tricks,5,1,Not significant
+1,major,4,1,Not significant
+1,vendors,4,1,Not significant
+1,amazon,67,1,Not significant
+1,mixer,4,1,Not significant
+2,phone,17,1,Not significant
+1,banned,5,1,Not significant
+2,ip,18,1,Not significant
+1,project,4,1,Not significant
+1,account,53,1,Not significant
+1,17,6,1,Not significant
+2,virtual,13,1,Not significant
+1,sense,4,1,Not significant
+1,we,6,1,Not significant
+1,verification,5,1,Not significant
+1,v1,4,1,Not significant
 1,latest,4,1,Not significant
-4,what,35,1,Not significant
-5,do,47,1,Not significant
-1,essentials,4,1,Not significant
-1,bundle,5,1,Not significant
-1,electrum,4,1,Not significant
-1,economics,4,1,Not significant
-1,ca,3,1,Not significant
-1,expert,5,1,Not significant
-1,early,5,1,Not significant
-1,debit,3,1,Not significant
-6,â,63,1,Not significant
-1,credit,62,1,Not significant
-1,casino,5,1,Not significant
-9,your,112,1,Not significant
-1,coins,4,1,Not significant
-1,client,5,1,Not significant
-1,different,3,1,Not significant
+1,essentials,6,1,Not significant
+2,earn,13,1,Not significant
+2,market,13,1,Not significant
+5,using,54,1,Not significant
 1,bmr,5,1,Not significant
-2,earn,12,1,Not significant
-1,ii,3,1,Not significant
-1,11,4,1,Not significant
-1,best,50,1,Not significant
-1,bin,3,1,Not significant
-3,methods,27,1,Not significant
-1,16,4,1,Not significant
-1,half,4,1,Not significant
-1,sense,2,2,Not significant
-2,price,10,2,Not significant
-1,verify,2,2,Not significant
-1,rise,2,2,Not significant
-6,ultimate,55,2,Not significant
-1,v3,2,2,Not significant
-1,markets,2,2,Not significant
-1,90,2,2,Not significant
-1,ez,2,2,Not significant
-1,untraceable,2,2,Not significant
-1,adress,2,2,Not significant
-2,list,102,2,Not significant
-1,48,2,2,Not significant
-5,using,40,2,Not significant
-1,sending,2,2,Not significant
-1,ethereum,2,2,Not significant
-1,150,2,2,Not significant
-2,market,9,2,Not significant
-3,2nd,20,2,Not significant
-1,theory,2,2,Not significant
-1,out,68,2,Not significant
-2,exploit,9,2,Not significant
-1,them,2,2,Not significant
-1,paranoid,2,2,Not significant
-1,king,2,2,Not significant
-2,want,9,2,Not significant
-2,personal,11,2,Not significant
-1,59,2,2,Not significant
-1,audio,2,2,Not significant
-1,possible,2,2,Not significant
-2,gold,10,2,Not significant
-1,49,2,2,Not significant
-1,future,2,2,Not significant
-1,65,2,2,Not significant
-1,human,2,2,Not significant
+6,â,71,1,Not significant
+1,usd,5,1,Not significant
+5,do,55,1,Not significant
+1,ca,5,1,Not significant
+1,coins,4,1,Not significant
+1,debit,4,1,Not significant
+1,expert,6,1,Not significant
+4,use,47,1,Not significant
+1,casino,5,1,Not significant
+1,client,6,1,Not significant
+2,getting,15,1,Not significant
+1,guaranteed,6,1,Not significant
+1,guidebook,6,1,Not significant
+1,help,59,1,Not significant
+1,uk,54,1,Not significant
+1,electrum,3,2,Not significant
+1,out,75,2,Not significant
 1,show,2,2,Not significant
-1,doing,1,3,Not significant
-1,cant,1,3,Not significant
-1,udemy,1,3,Not significant
-1,79,1,3,Not significant
-8,you,70,3,Not significant
-1,69,1,3,Not significant
-1,magazine,1,3,Not significant
-1,x180,1,3,Not significant
-1,61,1,3,Not significant
-1,55,1,3,Not significant
-1,libertyx,1,3,Not significant
-2,evo,7,3,Not significant
+1,v3,3,2,Not significant
+1,different,2,2,Not significant
+1,paranoid,2,2,Not significant
+6,ultimate,61,2,Not significant
+1,30,2,2,Not significant
+1,verify,2,2,Not significant
+1,vcc,3,2,Not significant
+1,projects,3,2,Not significant
+1,20,3,2,Not significant
+1,card,83,2,Not significant
+9,your,113,2,Not significant
+1,research,2,2,Not significant
+2,selling,11,2,Not significant
+1,rise,2,2,Not significant
+2,sell,9,2,Not significant
+1,21,2,2,Not significant
+1,sending,3,2,Not significant
+1,64,2,2,Not significant
+2,via,10,2,Not significant
+1,70,3,2,Not significant
+2,n't,12,2,Not significant
+1,theory,3,2,Not significant
+2,open,10,2,Not significant
+1,level,3,2,Not significant
+1,ez,2,2,Not significant
+1,adress,2,2,Not significant
+1,future,2,2,Not significant
+1,age,3,2,Not significant
+1,audio,2,2,Not significant
+1,golden,2,2,Not significant
+1,insider,2,2,Not significant
+4,can,35,2,Not significant
+1,government,2,2,Not significant
+4,step,34,2,Not significant
+4,it,33,2,Not significant
+1,human,3,2,Not significant
+1,107,3,2,Not significant
+1,exposed,3,2,Not significant
+1,see,3,2,Not significant
+1,explained,2,2,Not significant
+1,markets,2,2,Not significant
+1,128,3,2,Not significant
+5,my,49,2,Not significant
+2,personal,11,2,Not significant
+1,auto,3,2,Not significant
+1,15,2,2,Not significant
+1,users,3,2,Not significant
+1,autopilot,3,2,Not significant
+1,europe,2,2,Not significant
+1,ethereum,3,2,Not significant
+1,skrill,2,2,Not significant
+1,tomorrow,1,3,Not significant
 1,twenty,1,3,Not significant
-1,41,1,3,Not significant
-1,offline,1,3,Not significant
-1,from,87,3,Not significant
-1,botnet,1,3,Not significant
-1,related,1,3,Not significant
-4,step,24,3,Not significant
-1,nothing,1,3,Not significant
-1,genius,1,3,Not significant
-5,buy,33,3,0.05
-4,can,27,3,Not significant
+1,them,1,3,Not significant
+1,trap,1,3,Not significant
+1,untraceable,1,3,Not significant
 1,thru,1,3,Not significant
-2,selling,7,3,Not significant
-1,bot,1,3,Not significant
-1,36,1,3,Not significant
-1,leaked,1,3,Not significant
-2,does,6,3,Not significant
 1,soon,1,3,Not significant
-1,spend,1,3,Not significant
-1,golden,1,3,Not significant
-2,v1,5,4,0.05
-27,guide,334,4,0.05
-2,building,4,4,0.05
+1,udemy,1,3,Not significant
+1,offline,1,3,Not significant
+1,persistence,1,3,Not significant
+1,59,1,3,Not significant
+1,cant,1,3,Not significant
+1,doing,1,3,Not significant
+2,evo,7,3,Not significant
+2,exploit,8,3,Not significant
+1,botnet,1,3,Not significant
+1,bot,1,3,Not significant
+1,figure,1,3,Not significant
+1,from,91,3,Not significant
+1,genius,1,3,Not significant
+1,71,1,3,Not significant
+1,102,1,3,Not significant
+1,x180,1,3,Not significant
+1,106,1,3,Not significant
+1,scams,1,3,Not significant
+1,king,1,3,Not significant
+1,98,1,3,Not significant
+1,libertyx,1,3,Not significant
+1,log,1,3,Not significant
+1,magazine,1,3,Not significant
+1,136,1,3,Not significant
+1,months,1,3,Not significant
+1,154,1,3,Not significant
+1,multisig,1,3,Not significant
+1,162,1,3,Not significant
+1,nothing,1,3,Not significant
+1,168,1,3,Not significant
+1,arrive,1,3,Not significant
+1,payments,1,3,Not significant
+1,peoples,1,3,Not significant
+1,leaked,1,3,Not significant
+3,know,15,3,0.05
+2,building,6,4,0.05
+3,buying,12,4,0.05
+2,purchase,5,4,0.05
+28,guide,386,4,0.05
+8,you,75,4,0.05
 2,understanding,5,4,0.05
-2,tumbler,4,4,0.05
-2,dirty,4,4,0.05
-2,today,4,4,0.05
-6,my,40,4,0.05
-7,for,287,4,0.05
-2,story,5,4,0.05
-3,without,12,4,0.05
-2,revolution,3,5,0.05
-2,withdraw,3,5,0.05
-2,purchase,3,5,0.05
-2,2016,3,5,0.05
-33,the,408,5,0.05
-2,vol,3,5,0.05
-2,exposed,3,5,0.05
-2,little,2,6,0.01
+32,the,453,4,0.05
+3,without,13,4,0.05
+3,safely,14,4,0.05
+5,one,27,5,0.05
+2,2016,4,5,0.05
+6,for,308,5,0.05
+2,withdraw,4,5,0.05
+2,tumbler,4,5,0.05
+2,story,4,5,0.05
+6,buy,38,5,0.05
+2,dirty,3,6,0.05
+1,56,0,6,0.05
+1,2ooâ¥à¸ªà¹,0,6,0.05
+1,103,0,6,0.05
+5,making,24,6,0.01
 1,'conspiracy,0,6,0.05
-5,one,23,6,0.05
-3,beginner,7,6,0.05
-2,infected,2,6,0.01
-2,government,2,6,0.01
-14,in,122,6,0.05
-4,know,13,6,0.01
-2,inside,2,6,0.01
-3,n't,8,6,0.05
+2,little,3,6,0.05
+1,111,0,6,0.05
+2,revolution,3,6,0.05
+1,4btc,0,6,0.05
+1,chains,0,6,0.05
+1,trezor,0,6,0.05
+1,68,0,6,0.05
+1,intermediary,0,6,0.05
+1,billions,0,6,0.05
+1,concern,0,6,0.05
+1,legaly,0,6,0.05
+1,maximum,0,6,0.05
+1,method50,0,6,0.05
+1,milionaire,0,6,0.05
+1,millionaire,0,6,0.05
+1,mister,0,6,0.05
+1,mtgox,0,6,0.05
+1,comin,0,6,0.05
+1,combination,0,6,0.05
+1,cashbymail,0,6,0.05
+1,babylon,0,6,0.05
+1,newb,0,6,0.05
+1,bunch,0,6,0.05
+1,often,0,6,0.05
+1,curren,0,6,0.05
 1,clearweb,0,6,0.05
-2,crypto,2,6,0.01
+1,input,0,6,0.05
+1,innovation,0,6,0.05
+1,btcs,0,6,0.05
+1,entry,0,6,0.05
+1,era,0,6,0.05
+1,eth,0,6,0.05
+1,exchanges,0,6,0.05
+1,fyrestorm,0,6,0.05
+1,dollar,0,6,0.05
+1,giftcard,0,6,0.05
 1,blocks,0,6,0.05
+1,guarantee,0,6,0.05
 1,bitmessage,0,6,0.05
+1,bitcoin♕,0,6,0.05
+1,dash,0,6,0.05
 1,bitc,0,6,0.05
 1,hustling,0,6,0.05
 1,ientified,0,6,0.05
 1,ill,0,6,0.05
-1,billions,0,6,0.05
-1,guarantee,0,6,0.05
-1,innovation,0,6,0.05
-1,legaly,0,6,0.05
-1,log,0,6,0.05
-1,milionaire,0,6,0.05
-1,mister,0,6,0.05
-1,babylon,0,6,0.05
-1,mtgox,0,6,0.05
-1,multisig,0,6,0.05
-1,intermediary,0,6,0.05
-1,giftcard,0,6,0.05
-1,fyrestorm,0,6,0.05
-1,figure,0,6,0.05
-1,chains,0,6,0.05
-1,combination,0,6,0.05
-1,comin,0,6,0.05
-1,concern,0,6,0.05
-1,cryptology,0,6,0.05
-1,curren,0,6,0.05
 1,darkcoin,0,6,0.05
-1,dash,0,6,0.05
-1,dollar,0,6,0.05
-1,donã¬'t,0,6,0.05
-1,entry,0,6,0.05
-1,era,0,6,0.05
-1,eth,0,6,0.05
-1,bunch,0,6,0.05
-1,btcs,0,6,0.05
-1,exchanges,0,6,0.05
-1,experts,0,6,0.05
-1,newb,0,6,0.05
-1,often,0,6,0.05
-1,method50,0,6,0.05
-1,safley,0,6,0.05
-1,says,0,6,0.05
-1,scams,0,6,0.05
-1,scamvouched,0,6,0.05
-1,abracadabra,0,6,0.05
-1,advisable,0,6,0.05
-1,trezor,0,6,0.05
-1,sharecoin,0,6,0.05
-1,unlocking,0,6,0.05
-1,arrive,0,6,0.05
-1,single,0,6,0.05
-1,actually,0,6,0.05
-1,suspicious,0,6,0.05
-1,technology,0,6,0.05
-1,accepting,0,6,0.05
-1,tomorrow,0,6,0.05
-1,transfering,0,6,0.05
-1,shuffle,0,6,0.05
-1,vault,0,6,0.05
-1,trap,0,6,0.05
-1,ᴍɪʟɪᴏɴᴀɪʀᴇ,0,6,0.05
-1,alphabay,0,6,0.05
-1,ptc,0,6,0.05
 1,owner,0,6,0.05
-1,4btc,0,6,0.05
-1,anoncoin,0,6,0.05
-1,peoples,0,6,0.05
-1,priv,0,6,0.05
-1,anonimcoin,0,6,0.05
-1,ʙɪᴛᴄᴏɪɴ,0,6,0.05
-1,anonym,0,6,0.05
+1,donã¬'t,0,6,0.05
 1,pilot,0,6,0.05
-1,ᴠᴏʟ,0,6,0.05
+1,technology,0,6,0.05
+1,anonym,0,6,0.05
+1,transfering,0,6,0.05
+1,unlocking,0,6,0.05
+1,actually,0,6,0.05
+1,vault,0,6,0.05
+1,accepting,0,6,0.05
+1,8x,0,6,0.05
 1,zcash,0,6,0.05
-5,making,19,7,0.01
-4,currency,12,7,0.01
-4,buying,11,7,0.01
-2,behind,1,8,0.01
+1,à¸ªà¹â,0,6,0.05
+1,â¥,0,6,0.05
+1,ï½ï½ï½ï¼ï½ï½ï½ï½ï½ï½ï¼ï½ï½ï½,0,6,0.05
+1,ʙɪᴛᴄᴏɪɴ,0,6,0.05
+1,ᴍɪʟɪᴏɴᴀɪʀᴇ,0,6,0.05
+1,ᴠᴏʟ,0,6,0.05
+1,♕mastering,0,6,0.05
+1,700,0,6,0.05
+1,suspicious,0,6,0.05
+1,single,0,6,0.05
+1,advisable,0,6,0.05
+1,sharecoin,0,6,0.05
+1,revised,0,6,0.05
+1,ptc,0,6,0.05
+1,shuffle,0,6,0.05
+1,safley,0,6,0.05
+1,alphabay,0,6,0.05
+1,says,0,6,0.05
+1,regularly,0,6,0.05
+1,scamvouched,0,6,0.05
+1,anoncoin,0,6,0.05
+1,anonimcoin,0,6,0.05
+1,priv,0,6,0.05
+3,beginner,6,7,0.01
+15,in,146,7,0.01
+2,inside,2,7,0.01
+2,infected,2,7,0.01
+4,currency,13,7,0.01
 2,storage,1,8,0.01
-3,minutes,4,8,0.01
-4,anonymously,6,11,0.001
-3,deposit,2,11,0.001
-7,day,23,11,0.001
-3,cryptocurrency,2,11,0.001
-2,8x,0,12,0.001
-2,doublebtc,0,12,0.001
-2,misfits,0,12,0.001
+2,behind,1,8,0.01
+3,minutes,4,9,0.01
+3,deposit,3,10,0.01
+3,vol,3,10,0.01
+3,cryptocurrency,2,12,0.001
 2,localbitcoin,0,12,0.001
-5,double,9,12,0.001
-3,abraxas,1,13,0.001
-3,depositing,1,13,0.001
-3,currencies,1,13,0.001
-3,beyond,1,13,0.001
-3,monthly,1,13,0.001
-3,mine,1,13,0.001
-6,localbitcoins,9,16,0.0001
-8,digital,19,17,0.0001
-12,money,46,17,0.0001
-3,multiply,0,18,0.0001
-3,computers,0,18,0.0001
+2,misfits,0,12,0.001
+2,doublebtc,0,12,0.001
+2,multiply,0,12,0.001
+2,cryptology,0,12,0.001
+3,beyond,2,12,0.001
+5,anonymously,9,13,0.001
+7,day,21,14,0.001
+3,mine,1,14,0.001
+3,depositing,1,14,0.001
+3,abraxas,1,14,0.001
+4,crypto,3,15,0.0001
+12,money,58,16,0.0001
+8,digital,21,17,0.0001
 3,xmr,0,18,0.0001
 3,wallets,0,18,0.0001
-3,cryptocurrencies,0,18,0.0001
 3,monero,0,18,0.0001
 3,bitcointhief,0,18,0.0001
-25,btc,121,29,0.0001
-7,mastering,2,32,0.0001
-8,wallet,4,33,0.0001
-7,mining,1,36,0.0001
-13,blockchain,3,63,0.0001
-28,bitcoins,20,105,0.0001
-84,bitcoin,60,317,0.0001
+3,computers,0,18,0.0001
+3,cryptocurrencies,0,18,0.0001
+6,double,8,19,0.0001
+4,monthly,1,20,0.0001
+7,localbitcoins,9,22,0.0001
+5,currencies,1,25,0.0001
+24,btc,129,28,0.0001
+8,mastering,6,31,0.0001
+7,mining,2,34,0.0001
+11,wallet,6,47,0.0001
+16,blockchain,2,87,0.0001
+27,bitcoins,21,104,0.0001
+88,bitcoin,60,355,0.0001

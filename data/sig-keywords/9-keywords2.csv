@@ -4,52 +4,52 @@ freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
 0,make,0,0,Not significant
 0,to,0,0,Not significant
-2,of,242,0,Not significant
-1,ultimate,60,0,Not significant
-2,your,119,1,Not significant
-1,any,33,1,Not significant
-1,easy,49,1,Not significant
-1,the,440,1,Not significant
-1,one,27,2,Not significant
-1,blockchain,15,3,Not significant
-1,offer,7,4,0.05
-1,month,9,4,0.05
-1,limited,6,4,0.05
-2,money,56,4,0.05
-2,bitcoins,46,4,0.05
+2,of,277,0,Not significant
+1,ultimate,66,0,Not significant
+1,easy,50,1,Not significant
+1,the,484,1,Not significant
+1,any,40,1,Not significant
+2,your,120,2,Not significant
+1,one,31,2,Not significant
+1,blockchain,17,3,Not significant
+2,money,68,3,Not significant
+1,month,11,3,0.05
 1,basics,6,4,0.05
-1,life,6,4,0.05
-1,proof,4,5,0.05
-1,two,4,5,0.05
-1,copies,5,5,0.05
+1,000,7,4,0.05
+1,life,8,4,0.05
+2,bitcoins,46,5,0.05
+1,proof,5,5,0.05
+1,two,5,5,0.05
 1,coins,4,5,0.05
+1,copies,5,5,0.05
 1,investing,1,7,0.01
-1,twenty,1,7,0.01
+2,day,26,7,0.01
+1,amount,1,7,0.01
 1,winning,1,7,0.01
 1,x180,1,7,0.01
-1,amount,1,7,0.01
-2,currency,14,8,0.01
+1,twenty,1,7,0.01
+1,ton,1,7,0.01
 2,double,12,9,0.01
-1,screenshot,0,10,0.01
-1,ton,0,10,0.01
 1,cryptos100,0,10,0.01
 1,alt,0,10,0.01
+1,screenshot,0,10,0.01
+1,altcoin,0,10,0.01
 1,profits,0,10,0.01
-3,100,29,11,0.001
-2,guaranteed,7,11,0.001
-2,000,6,11,0.001
+2,offer,8,11,0.001
+3,100,26,12,0.001
 2,minutes,5,12,0.001
-3,day,27,12,0.001
-2,trade,4,13,0.001
-2,million,3,14,0.001
-6,in,130,14,0.001
+2,limited,5,12,0.001
+2,guaranteed,5,12,0.001
+2,million,4,13,0.001
 2,cryptocurrency,3,14,0.001
-2,crypto,2,15,0.0001
-2,altcoin,0,20,0.0001
-2,signals,0,20,0.0001
-4,earn,10,25,0.0001
-3,altcoins,1,26,0.0001
+6,in,155,14,0.001
+3,currency,14,16,0.0001
+3,crypto,4,22,0.0001
+4,earn,11,25,0.0001
+4,trade,5,30,0.0001
 3,cryptos,0,31,0.0001
-4,forex,0,41,0.0001
-7,legal,5,56,0.0001
-11,trading,2,103,0.0001
+3,signals,0,31,0.0001
+4,altcoins,1,37,0.0001
+4,forex,0,42,0.0001
+7,legal,4,59,0.0001
+10,trading,2,95,0.0001

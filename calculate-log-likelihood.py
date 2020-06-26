@@ -148,43 +148,49 @@ var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wor
 # b Frequency of word in corpus two.
 # c number of words in corpus one.
 # d number of words in corpus two.
-counter = 0
-while counter < 35:
-    corpusId = counter
 
-    # Enter raw keywords
-    fileName = "data/raw-keywords/" + str(corpusId) + "-keywords2.csv"
-    raw = pd.read_csv(fileName, usecols=[0, 1])
 
-    # Create new columns if needed
-    raw["exfreq"] = 0
-    raw["LL"] = 0
-    raw["sig"] = 0
+def calcLogLikelihood():
+    counter = 0
+    while counter < 35:
+        corpusId = counter
 
-    # # View options
-    pd.set_option('display.expand_frame_repr', False)
-    pd.set_option('display.max_rows', raw.shape[0] + 1)
-    pd.set_option('display.max_colwidth', None)
+        # Enter raw keywords
+        fileName = "data/raw-keywords/" + str(corpusId) + "-keywords2.csv"
+        raw = pd.read_csv(fileName, usecols=[0, 1])
 
-    sumExcept = 0
-    i = 0
+        # Create new columns if needed
+        raw["exfreq"] = 0
+        raw["LL"] = 0
+        raw["sig"] = 0
 
-    while i < 35:
-        if i != corpusId:
-            sumExcept = sumExcept + totalFreq[i]
-        i = i + 1
+        # # View options
+        pd.set_option('display.expand_frame_repr', False)
+        pd.set_option('display.max_rows', raw.shape[0] + 1)
+        pd.set_option('display.max_colwidth', None)
 
-    for i in range(len(raw)):
-        searchTerm = raw["word"][i]
-        exfreq = countWords(searchTerm, corpusId)
-        result = simpleCalculateLL(raw["freq"][i], exfreq, totalFreq[corpusId], sumExcept)
-        raw["LL"][i] = result
-        raw["exfreq"][i] = exfreq
-        raw["sig"][i] = checkSignifance(result)
+        sumExcept = 0
+        i = 0
 
-    sortedDF = raw.sort_values(by=['LL'])
-    print(sortedDF.to_string())
+        while i < 35:
+            if i != corpusId:
+                sumExcept = sumExcept + totalFreq[i]
+            i = i + 1
 
-    outputFilename = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
-    sortedDF.to_csv(outputFilename, index=False, header=True)
-    counter = counter + 1
+        for i in range(len(raw)):
+            searchTerm = raw["word"][i]
+            exfreq = countWords(searchTerm, corpusId)
+            result = simpleCalculateLL(raw["freq"][i], exfreq, totalFreq[corpusId], sumExcept)
+            raw["LL"][i] = result
+            raw["exfreq"][i] = exfreq
+            raw["sig"][i] = checkSignifance(result)
+
+        sortedDF = raw.sort_values(by=['LL'])
+        print(sortedDF.to_string())
+
+        outputFilename = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
+        sortedDF.to_csv(outputFilename, index=False, header=True)
+        counter = counter + 1
+
+
+calcLogLikelihood()

@@ -1,70 +1,91 @@
 freq,word,exfreq,LL,sig
-0,and,0,0,Not significant
-1,of,243,0,Not significant
-1,in,135,0,Not significant
-1,from,87,0,Not significant
-1,method,117,0,Not significant
-1,using,44,0,Not significant
-1,you,77,0,Not significant
-1,use,47,0,Not significant
-1,my,45,0,Not significant
-2,your,119,0,Not significant
+0,'s,0,0,Not significant
+3,guide,411,0,Not significant
+1,you,82,0,Not significant
+1,vouched,51,0,Not significant
+1,using,58,0,Not significant
+1,use,50,0,Not significant
+1,uk,54,0,Not significant
+1,tutorial,73,0,Not significant
+1,my,53,0,Not significant
+1,method,115,0,Not significant
+1,in,160,0,Not significant
+1,from,91,0,Not significant
+1,free,130,0,Not significant
+1,cash,46,0,Not significant
+1,ultimate,66,0,Not significant
 0,how,0,0,Not significant
 0,make,0,0,Not significant
-2,guide,359,0,Not significant
+1,be,42,0,Not significant
+0,and,0,0,Not significant
 0,to,0,0,Not significant
-1,only,36,1,Not significant
-1,be,35,1,Not significant
-1,uk,39,1,Not significant
-1,fullz,16,2,Not significant
-1,high,15,2,Not significant
-5,for,289,2,Not significant
-3,with,135,2,Not significant
-1,learning,16,2,Not significant
-1,the,440,2,Not significant
-1,full,18,2,Not significant
-1,scans,7,3,0.05
-1,will,7,3,0.05
-1,some,7,3,0.05
-1,learn,11,3,Not significant
-1,13,4,4,0.05
-3,pack,84,4,0.05
-1,would,5,4,0.05
-1,value,4,4,0.05
-1,interested,2,5,0.05
-1,quality,3,5,0.05
-2,own,20,6,0.05
-1,dl,1,7,0.01
-1,aging,1,7,0.01
-1,dollars,1,7,0.01
-1,psds,1,7,0.01
-1,swap,0,9,0.01
-1,passing,0,9,0.01
+3,with,175,1,Not significant
+5,for,309,1,Not significant
+2,the,483,1,Not significant
+1,way,28,1,Not significant
+1,learning,25,1,Not significant
+1,100,28,1,Not significant
+1,ebook,22,1,Not significant
+1,of,278,1,Not significant
+3,your,119,2,Not significant
+1,fullz,14,2,Not significant
+1,will,11,2,Not significant
+1,into,16,2,Not significant
+1,would,6,3,Not significant
+1,scans,8,3,Not significant
+1,super,8,3,Not significant
+1,some,6,3,Not significant
+1,22,5,4,0.05
+1,value,5,4,0.05
+1,right,4,4,0.05
+1,ordering,4,4,0.05
+1,24,2,5,0.05
+1,dl,2,5,0.05
+1,interested,3,5,0.05
+1,13,3,5,0.05
+1,bills,1,6,0.01
+1,psds,1,6,0.01
+1,aging,1,6,0.01
+1,ireland,1,6,0.01
 1,13gb,0,9,0.01
+3,making,26,9,0.01
+1,acquiring,0,9,0.01
+1,cheques,0,9,0.01
+5,pack,97,9,0.01
+1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄,0,9,0.01
+1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄,0,9,0.01
+1,€102,0,9,0.01
+1,ä50,0,9,0.01
+1,â¬50,0,9,0.01
+1,bleaching,0,9,0.01
+1,jack2613,0,9,0.01
+1,passing,0,9,0.01
 1,passports,0,9,0.01
 1,removing,0,9,0.01
-1,€102,0,9,0.01
-1,acquiring,0,9,0.01
-1,bills,0,9,0.01
-1,ink,0,9,0.01
-1,bleaching,0,9,0.01
-1,counterfeits,0,9,0.01
+1,swap,0,9,0.01
 1,€101,0,9,0.01
-1,cheques,0,9,0.01
-2,usd,6,10,0.01
-3,mega,22,11,0.001
-2,pass,5,11,0.001
-3,making,21,11,0.001
-2,print,1,15,0.0001
-5,money,53,15,0.0001
+1,ink,0,9,0.01
+3,own,21,10,0.01
+3,mega,20,10,0.001
+2,usd,4,11,0.001
+2,template,4,11,0.001
+3,high,16,12,0.001
+2,print,2,13,0.001
+2,dollars,2,13,0.001
 2,â¬20,1,15,0.0001
-2,euro,0,19,0.0001
-2,€100,0,19,0.0001
-2,£20,0,19,0.0001
-3,€20,0,29,0.0001
-7,currency,9,46,0.0001
-7,psd,2,58,0.0001
-8,templates,6,59,0.0001
-7,counterfeit,0,68,0.0001
-8,notes,1,71,0.0001
-14,fake,14,98,0.0001
+2,€100,0,18,0.0001
+2,fake50eurosguide,0,18,0.0001
+2,euro,0,18,0.0001
+2,counterfeiting,0,18,0.0001
+2,counterfeits,0,18,0.0001
+3,quality,3,20,0.0001
+7,money,63,21,0.0001
+4,pass,7,23,0.0001
+3,€20,0,28,0.0001
+3,£20,0,28,0.0001
+7,currency,10,43,0.0001
+7,psd,2,56,0.0001
+9,templates,7,63,0.0001
+9,notes,1,78,0.0001
+9,counterfeit,0,85,0.0001
+15,fake,15,100,0.0001
