@@ -1,0 +1,5 @@
+sets = 3808
+k = 423
+n = 4230
+
+kset9 = every k-sample except 9

@@ -1,0 +1,146 @@
+=== Changes ===
+Merged phishing with fraud.
+Merged explosives & weaponry into one cat.
+Phreaking now subcategory of hacking.
+Amended Malware to Malware authorship.
+Merged Identity Documents & Contact Lists into Resource category.
+
+18-03 ===
+Amended Drugs – Transportation/Stealth to Transportation/Stealth
+	Typically this does relate to drugs but wanted category to be broader (could be firearms etc.)
+Amended Resources – Contact Lists to include lists of websites (i.e. general lists of dark web sites).
+---
+
+1 Anonymity – Other ---
+Guide, software or service designed with the intention of increasing anonymity in some respect but unrelated to any other
+anonymity subcategory. 
+
+	For example, voice changing software, aonymous email account service or anonymity foccussed operating systems such as TAILs.
+
+2 Anonymity – Tor ---
+Relating to the TOR web browser.
+
+3 Anonymity – VPN ---
+Relating to virtual private networks. For example, sale of VPN accounts or guides on setting up a VPN.
+
+4 Anonymity – Proxies ---
+Relating to proxy servers. 
+
+	For example, methods of setting up a proxy server or subscription to a proxy service.
+
+5 Carding ---
+Relating to the counterfeit or theft of bank cards or the use of such cards. This is inclusive of tools or guides used to aid these activities such as CVV checkers or information regarding how a banks credit card system operates.
+
+6 Cashing Out ---
+Relating to the conversion of currency either between platforms (for example, Credit Card to Paypal) or from one form of currency to another (for example, Paypal to Bitcoin).
+This is also inclusive of broader discussion around money laundering such as setting up a business for money laundering purposes.
+
+i.e. Bitcoing mixing platforms, 
+
+7 Clearing Criminal History ---
+Relating to the removal or modification of criminal records. 
+
+	For example, removal from criminal registers or removal of mugshots from police databases.
+
+8 Counterfeit Currency ---
+Related to the creation of fake currency (for example, US Dollars or Pounds Sterling).
+
+9 Cryptocurrency – General ---
+Topic related to cryptocurrencies but unrelated to both trading and fraud. This category is inclusive of other blockchain technologies.
+
+i.e. Websites to purchase bitcoins, discussions about the process of sending bitcoins
+
+10 Cryptocurrency – Trading ---
+Related to the trading of cryptocurrencies. 
+
+	For example, discussion of trading signals for Bitcoin.
+
+11 Denial of Service ---
+Software, scripts or other methods relating to denial of service attacks.
+
+Digital Forensics ---
+Relating to the the recovery and investigation of material found in digital devices. This includes methods of wiping designed to circumvent forensic techniques.
+
+Doxing ---
+Relating to the publishing of private or identifying information about a particular individual on the Internet.
+
+Drugs – Production ---
+Related to the production or refinement of drugs. 
+
+	For example, a guide on how to synthesise MDMA, brew beer or grow cannabis plants.
+
+Drugs – General ---
+Topics related to drugs but unrelated to other sub-categories. For example, sales techniques or drug paraphernalia.
+
+eBooks – Other ---
+An electronic version of a printed book (that can be read on a computer or handheld device) which is not of a technical nature. This category is also inclusive of audiobooks.
+
+eBooks – Technical ---
+An electronic version of a printed book (that can be read on a computer or handheld device) which is related to an aspect in computer science. This category is also inclusive of audiobooks.
+
+eWhoring --
+Guides and software dedicated to the practice of eWhoring (posing as an attractive woman with the intention of extracting money).
+
+Fraud ---
+Relating to wrongful or criminal deception intended to result in personal or financial gain. This category is not inclusive of credit card fraud which is covered by the Carding category.
+
+	For example, phishing techniques.
+
+Hacking – General ---
+Relating to hacking but unrelated to any other hacking subcategory. 
+
+Hacking – Website ---
+Hacking related to websites or webapps. 
+I.e. hacking into Facebook accounts, bots for Instagram accounts
+
+Hacking – Mobile ---
+Hacking specifically related to mobile devices or mobile operating systems such as Android or iOS. 
+
+I.e. How to jailbreak an iPhone
+
+Hacking – Wireless Networks ---
+Software, aids or guides for hacking or to aid hacking into wireless networks.
+
+I.e. software to crack Wifi passwords
+
+Hacking – Phreaking ---
+Relating to the hacking of telecommunications systems. For example, to obtain free calls or to spoof phone numbers.
+This also includes items relating to burner phones, SIM cards and IMEIs.
+
+Hacking – Malware Supply Chain ---
+Relating to malware delivery methods. 
+
+Lockpicking ---
+Related to the practice of lockpicking or other methods of bypassing door locks.
+
+Malware Authorship ---
+Relating to the creation of malware. 
+
+	For example, virus building software or guides on how to create an effective virus.
+
+Modifying Credit ---
+Relating to the modification of a individuals credit report or credit score as well as the setting up of tradelines. 
+
+Resources – Contact Lists ---
+Lists of email addresses, phone numbers or other contact details. This is also inclusive of lists of websites i.e. list of Darkweb websites.
+
+Resources – Identity Documents ---
+Relating to the use or creation of identity documents. For example, passports, drivers licenses and identity cards.
+
+SEO ---
+Relating to the modification of results from online search engines such as Google or Bing.
+
+PGP/GPG ---
+Relating to either (or both) the PGP and GPG cryptographic software. This will also encompass other encryption software such as Veracrypt/Truecrypt.
+
+Transportation/Stealth ---
+Topics related to the smuggling of items. 
+
+Weaponry & Explosives ---
+Relating to the manufacture or sale of firearms, explosive devices or chemicals.
+
+	For example, guide on how to 3D print a firearm or manufacture chemicals that are commonly used in explosives.
+
+Other ---
+Subject unrelated to any other category.
+

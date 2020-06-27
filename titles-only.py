@@ -3,7 +3,7 @@ import pandas as pd
 # Extracts only titles and thread-id and prints to screen.
 
 # Only id & subject
-raw = pd.read_csv(r"data/security_tutorial_posts-7.csv", usecols=[2, 4])
+raw = pd.read_csv(r"data/security_tutorial_posts-10.csv", usecols=[2, 4])
 raw['subject'].replace({'Topic: ': ''}, inplace=True, regex=True)
 raw['subject'].replace({'Re: ': ''}, inplace=True, regex=True)
 
@@ -20,4 +20,4 @@ pd.set_option('display.max_rows', raw.shape[0]+1)
 pd.set_option('display.max_colwidth', -1)
 
 print(raw)
-raw.to_csv("data/titles-only-set7.csv", index=False, header=True)
+raw.to_csv("data/titles-only-set10.csv", index=False, header=True)

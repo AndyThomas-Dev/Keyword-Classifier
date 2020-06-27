@@ -1,0 +1,45 @@
+digraph g{
+  rankdir=LR;
+
+1 [label="General"];
+2 [label="General"];
+3 [label="Other"];
+4 [label="Other"];
+5 [label="General"];
+
+"Other"
+"Weaponry & Explosives"
+"Transportation/Stealth"
+"PGP/GPG"
+"SEO"
+"Resources" -> "Identity Documents"
+"Resources" -> "Contact Lists"
+"Modifying Credit"
+"Malware Authorship"
+"Lockpicking"
+"Hacking" -> "Phreaking"
+"Hacking" -> "Malware Supply Chain"
+"Hacking" -> "Wireless Networks"
+"Hacking" -> "Mobile"
+"Hacking" -> "Website"
+"Hacking" -> 5
+"Fraud"
+"eWhoring"
+"eBooks" -> "Technical"
+"eBooks" -> 3
+"Drugs" -> 1
+"Drugs" -> "Production"
+"Doxxing"
+"Digital Forensics"
+"Denial of Service"
+"Cryptocurrency" -> 2
+"Cryptocurrency" -> "Trading" 
+"Counterfeit Currency"
+"Clearing Criminal History"
+"Cashing Out"
+"Carding"
+  "Anonymity" -> 4
+  "Anonymity" -> "Tor" 
+"Anonymity" -> "VPN" 
+"Anonymity" -> "Proxies" 
+}
