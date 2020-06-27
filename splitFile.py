@@ -2,7 +2,7 @@ import pandas as pd
 
 # Creates 10 equally sized k samples from the main sorted set for crossvalidation
 
-# Full set of GT data
+# Full set of SORTED GT data
 raw = pd.read_csv(r"data/gt/full.csv", usecols=[0, 1])
 
 # Duplicates removed
@@ -12,6 +12,7 @@ raw['New Code'] = raw['New Code'].str.strip()
 # Shuffles set
 shuffled = raw.sample(frac=1)
 
+# Gets number of rows
 numOfRows = shuffled.shape[0]
 print('Number of Rows in dataframe : ', numOfRows)
 

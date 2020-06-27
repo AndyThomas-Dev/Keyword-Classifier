@@ -9,6 +9,7 @@ nltk.download('punkt')
 
 
 def getRawKeywords():
+    print("Getting raw keywords...")
     for corpusId in range(35):
         inputFilename = "data/gt/" + str(corpusId) + "-2.csv"
         raw = pd.read_csv(inputFilename, usecols=[0])
@@ -24,7 +25,6 @@ def getRawKeywords():
             .replace("[", " ").replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ").replace("|", " ") \
             .replace("#", " ")
 
-        print(inputString)
         # This must be a string
         nltk_tokens = nltk.word_tokenize(inputString)
 
@@ -32,8 +32,6 @@ def getRawKeywords():
         for token in nltk_tokens:
             if token.isnumeric():
                 nltk_tokens.remove(token)
-        # else:
-        #     print(corpusId, token)
 
         # Creates wordlist with no duplicates
         nodupes = set(nltk_tokens)
@@ -53,7 +51,6 @@ def getRawKeywords():
 
         column_names = ["freq", "word"]
         df = pd.DataFrame(columns=column_names)
-        temp = pd.DataFrame(columns=column_names)
 
         # Sorting
         # This also removes any one letter words
@@ -64,10 +61,5 @@ def getRawKeywords():
 
         outputFilename = "data/raw-keywords/" + str(corpusId) + "-keywords2.csv"
         df.to_csv(outputFilename, index=False, header=True)
-        corpusId = corpusId + 1
 
-        # pd.set_option('display.expand_frame_repr', False)
-        # pd.set_option('display.max_rows', raw.shape[0] + 1)
-        # pd.set_option('display.max_colwidth', None)
-
-        # print(raw)
+    print("Completed.")

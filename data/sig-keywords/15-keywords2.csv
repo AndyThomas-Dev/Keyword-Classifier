@@ -1,842 +1,827 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-2,need,38,0,Not significant
-2,more,25,0,Not significant
-2,mobile,21,0,Not significant
-2,mega,23,0,Not significant
-1,data,23,0,Not significant
-1,definitive,5,0,Not significant
-1,design,4,0,Not significant
-2,everything,11,0,Not significant
-2,cookbook,15,0,Not significant
-2,cheap,10,0,Not significant
-2,be,43,0,Not significant
-1,re,4,0,Not significant
-2,anyone,21,0,Not significant
-2,any,40,0,Not significant
-2,about,31,0,Not significant
-1,facebook,13,0,Not significant
-1,first,13,0,Not significant
-1,french,5,0,Not significant
-1,full,21,0,Not significant
-1,funds,9,0,Not significant
-1,worldwide,7,0,Not significant
-1,without,17,0,Not significant
-1,good,18,0,Not significant
-2,practical,17,0,Not significant
-2,private,19,0,Not significant
-1,com,21,0,Not significant
-2,problem,14,0,Not significant
-1,applications,8,0,Not significant
-1,approach,4,0,Not significant
-3,or,58,0,Not significant
-3,only,37,0,Not significant
-3,one,27,0,Not significant
-3,not,41,0,Not significant
-1,as,13,0,Not significant
-3,it,36,0,Not significant
-1,atm,11,0,Not significant
-1,back,10,0,Not significant
-1,bad,8,0,Not significant
-1,will,11,0,Not significant
-1,become,9,0,Not significant
-3,by,54,0,Not significant
-1,being,7,0,Not significant
-3,big,30,0,Not significant
-2,world,12,0,Not significant
-1,black,5,0,Not significant
-2,working,32,0,Not significant
-2,what,38,0,Not significant
-2,very,16,0,Not significant
-1,clean,17,0,Not significant
-2,question,29,0,Not significant
-1,code,8,0,Not significant
-1,beginner,10,0,Not significant
-1,growing,15,0,Not significant
-1,guidebook,5,0,Not significant
-1,ways,15,0,Not significant
-1,stop,6,0,Not significant
-1,mastering,13,0,Not significant
-1,me,25,0,Not significant
-1,most,8,0,Not significant
-1,n't,11,0,Not significant
-1,someone,10,0,Not significant
-1,software,20,0,Not significant
-1,so,5,0,Not significant
-1,never,7,0,Not significant
-1,off,9,0,Not significant
-1,should,5,0,Not significant
-1,straight,26,0,Not significant
-1,other,10,0,Not significant
-1,pay,10,0,Not significant
-1,set,10,0,Not significant
-1,sell,11,0,Not significant
-1,picking,6,0,Not significant
-1,post,8,0,Not significant
-1,safety,17,0,Not significant
-1,premium,23,0,Not significant
-1,pro,16,0,Not significant
-1,protection,5,0,Not significant
-1,reviewed,8,0,Not significant
+1,reviewed,9,0,Not significant
 1,reasons,4,0,Not significant
-1,own,19,0,Not significant
-1,app,5,0,Not significant
-1,manual,5,0,Not significant
-1,man,4,0,Not significant
-1,hell,5,0,Not significant
-1,hidden,5,0,Not significant
-1,virtual,19,0,Not significant
-1,hq,5,0,Not significant
-1,video,22,0,Not significant
-1,ultra,9,0,Not significant
-1,two,4,0,Not significant
-1,into,15,0,Not significant
-1,ipad,4,0,Not significant
-1,iphone,10,0,Not significant
-1,iphones,4,0,Not significant
-1,management,7,0,Not significant
-1,tools,11,0,Not significant
-1,that,9,0,Not significant
-1,just,13,0,Not significant
-1,keep,4,0,Not significant
-1,key,12,0,Not significant
-1,killing,4,0,Not significant
-1,kit,5,0,Not significant
-1,testing,10,0,Not significant
-1,language,8,0,Not significant
-1,life,8,0,Not significant
-1,little,5,0,Not significant
-1,super,11,0,Not significant
-1,think,4,0,Not significant
-3,secrets,23,0,Not significant
-1,ed,10,0,Not significant
-1,26,4,0,Not significant
-1,'',20,0,Not significant
-28,for,297,0,Not significant
-4,at,26,0,Not significant
-1,10,8,0,Not significant
-1,11,5,0,Not significant
+1,as,15,0,Not significant
+1,raspberry,8,0,Not significant
+1,atm,10,0,Not significant
+1,protection,5,0,Not significant
+1,problem,12,0,Not significant
+1,back,9,0,Not significant
+1,bad,7,0,Not significant
+1,pro,11,0,Not significant
+1,premium,24,0,Not significant
+1,become,9,0,Not significant
+1,beginner,9,0,Not significant
+1,being,7,0,Not significant
+1,post,8,0,Not significant
+1,applications,8,0,Not significant
+1,app,4,0,Not significant
+1,safety,17,0,Not significant
+1,analytics,7,0,Not significant
+1,stop,6,0,Not significant
 1,``,20,0,Not significant
-3,way,25,0,Not significant
-1,30,5,0,Not significant
-5,complete,42,0,Not significant
-1,6th,4,0,Not significant
-1,23,5,0,Not significant
-10,pack,93,0,Not significant
-5,guides,60,0,Not significant
-1,66,4,0,Not significant
-7,do,59,0,Not significant
-3,us,21,0,Not significant
-11,free,120,0,Not significant
-5,money,64,0,Not significant
-0,and,0,0,Not significant
-1,analytics,9,0,Not significant
-0,how,0,0,Not significant
-1,age,4,0,Not significant
+1,spark,4,0,Not significant
+1,abuse,4,0,Not significant
+1,someone,6,0,Not significant
+1,software,19,0,Not significant
+1,so,6,0,Not significant
+1,picking,6,0,Not significant
+1,should,8,0,Not significant
+1,set,10,0,Not significant
+1,after,6,0,Not significant
 1,again,5,0,Not significant
-1,almost,11,0,Not significant
-0,to,0,0,Not significant
-1,alcohol,6,0,Not significant
+1,age,4,0,Not significant
+1,sell,9,0,Not significant
+1,alcohol,7,0,Not significant
+1,amazing,4,0,Not significant
+1,design,6,0,Not significant
+1,pi,8,0,Not significant
+1,black,5,0,Not significant
+1,pay,10,0,Not significant
+1,com,22,0,Not significant
+1,hq,5,0,Not significant
+1,hidden,5,0,Not significant
+1,hell,5,0,Not significant
+1,guidebook,5,0,Not significant
+1,growing,11,0,Not significant
+1,good,18,0,Not significant
+1,idea,5,0,Not significant
+1,gb,5,0,Not significant
+1,french,6,0,Not significant
+1,first,13,0,Not significant
+1,facebook,13,0,Not significant
+1,data,22,0,Not significant
+1,ed,10,0,Not significant
+1,dump,4,0,Not significant
+1,digital,28,0,Not significant
+1,funds,10,0,Not significant
+1,super,10,0,Not significant
+1,code,9,0,Not significant
+1,clean,16,0,Not significant
+1,own,22,0,Not significant
+1,off,6,0,Not significant
+1,never,6,0,Not significant
+1,n't,14,0,Not significant
+1,most,7,0,Not significant
+1,me,23,0,Not significant
+1,mastering,13,0,Not significant
+1,into,17,0,Not significant
+1,manual,6,0,Not significant
+1,machine,14,0,Not significant
+1,little,5,0,Not significant
+1,language,8,0,Not significant
+1,kit,5,0,Not significant
+1,killing,4,0,Not significant
+1,key,11,0,Not significant
+1,just,13,0,Not significant
+1,management,6,0,Not significant
+1,testing,11,0,Not significant
+1,definitive,4,0,Not significant
+1,that,9,0,Not significant
+2,course,10,0,Not significant
+5,complete,45,0,Not significant
+2,everything,10,0,Not significant
+2,iphone,10,0,Not significant
+2,it,34,0,Not significant
+2,mega,27,0,Not significant
+2,mobile,19,0,Not significant
+2,more,29,0,Not significant
+2,need,41,0,Not significant
+2,practical,17,0,Not significant
+2,question,28,0,Not significant
+2,real,10,0,Not significant
+4,guides,59,0,Not significant
+1,22,5,0,Not significant
+4,by,54,0,Not significant
+2,very,16,0,Not significant
+2,want,11,0,Not significant
+4,big,32,0,Not significant
+2,way,19,0,Not significant
+2,ways,15,0,Not significant
+2,what,42,0,Not significant
+2,working,29,0,Not significant
+2,world,14,0,Not significant
+3,us,22,0,Not significant
+3,at,22,0,Not significant
+3,not,41,0,Not significant
+3,one,29,0,Not significant
+3,only,33,0,Not significant
+3,secrets,22,0,Not significant
+5,money,67,0,Not significant
+2,be,36,0,Not significant
+5,from,88,0,Not significant
+6,do,59,0,Not significant
+0,and,0,0,Not significant
+1,think,4,0,Not significant
+0,how,0,0,Not significant
 0,make,0,0,Not significant
-1,8th,3,1,Not significant
-1,dump,3,1,Not significant
-1,16,2,1,Not significant
-1,90,2,1,Not significant
-1,driven,2,1,Not significant
-1,amazing,3,1,Not significant
-2,every,8,1,Not significant
-1,alpha,2,1,Not significant
-1,gb,3,1,Not significant
-1,stupid,2,1,Not significant
-10,you,79,1,Not significant
-1,78,2,1,Not significant
-2,instant,7,1,Not significant
-2,my,54,1,Not significant
-1,love,2,1,Not significant
-1,introductory,2,1,Not significant
-1,girls,2,1,Not significant
-1,visual,3,1,Not significant
-1,171,2,1,Not significant
-1,marketing,3,1,Not significant
-2,course,7,1,Not significant
-1,34,2,1,Not significant
-1,financial,3,1,Not significant
-1,20,3,1,Not significant
-5,over,27,1,Not significant
-1,worth,2,1,Not significant
-1,44,2,1,Not significant
-1,thoughts,3,1,Not significant
-1,190,2,1,Not significant
-1,55,3,1,Not significant
-1,ez,2,1,Not significant
-1,56,3,1,Not significant
-1,superior,2,1,Not significant
-1,experience,2,1,Not significant
-2,after,8,1,Not significant
-1,19,2,1,Not significant
-1,term,3,1,Not significant
-1,3d,3,1,Not significant
-1,empire,2,1,Not significant
-1,185,2,1,Not significant
-1,5th,2,1,Not significant
-1,62,3,1,Not significant
-1,long,3,1,Not significant
+0,to,0,0,Not significant
+1,tools,11,0,Not significant
+1,'',21,0,Not significant
+1,tricks,7,0,Not significant
+1,two,5,0,Not significant
+1,ultra,7,0,Not significant
+1,version,10,0,Not significant
+2,anyone,17,0,Not significant
+1,video,22,0,Not significant
+1,virtual,20,0,Not significant
+1,10,12,0,Not significant
+3,private,19,0,Not significant
+1,will,11,0,Not significant
+1,without,17,0,Not significant
+1,worldwide,8,0,Not significant
+2,about,31,0,Not significant
+9,pack,90,0,Not significant
+8,free,118,0,Not significant
+9,your,118,0,Not significant
+1,guns,2,1,Not significant
+1,hiding,2,1,Not significant
 3,questions,17,1,Not significant
-1,everyday,2,1,Not significant
-1,rise,2,1,Not significant
-7,on,118,1,Not significant
-2,pi,7,1,Not significant
-1,seven,3,1,Not significant
-1,standard,2,1,Not significant
-1,photoshop,2,1,Not significant
-1,physical,3,1,Not significant
-1,self,2,1,Not significant
-1,human,3,1,Not significant
-1,seduction,2,1,Not significant
-2,want,9,1,Not significant
-7,your,117,1,Not significant
-1,hands,3,1,Not significant
-1,cards,34,1,Not significant
-1,scam,35,1,Not significant
-1,abuse,2,1,Not significant
-1,illegal,2,1,Not significant
-1,idea,3,1,Not significant
-3,3rd,15,1,Not significant
-3,art,14,1,Not significant
-1,production,2,1,Not significant
-1,robert,2,1,Not significant
-1,audio,2,1,Not significant
-1,road,2,1,Not significant
-3,ultimate,67,1,Not significant
-1,up,33,1,Not significant
-1,inside,3,1,Not significant
-1,wicca,2,1,Not significant
-1,parts,2,1,Not significant
-1,middle,2,1,Not significant
-1,151,2,1,Not significant
-1,special,2,1,Not significant
-1,communication,2,1,Not significant
-1,148,2,1,Not significant
-1,four,2,1,Not significant
-1,college,2,1,Not significant
-1,codes,2,1,Not significant
-1,government,2,1,Not significant
-2,raspberry,7,1,Not significant
-1,show,2,1,Not significant
-1,started,3,1,Not significant
-2,real,8,1,Not significant
-1,origin,3,1,Not significant
+3,ultimate,66,1,Not significant
+1,keep,3,1,Not significant
+6,on,117,1,Not significant
+1,js,2,1,Not significant
+3,â,64,1,Not significant
+1,experience,2,1,Not significant
 1,greene,2,1,Not significant
-2,social,8,1,Not significant
-1,114,2,1,Not significant
-1,cheapest,3,1,Not significant
-1,113,2,1,Not significant
-1,277,2,1,Not significant
-1,252,1,2,Not significant
-1,209,1,2,Not significant
-1,222,1,2,Not significant
-1,242,1,2,Not significant
-1,interview,1,2,Not significant
-1,ton,1,2,Not significant
-1,241,1,2,Not significant
-1,237,1,2,Not significant
-1,intelligence,1,2,Not significant
-1,income,1,2,Not significant
-1,225,1,2,Not significant
-1,257,1,2,Not significant
-1,ansible,1,2,Not significant
-1,textbooks,1,2,Not significant
-1,our,1,2,Not significant
-1,passive,1,2,Not significant
-1,shadow,1,2,Not significant
-1,107,1,2,Not significant
-1,103,1,2,Not significant
-1,pocket,1,2,Not significant
-1,scientific,1,2,Not significant
-1,scenario,1,2,Not significant
-1,sas,1,2,Not significant
-1,practice,1,2,Not significant
-1,sales,1,2,Not significant
-1,primer,1,2,Not significant
-1,printing,1,2,Not significant
-1,rings,1,2,Not significant
-1,proven,1,2,Not significant
-1,118,1,2,Not significant
-1,126,1,2,Not significant
-1,144,1,2,Not significant
-1,155,1,2,Not significant
-10,edition,60,2,Not significant
-1,tests,1,2,Not significant
-1,199,1,2,Not significant
-1,kindle,1,2,Not significant
-1,193,1,2,Not significant
-1,189,1,2,Not significant
-1,limits,1,2,Not significant
-1,207,1,2,Not significant
-1,supposed,1,2,Not significant
-1,magick,1,2,Not significant
-1,makes,1,2,Not significant
-1,174,1,2,Not significant
-1,172,1,2,Not significant
-1,manifesto,1,2,Not significant
-1,strength,1,2,Not significant
-1,160,1,2,Not significant
+1,government,3,1,Not significant
+1,girls,3,1,Not significant
+1,financial,3,1,Not significant
+1,inside,3,1,Not significant
+1,human,3,1,Not significant
+10,you,80,1,Not significant
+1,iphones,3,1,Not significant
+30,for,286,1,Not significant
+1,photoshop,2,1,Not significant
+1,long,3,1,Not significant
+1,seduction,2,1,Not significant
+2,11,9,1,Not significant
+1,worth,2,1,Not significant
+1,self,2,1,Not significant
+1,wicca,2,1,Not significant
+1,visual,3,1,Not significant
+1,sexual,3,1,Not significant
+1,show,2,1,Not significant
+1,up,32,1,Not significant
+1,special,3,1,Not significant
+1,started,3,1,Not significant
+1,thoughts,3,1,Not significant
+1,straight,29,1,Not significant
+1,stupid,2,1,Not significant
+1,term,3,1,Not significant
+2,50,8,1,Not significant
+1,scam,35,1,Not significant
+1,robert,2,1,Not significant
+1,road,2,1,Not significant
+1,love,3,1,Not significant
+1,marketing,2,1,Not significant
+3,cookbook,13,1,Not significant
+1,middle,2,1,Not significant
+1,modern,3,1,Not significant
+3,art,13,1,Not significant
+3,3rd,14,1,Not significant
+3,or,61,1,Not significant
+1,textbooks,2,1,Not significant
+2,social,7,1,Not significant
+1,practice,2,1,Not significant
+1,primer,2,1,Not significant
+2,every,8,1,Not significant
+1,re,2,1,Not significant
+2,cheap,9,1,Not significant
+1,rise,2,1,Not significant
+1,physical,3,1,Not significant
+1,seven,3,1,Not significant
+1,production,2,1,Not significant
+1,65,2,1,Not significant
+1,138,3,1,Not significant
+1,case,2,1,Not significant
+1,15,2,1,Not significant
+1,175,2,1,Not significant
+1,257,2,1,Not significant
+1,99,2,1,Not significant
+1,128,3,1,Not significant
+1,127,2,1,Not significant
+1,communication,2,1,Not significant
+1,5th,3,1,Not significant
+1,147,2,1,Not significant
+1,6th,3,1,Not significant
+1,codes,2,1,Not significant
+1,3d,2,1,Not significant
+1,19,2,1,Not significant
+1,104,3,1,Not significant
+1,163,2,1,Not significant
+1,cheapest,2,1,Not significant
+1,101,2,1,Not significant
+1,audio,2,1,Not significant
+1,161,2,1,Not significant
+1,16,2,1,Not significant
+1,157,2,1,Not significant
+2,hacks,5,2,Not significant
+1,logical,1,2,Not significant
 1,magazine,1,2,Not significant
 1,mans,1,2,Not significant
-1,269,1,2,Not significant
-1,raising,1,2,Not significant
-1,accounting,1,2,Not significant
-1,blasters,1,2,Not significant
-2,why,5,2,Not significant
-4,bible,18,2,Not significant
-1,58,1,2,Not significant
-5,making,23,2,Not significant
-2,we,6,2,Not significant
-1,each,1,2,Not significant
-1,dupont,1,2,Not significant
-1,breaking,1,2,Not significant
-2,tricks,6,2,Not significant
-2,top,6,2,Not significant
-2,information,6,2,Not significant
-1,detection,1,2,Not significant
-1,█▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,1,2,Not significant
-2,like,5,2,Not significant
-1,81,1,2,Not significant
-1,89,1,2,Not significant
-1,creating,1,2,Not significant
-2,new,64,2,Not significant
-1,contemporary,1,2,Not significant
-1,confident,1,2,Not significant
-1,cancel,1,2,Not significant
-2,store,5,2,Not significant
-1,con,1,2,Not significant
-1,96,1,2,Not significant
-1,9th,1,2,Not significant
-5,100,26,2,Not significant
-4,from,92,2,Not significant
+1,261,1,2,Not significant
+1,magick,1,2,Not significant
+1,makes,1,2,Not significant
+1,manifesto,1,2,Not significant
+1,258,1,2,Not significant
+1,243,1,2,Not significant
+1,let,1,2,Not significant
+1,limits,1,2,Not significant
+1,231,1,2,Not significant
+2,pdf,6,2,Not significant
 1,chicks,1,2,Not significant
-1,7th,1,2,Not significant
-1,biology,1,2,Not significant
-4,business,16,2,Not significant
+1,chemicals,1,2,Not significant
+1,sales,1,2,Not significant
+2,my,59,2,Not significant
+1,ansible,1,2,Not significant
+1,96,1,2,Not significant
 1,catalog,1,2,Not significant
+1,247,1,2,Not significant
+2,like,6,2,Not significant
+1,249,1,2,Not significant
+1,251,1,2,Not significant
+2,ipad,5,2,Not significant
+2,instant,6,2,Not significant
+2,information,6,2,Not significant
+1,262,1,2,Not significant
+1,276,1,2,Not significant
+1,268,1,2,Not significant
+1,blasters,1,2,Not significant
+1,supposed,1,2,Not significant
+1,600,1,2,Not significant
+1,proven,1,2,Not significant
 1,attacks,1,2,Not significant
-1,273,1,2,Not significant
-1,27,1,2,Not significant
-1,aging,1,2,Not significant
-1,aka,1,2,Not significant
-1,william,1,2,Not significant
-1,adult,1,2,Not significant
-1,winning,1,2,Not significant
-1,gchq,1,2,Not significant
-1,bank,44,2,Not significant
-1,ancient,1,2,Not significant
-1,41,1,2,Not significant
-1,weird,1,2,Not significant
+1,pocket,1,2,Not significant
+1,passive,1,2,Not significant
+1,tower,1,2,Not significant
+1,76,1,2,Not significant
+1,7th,1,2,Not significant
+1,81,1,2,Not significant
+1,88,1,2,Not significant
+1,tests,1,2,Not significant
+1,bank,43,2,Not significant
+1,ton,1,2,Not significant
+2,anti,5,2,Not significant
+1,parts,1,2,Not significant
+1,rare,1,2,Not significant
+1,275,1,2,Not significant
+1,classic,1,2,Not significant
+1,any,41,2,Not significant
+1,rings,1,2,Not significant
 1,writing,1,2,Not significant
+1,31,1,2,Not significant
+1,raising,1,2,Not significant
+1,worst,1,2,Not significant
+1,39,1,2,Not significant
+1,winning,1,2,Not significant
+1,william,1,2,Not significant
+1,40,1,2,Not significant
+1,weird,1,2,Not significant
+1,our,1,2,Not significant
+1,35,1,2,Not significant
+1,229,1,2,Not significant
+1,printing,1,2,Not significant
+1,interview,1,2,Not significant
+1,199,1,2,Not significant
+1,dupont,1,2,Not significant
+1,each,1,2,Not significant
+1,109,1,2,Not significant
+5,over,23,2,Not significant
+1,197,1,2,Not significant
+1,124,1,2,Not significant
+1,194,1,2,Not significant
+1,190,1,2,Not significant
+1,188,1,2,Not significant
+5,making,24,2,Not significant
+1,185,1,2,Not significant
+1,confident,1,2,Not significant
+1,enterprise,1,2,Not significant
+1,ez,1,2,Not significant
+1,gchq,1,2,Not significant
+1,156,1,2,Not significant
+1,aka,1,2,Not significant
+1,fantasies,1,2,Not significant
 1,fastest,1,2,Not significant
-3,â,81,2,Not significant
+1,sort,1,2,Not significant
+4,bible,17,2,Not significant
+1,accounting,1,2,Not significant
+3,work,10,2,Not significant
+1,creating,1,2,Not significant
 1,frank,1,2,Not significant
-2,modern,4,3,Not significant
-2,men,3,3,Not significant
-2,sex,4,3,Not significant
-2,right,4,3,Not significant
-2,against,3,3,Not significant
-2,less,3,3,Not significant
-2,thinking,3,3,Not significant
-19,in,135,3,Not significant
-3,true,9,3,Not significant
-2,hacks,4,3,Not significant
-3,work,9,3,Not significant
-2,anti,4,3,Not significant
+1,184,1,2,Not significant
+2,we,6,2,Not significant
+1,151,1,2,Not significant
+2,top,6,2,Not significant
+1,income,1,2,Not significant
+1,con,1,2,Not significant
+2,store,6,2,Not significant
+1,driven,1,2,Not significant
+1,college,1,2,Not significant
+20,in,151,2,Not significant
+1,shadow,1,2,Not significant
+1,sas,1,2,Not significant
+1,214,1,2,Not significant
+1,108,1,2,Not significant
+1,detection,1,2,Not significant
+1,202,1,2,Not significant
+1,scientific,1,2,Not significant
+1,intelligence,1,2,Not significant
+1,ancient,1,2,Not significant
+14,get,101,2,Not significant
+2,sex,3,3,0.05
+2,non,3,3,0.05
+4,business,13,3,0.05
 2,spirit,4,3,Not significant
-23,guide,386,3,Not significant
-2,encyclopedia,3,3,Not significant
+2,new,67,3,Not significant
+2,8th,3,3,0.05
+2,right,4,3,Not significant
+2,illegal,3,3,0.05
+2,thinking,3,3,0.05
+2,men,3,3,0.05
+11,edition,64,3,0.05
 2,defense,4,3,Not significant
-2,underground,3,3,Not significant
-2,who,3,3,Not significant
-2,banned,4,3,Not significant
-1,use,48,3,Not significant
-2,engineering,4,3,Not significant
+2,man,3,3,0.05
+2,encyclopedia,3,3,0.05
+2,less,3,3,0.05
+1,use,50,3,Not significant
+2,why,4,3,Not significant
+3,true,8,3,Not significant
 1,cash,47,3,Not significant
-2,non,2,4,0.05
+2,hands,3,3,0.05
+2,who,3,3,0.05
+21,guide,387,4,0.05
+8,all,38,4,0.05
 5,are,17,4,0.05
-3,start,6,4,0.05
-16,get,101,4,0.05
-4,success,11,4,0.05
+2,20,2,4,0.05
+2,women,2,4,0.05
 2,part,2,4,0.05
-2,write,2,4,0.05
-2,sign,2,4,0.05
-2,40,2,4,0.05
+2,origin,2,4,0.05
 2,structures,2,4,0.05
-1,easy,55,4,0.05
-3,history,7,4,0.05
-2,lost,2,4,0.05
 2,theory,2,4,0.05
+2,underground,2,4,0.05
+2,lost,2,4,0.05
+2,was,2,4,0.05
+2,germany,2,4,0.05
+2,freedom,2,4,0.05
+2,finance,2,4,0.05
 3,things,7,4,0.05
-1,rising,0,5,0.05
-1,romeo,0,5,0.05
-1,sharpening,0,5,0.05
-1,sexunderthesun,0,5,0.05
-1,samurai,0,5,0.05
-1,refining,0,5,0.05
-1,rogue,0,5,0.05
-1,seconds,0,5,0.05
-3,control,5,5,0.05
-1,ruins,0,5,0.05
-1,sects,0,5,0.05
-1,shadowy,0,5,0.05
-1,ripping,0,5,0.05
-1,shadows,0,5,0.05
-1,relationships,0,5,0.05
-3,pdf,5,5,0.05
-1,shakespeare,0,5,0.05
-1,riddles,0,5,0.05
-1,voynich,0,5,0.05
-1,sins,0,5,0.05
-1,zionism,0,5,0.05
-1,zen,0,5,0.05
-1,york,0,5,0.05
-1,yearbooks,0,5,0.05
-1,yaoi,0,5,0.05
-1,thoth,0,5,0.05
-1,worlds,0,5,0.05
-1,workers,0,5,0.05
-1,wolf,0,5,0.05
-9,all,41,5,0.05
-1,zombie,0,5,0.05
-1,tough,0,5,0.05
-1,tower,0,5,0.05
-1,wiccan,0,5,0.05
-1,translation,0,5,0.05
-1,treachery,0,5,0.05
-1,wattles,0,5,0.05
-1,universally,0,5,0.05
-1,watsons,0,5,0.05
-1,wars,0,5,0.05
-1,war,0,5,0.05
-1,wallace,0,5,0.05
-1,winchester,0,5,0.05
-1,sheath,0,5,0.05
-1,testers,0,5,0.05
-1,terror,0,5,0.05
-1,solve,0,5,0.05
-1,sort,0,5,0.05
-1,speak,0,5,0.05
-1,specters,0,5,0.05
-1,spirituality,0,5,0.05
-1,ss,0,5,0.05
-1,stars,0,5,0.05
-1,visit,0,5,0.05
-1,struggle,0,5,0.05
-1,students,0,5,0.05
-1,terry,0,5,0.05
-1,subtle,0,5,0.05
-1,sufficiency,0,5,0.05
-1,survive,0,5,0.05
-1,swatting,0,5,0.05
+2,empire,2,4,0.05
+3,control,6,4,0.05
+2,english,2,4,0.05
+3,start,6,4,0.05
+2,rich,2,4,0.05
+2,25,2,4,0.05
+2,alpha,2,4,0.05
 1,sworn,0,5,0.05
 1,synthetic,0,5,0.05
+1,stars,0,5,0.05
+1,action,0,5,0.05
 1,tales,0,5,0.05
+1,accumulation,0,5,0.05
+1,stat,0,5,0.05
+1,state,0,5,0.05
+1,9th,0,5,0.05
+1,speak,0,5,0.05
 1,tap,0,5,0.05
 1,tears,0,5,0.05
-1,teasers,0,5,0.05
-1,templar,0,5,0.05
+1,struggle,0,5,0.05
+1,absolutely,0,5,0.05
+1,act,0,5,0.05
+1,9gb,0,5,0.05
+1,absorbent,0,5,0.05
+1,sins,0,5,0.05
+1,swatting,0,5,0.05
+1,spirituality,0,5,0.05
+1,survive,0,5,0.05
+1,subtle,0,5,0.05
+1,superior,0,5,0.05
 1,succeed,0,5,0.05
-1,state,0,5,0.05
-1,preferable,0,5,0.05
-1,ragnar,0,5,0.05
-1,rare,0,5,0.05
-1,dawkins,0,5,0.05
-1,cu,0,5,0.05
-1,crouch,0,5,0.05
-1,critical,0,5,0.05
-1,crisis,0,5,0.05
-1,criminality,0,5,0.05
-1,crafting,0,5,0.05
-1,corporate,0,5,0.05
-1,conversation,0,5,0.05
-1,consultant,0,5,0.05
-1,construction,0,5,0.05
-1,conquest,0,5,0.05
-1,communists,0,5,0.05
-1,comic,0,5,0.05
-1,color,0,5,0.05
-1,cnc,0,5,0.05
+1,absorption_of_nitrous_gases,0,5,0.05
+1,ss,0,5,0.05
+1,achive,0,5,0.05
+1,sufficiency,0,5,0.05
+1,students,0,5,0.05
+1,_light,0,5,0.05
+1,deception,0,5,0.05
+1,templar,0,5,0.05
+1,zionism,0,5,0.05
+1,zombie,0,5,0.05
+1,█▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,0,5,0.05
+1,267,0,5,0.05
+1,sharpening,0,5,0.05
+1,255,0,5,0.05
+1,234,0,5,0.05
+1,233,0,5,0.05
+1,232,0,5,0.05
+1,211,0,5,0.05
+1,zen,0,5,0.05
+1,206,0,5,0.05
+3,essential,5,5,0.05
+3,techniques,5,5,0.05
+1,149,0,5,0.05
+1,131,0,5,0.05
+4,success,10,5,0.05
+4,yourself,9,5,0.05
+1,"12,000",0,5,0.05
+8,buy,33,5,0.05
+1,01,0,5,0.05
+1,'re,0,5,0.05
+1,200,0,5,0.05
+1,york,0,5,0.05
+1,yearbooks,0,5,0.05
+1,worlds,0,5,0.05
+1,terror,0,5,0.05
+1,terry,0,5,0.05
+1,testers,0,5,0.05
+1,93,0,5,0.05
+1,thoth,0,5,0.05
+1,72,0,5,0.05
+1,deconstruction,0,5,0.05
+1,translation,0,5,0.05
+1,treachery,0,5,0.05
+1,60,0,5,0.05
+1,5gb,0,5,0.05
+1,50usd,0,5,0.05
+1,visit,0,5,0.05
+1,49,0,5,0.05
+1,voynich,0,5,0.05
+1,vue,0,5,0.05
+1,wallace,0,5,0.05
+1,wars,0,5,0.05
+1,watsons,0,5,0.05
+1,wattles,0,5,0.05
+1,wiccan,0,5,0.05
+1,winchester,0,5,0.05
+1,workers,0,5,0.05
+1,teasers,0,5,0.05
+1,shakespeare,0,5,0.05
+1,tough,0,5,0.05
+1,shadows,0,5,0.05
+1,justice,0,5,0.05
+1,juliet,0,5,0.05
+1,journeying,0,5,0.05
+1,job,0,5,0.05
+1,jesuit,0,5,0.05
+1,january,0,5,0.05
+1,isis,0,5,0.05
+1,intrigue,0,5,0.05
 1,clients,0,5,0.05
-1,classic,0,5,0.05
-1,chemicals,0,5,0.05
+1,interaction,0,5,0.05
+1,cnc,0,5,0.05
+1,inner,0,5,0.05
+1,informative,0,5,0.05
+1,influence,0,5,0.05
+1,inequality,0,5,0.05
+1,indivisible,0,5,0.05
+1,incredible,0,5,0.05
+1,illuminati,0,5,0.05
+1,hypothesis,0,5,0.05
+1,hostage,0,5,0.05
+1,homesteading,0,5,0.05
+1,hoffman,0,5,0.05
+1,hitchens,0,5,0.05
+1,kaplan,0,5,0.05
+1,communists,0,5,0.05
 1,cheaters,0,5,0.05
 1,catiav5r7,0,5,0.05
-1,casting,0,5,0.05
-1,carl,0,5,0.05
+1,capitalism,0,5,0.05
+1,male,0,5,0.05
+1,majo,0,5,0.05
+1,majesty,0,5,0.05
 1,careers,0,5,0.05
-1,deceive,0,5,0.05
-1,deception,0,5,0.05
-1,deviance,0,5,0.05
-1,dispirited,0,5,0.05
-1,furry,0,5,0.05
-1,fueling,0,5,0.05
-1,freemasonry,0,5,0.05
-1,firearms,0,5,0.05
-1,fight,0,5,0.05
-1,feminism,0,5,0.05
-1,fascism,0,5,0.05
-1,fantasies,0,5,0.05
-1,family,0,5,0.05
-1,fall,0,5,0.05
+1,lucifer,0,5,0.05
+1,lovemaking,0,5,0.05
+1,carl,0,5,0.05
+1,lord,0,5,0.05
+1,loose,0,5,0.05
+1,livi,0,5,0.05
+1,listen,0,5,0.05
+1,lions,0,5,0.05
+1,lie,0,5,0.05
+1,libertarianism,0,5,0.05
+1,leo,0,5,0.05
+1,legacy,0,5,0.05
+1,laugh,0,5,0.05
+1,lathe,0,5,0.05
+1,casting,0,5,0.05
+1,lacroix,0,5,0.05
+1,labour,0,5,0.05
+1,knights,0,5,0.05
+1,shadowy,0,5,0.05
+1,manipulation,0,5,0.05
+1,heroes,0,5,0.05
+1,harold,0,5,0.05
 1,facing,0,5,0.05
-1,exposing,0,5,0.05
-1,caliphate,0,5,0.05
+1,critical,0,5,0.05
+1,crouch,0,5,0.05
 1,ethics,0,5,0.05
-1,enterprise,0,5,0.05
+1,equation,0,5,0.05
 1,enlargement,0,5,0.05
-1,energy,0,5,0.05
 1,eluding,0,5,0.05
+1,dawkins,0,5,0.05
+1,econometrics,0,5,0.05
 1,ebooksâ,0,5,0.05
 1,east,0,5,0.05
 1,eagleton,0,5,0.05
 1,dw010,0,5,0.05
 1,dusko,0,5,0.05
+1,debauchery,0,5,0.05
+1,drugs,69,5,0.05
 1,drill,0,5,0.05
 1,doublespeak,0,5,0.05
+1,dostoyevsky,0,5,0.05
 1,doodling,0,5,0.05
-1,equation,0,5,0.05
-1,cable,0,5,0.05
-1,bruno,0,5,0.05
-1,brothers,0,5,0.05
-1,achive,0,5,0.05
-1,accumulation,0,5,0.05
-1,absorption_of_nitrous_gases,0,5,0.05
-1,absorbent_material_,0,5,0.05
-1,absorbent,0,5,0.05
-1,absolutely,0,5,0.05
-1,_light,0,5,0.05
-1,_gb_patent_0506929,0,5,0.05
-1,9gb,0,5,0.05
-1,75,0,5,0.05
-1,69,0,5,0.05
-1,5gb,0,5,0.05
-1,act,0,5,0.05
-1,50usd,0,5,0.05
-1,38,0,5,0.05
-1,262,0,5,0.05
-1,248,0,5,0.05
-1,240,0,5,0.05
-1,200,0,5,0.05
-1,176,0,5,0.05
-1,162,0,5,0.05
-1,143,0,5,0.05
-1,141,0,5,0.05
-1,120,0,5,0.05
-1,01,0,5,0.05
-1,'re,0,5,0.05
-1,46,0,5,0.05
-1,futures,0,5,0.05
-1,action,0,5,0.05
-1,adolf,0,5,0.05
-1,british,0,5,0.05
-1,bread,0,5,0.05
-1,boy,0,5,0.05
-1,bosteels,0,5,0.05
-1,bookkeeping,0,5,0.05
-1,bombs,0,5,0.05
-1,boggs,0,5,0.05
-1,boaz,0,5,0.05
-1,blow,0,5,0.05
-1,biographie,0,5,0.05
-1,bestseller,0,5,0.05
-1,berardi,0,5,0.05
-1,added,0,5,0.05
-1,benson,0,5,0.05
-1,behavior,0,5,0.05
-1,basel,0,5,0.05
-1,assorted,0,5,0.05
-1,artists,0,5,0.05
-1,artist,0,5,0.05
-1,articles,0,5,0.05
-1,argument,0,5,0.05
-1,archaeoastronomy,0,5,0.05
-1,antonio,0,5,0.05
-1,antimony,0,5,0.05
-1,amazon,62,5,0.05
-1,agility,0,5,0.05
-1,behavioral,0,5,0.05
-1,gardnerian,0,5,0.05
-1,debauchery,0,5,0.05
+1,dispirited,0,5,0.05
+1,deceive,0,5,0.05
+1,deviance,0,5,0.05
+1,fall,0,5,0.05
+1,hate,0,5,0.05
+1,fascism,0,5,0.05
+1,crisis,0,5,0.05
+1,hagakure,0,5,0.05
+1,conjuring,0,5,0.05
+1,gun,0,5,0.05
+1,guitar,0,5,0.05
+1,guiding,0,5,0.05
+1,conquest,0,5,0.05
+1,construction,0,5,0.05
+1,consultant,0,5,0.05
+1,conversation,0,5,0.05
+1,goodies,0,5,0.05
+1,cook,0,5,0.05
+1,glad,0,5,0.05
+1,corporate,0,5,0.05
+1,george,0,5,0.05
 1,geek,0,5,0.05
-1,gay,0,5,0.05
-1,majo,0,5,0.05
-1,male,0,5,0.05
-1,manipulation,0,5,0.05
-1,manuscript,0,5,0.05
-1,maoism,0,5,0.05
-1,marxism,0,5,0.05
-1,mad,0,5,0.05
-1,material,0,5,0.05
-1,metal,0,5,0.05
-1,metallurgy,0,5,0.05
-1,mindfucking,0,5,0.05
-1,mirror,0,5,0.05
-1,mosley,0,5,0.05
-1,mouth,0,5,0.05
-1,movie,0,5,0.05
-1,mental,0,5,0.05
-1,lucifer,0,5,0.05
-1,lovemaking,0,5,0.05
-1,lord,0,5,0.05
-1,juliet,0,5,0.05
-1,kaplan,0,5,0.05
+1,crafting,0,5,0.05
+1,gardnerian,0,5,0.05
+1,fyodor,0,5,0.05
+1,friends,0,5,0.05
+1,crime,0,5,0.05
+1,freemasonry,0,5,0.05
+1,criminality,0,5,0.05
+1,firearms,0,5,0.05
+1,fight,0,5,0.05
+1,caliphate,0,5,0.05
 1,killed,0,5,0.05
-1,knife,0,5,0.05
-1,knights,0,5,0.05
-1,lacroix,0,5,0.05
-1,lathe,0,5,0.05
-1,laugh,0,5,0.05
-1,legacy,0,5,0.05
-1,leo,0,5,0.05
-1,libertarianism,0,5,0.05
-1,lie,0,5,0.05
-1,lions,0,5,0.05
-1,listen,0,5,0.05
-1,livi,0,5,0.05
-1,logical,0,5,0.05
-1,longevity,0,5,0.05
-1,mutual,0,5,0.05
-1,journeying,0,5,0.05
-1,nations,0,5,0.05
-1,naughty,0,5,0.05
-1,powers,0,5,0.05
-1,precepts,0,5,0.05
-1,prefigurative,0,5,0.05
-1,premier,0,5,0.05
+1,persuaded,0,5,0.05
+1,boggs,0,5,0.05
+1,nazis,0,5,0.05
+1,basel,0,5,0.05
 1,prepare,0,5,0.05
+1,naughty,0,5,0.05
+1,natures,0,5,0.05
 1,preppers,0,5,0.05
+1,nations,0,5,0.05
 1,preservation,0,5,0.05
-1,pouder,0,5,0.05
+1,bare,0,5,0.05
 1,prismatic,0,5,0.05
+1,bombs,0,5,0.05
+1,mutual,0,5,0.05
+1,movie,0,5,0.05
+1,mouth,0,5,0.05
+1,bookkeeping,0,5,0.05
+1,mosley,0,5,0.05
 1,processes,0,5,0.05
 1,profitable,0,5,0.05
-1,property,0,5,0.05
 1,psychology,0,5,0.05
+1,bosteels,0,5,0.05
 1,publishers,0,5,0.05
+1,punishment,0,5,0.05
 1,puzzle,0,5,0.05
+1,mirror,0,5,0.05
+1,boaz,0,5,0.05
 1,quotable,0,5,0.05
-1,privilege,0,5,0.05
-1,population,0,5,0.05
-1,popov,0,5,0.05
-1,ponzimonium,0,5,0.05
-1,nazis,0,5,0.05
-1,negri,0,5,0.05
-1,optimizing,0,5,0.05
-1,orwell,0,5,0.05
-1,oswald,0,5,0.05
-1,owners,0,5,0.05
-1,panama,0,5,0.05
-1,panic,0,5,0.05
-1,papers,0,5,0.05
-1,patent,0,5,0.05
-1,penis,0,5,0.05
-1,persuade,0,5,0.05
-1,persuaded,0,5,0.05
-1,persuasion,0,5,0.05
+1,premier,0,5,0.05
+1,precepts,0,5,0.05
+1,bestseller,0,5,0.05
+1,biographie,0,5,0.05
 1,plague,0,5,0.05
-1,plots,0,5,0.05
 1,politische,0,5,0.05
-1,natures,0,5,0.05
-1,job,0,5,0.05
-1,magician,0,5,0.05
-1,goodies,0,5,0.05
-1,glad,0,5,0.05
-1,interaction,0,5,0.05
-1,guiding,0,5,0.05
-1,george,0,5,0.05
-1,guitar,0,5,0.05
-1,intrigue,0,5,0.05
-1,indivisible,0,5,0.05
-1,gods,0,5,0.05
-1,ibooks,0,5,0.05
-1,isis,0,5,0.05
-1,incredible,0,5,0.05
-1,harold,0,5,0.05
-1,hate,0,5,0.05
-1,heroes,0,5,0.05
-1,hypothesis,0,5,0.05
-1,illuminati,0,5,0.05
-1,hiding,0,5,0.05
-1,gun,0,5,0.05
-1,incest,0,5,0.05
-1,hoffman,0,5,0.05
-1,inequality,0,5,0.05
-1,hagakure,0,5,0.05
-1,january,0,5,0.05
-1,homesteading,0,5,0.05
-1,informative,0,5,0.05
-1,hostage,0,5,0.05
-1,jesuit,0,5,0.05
-1,hitchens,0,5,0.05
-3,essential,4,6,0.05
-2,women,1,6,0.05
-1,drugs,69,6,0.05
-1,hacking,69,6,0.05
-2,sleep,1,6,0.05
-2,france,1,6,0.05
-2,they,1,6,0.05
-2,food,1,6,0.05
-2,finance,1,6,0.05
+1,ponzimonium,0,5,0.05
+1,photography,0,5,0.05
+1,persuasion,0,5,0.05
+1,persuade,0,5,0.05
+1,penis,0,5,0.05
+1,patent,0,5,0.05
+1,papers,0,5,0.05
+1,popov,0,5,0.05
+1,population,0,5,0.05
+1,panic,0,5,0.05
+1,possibility,0,5,0.05
+1,benson,0,5,0.05
+1,panama,0,5,0.05
+1,pouder,0,5,0.05
+1,owners,0,5,0.05
+1,blow,0,5,0.05
+1,powers,0,5,0.05
+1,oswald,0,5,0.05
+1,orwell,0,5,0.05
+1,behavioral,0,5,0.05
+1,optimizing,0,5,0.05
+1,prefigurative,0,5,0.05
+1,mindfucking,0,5,0.05
+1,privilege,0,5,0.05
+1,berardi,0,5,0.05
+1,romeo,0,5,0.05
+1,marxism,0,5,0.05
+1,relationships,0,5,0.05
+1,sects,0,5,0.05
+1,argument,0,5,0.05
+1,riddles,0,5,0.05
+1,bruno,0,5,0.05
+1,seconds,0,5,0.05
+1,british,0,5,0.05
+1,samurai,0,5,0.05
+1,maoism,0,5,0.05
+1,ragnar,0,5,0.05
+1,archaeoastronomy,0,5,0.05
+1,rising,0,5,0.05
+1,antimony,0,5,0.05
+1,rogue,0,5,0.05
+1,manuscript,0,5,0.05
+1,ruins,0,5,0.05
+1,ripping,0,5,0.05
+1,material,0,5,0.05
+1,refining,0,5,0.05
+1,artist,0,5,0.05
+1,assorted,0,5,0.05
+1,military,0,5,0.05
+1,bread,0,5,0.05
+1,metallurgy,0,5,0.05
+1,metal,0,5,0.05
+1,artists,0,5,0.05
+1,acupuncture,0,5,0.05
+1,added,0,5,0.05
+1,adolf,0,5,0.05
+1,sexunderthesun,0,5,0.05
+1,mental,0,5,0.05
+1,breaking,0,5,0.05
+1,agility,0,5,0.05
+1,amazon,66,5,0.05
+2,win,1,6,0.05
 2,common,1,6,0.05
+2,sleep,1,6,0.05
+1,tutorial,71,6,0.05
+2,biology,1,6,0.05
+2,write,1,6,0.05
+2,strength,1,6,0.05
 2,strategies,1,6,0.05
-2,worst,1,6,0.05
-2,rich,1,6,0.05
-2,germany,1,6,0.05
-2,was,1,6,0.05
-2,case,1,6,0.05
-2,managing,1,6,0.05
+2,contemporary,1,6,0.05
 2,brain,1,6,0.05
-5,know,12,6,0.05
+1,hacking,72,6,0.05
+2,standard,1,6,0.05
+2,they,1,6,0.05
+2,sign,1,6,0.05
+2,kindle,1,6,0.05
+7,100,23,6,0.01
+2,julia,1,6,0.05
 2,john,1,6,0.05
+2,idiots,1,6,0.05
+1,pick,73,6,0.05
+4,history,8,6,0.05
+4,people,8,6,0.05
 2,muscle,1,6,0.05
 2,music,1,6,0.05
-2,julia,1,6,0.05
-2,kill,1,6,0.05
+2,german,1,6,0.05
+2,france,1,6,0.05
 2,mysterious,1,6,0.05
-5,getting,11,7,0.01
-10,buy,39,7,0.01
-1,tutorial,78,7,0.01
+2,aging,1,6,0.05
+5,getting,13,6,0.05
+2,second,1,6,0.05
+3,banned,4,6,0.05
+2,food,1,6,0.05
+6,handbook,15,7,0.01
+3,engineering,3,7,0.01
+5,know,11,7,0.01
 3,em,3,7,0.01
-18,book,96,7,0.01
-1,security,85,8,0.01
+3,survival,2,8,0.01
 4,end,5,8,0.01
-1,pick,83,8,0.01
-5,yourself,9,8,0.01
-3,freedom,2,8,0.01
-3,techniques,2,8,0.01
-3,english,2,8,0.01
-3,sexual,2,8,0.01
+7,secret,18,8,0.01
 3,america,2,8,0.01
-5,people,8,9,0.01
-2,lolita,0,10,0.01
-2,david,0,10,0.01
-2,deal,0,10,0.01
-2,louis,0,10,0.01
-3,idiots,1,10,0.01
+3,talk,1,10,0.001
+2,witchcraft,0,10,0.01
+6,time,10,10,0.001
+2,witches,0,10,0.01
+3,kill,1,10,0.001
 2,authors,0,10,0.01
-2,basil,0,10,0.01
-2,capital,0,10,0.01
-2,capitalism,0,10,0.01
-3,talk,1,10,0.01
-2,causes,0,10,0.01
-3,greatest,1,10,0.01
+2,vladimir,0,10,0.01
+2,esoteric,0,10,0.01
+2,alain,0,10,0.01
+2,family,0,10,0.01
+2,franco,0,10,0.01
+2,greatest,0,10,0.01
+2,hitler,0,10,0.01
+2,ibooks,0,10,0.01
 2,1984,0,10,0.01
-2,deconstruction,0,10,0.01
+2,engles,0,10,0.01
+2,kampf,0,10,0.01
+2,lies,0,10,0.01
+2,wealth,0,10,0.01
+2,lolita,0,10,0.01
+2,longevity,0,10,0.01
+2,louis,0,10,0.01
+2,machining,0,10,0.01
+2,magica,0,10,0.01
+2,managing,0,10,0.01
+2,kristeva,0,10,0.01
+2,mein,0,10,0.01
+2,england,0,10,0.01
+2,economy,0,10,0.01
+2,capital,0,10,0.01
+2,causes,0,10,0.01
+2,articles,0,10,0.01
+2,class,0,10,0.01
+2,codex,0,10,0.01
 2,coleman,0,10,0.01
 2,communist,0,10,0.01
 2,condition,0,10,0.01
-7,secret,15,10,0.01
-2,consumer,0,10,0.01
-2,class,0,10,0.01
-2,codex,0,10,0.01
-2,dialectics,0,10,0.01
-2,deities,0,10,0.01
-3,anarchist,1,10,0.01
-2,revolt,0,10,0.01
-2,hitler,0,10,0.01
-2,influence,0,10,0.01
-2,principles,0,10,0.01
-2,prepper,0,10,0.01
-2,possibility,0,10,0.01
-2,politics,0,10,0.01
-2,political,0,10,0.01
-2,places,0,10,0.01
-2,peasant,0,10,0.01
-2,operative,0,10,0.01
-2,occult,0,10,0.01
-2,justice,0,10,0.01
-2,kampf,0,10,0.01
-2,nature,0,10,0.01
-2,nabokov,0,10,0.01
-2,myths,0,10,0.01
-2,kristeva,0,10,0.01
-2,lies,0,10,0.01
-2,mind,0,10,0.01
-2,mein,0,10,0.01
-2,logic,0,10,0.01
-2,magica,0,10,0.01
-2,machining,0,10,0.01
-2,seal,0,10,0.01
-2,second,0,10,0.01
-2,german,0,10,0.01
-2,friends,0,10,0.01
-2,demons,0,10,0.01
-2,witches,0,10,0.01
-2,witchcraft,0,10,0.01
 2,althusser,0,10,0.01
+2,consumer,0,10,0.01
+2,deal,0,10,0.01
+2,antonio,0,10,0.01
+2,deities,0,10,0.01
+2,demons,0,10,0.01
+2,dialectics,0,10,0.01
 2,dictatorship,0,10,0.01
 2,dictionary,0,10,0.01
-2,wealth,0,10,0.01
 2,duhring,0,10,0.01
-2,econometrics,0,10,0.01
-2,vladimir,0,10,0.01
-2,economy,0,10,0.01
-2,utopian,0,10,0.01
+2,david,0,10,0.01
+2,mind,0,10,0.01
+2,logic,0,10,0.01
+2,revolt,0,10,0.01
+2,property,0,10,0.01
 2,selected,0,10,0.01
-2,england,0,10,0.01
-2,terrorism,0,10,0.01
-2,franco,0,10,0.01
 2,signs,0,10,0.01
-2,engles,0,10,0.01
+2,principles,0,10,0.01
+2,prepper,0,10,0.01
+2,politics,0,10,0.01
+2,simulacra,0,10,0.01
 2,simulation,0,10,0.01
 2,socialism,0,10,0.01
-2,simulacra,0,10,0.01
+2,political,0,10,0.01
+2,seal,0,10,0.01
 2,society,0,10,0.01
+2,specters,0,10,0.01
+2,places,0,10,0.01
+2,myths,0,10,0.01
 2,symbols,0,10,0.01
+2,basil,0,10,0.01
+2,nature,0,10,0.01
+2,peasant,0,10,0.01
+2,negri,0,10,0.01
+2,utopian,0,10,0.01
+2,nabokov,0,10,0.01
+2,occult,0,10,0.01
+2,terrorism,0,10,0.01
+2,operative,0,10,0.01
 2,synopsis,0,10,0.01
-2,alain,0,10,0.01
+1,list,105,11,0.001
 4,story,3,11,0.001
-4,survival,3,11,0.001
-7,handbook,13,11,0.001
-1,list,115,12,0.001
-8,collection,13,14,0.001
-7,time,9,14,0.001
-3,crowley,0,15,0.001
-4,win,1,15,0.0001
-3,jacques,0,15,0.001
-3,lane,0,15,0.001
-3,living,0,15,0.001
-3,michael,0,15,0.001
-3,richard,0,15,0.001
-3,derrida,0,15,0.001
-3,skills,0,15,0.001
-3,soul,0,15,0.001
-3,hardt,0,15,0.001
-3,critique,0,15,0.001
-3,times,0,15,0.001
-3,writings,0,15,0.001
-3,badiou,0,15,0.001
-3,anarchy,0,15,0.001
-3,aleister,0,15,0.001
-3,agile,0,15,0.001
+3,with,174,13,0.001
+21,book,88,14,0.001
+1,bitcoin,138,15,0.0001
+3,badiou,0,15,0.0001
+3,anarchy,0,15,0.0001
+3,agile,0,15,0.0001
+3,aleister,0,15,0.0001
+9,ebook,16,15,0.0001
+3,soul,0,15,0.0001
+3,lane,0,15,0.0001
+3,critique,0,15,0.0001
+3,skills,0,15,0.0001
+3,crowley,0,15,0.0001
+3,derrida,0,15,0.0001
+3,richard,0,15,0.0001
 4,sense,1,15,0.0001
-3,communism,0,15,0.001
-3,exercises,0,15,0.001
-1,bitcoin,139,16,0.0001
-9,dummies,14,16,0.0001
-9,ebook,15,16,0.0001
-2,with,174,17,0.0001
-5,economics,2,17,0.0001
-5,knowledge,1,19,0.0001
+3,times,0,15,0.0001
+3,exercises,0,15,0.0001
+3,writings,0,15,0.0001
+3,jacques,0,15,0.0001
+4,anarchist,1,15,0.0001
+3,living,0,15,0.0001
+3,communism,0,15,0.0001
+10,dummies,17,17,0.0001
 4,badass,0,20,0.0001
-4,forbidden,0,20,0.0001
+5,knowledge,1,20,0.0001
 4,deadly,0,20,0.0001
-9,science,6,26,0.0001
-9,͠≖,6,26,0.0001
-9,͜ʖ͠≖,6,26,0.0001
-11,books,10,27,0.0001
+4,forbidden,0,20,0.0001
+4,hardt,0,20,0.0001
+4,michael,0,20,0.0001
+6,economics,2,21,0.0001
+8,͠≖,6,22,0.0001
+8,͜ʖ͠≖,6,22,0.0001
+10,books,8,27,0.0001
+12,collection,11,30,0.0001
 6,slavoj,0,30,0.0001
 6,zizek,0,30,0.0001
-7,marx,0,35,0.0001
-12,ebooks,4,42,0.0001
-11,engels,0,55,0.0001
+10,science,4,34,0.0001
+9,marx,0,45,0.0001
+14,ebooks,5,49,0.0001
 12,jean,0,60,0.0001
+12,engels,0,60,0.0001
 13,baudrillard,0,65,0.0001
-116,the,377,108,0.0001
-86,of,194,119,0.0001
+121,the,366,128,0.0001
+93,of,197,140,0.0001

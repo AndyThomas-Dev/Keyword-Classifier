@@ -2,6 +2,7 @@ import pandas as pd
 
 
 def addToGT(inputFile):
+    print("Ripping file to ground truth data...")
     # File to rip data from
     raw = pd.read_csv(inputFile, usecols=[0, 1])
     raw = raw.dropna()
@@ -43,5 +44,8 @@ def addToGT(inputFile):
 
         df_row = df_row.drop_duplicates()
         df_row.to_csv(outputFile, index=False, header=True)
-        print(df_row)
+
+        print("Done...")
         catNumb = catNumb + 1
+
+    print("Completed.")

@@ -26,10 +26,10 @@ def simpleCalculateLL(a, b, c, d):
 
     return 2 * (e5 + e6)
 
-
-freqC1 = 45
-freqC2 = 7
-totalC1 = 399
-totalC2 = 28339
-
-print(simpleCalculateLL(freqC1, freqC2, totalC1, totalC2))
+# TESTING
+# freqC1 = 45
+# freqC2 = 7
+# totalC1 = 399
+# totalC2 = 28339
+#
+# print(simpleCalculateLL(freqC1, freqC2, totalC1, totalC2))

@@ -17,4 +17,4 @@ def sumAllWords():
 
 
 # Testing:
-print(sumAllWords())
+# print(sumAllWords())

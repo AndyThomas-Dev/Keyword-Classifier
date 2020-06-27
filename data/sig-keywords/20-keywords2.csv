@@ -1,29 +1,29 @@
 freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
 0,to,0,0,Not significant
-1,for,324,0,Not significant
-1,of,279,0,Not significant
-1,method,115,1,Not significant
-1,pack,102,1,Not significant
-1,on,124,1,Not significant
-1,guides,64,2,Not significant
-1,anyone,22,4,0.05
-1,wireless,12,5,0.05
-1,ways,15,5,0.05
+1,for,315,0,Not significant
+1,of,289,0,Not significant
+1,method,122,1,Not significant
+1,pack,98,1,Not significant
+1,on,122,1,Not significant
+1,guides,62,2,Not significant
+1,anyone,18,4,0.05
+1,10,12,5,0.05
+1,ways,16,5,0.05
 1,very,17,5,0.05
 1,facebook,13,5,0.05
-1,10,8,6,0.05
+1,wireless,10,6,0.05
 1,send,9,6,0.05
-1,networks,5,7,0.01
-2,easy,54,8,0.01
+1,networks,4,7,0.01
+1,chat,2,8,0.01
+2,easy,50,8,0.01
 1,models,1,10,0.01
 1,keylogger,1,10,0.01
-1,chat,1,10,0.01
 1,diffusion,0,12,0.001
 1,complex,0,12,0.001
 1,nice,0,12,0.001
-4,your,120,16,0.0001
-2,virus,2,20,0.0001
+4,your,123,15,0.0001
+2,virus,1,21,0.0001
 2,spread,0,25,0.0001
 2,spreading,0,25,0.0001
 3,malware,6,26,0.0001

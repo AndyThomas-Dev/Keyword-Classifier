@@ -150,7 +150,7 @@ var = {wordFreq[0]: "Anonymity – Other", wordFreq[1]: "Anonymity – Tor", wor
 # d number of words in corpus two.
 
 
-def calcLogLikelihood():
+def addLLvalues():
     counter = 0
     while counter < 35:
         corpusId = counter
@@ -181,16 +181,14 @@ def calcLogLikelihood():
             searchTerm = raw["word"][i]
             exfreq = countWords(searchTerm, corpusId)
             result = simpleCalculateLL(raw["freq"][i], exfreq, totalFreq[corpusId], sumExcept)
+
             raw["LL"][i] = result
             raw["exfreq"][i] = exfreq
             raw["sig"][i] = checkSignifance(result)
 
         sortedDF = raw.sort_values(by=['LL'])
-        print(sortedDF.to_string())
+        # print(sortedDF.to_string())
 
         outputFilename = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
         sortedDF.to_csv(outputFilename, index=False, header=True)
         counter = counter + 1
-
-
-calcLogLikelihood()

@@ -1,117 +1,126 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,need,39,0,Not significant
-1,on,124,0,Not significant
-1,help,62,0,Not significant
-1,free,130,0,Not significant
-1,tutorial,78,0,Not significant
-1,money,68,0,Not significant
-1,vouched,50,0,Not significant
-1,complete,46,0,Not significant
-1,your,123,0,Not significant
-1,method,115,0,Not significant
-0,and,0,0,Not significant
-0,how,0,0,Not significant
-2,with,174,0,Not significant
+1,need,42,0,Not significant
+1,on,122,0,Not significant
+1,in,170,0,Not significant
+1,help,66,0,Not significant
+1,free,125,0,Not significant
+1,uk,50,0,Not significant
+1,your,126,0,Not significant
+2,from,91,0,Not significant
+1,method,122,0,Not significant
 0,make,0,0,Not significant
+0,and,0,0,Not significant
+1,an,29,0,Not significant
+0,how,0,0,Not significant
+3,with,174,0,Not significant
 0,to,0,0,Not significant
-2,from,94,1,Not significant
-1,of,279,1,Not significant
-1,lifetime,23,1,Not significant
-1,own,19,1,Not significant
-1,please,23,1,Not significant
-1,hacked,21,1,Not significant
-1,for,324,1,Not significant
-1,ebay,21,1,Not significant
-1,ebook,23,1,Not significant
-7,guide,402,2,Not significant
-2,ultimate,68,2,Not significant
-1,cheap,11,2,Not significant
-1,into,15,2,Not significant
-1,per,11,2,Not significant
-1,ways,15,2,Not significant
+1,please,20,1,Not significant
+1,hacked,20,1,Not significant
+1,into,17,1,Not significant
+1,own,22,1,Not significant
+7,guide,401,1,Not significant
+1,lifetime,24,1,Not significant
+1,system,17,1,Not significant
+1,mobile,20,1,Not significant
+1,ebay,18,1,Not significant
+1,earn,15,1,Not significant
+1,ways,16,1,Not significant
+1,of,289,1,Not significant
+3,paypal,124,1,Not significant
+2,money,70,1,Not significant
+2,or,62,1,Not significant
+2,ultimate,67,1,Not significant
+1,ebook,24,1,Not significant
+1,number,14,2,Not significant
+2,vouched,50,2,Not significant
+1,selling,12,2,Not significant
+1,pro,11,2,Not significant
+1,seller,9,2,Not significant
+1,simple,12,2,Not significant
+1,site,11,2,Not significant
+1,website,9,2,Not significant
+1,works,10,2,Not significant
+3,get,112,2,Not significant
+1,per,14,2,Not significant
 1,v2,11,2,Not significant
-3,get,114,2,Not significant
-1,earn,13,2,Not significant
-3,paypal,130,2,Not significant
-2,or,59,2,Not significant
-1,simple,14,2,Not significant
-1,system,14,2,Not significant
-1,review,15,2,Not significant
-1,selling,11,2,Not significant
-1,seller,7,3,Not significant
-1,website,8,3,Not significant
-1,works,10,3,Not significant
-1,tested,8,3,Not significant
-1,never,7,3,Not significant
-2,any,40,3,Not significant
+1,review,13,2,Not significant
+1,for,315,2,Not significant
+1,cheap,10,2,Not significant
+1,hacker,11,2,Not significant
+1,massive,8,3,Not significant
+1,unlimited,6,3,Not significant
+1,cracking,5,3,0.05
+1,master,7,3,Not significant
 1,pages,8,3,Not significant
-1,massive,9,3,Not significant
-1,code,8,3,Not significant
-1,fast,7,3,Not significant
-1,hacker,9,3,Not significant
-1,limited,7,3,Not significant
-1,cracking,7,3,Not significant
-1,18,4,4,0.05
-1,master,5,4,0.05
-1,unlimited,5,4,0.05
-1,hour,4,4,0.05
-1,17,5,4,0.05
-2,web,27,4,0.05
-2,sites,34,4,0.05
+1,tested,8,3,Not significant
+1,never,6,3,Not significant
+2,sites,31,3,0.05
+2,premium,23,4,0.05
+1,exposed,4,4,0.05
+1,17,4,4,0.05
+1,vobinator,3,4,0.05
+1,followers,3,4,0.05
+1,shops,3,4,0.05
+1,freebies,3,4,0.05
+2,web,25,4,0.05
+1,limited,4,4,0.05
 1,casino,4,4,0.05
-1,likes,2,5,0.05
+1,bypass,4,4,0.05
+1,securing,3,4,0.05
+1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,3,4,0.05
+1,youtube,2,5,0.05
 1,twitter,2,5,0.05
+3,easy,49,5,0.05
+1,36,2,5,0.05
+1,blackhat,2,5,0.05
 1,cracker,2,5,0.05
-1,exposed,3,5,0.05
-1,multi,2,5,0.05
-1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,3,5,0.05
-2,accounts,21,5,0.05
-1,securing,3,5,0.05
-1,shops,2,5,0.05
 1,login,2,5,0.05
-2,premium,22,5,0.05
-1,followers,2,5,0.05
-1,vobinator,3,5,0.05
-1,freebies,3,5,0.05
-1,35,2,5,0.05
-1,20,3,5,0.05
+1,multi,2,5,0.05
 1,maker,2,5,0.05
-1,bot,1,6,0.01
-3,easy,53,6,0.05
-1,anywhere,1,6,0.01
-1,vulnerable,1,6,0.01
-1,large,1,6,0.01
-1,reliable,1,6,0.01
-2,pro,15,7,0.01
-1,exploiting,0,9,0.01
+1,likes,2,5,0.05
+1,gaming,1,6,0.05
+1,anywhere,1,6,0.05
+1,bot,1,6,0.05
+3,any,39,6,0.01
+1,large,1,6,0.05
+1,vulnerable,1,6,0.05
+1,skype,1,6,0.05
+3,day,27,8,0.01
+2,applications,7,8,0.01
+2,fast,8,8,0.01
 1,netflix,0,9,0.01
+1,adverts,0,9,0.01
 1,onlline,0,9,0.01
 1,organisation,0,9,0.01
-1,drawkward,0,9,0.01
-1,revered,0,9,0.01
-1,fiverr,0,9,0.01
-1,adverts,0,9,0.01
 1,adsense,0,9,0.01
-1,sqli,0,9,0.01
-1,serial,0,9,0.01
 1,fan,0,9,0.01
-2,applications,7,9,0.01
-1,blaster,0,9,0.01
-1,sophisticated,0,9,0.01
 1,suspended,0,9,0.01
+2,poker,6,9,0.01
+1,vertification,0,9,0.01
+1,exploiting,0,9,0.01
+1,sophisticated,0,9,0.01
+1,drawkward,0,9,0.01
+1,fiverr,0,9,0.01
 1,spotify,0,9,0.01
-4,account,50,10,0.01
-2,poker,6,10,0.01
-3,day,23,10,0.01
-3,very,15,12,0.001
-2,havij,0,19,0.0001
-2,casinos,0,19,0.0001
-5,online,28,20,0.0001
-3,instagram,2,21,0.0001
-6,hack,25,27,0.0001
-8,hacking,62,27,0.0001
-3,gmail,0,28,0.0001
-3,cheating,0,28,0.0001
-5,exploit,5,33,0.0001
-8,facebook,6,57,0.0001
+1,yahoo,0,9,0.01
+1,â£120,0,9,0.01
+1,â£60,0,9,0.01
+1,sqli,0,9,0.01
+1,hotmail,0,9,0.01
+1,revered,0,9,0.01
+2,hour,4,10,0.01
+5,account,50,13,0.001
+4,accounts,25,13,0.001
+2,reliable,1,14,0.001
+5,online,27,18,0.0001
+2,havij,0,18,0.0001
+2,casinos,0,18,0.0001
+7,hacking,66,19,0.0001
+5,very,13,24,0.0001
+3,cheating,0,27,0.0001
+4,instagram,2,29,0.0001
+4,gmail,1,31,0.0001
+6,exploit,5,39,0.0001
+10,hack,20,53,0.0001
+8,facebook,6,54,0.0001
