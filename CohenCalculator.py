@@ -34,7 +34,7 @@ def printCat(number):
 
 
 # rows = 3800
-filename = "data/eval/k1.csv"
+filename = "data/eval/sorted/26-06/samples/bigfile.csv"
 andy = pd.read_csv(filename, usecols=[1])
 auto = pd.read_csv(filename, usecols=[3])
 
