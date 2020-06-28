@@ -2,6 +2,8 @@ from sklearn.metrics import cohen_kappa_score
 import pandas as pd
 
 
+# Provides more detailed analysis of a sorted file, alongside Cohen's kappa.
+
 def getCatId(cat):
     cats = ["Anonymity – Other", "Anonymity – Tor", "Anonymity – VPN", "Anonymity – Proxies",
             "Carding", "Cashing Out", "Clearing Criminal History", "Counterfeit Currency", "Cryptocurrency – General",
@@ -33,8 +35,7 @@ def printCat(number):
     return cats[number]
 
 
-# rows = 3800
-filename = "data/eval/k1.csv"
+filename = "data/eval/k2.csv"
 andy = pd.read_csv(filename, usecols=[1])
 auto = pd.read_csv(filename, usecols=[3])
 

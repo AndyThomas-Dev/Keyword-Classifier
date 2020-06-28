@@ -1,33 +1,35 @@
 import pandas as pd
 
-# Creates 10 equally sized k samples from the main sorted set for crossvalidation
+# Creates 10 equally sized k samples from the main sorted dataset for crossvalidation
+# Input: Full set of SORTED gt data - location should not change (data/gt/full.csv)
 
-# Full set of SORTED GT data
-raw = pd.read_csv(r"data/gt/full.csv", usecols=[0, 1])
 
-# Duplicates removed
-raw.drop_duplicates()
-raw['New Code'] = raw['New Code'].str.strip()
+def shuffleAndSplit():
+    raw = pd.read_csv(r"data/gt/full.csv", usecols=[0, 1])
 
-# Shuffles set
-shuffled = raw.sample(frac=1)
+    # Duplicates removed
+    raw.drop_duplicates()
+    raw['New Code'] = raw['New Code'].str.strip()
 
-# Gets number of rows
-numOfRows = shuffled.shape[0]
-print('Number of Rows in dataframe : ', numOfRows)
+    # Shuffles set
+    shuffled = raw.sample(frac=1)
 
-start = 0
-subSection = int(numOfRows / 10)
-counter = subSection
-fileId = 1
+    # Gets number of rows
+    numOfRows = shuffled.shape[0]
+    print('Number of Rows in dataframe : ', numOfRows)
 
-while counter <= numOfRows:
-    print(start, counter, subSection)
-    print(shuffled[start:counter])
+    start = 0
+    subSection = int(numOfRows / 10)
+    counter = subSection
+    fileId = 1
 
-    outputFile = "data/eval/k" + str(fileId) + ".csv"
-    fileId = fileId + 1
-    shuffled[start:counter].to_csv(outputFile, index=False, header=True)
+    while counter <= numOfRows:
+        print(start, counter, subSection)
+        print(shuffled[start:counter])
 
-    start = start + subSection
-    counter = counter + subSection
+        outputFile = "data/eval/k" + str(fileId) + ".csv"
+        fileId = fileId + 1
+        shuffled[start:counter].to_csv(outputFile, index=False, header=True)
+
+        start = start + subSection
+        counter = counter + subSection

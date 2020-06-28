@@ -2,8 +2,9 @@ import pandas as pd
 import nltk
 import sys
 
-# REQUIREMENTS
-# 35x seperate ground truth data files
+# Required inputs: 35x seperate ground truth data .CSV files in data/gt/
+# 1. Function counts the frequency of each word in each file.
+# 2. Function outputs 35x seperate .CSV files containing this information in data/raw-keywords/
 
 nltk.download('punkt')
 
@@ -37,11 +38,10 @@ def getRawKeywords():
         nodupes = set(nltk_tokens)
         finalist = []
 
-        # Counts number of occurences
+        # Counts matches - note: certain words manually discounted.
         for item in sorted(nodupes):
             count = 0
 
-            # Added of and the - "28-06"
             for token in nltk_tokens:
                 if (token == item) & (token != "...") & (token != "'s") & (token != "how") & (token != "to") & \
                         (token != "make") & (token != "and") & (token != "the") & (token != "of"):

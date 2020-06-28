@@ -3,7 +3,7 @@ import pandas as pd
 
 # Gets the total number of words for each category in an array
 # REQUIRES:
-# 1. 35x Raw Keyword Lists for Each Category
+# 1. 35x Raw Keyword Lists for Each Category (data/raw-keywords/)
 
 def sumAllWords():
     values = [0] * 35
@@ -16,5 +16,5 @@ def sumAllWords():
     return values
 
 
-# Testing:
+# Debug printing.
 # print(sumAllWords())

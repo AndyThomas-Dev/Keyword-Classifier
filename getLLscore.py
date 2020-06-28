@@ -1,4 +1,3 @@
-from sklearn.metrics import cohen_kappa_score
 import pandas as pd
 import nltk
 
@@ -27,6 +26,8 @@ def getLLscore(searchTerm, corpusId):
     return 0
 
 
+# Helper function - checks if not significant keywords were detected.
+# Without this function to check, it kept auto-assigning these to cat34.
 def allValuesZero(sumAll):
     count = 0
     for i in range(35):
@@ -39,7 +40,8 @@ def allValuesZero(sumAll):
 
 
 def getLabel(sumAll):
-    # Enter threshold here
+    # Enter threshold value here. 15 = p < 0.0001
+    # Any LLsum below this will be set to Other.
     threshold = 15
     if max(sumAll) < threshold:
         return "Other"
@@ -73,14 +75,16 @@ def tokeniseString(string):
 
         for i in range(35):
             sumAll[i] = sumAll[i] + result[i]
+
+            # Debug printing
             # print(sumAll)
             # print(token, max(sumAll), getLabel(sumAll))
     return sumAll
 
 
-# Testing features
-x = "Targeted Cyber Attacks Multi-staged Attacks Driven by Exploits and Malware 2014"
-array = tokeniseString(x.lower())
-
-print('Max value in Dict: ', max(array))
-print('Key With Max value in Dict: ', getLabel(array))
+# --- Testing features ---
+# x = "Targeted Cyber Attacks Multi-staged Attacks Driven by Exploits and Malware 2014"
+# array = tokeniseString(x.lower())
+#
+# print('Max value in Dict: ', max(array))
+# print('Key With Max value in Dict: ', getLabel(array))

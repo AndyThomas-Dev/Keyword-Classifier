@@ -1,8 +1,14 @@
 import pandas as pd
 
 
+# 1. Clears ground truth datafiles (data/gt/(0-34).csv)
+# 2. Populates these files with content from the target file.
+#   Item requires column header: 'Product Name'
+#   Cat requires column header: 'New Code'
+
 def addToGT(inputFile):
     print("Ripping file to ground truth data...")
+
     # File to rip data from
     raw = pd.read_csv(inputFile, usecols=[0, 1])
     raw = raw.dropna()

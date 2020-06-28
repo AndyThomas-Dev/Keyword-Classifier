@@ -3,9 +3,8 @@ import nltk
 from getLLscore import tokeniseString, getLabel
 
 
-# Calculates a total LLscore for each entry and assigns a category based on this
-
-# Nrows: determines how many rows to sort.
+# Uses the data from prior keyword analysis to sort items.
+# Calculates a total LLscore ('LLSum') for each entry and assigns a category ('AutoCat') based on this.
 
 def sortData(inputFile):
     raw = pd.read_csv(inputFile, usecols=[0, 1])
@@ -28,7 +27,10 @@ def sortData(inputFile):
                 .replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ")
 
             array = tokeniseString(amendedString)
+
+            # Progress bar
             print(i, "--", i / lines, "%")
+
             # print(raw["Product Name"][i])
             # print(amendedString)
             # print('Max value in Dict: ', max(array))

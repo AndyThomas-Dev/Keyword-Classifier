@@ -1,22 +1,15 @@
 import pandas as pd
 import math
-import nltk
-import random
 from signifance import *
 from countwords import *
 from sumAllWords import *
 
-
-# 95th percentile; 5% level; p < 0.05; critical value = 3.84
-# 99th percentile; 1% level; p < 0.01; critical value = 6.63
-# 99.9th percentile; 0.1% level; p < 0.001; critical value = 10.83
-# 99.99th percentile; 0.01% level; p < 0.0001; critical value = 15.13
+# Calculates log likelihood scores and significance of those scores.
+# Inputs: data/raw-keywords/
+# Outputs: data/sig-keywords/
 
 
 def calculateLL(a, b):
-    # a = frequency
-    # b = totals
-
     # a Frequency of word in corpus one.
     # b Frequency of word in corpus two.
     # e Frequency of word in corpus three.
@@ -187,7 +180,6 @@ def addLLvalues():
             raw["sig"][i] = checkSignifance(result)
 
         sortedDF = raw.sort_values(by=['LL'])
-        # print(sortedDF.to_string())
 
         outputFilename = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
         sortedDF.to_csv(outputFilename, index=False, header=True)

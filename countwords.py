@@ -19,6 +19,7 @@ def countWords(word, corpusId):
                     count = count + raw["freq"][row]
 
         i = i + 1
-    # Helpful printing
-    print(corpusId, word, "Exc: ", count)
+
+    # Debug printing
+    # print(corpusId, word, "Exc: ", count)
     return count

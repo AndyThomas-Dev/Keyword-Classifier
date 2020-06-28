@@ -1,6 +1,10 @@
 import pandas as pd
 
 
+# Trims away any keywords that are not significant (>0.01)
+# Intended to make sorting faster and more accurate.
+# Inputs: data/sig-keywords/
+# Outputs: data/use-keywords/
 def getUsableKeywords():
     for corpusId in range(35):
         fileName = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
@@ -15,8 +19,6 @@ def getUsableKeywords():
 
         outputFile = "data/use-keywords/" + str(corpusId) + "-keywords2.csv"
         new.to_csv(outputFile, index=False, header=True)
-
-        corpusId = corpusId + 1
 
 
 
