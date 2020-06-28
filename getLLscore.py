@@ -79,7 +79,7 @@ def tokeniseString(string):
 
 
 # Testing features
-x = "downtime??"
+x = "Targeted Cyber Attacks Multi-staged Attacks Driven by Exploits and Malware 2014"
 array = tokeniseString(x.lower())
 
 print('Max value in Dict: ', max(array))

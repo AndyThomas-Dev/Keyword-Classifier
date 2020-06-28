@@ -44,8 +44,8 @@ def calcCK():
     print("\nOverall: ", avg/10)
 
 
-# To
-
+# Creates 10x subsets (every set except 1)
+# Required for next step.
 createKSets()
 
 # 10 down to 1...
@@ -59,11 +59,3 @@ for i in range(10):
     sortData(kSampleToSort)
 
 calcCK()
-
-# for i in range(9):
-#     print(i)
-#     setPath = "data/eval/kset" + str(i + 1) + ".csv"
-#     addFileToModel(setPath)
-#
-#     kSampleToSort = "data/eval/kset" + str(i + 1) + ".csv"
-#     sortData(kSampleToSort)

@@ -21,7 +21,7 @@ def getRawKeywords():
         pd.set_option('display.max_rows', raw.shape[0] + 1)
         pd.set_option('display.max_colwidth', None)
 
-        inputString = raw[raw.columns[0]].to_string().replace("-", " ").replace("?", " ").replace("+", " ") \
+        inputString = raw[raw.columns[0]].to_string().replace("+", " ").replace("?", " ").replace("+", " ") \
             .replace("[", " ").replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ").replace("|", " ") \
             .replace("#", " ")
 
@@ -41,9 +41,10 @@ def getRawKeywords():
         for item in sorted(nodupes):
             count = 0
 
+            # Added of and the - "28-06"
             for token in nltk_tokens:
                 if (token == item) & (token != "...") & (token != "'s") & (token != "how") & (token != "to") & \
-                        (token != "make") & (token != "and"):
+                        (token != "make") & (token != "and") & (token != "the") & (token != "of"):
                     count = count + 1
 
             inputString = count, item

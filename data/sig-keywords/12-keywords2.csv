@@ -1,17 +1,27 @@
 freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
+0,the,0,0,Not significant
 0,to,0,0,Not significant
-1,tutorial,71,2,Not significant
-3,the,484,3,Not significant
-1,noob,18,5,0.05
-1,expert,6,7,0.01
-2,all,44,9,0.01
-1,revenge,1,10,0.01
-2,about,31,10,0.01
-5,guide,403,11,0.001
+1,you,107,1,Not significant
+1,from,113,1,Not significant
+1,be,61,2,Not significant
+1,do,77,2,Not significant
+1,tutorial,86,2,Not significant
+1,buy,49,3,Not significant
+1,this,43,3,Not significant
+1,n't,19,4,0.05
+1,site,13,5,0.05
+1,will,12,5,0.05
+1,fbi,9,6,0.05
+4,guide,448,7,0.01
+2,about,51,8,0.01
+2,all,48,9,0.01
+1,agents,1,10,0.01
+1,doxxed,0,12,0.001
+1,doxx,0,12,0.001
 1,dox,0,12,0.001
 2,full,19,12,0.001
-2,become,8,15,0.0001
-3,complete,47,15,0.0001
+2,become,9,15,0.0001
+3,complete,55,15,0.001
 2,god,4,18,0.0001
-8,doxing,0,102,0.0001
+7,doxing,0,89,0.0001

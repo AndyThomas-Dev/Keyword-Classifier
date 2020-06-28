@@ -1,5 +1,16 @@
-sets = 3808
-k = 423
-n = 4230
+sets = 4851
+k(10) = 539
+n = 5390
 
-kset9 = every k-sample except 9
+CK score for:  1  -  0.6898745689351167
+CK score for:  2  -  0.7298566586351942
+CK score for:  3  -  0.7137007978576251
+CK score for:  4  -  0.7049164561269823
+CK score for:  5  -  0.7122804046591762
+CK score for:  6  -  0.6995928822680482
+CK score for:  7  -  0.6549832018588957
+CK score for:  8  -  0.7028490028490029
+CK score for:  9  -  0.6820820968425709
+CK score for:  10  -  0.6785146240169656
+
+Overall:  0.6968650694049577

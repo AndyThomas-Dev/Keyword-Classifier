@@ -1,53 +1,43 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
 0,how,0,0,Not significant
-0,make,0,0,Not significant
+0,of,0,0,Not significant
+0,the,0,0,Not significant
 0,to,0,0,Not significant
-1,your,126,0,Not significant
-1,with,176,0,Not significant
-1,free,125,0,Not significant
-1,method,122,0,Not significant
-1,ultimate,68,1,Not significant
-1,or,63,1,Not significant
-1,money,71,1,Not significant
-1,fake,29,2,Not significant
-1,mega,28,2,Not significant
-1,hack,29,2,Not significant
-1,package,38,2,Not significant
-3,of,287,2,Not significant
-2,get,113,3,Not significant
-1,tips,15,3,0.05
-1,own,22,3,Not significant
-1,as,15,3,0.05
-1,iphone,11,4,0.05
-2,hacking,71,4,0.05
-1,11,10,4,0.05
-1,month,10,4,0.05
-1,penetration,9,4,0.05
-1,50,9,4,0.05
-1,testing,11,4,0.05
-1,applications,8,5,0.05
-1,tricks,7,5,0.05
-1,driver,4,6,0.05
-2,bank,42,6,0.05
-1,securing,3,6,0.01
-1,attack,2,7,0.01
+1,your,153,0,Not significant
+1,with,234,0,Not significant
+1,security,110,0,Not significant
+1,guide,451,0,Not significant
+1,for,393,0,Not significant
+1,or,73,1,Not significant
+1,hacking,82,1,Not significant
+1,money,73,1,Not significant
+1,hack,40,2,Not significant
+1,mega,20,3,Not significant
+1,own,27,3,Not significant
+1,tips,17,3,0.05
+1,hackers,10,4,0.05
+1,iphone,14,4,0.05
+1,application,12,4,0.05
+1,penetration,10,4,0.05
+1,testing,12,4,0.05
+1,developers,9,5,0.05
+1,applications,9,5,0.05
+1,tricks,9,5,0.05
+1,definitive,5,6,0.05
+2,bank,45,6,0.01
+1,apps,5,6,0.05
+2,android,34,7,0.01
 1,smartphone,2,7,0.01
-1,apps,2,7,0.01
+1,securing,3,7,0.01
+1,attack,3,7,0.01
 1,truly,1,8,0.01
-1,clash,1,8,0.01
+2,mobile,27,8,0.01
 1,device,1,8,0.01
-1,gems,1,8,0.01
-2,mobile,19,9,0.01
 1,secuirty,0,11,0.001
-1,rides,0,11,0.001
-1,"3,000",0,11,0.001
-1,clans,0,11,0.001
+1,hacking-android,0,11,0.001
 2,exploit,9,12,0.001
-2,unlimited,5,14,0.001
-2,america,3,15,0.0001
-2,uber,1,18,0.0001
-3,ios,8,20,0.0001
-4,android,29,20,0.0001
-2,bussines,0,22,0.0001
-3,hacks,4,24,0.0001
+2,hacks,7,13,0.001
+2,america,3,16,0.0001
+2,bussines,0,23,0.0001
+4,ios,23,23,0.0001
