@@ -1,521 +1,514 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,police,10,0,Not significant
-1,possible,13,0,Not significant
-1,price,15,0,Not significant
-1,problems,7,0,Not significant
-1,rate,7,0,Not significant
-1,really,13,0,Not significant
-1,refund,22,0,Not significant
-1,research,6,0,Not significant
-1,service,23,0,Not significant
-1,store,6,0,Not significant
-1,teach,8,0,Not significant
-1,there,11,0,Not significant
-1,they,6,0,Not significant
-1,think,6,0,Not significant
-1,trouble,6,0,Not significant
-1,people,12,0,Not significant
-1,ordering,6,0,Not significant
-1,online,36,0,Not significant
-1,offer,10,0,Not significant
-1,exploit,9,0,Not significant
-1,gift,18,0,Not significant
-1,good,21,0,Not significant
-1,if,15,0,Not significant
-1,illegal,6,0,Not significant
-1,info,9,0,Not significant
-1,just,18,0,Not significant
-1,updated,26,0,Not significant
-1,keep,6,0,Not significant
-1,made,6,0,Not significant
-1,man,7,0,Not significant
-1,more,33,0,Not significant
-1,n't,17,0,Not significant
-1,newbie,16,0,Not significant
-1,next,8,0,Not significant
-1,noob,20,0,Not significant
 1,machine,16,0,Not significant
-1,visual,10,0,Not significant
-1,want,14,0,Not significant
-1,well,6,0,Not significant
-2,tips,16,0,Not significant
-2,tutorials,26,0,Not significant
-2,video,22,0,Not significant
-3,an,41,0,Not significant
-3,are,29,0,Not significant
-3,drug,30,0,Not significant
-3,please,32,0,Not significant
-2,questions,28,0,Not significant
-3,this,45,0,Not significant
-3,vendor,31,0,Not significant
-4,pack,104,0,Not significant
-4,tutorial,85,0,Not significant
-4,ultimate,74,0,Not significant
-9,is,116,0,Not significant
-13,with,217,0,Not significant
-22,for,377,0,Not significant
-3,use,60,0,Not significant
-1,everything,11,0,Not significant
-2,problem,26,0,Not significant
-2,phone,21,0,Not significant
-1,when,8,0,Not significant
-1,where,11,0,Not significant
-1,world,21,0,Not significant
-1,would,10,0,Not significant
-1,yourself,23,0,Not significant
-2,'',25,0,Not significant
-2,``,23,0,Not significant
+1,made,5,0,Not significant
+2,that,17,0,Not significant
+1,man,6,0,Not significant
+2,setup,49,0,Not significant
+1,more,32,0,Not significant
+1,n't,19,0,Not significant
+1,lsd,27,0,Not significant
+1,newbie,13,0,Not significant
+1,noob,21,0,Not significant
 2,private,28,0,Not significant
-2,can,48,0,Not significant
+1,offer,10,0,Not significant
+1,online,38,0,Not significant
+2,please,32,0,Not significant
+1,ordering,6,0,Not significant
+2,phone,23,0,Not significant
+2,problem,26,0,Not significant
+1,people,13,0,Not significant
+1,want,15,0,Not significant
+2,tutorials,29,0,Not significant
+3,ultimate,74,0,Not significant
+3,this,43,0,Not significant
+1,etc,12,0,Not significant
+1,everything,8,0,Not significant
+1,exploit,8,0,Not significant
+3,me,33,0,Not significant
+1,gift,16,0,Not significant
+2,tips,16,0,Not significant
+1,have,21,0,Not significant
+3,by,57,0,Not significant
+3,at,31,0,Not significant
+1,if,13,0,Not significant
+1,illegal,5,0,Not significant
+2,video,21,0,Not significant
+1,just,16,0,Not significant
+1,keep,6,0,Not significant
+3,drug,34,0,Not significant
+3,use,59,0,Not significant
+1,personal,14,0,Not significant
+1,picking,5,0,Not significant
+2,'',24,0,Not significant
+1,service,22,0,Not significant
+1,setting,7,0,Not significant
+1,yourself,22,0,Not significant
+1,some,13,0,Not significant
+1,stay,9,0,Not significant
+1,store,6,0,Not significant
+2,``,25,0,Not significant
+1,would,7,0,Not significant
+1,when,11,0,Not significant
+1,teach,9,0,Not significant
+1,things,11,0,Not significant
+1,think,6,0,Not significant
+1,two,5,0,Not significant
+1,well,6,0,Not significant
+1,updated,27,0,Not significant
+1,work,14,0,Not significant
+1,phones,8,0,Not significant
+1,safety,15,0,Not significant
+2,are,31,0,Not significant
+1,police,9,0,Not significant
+2,marijuana,36,0,Not significant
+2,know,21,0,Not significant
+1,prepaid,5,0,Not significant
+1,problems,6,0,Not significant
+1,processing,5,0,Not significant
+2,high,22,0,Not significant
+2,amazon,62,0,Not significant
+1,really,12,0,Not significant
+2,getting,18,0,Not significant
+1,refund,23,0,Not significant
+2,fake,32,0,Not significant
 2,ebook,30,0,Not significant
-2,fake,31,0,Not significant
-2,getting,21,0,Not significant
-2,high,23,0,Not significant
-2,know,23,0,Not significant
-2,marijuana,35,0,Not significant
-2,methods,38,0,Not significant
-2,cocaine,20,0,Not significant
-1,etc,13,0,Not significant
-1,stay,11,0,Not significant
-0,of,0,0,Not significant
-0,to,0,0,Not significant
-0,the,0,0,Not significant
-1,anon,8,0,Not significant
-1,but,10,0,Not significant
+1,research,6,0,Not significant
+2,can,48,0,Not significant
+2,buying,18,0,Not significant
+2,good,22,0,Not significant
+3,vendor,28,0,Not significant
+1,visual,11,0,Not significant
+1,did,5,0,Not significant
+1,before,11,0,Not significant
+1,been,6,0,Not significant
 1,anyone,31,0,Not significant
-1,big,42,0,Not significant
-1,approach,8,0,Not significant
-1,create,18,0,Not significant
+0,to,0,0,Not significant
+26,for,369,0,Not significant
+1,art,19,0,Not significant
+1,create,16,0,Not significant
+12,with,215,0,Not significant
+0,the,0,0,Not significant
+1,course,12,0,Not significant
+1,cocaine,21,0,Not significant
+7,you,92,0,Not significant
+8,from,101,0,Not significant
+1,code,13,0,Not significant
+1,anon,11,0,Not significant
+1,approach,5,0,Not significant
+4,tutorial,81,0,Not significant
+4,pack,104,0,Not significant
 1,clone,12,0,Not significant
-1,cards,38,0,Not significant
-1,art,18,0,Not significant
-1,course,14,0,Not significant
-0,make,0,0,Not significant
-0,and,0,0,Not significant
-0,how,0,0,Not significant
-1,banned,7,0,Not significant
-1,darknet,14,0,Not significant
-1,code,15,0,Not significant
-1,buying,20,0,Not significant
-1,build,6,0,Not significant
+0,of,0,0,Not significant
+1,banned,8,0,Not significant
+4,an,43,0,Not significant
 1,ca,7,0,Not significant
-1,before,12,0,Not significant
-1,too,3,1,Not significant
+6,on,148,0,Not significant
+1,build,7,0,Not significant
+5,what,53,0,Not significant
+1,cards,36,0,Not significant
+1,darknet,12,0,Not significant
+0,how,0,0,Not significant
+0,make,0,0,Not significant
+6,using,67,0,Not significant
+0,and,0,0,Not significant
+1,complete,54,1,Not significant
+1,regarding,3,1,Not significant
+8,help,82,1,Not significant
+2,carded,14,1,Not significant
+1,large,3,1,Not significant
+1,red,4,1,Not significant
+1,paperboard,3,1,Not significant
+7,my,66,1,Not significant
 2,open,11,1,Not significant
-2,personal,15,1,Not significant
-2,work,12,1,Not significant
-2,that,13,1,Not significant
-1,all,44,1,Not significant
-2,why,11,1,Not significant
-2,real,11,1,Not significant
-2,safety,15,1,Not significant
-1,kind,4,1,Not significant
-1,trace,3,1,Not significant
-1,complete,57,1,Not significant
-1,prepaid,4,1,Not significant
-1,been,4,1,Not significant
-1,clear,3,1,Not significant
-1,print,3,1,Not significant
-1,wrong,3,1,Not significant
-1,bank,46,1,Not significant
-1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,3,1,Not significant
-1,phones,5,1,Not significant
-1,asking,3,1,Not significant
-2,anything,12,1,Not significant
-1,processing,5,1,Not significant
-2,carded,12,1,Not significant
-1,page,3,1,Not significant
-1,product,3,1,Not significant
+2,has,13,1,Not significant
+2,possible,12,1,Not significant
 1,production,3,1,Not significant
-1,appreciated,3,1,Not significant
-2,has,12,1,Not significant
-1,any,44,1,Not significant
-2,money,78,1,Not significant
-1,two,5,1,Not significant
-1,no,48,1,Not significant
-1,issue,5,1,Not significant
+1,product,3,1,Not significant
+1,big,42,1,Not significant
+1,no,50,1,Not significant
+1,bank,48,1,Not significant
+2,notes,10,1,Not significant
+1,print,3,1,Not significant
+2,money,74,1,Not significant
+2,real,10,1,Not significant
+10,is,108,1,Not significant
+1,any,43,1,Not significant
+1,paper,3,1,Not significant
+1,grade,3,1,Not significant
+1,kind,4,1,Not significant
+1,further,3,1,Not significant
 1,thoughts,3,1,Not significant
-1,investigation,5,1,Not significant
-4,me,32,1,Not significant
+3,items,20,1,Not significant
+3,le,21,1,Not significant
+1,too,3,1,Not significant
+1,food,4,1,Not significant
+1,trace,3,1,Not significant
+1,trouble,4,1,Not significant
+3,now,20,1,Not significant
+1,express,3,1,Not significant
+1,experiences,3,1,Not significant
+3,questions,25,1,Not significant
+1,urgent,3,1,Not significant
+1,current,3,1,Not significant
 1,hiding,3,1,Not significant
 1,then,4,1,Not significant
-1,grade,3,1,Not significant
-1,further,3,1,Not significant
-5,it,44,1,Not significant
-5,on,150,1,Not significant
-1,slow,3,1,Not significant
-1,food,4,1,Not significant
-1,express,3,1,Not significant
-1,setup,50,1,Not significant
-8,help,84,1,Not significant
-8,you,97,1,Not significant
-9,from,106,1,Not significant
-10,get,116,1,Not significant
-18,guide,433,1,Not significant
-6,using,69,1,Not significant
-1,regarding,3,1,Not significant
-4,method,117,1,Not significant
-1,who,5,1,Not significant
-1,red,3,1,Not significant
-3,now,20,2,Not significant
-5,need,43,2,Not significant
-1,aka,2,2,Not significant
-1,importing,2,2,Not significant
-1,canadian,2,2,Not significant
-1,flags,2,2,Not significant
-6,be,55,2,Not significant
-1,increase,2,2,Not significant
-1,paranoid,2,2,Not significant
-1,large,2,2,Not significant
-7,my,66,2,Not significant
-1,experiences,2,2,Not significant
-3,le,20,2,Not significant
-1,date,2,2,Not significant
-1,pick,2,2,Not significant
-3,items,16,2,Not significant
-3,id,16,2,Not significant
-1,text,2,2,Not significant
-1,dont,2,2,Not significant
-1,its,2,2,Not significant
-1,deleting,2,2,Not significant
-1,pot,2,2,Not significant
-1,68,2,2,Not significant
-1,chemical,2,2,Not significant
-1,mailing,2,2,Not significant
-1,opening,2,2,Not significant
-1,traced,2,2,Not significant
-1,something,2,2,Not significant
-1,amazon,62,2,Not significant
+1,all,50,1,Not significant
+1,investigation,4,1,Not significant
+2,anything,14,1,Not significant
+4,methods,39,1,Not significant
+1,wrong,3,1,Not significant
+2,where,13,1,Not significant
+2,why,11,1,Not significant
+2,after,10,1,Not significant
+2,pdf,11,1,Not significant
+4,method,119,1,Not significant
+1,specific,3,1,Not significant
 1,sent,2,2,Not significant
-3,through,17,2,Not significant
-1,come,2,2,Not significant
-1,107,2,2,Not significant
-2,pdf,10,2,Not significant
+2,buyer,7,2,Not significant
+1,paranoid,2,2,Not significant
+1,understand,2,2,Not significant
+11,get,117,2,Not significant
+1,asking,2,2,Not significant
 1,turning,2,2,Not significant
-1,idea,2,2,Not significant
-1,newb,2,2,Not significant
-1,newly,2,2,Not significant
-2,services,9,2,Not significant
-2,notes,10,2,Not significant
+6,safe,48,2,Not significant
+1,pick,2,2,Not significant
+1,appreciated,2,2,Not significant
+1,text,2,2,Not significant
+1,traced,2,2,Not significant
+1,adresses,2,2,Not significant
+1,pot,2,2,Not significant
+2,never,8,2,Not significant
+1,aka,2,2,Not significant
+2,information,7,2,Not significant
 1,local,2,2,Not significant
-2,super,8,2,Not significant
-2,never,9,2,Not significant
-1,creation,2,2,Not significant
-1,by,59,2,Not significant
-1,friends,2,2,Not significant
+4,usa,24,2,Not significant
+2,super,7,2,Not significant
+6,be,50,2,Not significant
 1,ideas,2,2,Not significant
+1,creation,2,2,Not significant
+5,need,38,2,Not significant
+1,last,2,2,Not significant
+1,friends,2,2,Not significant
+3,id,16,2,Not significant
+1,newly,2,2,Not significant
+1,flags,2,2,Not significant
+1,newb,2,2,Not significant
+3,through,16,2,Not significant
+1,canadian,2,2,Not significant
+2,unlimited,7,2,Not significant
+1,extract,2,2,Not significant
+1,importing,2,2,Not significant
+3,read,15,2,Not significant
+1,ok,2,2,Not significant
 1,others,2,2,Not significant
-1,watched,1,3,Not significant
-1,versus,1,3,Not significant
-1,weird,1,3,Not significant
-1,trap,1,3,Not significant
-1,show,1,3,Not significant
-2,place,6,3,Not significant
-1,â£1,1,3,Not significant
-7,what,55,3,Not significant
-7,safe,52,3,Not significant
-5,up,31,3,Not significant
-4,usa,25,3,Not significant
-3,works,12,3,Not significant
-1,38,1,3,Not significant
-3,read,14,3,Not significant
-3,number,12,3,Not significant
-3,must,13,3,Not significant
-3,got,12,3,Not significant
-1,71,1,3,Not significant
+1,its,2,2,Not significant
 1,acting,1,3,Not significant
-2,worldwide,6,3,Not significant
-2,whats,6,3,Not significant
-1,adresses,1,3,Not significant
-2,unlimited,6,3,Not significant
-2,talk,6,3,Not significant
-2,sending,5,3,Not significant
-2,risk,5,3,Not significant
-2,picking,5,3,Not significant
-2,pay,6,3,Not significant
-2,name,6,3,Not significant
-2,information,7,3,Not significant
-1,anywhere,1,3,Not significant
-2,did,5,3,Not significant
-1,arrive,1,3,Not significant
-2,buyer,7,3,Not significant
+1,slow,1,3,Not significant
+1,â£1,1,3,Not significant
+1,signature,1,3,Not significant
+2,whats,5,3,Not significant
 2,addresses,5,3,Not significant
-1,█▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,1,3,Not significant
-1,within,1,3,Not significant
 1,saying,1,3,Not significant
-1,device,1,3,Not significant
-1,choose,1,3,Not significant
-1,re,1,3,Not significant
-1,raising,1,3,Not significant
-1,put,1,3,Not significant
-1,irish,1,3,Not significant
-1,issued,1,3,Not significant
 1,cops,1,3,Not significant
-1,mbb,1,3,Not significant
-1,label,1,3,Not significant
-1,paying,1,3,Not significant
-1,procedures,1,3,Not significant
-1,goods,1,3,Not significant
-1,printing,1,3,Not significant
-1,case,1,3,Not significant
-1,likely,1,3,Not significant
-1,possibly,1,3,Not significant
-1,concern,1,3,Not significant
-1,payment,1,3,Not significant
-1,re-ship,1,3,Not significant
-1,intercepted,1,3,Not significant
-1,lot,1,3,Not significant
-1,helicopters,1,3,Not significant
+1,advise,1,3,Not significant
+1,55,1,3,Not significant
+2,worldwide,6,3,Not significant
+1,█▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀,1,3,Not significant
 1,holding,1,3,Not significant
+1,irish,1,3,Not significant
+1,years,1,3,Not significant
+1,wants,1,3,Not significant
+1,watched,1,3,Not significant
+1,weird,1,3,Not significant
+1,deleting,1,3,Not significant
+1,trap,1,3,Not significant
+3,must,13,3,Not significant
+1,customers,1,3,Not significant
+1,260,1,3,Not significant
 1,customer,1,3,Not significant
-1,china,1,3,Not significant
+1,helicopters,1,3,Not significant
+1,within,1,3,Not significant
+17,guide,448,3,Not significant
+14,your,136,3,Not significant
 1,his,1,3,Not significant
-1,out,83,3,Not significant
-2,current,4,4,0.05
-15,your,144,4,0.05
-2,track,4,4,0.05
+1,239,1,3,Not significant
+1,stopped,1,3,Not significant
+1,goods,1,3,Not significant
+1,intercepted,1,3,Not significant
+2,pay,6,3,Not significant
+1,issued,1,3,Not significant
+1,mbb,1,3,Not significant
+1,procedures,1,3,Not significant
+1,intresting,1,3,Not significant
+1,printing,1,3,Not significant
+2,risk,5,3,Not significant
+1,new,74,3,Not significant
+1,chemical,1,3,Not significant
+1,possibly,1,3,Not significant
+5,up,29,3,Not significant
+6,it,39,3,Not significant
+1,opening,1,3,Not significant
+1,payment,1,3,Not significant
+1,paying,1,3,Not significant
+2,place,6,3,Not significant
+1,case,1,3,Not significant
+1,raising,1,3,Not significant
+2,sending,5,3,Not significant
+1,likely,1,3,Not significant
+1,re-ship,1,3,Not significant
+1,loose,1,3,Not significant
+1,label,1,3,Not significant
+1,lose,1,3,Not significant
+1,lot,1,3,Not significant
+1,concern,1,3,Not significant
+1,choose,1,3,Not significant
+1,china,1,3,Not significant
+1,recieve,1,3,Not significant
+1,out,81,4,0.05
+4,advice,17,4,0.05
+2,talk,4,4,0.05
+3,got,11,4,0.05
 2,import,4,4,0.05
-4,advice,18,4,0.05
+3,being,9,4,0.05
 2,them,4,4,0.05
-3,after,11,4,0.05
-4,check,17,4,0.05
-3,will,10,4,0.05
-5,at,27,4,0.05
-4,without,18,4,0.05
+5,us,25,4,0.05
+3,works,11,4,0.05
+4,check,18,4,0.05
+1,weapons,0,5,0.05
+2,clear,3,5,0.05
+2,hide,3,5,0.05
+1,west-eu,0,5,0.05
+2,dont,3,5,0.05
+2,track,3,5,0.05
+2,point,3,5,0.05
+5,own,21,5,0.05
 2,reputable,3,5,0.05
-1,anti-interception,0,5,0.05
-1,entering,0,5,0.05
-8,anonymous,52,5,0.05
-1,envelope,0,5,0.05
-1,drop-reship,0,5,0.05
-1,moved,0,5,0.05
+1,zip,0,5,0.05
+2,options,3,5,0.05
+3,will,8,5,0.05
+1,stealthier,0,5,0.05
+1,versus,0,5,0.05
+1,internationally,0,5,0.05
+1,inspection,0,5,0.05
+1,inquiry,0,5,0.05
+1,initial,0,5,0.05
+1,immediately,0,5,0.05
+1,identifying,0,5,0.05
+1,larger,0,5,0.05
+1,vials,0,5,0.05
+1,houses,0,5,0.05
+1,help-about,0,5,0.05
+1,fulfillment,0,5,0.05
+1,freak,0,5,0.05
+1,forwarding,0,5,0.05
+1,format,0,5,0.05
+1,houw,0,5,0.05
+1,fee,0,5,0.05
+1,letterbox,0,5,0.05
+1,likelihood,0,5,0.05
+1,ounce,0,5,0.05
+1,operate,0,5,0.05
+1,opened,0,5,0.05
+1,nowdays,0,5,0.05
+1,normal,0,5,0.05
+1,nl,0,5,0.05
+1,letters,0,5,0.05
+1,neccesary,0,5,0.05
+1,motion,0,5,0.05
+1,monitoring,0,5,0.05
+1,mode,0,5,0.05
+1,mbe,0,5,0.05
 1,marijuanaand,0,5,0.05
 1,mailbox,0,5,0.05
 1,mylar,0,5,0.05
-1,objects,0,5,0.05
-1,nowdays,0,5,0.05
-1,annonymously,0,5,0.05
-1,due,0,5,0.05
-1,normal,0,5,0.05
-1,concerned,0,5,0.05
-1,nl,0,5,0.05
-1,collecting,0,5,0.05
-1,mode,0,5,0.05
-1,monitoring,0,5,0.05
-1,motion,0,5,0.05
-2,options,3,5,0.05
-1,employee,0,5,0.05
-1,mbe,0,5,0.05
-1,letters,0,5,0.05
-1,loose,0,5,0.05
-1,inspector,0,5,0.05
-1,inspection,0,5,0.05
-1,inquiry,0,5,0.05
-1,correct,0,5,0.05
-1,immediately,0,5,0.05
-1,identifying,0,5,0.05
-1,internationally,0,5,0.05
-1,however,0,5,0.05
-1,houses,0,5,0.05
-1,holland,0,5,0.05
-1,100usd,0,5,0.05
-1,fulfillment,0,5,0.05
-1,hints,0,5,0.05
-1,help-about,0,5,0.05
-1,houw,0,5,0.05
-1,experiance,0,5,0.05
-1,freak,0,5,0.05
-5,own,22,5,0.05
-1,dangerous,0,5,0.05
-1,expresspost,0,5,0.05
-1,romania,0,5,0.05
-1,fee,0,5,0.05
-5,way,23,5,0.05
-1,likelihood,0,5,0.05
-1,format,0,5,0.05
-1,advise,0,5,0.05
-1,letterbox,0,5,0.05
-2,urgent,3,5,0.05
-1,larger,0,5,0.05
-1,container45158,0,5,0.05
-1,actual,0,5,0.05
-3,bad,9,5,0.05
-1,flat,0,5,0.05
-2,love,3,5,0.05
-1,searched,0,5,0.05
-1,carefully,0,5,0.05
-1,suggestion,0,5,0.05
-1,zip,0,5,0.05
-1,politicians,0,5,0.05
-1,supplying,0,5,0.05
-1,suspicius,0,5,0.05
-1,refuse,0,5,0.05
-1,years,0,5,0.05
-1,candy,0,5,0.05
-1,caugt,0,5,0.05
-1,postbus,0,5,0.05
-1,postman,0,5,0.05
-1,belgique,0,5,0.05
-1,west-eu,0,5,0.05
-1,belgium,0,5,0.05
-1,pmb,0,5,0.05
-1,recorded,0,5,0.05
-1,bill=ship,0,5,0.05
-1,vials,0,5,0.05
-1,proofing,0,5,0.05
-1,recieving,0,5,0.05
-1,vac,0,5,0.05
-1,va,0,5,0.05
-1,usjfcom,0,5,0.05
-1,billing,0,5,0.05
-1,unmarked,0,5,0.05
-1,undelivered,0,5,0.05
-1,provided,0,5,0.05
-1,blacklisted,0,5,0.05
-1,careful,0,5,0.05
-1,receiver,0,5,0.05
-1,profiling,0,5,0.05
-1,reason,0,5,0.05
-1,pleas,0,5,0.05
-1,cf,0,5,0.05
-1,security,106,5,0.05
-1,operate,0,5,0.05
-1,ounce,0,5,0.05
-1,sensing,0,5,0.05
-1,document,0,5,0.05
-1,resident,0,5,0.05
 1,ovdb,0,5,0.05
+1,expresspost,0,5,0.05
+1,experiance,0,5,0.05
+1,cf,0,5,0.05
+1,anywhere,0,5,0.05
+1,caugt,0,5,0.05
+1,carefully,0,5,0.05
+1,careful,0,5,0.05
+1,candy,0,5,0.05
+1,collecting,0,5,0.05
+1,bounty,0,5,0.05
+1,billing,0,5,0.05
+1,approacing,0,5,0.05
+1,bill=ship,0,5,0.05
+1,appropriate,0,5,0.05
+1,arriving,0,5,0.05
+1,belgium,0,5,0.05
+1,blacklisted,0,5,0.05
+1,-uk,0,5,0.05
+1,anti-interception,0,5,0.05
+1,actual,0,5,0.05
+1,envelope,0,5,0.05
+1,employee,0,5,0.05
+1,due,0,5,0.05
+1,100usd,0,5,0.05
+1,drop-reship,0,5,0.05
+1,document,0,5,0.05
+1,concerned,0,5,0.05
+1,ditch,0,5,0.05
+1,dhl,0,5,0.05
+1,device,0,5,0.05
+1,desk,0,5,0.05
+1,dangerous,0,5,0.05
+1,correct,0,5,0.05
+1,container45158,0,5,0.05
+1,difficulties,0,5,0.05
+1,overseas,0,5,0.05
+1,belgique,0,5,0.05
+1,requirement,0,5,0.05
+1,proofing,0,5,0.05
+1,shiiping,0,5,0.05
+1,provide,0,5,0.05
+1,provided,0,5,0.05
+1,reason,0,5,0.05
+1,sensing,0,5,0.05
+1,searched,0,5,0.05
+1,recieving,0,5,0.05
+1,recorded,0,5,0.05
+1,schedule,0,5,0.05
+1,safest,0,5,0.05
+1,rule,0,5,0.05
+1,romania,0,5,0.05
+1,refuse,0,5,0.05
+1,resident,0,5,0.05
 1,reshipping,0,5,0.05
 1,reshipped,0,5,0.05
-1,shippments,0,5,0.05
 1,requires,0,5,0.05
-1,signature,0,5,0.05
-1,overseas,0,5,0.05
-1,slip,0,5,0.05
-1,requirement,0,5,0.05
-1,ditch,0,5,0.05
-1,appropriate,0,5,0.05
-1,pe,0,5,0.05
-1,stored,0,5,0.05
-2,australian,3,5,0.05
-1,refusing,0,5,0.05
-1,difficulties,0,5,0.05
-1,stealthier,0,5,0.05
-1,stuck,0,5,0.05
-1,arriving,0,5,0.05
-1,specifically,0,5,0.05
-1,pakages,0,5,0.05
-1,packs,0,5,0.05
-1,remember,0,5,0.05
 1,packe,0,5,0.05
-1,dhl,0,5,0.05
-1,bounty,0,5,0.05
-3,eu,7,6,0.05
+1,refusing,0,5,0.05
+1,postman,0,5,0.05
+1,profiling,0,5,0.05
+1,unencrypted,0,5,0.05
+1,vac,0,5,0.05
+1,pe,0,5,0.05
+1,pleas,0,5,0.05
+1,pmb,0,5,0.05
+1,va,0,5,0.05
+1,politicians,0,5,0.05
+1,usjfcom,0,5,0.05
+1,postbus,0,5,0.05
+1,unmarked,0,5,0.05
+1,undelivered,0,5,0.05
+1,remember,0,5,0.05
+1,supplying,0,5,0.05
+1,suggestion,0,5,0.05
+1,stuck,0,5,0.05
+1,stored,0,5,0.05
+1,'smelly,0,5,0.05
+1,smugglin,0,5,0.05
+1,smuggiling,0,5,0.05
+1,slip,0,5,0.05
+1,suspicius,0,5,0.05
 4,should,12,6,0.05
+1,security,107,6,0.05
+3,vendors,6,6,0.05
 2,countries,2,6,0.05
-3,being,7,6,0.05
-2,wants,2,6,0.05
-2,hide,2,6,0.05
-1,list,115,6,0.05
-2,had,2,6,0.05
-2,paperboard,2,6,0.05
-2,signing,2,6,0.05
-2,paper,2,6,0.05
+10,or,63,6,0.05
 2,oz,2,6,0.05
+2,love,2,6,0.05
+3,eu,6,6,0.05
 2,seal,2,6,0.05
-2,btc,160,7,0.01
-6,us,27,7,0.01
+2,let,2,6,0.05
+2,had,2,6,0.05
+2,germany,2,6,0.05
+3,bad,6,6,0.05
+1,list,118,7,0.01
+2,mailing,1,7,0.01
+5,home,17,7,0.01
 4,weed,11,7,0.01
-11,best,73,7,0.01
-2,extract,1,8,0.01
-2,germany,1,8,0.01
-11,or,69,8,0.01
-1,free,134,8,0.01
+4,services,10,7,0.01
+4,number,11,7,0.01
+2,aus,1,7,0.01
+2,btc,157,7,0.01
+2,signing,1,7,0.01
+21,in,178,7,0.01
+3,name,5,7,0.01
+2,canada,1,7,0.01
+6,way,22,8,0.01
+9,anonymous,46,8,0.01
+11,drugs,66,8,0.01
 3,return,4,8,0.01
-2,canada,1,8,0.01
-21,in,180,8,0.01
-1,paypal,138,8,0.01
-2,stash,1,8,0.01
-2,lose,1,8,0.01
-2,let,1,8,0.01
+3,receive,4,8,0.01
+6,without,18,9,0.01
+1,paypal,138,9,0.01
+9,about,42,9,0.01
+10,not,50,9,0.01
+12,best,70,9,0.01
+1,free,136,9,0.01
+3,australian,3,9,0.01
 3,caught,3,9,0.01
-1,cc,149,9,0.01
-9,about,42,10,0.01
-9,question,41,10,0.01
-4,vendors,6,10,0.01
-6,home,15,11,0.001
-2,shipped,0,11,0.001
-2,royal,0,11,0.001
-2,stopped,0,11,0.001
-2,stamps,0,11,0.001
-2,smuggiling,0,11,0.001
-2,fedex,0,11,0.001
-2,showing,0,11,0.001
-2,shipments,0,11,0.001
-2,unencrypted,0,11,0.001
-2,handling,0,11,0.001
-2,labels,0,11,0.001
-2,moisture,0,11,0.001
-2,schedule,0,11,0.001
-2,netherlands,0,11,0.001
-2,safest,0,11,0.001
-2,received,0,11,0.001
-2,shipment,0,11,0.001
-2,reship,0,11,0.001
-2,face,0,11,0.001
-2,recieve,0,11,0.001
-2,barrier,0,11,0.001
+1,cc,151,10,0.01
+3,idea,2,10,0.01
 2,beat,0,11,0.001
-2,bulk,0,11,0.001
+2,face,0,11,0.001
+2,barrier,0,11,0.001
+2,netherlands,0,11,0.001
+2,moisture,0,11,0.001
+2,received,0,11,0.001
+2,labels,0,11,0.001
+2,reship,0,11,0.001
+2,delivered,0,11,0.001
+2,royal,0,11,0.001
+2,entering,0,11,0.001
+2,controlled,0,11,0.001
+2,domestic,0,11,0.001
+2,guns,0,11,0.001
+2,shipment,0,11,0.001
+5,order,10,11,0.001
+2,shipped,0,11,0.001
 2,empty,0,11,0.001
+2,fedex,0,11,0.001
+2,bulk,0,11,0.001
+2,showing,0,11,0.001
+2,stamps,0,11,0.001
+10,question,42,11,0.001
+2,stash,0,11,0.001
+2,handling,0,11,0.001
+6,safely,13,12,0.001
 3,boxes,1,13,0.001
-13,drugs,66,13,0.001
-6,safely,12,13,0.001
-4,receive,3,14,0.001
-4,sign,3,14,0.001
-4,orders,3,14,0.001
-12,not,51,14,0.001
-4,item,2,16,0.0001
-5,australia,5,16,0.0001
+4,item,2,15,0.001
 7,anonymously,13,16,0.0001
+15,do,64,17,0.0001
 3,bags,0,17,0.0001
-3,guns,0,17,0.0001
-3,domestic,0,17,0.0001
-3,delivered,0,17,0.0001
-3,controlled,0,17,0.0001
-3,concealment,0,17,0.0001
+6,send,7,17,0.0001
+3,shipments,0,17,0.0001
 3,tracked,0,17,0.0001
-4,receiving,1,18,0.0001
-7,order,11,18,0.0001
-17,do,72,21,0.0001
-5,office,2,21,0.0001
-4,seizure,0,23,0.0001
-4,parcel,0,23,0.0001
+3,concealment,0,17,0.0001
+5,australia,4,17,0.0001
+3,parcel,0,17,0.0001
+4,sign,1,18,0.0001
+4,orders,1,18,0.0001
+5,receiving,2,20,0.0001
 4,parcels,0,23,0.0001
+5,office,1,23,0.0001
+4,priority,0,23,0.0001
 4,stealthy,0,23,0.0001
-7,send,6,24,0.0001
-8,post,8,25,0.0001
+4,seizure,0,23,0.0001
 5,po,0,29,0.0001
-5,priority,0,29,0.0001
-9,drops,8,30,0.0001
-18,uk,48,34,0.0001
-6,seized,0,35,0.0001
-7,letter,0,41,0.0001
-7,postage,0,41,0.0001
-8,packages,1,41,0.0001
-9,international,2,42,0.0001
-8,delivery,0,47,0.0001
-12,stealth,1,63,0.0001
-14,tracking,4,63,0.0001
-22,package,23,69,0.0001
-19,address,12,72,0.0001
-13,customs,0,76,0.0001
-14,box,0,82,0.0001
-14,smuggling,0,82,0.0001
-15,usps,0,88,0.0001
-19,postal,0,112,0.0001
-21,ship,0,123,0.0001
-27,mail,4,135,0.0001
-31,drop,9,141,0.0001
-36,shipping,3,191,0.0001
+9,post,8,29,0.0001
+9,drops,8,29,0.0001
+18,uk,50,31,0.0001
+6,postage,0,34,0.0001
+6,seized,0,34,0.0001
+8,packages,1,40,0.0001
+7,letter,0,40,0.0001
+8,delivery,0,46,0.0001
+10,international,1,51,0.0001
+19,package,23,55,0.0001
+11,stealth,1,57,0.0001
+18,address,11,67,0.0001
+15,tracking,4,68,0.0001
+12,smuggling,0,69,0.0001
+12,usps,0,69,0.0001
+13,customs,0,75,0.0001
+14,box,0,81,0.0001
+16,postal,0,92,0.0001
+19,ship,0,110,0.0001
+31,mail,3,160,0.0001
+37,drop,10,167,0.0001
+34,shipping,2,182,0.0001

@@ -1,45 +1,35 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-0,how,0,0,Not significant
 0,of,0,0,Not significant
 0,the,0,0,Not significant
-0,to,0,0,Not significant
-1,with,229,0,Not significant
-1,for,398,0,Not significant
-1,guide,450,0,Not significant
-1,your,158,1,Not significant
-1,security,106,1,Not significant
-1,or,79,2,Not significant
-1,money,79,2,Not significant
-1,hacking,83,2,Not significant
-1,hack,39,3,Not significant
+1,with,226,0,Not significant
+1,guide,464,0,Not significant
+1,for,394,0,Not significant
+1,security,107,1,Not significant
+1,hacking,82,1,Not significant
+1,money,75,2,Not significant
+1,android,34,3,Not significant
 1,tips,17,4,0.05
-1,own,26,4,0.05
-1,mega,20,4,0.05
-1,application,16,4,0.05
+1,iphone,16,4,0.05
+1,mega,22,4,0.05
+1,application,15,4,0.05
+1,hackers,10,5,0.05
+1,50,11,5,0.05
+1,tricks,9,5,0.05
+1,applications,12,5,0.05
 1,testing,11,5,0.05
-1,iphone,15,5,0.05
-1,10,7,6,0.05
-1,50,8,6,0.05
-1,tricks,8,6,0.05
-1,applications,9,6,0.05
-1,penetration,9,6,0.05
-1,hackers,7,6,0.05
+1,penetration,9,5,0.05
 1,apps,6,6,0.05
-1,developers,8,6,0.05
-1,securing,4,7,0.01
-1,definitive,4,7,0.01
-1,attack,3,8,0.01
-1,smartphone,3,8,0.01
-2,bank,45,8,0.01
-1,device,1,9,0.01
-1,truly,1,9,0.01
-2,mobile,22,11,0.001
+1,developers,7,6,0.05
+1,definitive,5,6,0.05
+1,securing,3,7,0.01
+1,smartphone,3,7,0.01
+1,attack,3,7,0.01
+2,bank,47,8,0.01
+2,mobile,24,10,0.01
 1,secuirty,0,12,0.001
-1,hacking-android,0,12,0.001
-2,exploit,8,15,0.001
-3,android,36,16,0.0001
+2,exploit,7,15,0.001
+2,hacks,7,15,0.001
 2,america,3,18,0.0001
-2,bussines,0,25,0.0001
-3,hacks,7,25,0.0001
-4,ios,23,27,0.0001
+3,ios,24,18,0.0001
+2,bussines,0,24,0.0001

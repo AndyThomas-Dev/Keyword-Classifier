@@ -2,10 +2,9 @@ freq,word
 0,how
 0,the
 0,to
-1,about
 1,agents
-1,all
 1,be
+1,become
 1,buy
 1,do
 1,dox
@@ -14,7 +13,7 @@ freq,word
 1,expert
 1,fbi
 1,from
-1,full
+1,god
 1,n't
 1,noob
 1,revenge
@@ -23,8 +22,9 @@ freq,word
 1,tutorial
 1,will
 1,you
-2,become
-2,complete
-2,god
-3,guide
-6,doxing
+2,about
+2,all
+2,full
+3,complete
+5,guide
+7,doxing

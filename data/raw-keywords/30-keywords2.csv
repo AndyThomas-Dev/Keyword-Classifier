@@ -1,15 +1,17 @@
 freq,word
+0,and
 0,of
 0,the
 0,to
 1,000
+1,13
 1,2018
-1,5000
-1,50k
 1,600
 1,7839
 1,accounts
 1,active
+1,addresses
+1,adresses
 1,april
 1,awesome
 1,clearnet
@@ -17,6 +19,7 @@ freq,word
 1,daily
 1,darkness
 1,deepweb
+1,fed
 1,for
 1,full
 1,gmail
@@ -29,6 +32,7 @@ freq,word
 1,monkeybusiness
 1,most
 1,newbies
+1,passwords
 1,popular
 1,private
 1,ru
@@ -43,7 +47,6 @@ freq,word
 1,verified
 1,way
 1,working
-2,addresses
 2,email
 2,link
 2,links

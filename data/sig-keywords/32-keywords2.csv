@@ -1,92 +1,90 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-2,for,397,0,Not significant
-1,what,61,0,Not significant
-1,from,114,0,Not significant
-3,guide,448,0,Not significant
-1,is,124,0,Not significant
-1,you,104,0,Not significant
-1,list,115,0,Not significant
+1,complete,54,0,Not significant
+1,using,72,0,Not significant
+1,what,57,0,Not significant
+1,you,98,0,Not significant
+1,is,117,0,Not significant
+2,for,393,0,Not significant
+2,in,197,0,Not significant
+1,from,108,0,Not significant
+3,guide,462,0,Not significant
 0,to,0,0,Not significant
 0,the,0,0,Not significant
 0,make,0,0,Not significant
 0,how,0,0,Not significant
-1,complete,57,0,Not significant
-1,more,33,1,Not significant
-1,online,36,1,Not significant
-1,web,32,1,Not significant
+2,get,126,1,Not significant
+2,on,152,1,Not significant
+1,web,30,1,Not significant
+1,pick-a-book,36,1,Not significant
+1,online,38,1,Not significant
+1,more,32,1,Not significant
+1,methods,42,1,Not significant
+2,list,117,1,Not significant
+2,edition,113,1,Not significant
+1,pick-10-book,39,1,Not significant
+1,2017,29,1,Not significant
 1,dummies,32,1,Not significant
-1,methods,39,1,Not significant
-1,pick-a-book,34,1,Not significant
-2,edition,117,1,Not significant
-2,on,153,1,Not significant
-1,2017,28,1,Not significant
-2,get,124,1,Not significant
-3,in,198,2,Not significant
-1,video,23,2,Not significant
+1,ways,17,2,Not significant
+1,video,22,2,Not significant
+1,first,10,3,Not significant
 1,website,9,3,Not significant
-1,simple,12,3,Not significant
-1,first,12,3,Not significant
+1,month,11,3,Not significant
 1,must,15,3,Not significant
-2,using,73,3,Not significant
-1,ways,14,3,Not significant
-1,hacks,9,3,Not significant
-1,month,9,3,Not significant
-1,master,9,3,Not significant
-1,steps,9,3,Not significant
-1,steal,6,4,0.05
-1,12,5,4,0.05
-1,17,8,4,0.05
+1,steps,11,3,Not significant
+1,simple,14,3,Not significant
+1,master,10,3,Not significant
+1,12,6,4,0.05
 1,today,7,4,0.05
-1,build,6,4,0.05
-1,top,8,4,0.05
-1,guaranteed,5,4,0.05
+1,top,7,4,0.05
+1,25,7,4,0.05
 1,avoid,5,4,0.05
-1,quick,6,4,0.05
-1,made,6,4,0.05
-4,your,155,5,0.05
-2,introduction,34,5,0.05
-1,page,3,5,0.05
-1,23,4,5,0.05
-1,11,3,5,0.05
-1,28,3,5,0.05
+1,steal,6,4,0.05
+1,quick,7,4,0.05
+1,build,7,4,0.05
+1,made,5,4,0.05
+1,guaranteed,7,4,0.05
+1,hacks,8,4,0.05
+1,days,4,5,0.05
+1,23,3,5,0.05
 1,king,3,5,0.05
+1,strategies,3,5,0.05
 1,marketing,4,5,0.05
-1,youtube,2,6,0.05
-1,101,2,6,0.05
-1,insider,2,6,0.05
-1,strategies,2,6,0.05
-1,mistakes,2,6,0.05
-1,negative,2,6,0.05
-1,remove,2,6,0.05
 1,empire,2,6,0.05
-1,24,1,7,0.01
-1,customers,1,7,0.01
-1,wordpress,1,7,0.01
+4,your,146,6,0.05
+1,insider,2,6,0.05
+1,youtube,2,6,0.05
+1,mistakes,2,6,0.05
+2,introduction,28,6,0.05
+1,19,2,6,0.05
+1,remove,2,6,0.05
+1,negative,2,6,0.05
+1,27,2,6,0.05
+2,secrets,29,6,0.05
 1,do-it-yourself,1,7,0.01
-1,21,1,7,0.01
-2,tips,16,8,0.01
+1,twitter,1,7,0.01
+1,insane,1,7,0.01
+1,customers,1,7,0.01
+1,101,1,7,0.01
 1,five,0,10,0.01
-1,generation,0,10,0.01
-1,viral,0,10,0.01
-1,insane,0,10,0.01
-1,beba,0,10,0.01
-1,adwords,0,10,0.01
-1,80k,0,10,0.01
-1,ruin,0,10,0.01
-1,results,0,10,0.01
-1,result,0,10,0.01
 1,white-hat,0,10,0.01
+1,generation,0,10,0.01
+1,page,0,10,0.01
+1,80k,0,10,0.01
+1,result,0,10,0.01
+1,results,0,10,0.01
 1,ranking,0,10,0.01
-2,days,6,11,0.001
-2,techniques,7,11,0.001
-3,secrets,24,12,0.001
-2,6th,3,13,0.001
-2,twitter,1,16,0.0001
+1,beba,0,10,0.01
+1,viral,0,10,0.01
+1,adwords,0,10,0.01
+1,ruin,0,10,0.01
+2,techniques,6,11,0.001
+2,6th,4,13,0.001
+3,tips,15,14,0.001
+3,google,11,16,0.0001
 2,competitors,0,20,0.0001
-4,google,12,23,0.0001
-4,optimization,2,33,0.0001
-5,engine,5,37,0.0001
-6,search,4,48,0.0001
-8,traffic,0,82,0.0001
-13,seo,3,119,0.0001
+6,engine,3,50,0.0001
+5,optimization,0,51,0.0001
+6,search,2,53,0.0001
+7,traffic,1,66,0.0001
+14,seo,0,144,0.0001
