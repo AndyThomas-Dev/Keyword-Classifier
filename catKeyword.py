@@ -21,6 +21,28 @@ def sortData(inputFile):
             raw["AutoCat"][i] = "Fraud"
         elif raw["Product Name"][i].lower().find("anarchist cookbook") > -1:
             raw["AutoCat"][i] = "Weaponry & Explosives"
+        elif raw["Product Name"][i].lower().find("e-whore") > -1:
+            raw["AutoCat"][i] = "eWhoring"
+        elif raw["Product Name"][i].lower().find("clear your criminal") > -1:
+            raw["AutoCat"][i] = "Clearing Criminal History"
+        elif raw["Product Name"][i].lower().find("wifi hacking") > -1:
+            raw["AutoCat"][i] = "Hacking – Wireless Networks"
+        elif raw["Product Name"][i].lower().find("hacking wireless") > -1:
+            raw["AutoCat"][i] = "Hacking – Wireless Networks"
+        elif raw["Product Name"][i].lower().find("how to create a virus") > -1:
+            raw["AutoCat"][i] = "Malware Authorship"
+        elif raw["Product Name"][i].lower().find("seo") > -1:
+            raw["AutoCat"][i] = "SEO"
+        elif raw["Product Name"][i].lower().find("dynamite") > -1:
+            raw["AutoCat"][i] = "Weaponry & Explosives"
+        elif raw["Product Name"][i].lower().find("thermite") > -1:
+            raw["AutoCat"][i] = "Weaponry & Explosives"
+        elif raw["Product Name"][i].lower().find("molotov cocktail") > -1:
+            raw["AutoCat"][i] = "Weaponry & Explosives"
+        elif raw["Product Name"][i].lower().find("havij") > -1:
+            raw["AutoCat"][i] = "Hacking – Website"
+        elif raw["Product Name"][i].lower().find("hydroponics") > -1:
+            raw["AutoCat"][i] = "Drugs – Production"
         else:
             searchString = raw["Product Name"][i].lower()
             amendedString = searchString.replace("-", " ").replace("?", " ").replace("+", " ").replace("[", " ") \

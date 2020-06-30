@@ -35,7 +35,7 @@ def printCat(number):
     return cats[number]
 
 
-filename = "data/eval/k2.csv"
+filename = "data/eval/archived/29-06/samples/bigfile.csv"
 andy = pd.read_csv(filename, usecols=[1])
 auto = pd.read_csv(filename, usecols=[3])
 
@@ -75,4 +75,4 @@ for i in range(35):
         print(i, "- No entries.", matches[i], totals[i])
 
 sortedDF = raw.sort_values(by=['New Code'])
-print(sortedDF)
+# print(sortedDF)
