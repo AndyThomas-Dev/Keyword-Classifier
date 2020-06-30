@@ -10,17 +10,13 @@ nltk.download('punkt')
 
 
 def getRawKeywords():
-    print("Getting raw keywords...")
+
     for corpusId in range(35):
         inputFilename = "data/gt/" + str(corpusId) + "-2.csv"
         raw = pd.read_csv(inputFilename, usecols=[0])
 
         # Forces lowercase
         raw["Product Name"] = raw["Product Name"].str.lower()
-
-        pd.set_option('display.expand_frame_repr', False)
-        pd.set_option('display.max_rows', raw.shape[0] + 1)
-        pd.set_option('display.max_colwidth', None)
 
         inputString = raw[raw.columns[0]].to_string().replace("+", " ").replace("?", " ").replace("+", " ") \
             .replace("[", " ").replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ").replace("|", " ") \

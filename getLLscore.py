@@ -71,7 +71,7 @@ def tokeniseString(string):
 
     for token in nltk_tokens:
         result = getTotalLLScore(token)
-        print(token, result)
+        # print(token, result)
 
         for i in range(35):
             sumAll[i] = sumAll[i] + result[i]

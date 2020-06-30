@@ -150,6 +150,7 @@ def addLLvalues():
 
         # Enter raw keywords
         fileName = "data/raw-keywords/" + str(corpusId) + "-keywords2.csv"
+        print("Calculating LL values for... ", fileName)
         raw = pd.read_csv(fileName, usecols=[0, 1])
 
         # Create new columns if needed
@@ -177,7 +178,7 @@ def addLLvalues():
 
             raw["LL"][i] = result
             raw["exfreq"][i] = exfreq
-            raw["sig"][i] = checkSignifance(result)
+            raw["sig"][i] = checkSignifance(int(result))
 
         sortedDF = raw.sort_values(by=['LL'])
 

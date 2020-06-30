@@ -1,259 +1,253 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,service,20,0,Not significant
-1,pick-10-book,38,0,Not significant
-1,network,20,0,Not significant
-1,my,73,0,Not significant
-1,mobile,28,0,Not significant
-1,methods,39,0,Not significant
-1,market,15,0,Not significant
-1,machine,16,0,Not significant
-1,lifetime,24,0,Not significant
-1,software,15,0,Not significant
-1,learning,26,0,Not significant
-1,introduction,38,0,Not significant
-1,help,87,0,Not significant
-1,full,20,0,Not significant
-1,ebook,28,0,Not significant
-1,easy,55,0,Not significant
-1,earn,16,0,Not significant
-1,drugs,84,0,Not significant
-1,data,31,0,Not significant
-1,credit,68,0,Not significant
-1,know,24,0,Not significant
-1,card,88,0,Not significant
-1,system,20,0,Not significant
-1,video,21,0,Not significant
-10,guide,442,0,Not significant
-9,for,385,0,Not significant
-3,you,105,0,Not significant
-3,with,232,0,Not significant
-3,list,119,0,Not significant
-3,get,119,0,Not significant
-2,your,152,0,Not significant
-2,using,74,0,Not significant
-2,tutorial,85,0,Not significant
-1,time,16,0,Not significant
-2,security,109,0,Not significant
-2,guides,64,0,Not significant
-2,complete,56,0,Not significant
-2,by,59,0,Not significant
-2,any,44,0,Not significant
-2,account,64,0,Not significant
-2,--,168,0,Not significant
+1,bible,20,0,Not significant
+1,big,42,0,Not significant
 1,world,21,0,Not significant
 1,windows,21,0,Not significant
-1,wallet,22,0,Not significant
-2,no,52,0,Not significant
-1,books,21,0,Not significant
-1,or,73,0,Not significant
-1,best,81,0,Not significant
-1,be,61,0,Not significant
-1,2nd,58,0,Not significant
-1,bank,46,0,Not significant
-0,of,0,0,Not significant
-0,the,0,0,Not significant
-0,make,0,0,Not significant
-1,an,44,0,Not significant
-1,accounts,30,0,Not significant
+1,wallet,20,0,Not significant
+1,by,59,0,Not significant
+1,card,88,0,Not significant
+1,video,23,0,Not significant
+1,items,18,0,Not significant
+1,code,15,0,Not significant
+1,time,16,0,Not significant
+1,software,19,0,Not significant
+1,credit,65,0,Not significant
+1,security,106,0,Not significant
+1,best,83,0,Not significant
+1,data,33,0,Not significant
+1,drugs,78,0,Not significant
+1,earn,16,0,Not significant
+1,easy,54,0,Not significant
+1,pick-10-book,36,0,Not significant
+1,over,29,0,Not significant
+1,no,48,0,Not significant
+1,full,21,0,Not significant
+1,my,72,0,Not significant
+1,mobile,23,0,Not significant
+1,methods,39,0,Not significant
+1,mega,20,0,Not significant
+1,machine,16,0,Not significant
+1,introduction,35,0,Not significant
+1,learning,26,0,Not significant
+1,science,15,0,Not significant
+1,be,60,0,Not significant
+1,know,24,0,Not significant
+1,2nd,63,0,Not significant
+3,list,113,0,Not significant
+3,with,227,0,Not significant
+2,you,103,0,Not significant
+2,using,73,0,Not significant
+2,tutorial,87,0,Not significant
+9,for,390,0,Not significant
+11,guide,440,0,Not significant
 0,to,0,0,Not significant
-0,how,0,0,Not significant
-1,big,42,0,Not significant
+2,get,124,0,Not significant
+1,accounts,32,0,Not significant
+0,the,0,0,Not significant
 0,and,0,0,Not significant
-1,science,12,1,Not significant
-1,free,138,1,Not significant
-1,banned,8,1,Not significant
-1,ultra,8,1,Not significant
-2,in,201,1,Not significant
-1,tools,13,1,Not significant
-1,tool,9,1,Not significant
-2,pick-a-book,37,1,Not significant
-1,5th,10,1,Not significant
-1,password,8,1,Not significant
-1,newbies,8,1,Not significant
+0,of,0,0,Not significant
+0,how,0,0,Not significant
+2,complete,56,0,Not significant
+1,bank,46,0,Not significant
+1,method,120,1,Not significant
+1,is,124,1,Not significant
+1,encyclopedia,11,1,Not significant
 1,pass,11,1,Not significant
-1,000,8,1,Not significant
-1,is,116,1,Not significant
 1,pages,10,1,Not significant
-1,super,10,1,Not significant
-1,next,9,1,Not significant
-1,sql,8,1,Not significant
-1,method,127,1,Not significant
-1,has,12,1,Not significant
-1,month,10,1,Not significant
-1,hacks,8,1,Not significant
-2,over,33,1,Not significant
-2,dummies,36,1,Not significant
-1,͜ʖ͠≖,14,1,Not significant
-1,͠≖,14,1,Not significant
-1,become,10,1,Not significant
-1,basics,9,1,Not significant
-1,clone,12,1,Not significant
-1,ed,12,1,Not significant
-1,university,12,1,Not significant
+4,from,111,1,Not significant
+1,on,154,1,Not significant
 1,fast,10,1,Not significant
-1,edition,115,1,Not significant
+1,offer,10,1,Not significant
+1,has,13,1,Not significant
+1,17,8,1,Not significant
+1,next,8,1,Not significant
+1,forensic,10,1,Not significant
+1,edition,118,1,Not significant
+1,free,134,1,Not significant
+1,market,12,1,Not significant
+1,000,8,1,Not significant
+1,hacks,9,1,Not significant
+1,fbi,9,1,Not significant
+1,ed,13,1,Not significant
+2,any,43,1,Not significant
+1,clone,12,1,Not significant
+2,pick-a-book,33,1,Not significant
+1,university,13,1,Not significant
+3,money,77,1,Not significant
+1,ultra,8,1,Not significant
+1,tool,11,1,Not significant
+2,dummies,31,1,Not significant
+2,in,199,1,Not significant
+1,back,10,1,Not significant
+1,sql,9,1,Not significant
+2,vendor,32,1,Not significant
+1,services,10,1,Not significant
 1,beginner,12,1,Not significant
-1,admin,7,2,Not significant
-2,megapack,21,2,Not significant
-1,again,7,2,Not significant
-1,needs,4,2,Not significant
-4,ultimate,75,2,Not significant
-5,from,109,2,Not significant
-2,address,22,2,Not significant
-1,official,6,2,Not significant
-1,on,156,2,Not significant
-1,opsec,4,2,Not significant
-1,certified,5,2,Not significant
-1,bundle,7,2,Not significant
-1,2016,7,2,Not significant
-1,protecting,4,2,Not significant
-1,power,4,2,Not significant
-1,25,6,2,Not significant
-1,black,5,2,Not significant
-1,fe,6,2,Not significant
-2,items,20,2,Not significant
-1,firefox,4,2,Not significant
-1,understanding,5,2,Not significant
-1,whats,7,2,Not significant
-1,16,6,2,Not significant
-4,money,70,2,Not significant
-2,vendor,28,2,Not significant
-1,import,5,2,Not significant
-1,line,6,2,Not significant
-1,app,6,2,Not significant
+1,5th,10,1,Not significant
+3,guides,64,1,Not significant
+1,become,9,1,Not significant
+1,bundle,8,1,Not significant
 1,major,4,2,Not significant
-1,support,5,2,Not significant
-1,manual,7,2,Not significant
+2,ebooks,21,2,Not significant
+1,your,158,2,Not significant
+1,whats,7,2,Not significant
+1,line,6,2,Not significant
+2,address,29,2,Not significant
+1,needs,5,2,Not significant
+2,secrets,25,2,Not significant
+1,thinking,4,2,Not significant
+1,solutions,5,2,Not significant
+1,official,6,2,Not significant
+1,securing,4,2,Not significant
+1,rdp,7,2,Not significant
+1,power,4,2,Not significant
+2,network,23,2,Not significant
+1,understanding,6,2,Not significant
+1,opsec,4,2,Not significant
+1,banned,7,2,Not significant
+1,2016,6,2,Not significant
+1,import,5,2,Not significant
+1,certified,5,2,Not significant
+1,firefox,4,2,Not significant
+1,app,5,2,Not significant
+1,hands-on,4,2,Not significant
+1,basics,7,2,Not significant
 2,ip,19,3,Not significant
-1,their,3,3,Not significant
-1,securing,3,3,Not significant
-1,study,3,3,Not significant
-1,thinking,3,3,Not significant
-1,34,3,3,Not significant
 1,revealed,3,3,Not significant
-2,noob,19,3,Not significant
-1,35,3,3,Not significant
-1,51,3,3,Not significant
-2,mega,19,3,Not significant
-1,solutions,3,3,Not significant
-1,hands-on,3,3,Not significant
-2,practical,18,3,Not significant
+1,router,3,3,Not significant
+1,cheapest,3,3,Not significant
 1,danger,3,3,Not significant
-1,forums,3,3,Not significant
+2,noob,19,3,Not significant
+1,source,3,3,Not significant
+1,boxes,3,3,Not significant
+1,study,3,3,Not significant
 1,attack,3,3,Not significant
-1,cheapest,2,4,0.05
+2,practical,16,3,Not significant
+1,toolkit,3,3,Not significant
+4,account,66,3,Not significant
+1,47,3,3,Not significant
+1,fe,3,3,Not significant
+6,pack,102,4,0.05
+1,86,2,4,0.05
+1,64,2,4,0.05
 1,connecting,2,4,0.05
-1,dictionary,2,4,0.05
-1,europe,2,4,0.05
-1,turning,2,4,0.05
-1,io,2,4,0.05
-1,71,2,4,0.05
-1,article,2,4,0.05
-1,acc,2,4,0.05
-1,18,2,4,0.05
-1,pentesting,2,4,0.05
-1,router,2,4,0.05
-2,site,12,4,0.05
-2,link,11,4,0.05
 1,mysql,2,4,0.05
-1,botnets,1,5,0.05
+1,forums,2,4,0.05
+2,tools,13,4,0.05
+1,article,2,4,0.05
+2,than,12,4,0.05
+1,rat,2,4,0.05
+1,io,2,4,0.05
+2,link,12,4,0.05
+1,turning,2,4,0.05
+1,pentesting,2,4,0.05
+3,more,31,4,0.05
+1,part,2,4,0.05
+1,their,2,4,0.05
+1,europe,2,4,0.05
+1,56,1,5,0.05
 1,china,1,5,0.05
-1,school,1,5,0.05
-1,year,1,5,0.05
-3,updated,23,5,0.05
+1,botnets,1,5,0.05
+2,site,10,5,0.05
+2,expert,8,5,0.05
+1,83,1,5,0.05
+2,e-book,8,5,0.05
+1,88,1,5,0.05
+1,90,1,5,0.05
+2,massive,10,5,0.05
+2,newbies,8,5,0.05
+2,someone,9,5,0.05
+2,password,9,5,0.05
+2,pdf,10,5,0.05
 1,becoming,1,5,0.05
-1,electricity,1,5,0.05
-1,entry,1,5,0.05
-3,secrets,23,5,0.05
-1,metasploit,1,5,0.05
-2,massive,8,5,0.05
-2,someone,10,5,0.05
-1,maximum,1,5,0.05
-1,84,1,5,0.05
+2,master,8,5,0.05
+3,updated,24,5,0.05
 1,genius,1,5,0.05
 1,1000,1,5,0.05
-2,pdf,9,5,0.05
-3,ebooks,22,5,0.05
+1,dictionary,1,5,0.05
+1,school,1,5,0.05
+1,cybercrime,1,5,0.05
+1,entry,1,5,0.05
+1,metasploit,1,5,0.05
+1,electricity,1,5,0.05
 1,hole,1,5,0.05
-2,expert,7,6,0.05
-2,e-book,7,6,0.05
-1,-406,0,7,0.01
-2,cracking,5,7,0.01
-2,systems,5,7,0.01
-4,handbook,32,7,0.01
-2,rdp,5,7,0.01
-1,-1417,0,7,0.01
-3,computer,17,7,0.01
-1,14gb,0,7,0.01
-1,boards,0,7,0.01
-1,doxxing,0,7,0.01
-1,compiled,0,7,0.01
-1,nessus,0,7,0.01
-1,alipay,0,7,0.01
-1,mega-guides,0,7,0.01
-1,aug,0,7,0.01
-1,backdooring,0,7,0.01
-1,inputs,0,7,0.01
-1,informatio,0,7,0.01
-1,hacking-hackers,0,7,0.01
-1,countryhacked,0,7,0.01
-1,grugq,0,7,0.01
-1,grading,0,7,0.01
-1,fattuscatteratus,0,7,0.01
-1,"2,6gb",0,7,0.01
-1,deepnet,0,7,0.01
+1,carding,311,6,0.05
+3,megapack,22,6,0.05
+2,systems,6,6,0.05
 1,ethical,0,7,0.01
+1,ozrort,0,7,0.01
+1,airgapped,0,7,0.01
 1,organization,0,7,0.01
-1,planet,0,7,0.01
-1,playbook,0,7,0.01
-1,billion,0,7,0.01
+1,informatio,0,7,0.01
 1,2gb,0,7,0.01
-1,zeus,0,7,0.01
-1,carding,314,7,0.01
-1,traffickers,0,7,0.01
-1,coca,0,7,0.01
-1,tes,0,7,0.01
 1,extensions,0,7,0.01
-1,stopping,0,7,0.01
-1,snitch,0,7,0.01
-1,snapbbs,0,7,0.01
-1,cola,0,7,0.01
+1,fattuscatteratus,0,7,0.01
+3,computer,17,7,0.01
+1,flip,0,7,0.01
+1,"2,6gb",0,7,0.01
+1,nessus,0,7,0.01
+1,grugq,0,7,0.01
+1,hacking-hackers,0,7,0.01
+2,withdraw,5,7,0.01
+1,hitch,0,7,0.01
+4,collection,31,7,0.01
+3,advanced,15,7,0.01
+3,art,16,7,0.01
+1,mega-guides,0,7,0.01
+1,traffickers,0,7,0.01
+1,alipay,0,7,0.01
 1,smileypostman,0,7,0.01
-1,89,0,7,0.01
-1,rar,0,7,0.01
-1,ports,0,7,0.01
+1,cola,0,7,0.01
+1,compiled,0,7,0.01
+1,tes,0,7,0.01
+1,swindle,0,7,0.01
+1,stopping,0,7,0.01
+1,countryhacked,0,7,0.01
+1,boards,0,7,0.01
+1,billion,0,7,0.01
+1,year,0,7,0.01
 1,softwares,0,7,0.01
+1,zeus,0,7,0.01
+1,14gb,0,7,0.01
 1,crackstation,0,7,0.01
-2,a-z,3,8,0.01
-3,than,13,8,0.01
-3,into,14,8,0.01
-4,more,28,8,0.01
-3,go,8,10,0.01
-3,master,7,11,0.001
+1,coca,0,7,0.01
+1,inputs,0,7,0.01
+1,backdooring,0,7,0.01
+1,aug,0,7,0.01
+1,deepnet,0,7,0.01
+1,rdps,0,7,0.01
+6,ultimate,72,7,0.01
+1,rar,0,7,0.01
+1,doxxing,0,7,0.01
+1,ports,0,7,0.01
+1,playbook,0,7,0.01
+1,planet,0,7,0.01
+1,crypters,0,7,0.01
+2,black,4,8,0.01
+2,persistent,4,8,0.01
+4,handbook,28,8,0.01
+4,hacked,23,9,0.01
+2,a-z,2,10,0.01
+3,go,7,11,0.001
 2,▓▒░,1,11,0.001
+2,threat,1,11,0.001
 2,russian,1,11,0.001
-3,persistent,5,12,0.001
-3,withdraw,5,12,0.001
-4,advanced,15,12,0.001
-9,pack,100,12,0.001
-4,art,12,13,0.001
+4,into,16,11,0.001
+5,tutorials,23,13,0.001
 4,course,11,14,0.001
-6,collection,35,14,0.001
-2,injection,0,15,0.0001
-2,3gb,0,15,0.0001
-2,mega-software,0,15,0.0001
-2,hackpack,0,15,0.0001
-6,tutorials,26,16,0.0001
-8,beginners,53,17,0.0001
-3,threat,1,18,0.0001
-6,hacked,22,18,0.0001
-5,testing,8,21,0.0001
-4,underground,3,21,0.0001
-4,much,2,23,0.0001
-6,atm,8,27,0.0001
-6,penetration,5,31,0.0001
-9,hackers,2,59,0.0001
-15,hack,26,64,0.0001
-12,hacker,2,82,0.0001
-48,hacking,35,262,0.0001
+3,much,4,14,0.001
+7,beginners,48,14,0.001
+2,mega-software,0,15,0.001
+2,3gb,0,15,0.001
+2,injection,0,15,0.001
+2,hackpack,0,15,0.001
+4,cracking,5,19,0.0001
+5,atm,10,20,0.0001
+5,testing,7,23,0.0001
+4,underground,2,23,0.0001
+6,penetration,4,33,0.0001
+12,hack,28,46,0.0001
+7,hackers,1,48,0.0001
+10,hacker,1,71,0.0001
+50,hacking,34,279,0.0001

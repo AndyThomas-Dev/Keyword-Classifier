@@ -1,11 +1,11 @@
-# DissertationPython
+# Keyword Analysis Model 
 
 ## Assumptions
 The code will operates under some key assumptions:
 
 - All data is held within .CSV format in their respective folder within the 'data' folder.
 - The CSV filenames 0-34 correspond to the categories outlined in cats.txt
-- For example, the CSV file named 29.csv in data/gt contains the ground truth data for the PGP/GPG category.
+- For example, the CSV file named 29-2.csv in data/gt contains the ground truth data for the PGP/GPG category.
 
 ## Adding to Ground Truth data (if required)
 #### Filename: addFileToGT.py
@@ -55,8 +55,11 @@ Each item (in the form of a string) is broken down into tokens and for each toke
 
 These values are then summed for each corpus respectively and provided it is above a threshold value, the corpus with the highest value is assigned to the item. If it is below the threshold value, it will be assigned to the 'Other' category.
 
-## 4. Calculating Cohen's kappa
+## Other scripts: Calculating Cohen's kappa
 #### Filename: cohens-calculator.py
-#### Inputs: data/cc-sources/filename.csv
 The last Python script is used to display Cohen's kappa and the percentage of matches for each corpus. These Cohen's kappa statistic provides feedback on general agreement whereas the percentage matches for each corpus allows for a more specific insight into which corpus might need to be improved with additional data.
+
+## Other scripts: Performing k-fold cross-validation analysis
+#### Filename: k-analysis.py
+
 

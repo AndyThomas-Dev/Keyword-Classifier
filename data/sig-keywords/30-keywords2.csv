@@ -1,57 +1,57 @@
 freq,word,exfreq,LL,sig
-0,and,0,0,Not significant
 0,of,0,0,Not significant
 0,the,0,0,Not significant
 0,to,0,0,Not significant
-1,for,393,0,Not significant
-1,working,31,2,Not significant
-1,way,29,2,Not significant
-1,accounts,30,2,Not significant
-1,us,28,3,Not significant
+1,for,398,0,Not significant
+1,accounts,32,2,Not significant
+1,mail,30,2,Not significant
+1,us,32,2,Not significant
+1,working,33,2,Not significant
+1,sites,37,2,Not significant
 1,mega,20,3,Not significant
-1,full,20,3,Not significant
-1,mail,27,3,Not significant
-1,success,14,4,0.05
-2,ultimate,77,4,0.05
-1,link,12,4,0.05
-1,newbies,8,5,0.05
-1,most,7,5,0.05
-1,clearnet,7,5,0.05
-1,content,7,5,0.05
-1,000,8,5,0.05
-1,deepweb,6,5,0.05
+1,private,29,3,Not significant
+1,updated,26,3,Not significant
+1,full,21,3,Not significant
+1,way,27,3,Not significant
+1,success,15,4,0.05
+1,newbies,9,5,0.05
 1,gmail,6,5,0.05
-1,11,4,6,0.05
-1,million,5,6,0.05
-1,monkeybusiness,2,7,0.01
-1,url,2,7,0.01
-1,passwords,3,7,0.01
+1,clearnet,7,5,0.05
+1,daily,10,5,0.05
+1,content,6,5,0.05
+2,ultimate,76,5,0.05
+1,000,8,5,0.05
+1,deepweb,7,5,0.05
+1,most,8,5,0.05
+1,million,4,6,0.05
 1,shop,3,7,0.01
-1,awesome,2,7,0.01
-1,human,3,7,0.01
+1,url,3,7,0.01
 1,useful,2,7,0.01
-1,600,1,8,0.01
-1,adresses,1,8,0.01
+1,monkeybusiness,3,7,0.01
+1,markets,3,7,0.01
+1,human,3,7,0.01
+1,awesome,2,7,0.01
 1,popular,1,8,0.01
 1,ru,1,8,0.01
+1,600,1,8,0.01
+2,email,26,9,0.01
 1,2018,0,11,0.001
-1,verified,0,11,0.001
-1,uncensored,0,11,0.001
-1,active,0,11,0.001
+2,link,12,11,0.001
 1,5000,0,11,0.001
-1,head,0,11,0.001
+1,verified,0,11,0.001
 1,50k,0,11,0.001
-1,fed,0,11,0.001
-1,darkness,0,11,0.001
+1,active,0,11,0.001
 1,april,0,11,0.001
+1,uncensored,0,11,0.001
+1,darkness,0,11,0.001
+1,head,0,11,0.001
 1,7839,0,11,0.001
-2,websites,9,12,0.001
-2,links,8,13,0.001
+2,links,7,13,0.001
+2,websites,8,13,0.001
 2,addresses,5,14,0.001
-3,email,29,14,0.001
-3,web,30,14,0.001
-3,deep,8,21,0.0001
-3,onion,8,21,0.0001
-6,list,116,22,0.0001
-2,directory,0,23,0.0001
-4,darknet,10,29,0.0001
+3,web,30,15,0.001
+3,onion,10,20,0.0001
+3,deep,7,22,0.0001
+6,list,110,23,0.0001
+3,directory,0,34,0.0001
+5,darknet,10,39,0.0001

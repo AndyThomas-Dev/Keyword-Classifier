@@ -1,79 +1,74 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-0,how,0,0,Not significant
+1,your,158,0,Not significant
+1,on,154,0,Not significant
+1,guide,450,0,Not significant
+1,free,134,0,Not significant
+1,or,79,0,Not significant
 0,of,0,0,Not significant
+0,how,0,0,Not significant
 0,the,0,0,Not significant
 0,to,0,0,Not significant
-1,your,153,0,Not significant
-1,security,110,0,Not significant
-1,on,156,0,Not significant
-1,guide,451,0,Not significant
-1,free,138,0,Not significant
-1,what,62,1,Not significant
+1,2nd,63,1,Not significant
 1,vouched,53,1,Not significant
-1,setup,51,1,Not significant
-1,question,47,1,Not significant
-1,buy,49,1,Not significant
-1,or,73,1,Not significant
-1,about,52,1,Not significant
-1,2nd,58,1,Not significant
-1,'',25,2,Not significant
-1,me,36,2,Not significant
-1,anyone,29,2,Not significant
+1,what,61,1,Not significant
+1,setup,50,1,Not significant
+1,me,35,1,Not significant
+1,hack,39,1,Not significant
+1,buy,51,1,Not significant
+1,mobile,23,2,Not significant
+1,data,33,2,Not significant
 1,know,24,2,Not significant
-1,hack,40,2,Not significant
-1,mobile,28,2,Not significant
-1,are,34,2,Not significant
-1,data,31,2,Not significant
-1,``,26,2,Not significant
-1,does,15,3,Not significant
-1,tracking,19,3,Not significant
+1,are,31,2,Not significant
+1,``,24,2,Not significant
+1,'',26,2,Not significant
+1,anyone,31,2,Not significant
+1,work,13,3,Not significant
 1,tips,17,3,Not significant
+1,etc,13,3,Not significant
+1,does,14,3,Not significant
+1,tracking,17,3,Not significant
+1,got,14,3,Not significant
+1,talk,7,4,0.05
 1,but,10,4,0.05
-1,etc,12,4,0.05
 2,uk,64,4,0.05
-1,work,12,4,0.05
-1,got,13,4,0.05
+2,an,42,5,0.05
+1,location,5,5,0.05
 1,alternative,6,5,0.05
-1,talk,7,5,0.05
-1,smart,3,6,0.01
-1,thoughts,3,6,0.01
-1,location,4,6,0.05
-2,an,43,6,0.05
-2,cards,36,6,0.01
-1,around,2,7,0.01
-1,exactly,2,7,0.01
-1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄,1,8,0.01
-1,authentication,1,8,0.01
-1,spoofing,1,8,0.01
-2,id,17,9,0.01
-3,anonymous,53,10,0.01
-4,get,118,10,0.01
-1,workaround,0,11,0.001
-1,authorization,0,11,0.001
-1,storing,0,11,0.001
-1,ghost,0,11,0.001
-1,swapping,0,11,0.001
-1,imeis,0,11,0.001
-1,contracts,0,11,0.001
-1,intercept,0,11,0.001
-1,enemys,0,11,0.001
-1,landline,0,11,0.001
-1,confusion,0,11,0.001
-1,sensitive,0,11,0.001
-1,sim-card,0,11,0.001
-1,sms,0,11,0.001
-1,iphone-samsung-htc,0,11,0.001
+2,cards,37,6,0.05
+1,thoughts,3,6,0.05
+1,exactly,2,6,0.05
+1,around,2,6,0.05
+1,smart,3,6,0.05
+1,spoofing,1,7,0.01
+1,authentication,1,7,0.01
+1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄,1,7,0.01
+4,get,122,8,0.01
+2,id,17,8,0.01
+3,anonymous,57,8,0.01
+1,workaround,0,10,0.01
+1,sim-card,0,10,0.01
+1,sms,0,10,0.01
+1,sims,0,10,0.01
+1,sensitive,0,10,0.01
+1,authorization,0,10,0.01
+1,landline,0,10,0.01
+1,iphone-samsung-htc,0,10,0.01
+1,intercept,0,10,0.01
+1,contracts,0,10,0.01
+1,imeis,0,10,0.01
+1,storing,0,10,0.01
+1,ghost,0,10,0.01
+1,enemys,0,10,0.01
 2,verification,5,13,0.001
-2,phones,5,13,0.001
-2,spoofer,1,18,0.0001
-2,unknown,1,18,0.0001
-2,block,1,18,0.0001
-2,factor,0,22,0.0001
-2,caller,0,22,0.0001
-2,call,0,22,0.0001
-2,sims,0,22,0.0001
-3,sim,2,26,0.0001
-4,number,12,26,0.0001
-8,burner,3,76,0.0001
-13,phone,11,111,0.0001
+2,phones,4,13,0.001
+2,block,1,17,0.0001
+2,unknown,1,17,0.0001
+2,factor,0,21,0.0001
+2,caller,0,21,0.0001
+2,call,0,21,0.0001
+2,spoofer,0,21,0.0001
+3,sim,2,25,0.0001
+4,number,11,25,0.0001
+7,burner,4,60,0.0001
+12,phone,11,97,0.0001

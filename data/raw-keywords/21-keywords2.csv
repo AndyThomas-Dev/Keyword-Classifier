@@ -4,6 +4,8 @@ freq,word
 0,of
 0,the
 0,to
+1,10
+1,50
 1,application
 1,applications
 1,apps
@@ -34,10 +36,10 @@ freq,word
 1,with
 1,your
 2,america
-2,android
 2,bank
 2,bussines
 2,exploit
-2,hacks
 2,mobile
+3,android
+3,hacks
 4,ios

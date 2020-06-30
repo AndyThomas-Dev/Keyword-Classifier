@@ -33,3 +33,61 @@ Resources – Identity Documents
 SEO
 Transportation/Stealth
 Weaponry & Explosives
+
+Anonymity – Other
+0   177 	 266 	 0.6654135338345865
+---------
+---------
+---------
+Drugs – General
+13   117 	 198 	 0.5909090909090909
+---------
+---------
+eBooks – Other
+15   145 	 378 	 0.3835978835978836
+---------
+---------
+eWhoring
+17   10 	 16 	 0.625
+---------
+Fraud
+18   181 	 247 	 0.7327935222672065
+---------
+Hacking – General
+19   74 	 108 	 0.6851851851851852
+---------
+Hacking – Malware Supply Chain
+20   7 	 13 	 0.5384615384615384
+---------
+Hacking – Mobile
+21 - No entries. 0 10
+Hacking – Phreaking
+22   18 	 28 	 0.6428571428571429
+---------
+Hacking – Website
+23   20 	 53 	 0.37735849056603776
+---------
+Hacking – Wireless Networks
+24   28 	 46 	 0.6086956521739131
+---------
+Lockpicking
+25   6 	 12 	 0.5
+---------
+Malware Authorship
+26   5 	 18 	 0.2777777777777778
+---------
+---------
+Other
+28   380 	 673 	 0.5646359583952452
+---------
+---------
+Resources – Contact Lists
+30   4 	 17 	 0.23529411764705882
+---------
+---------
+SEO
+32   20 	 31 	 0.6451612903225806
+---------
+---------
+Weaponry & Explosives
+34   53 	 81 	 0.654320987654321

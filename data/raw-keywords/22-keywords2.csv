@@ -7,7 +7,6 @@ freq,word
 1,''
 1,2nd
 1,``
-1,about
 1,alternative
 1,anyone
 1,are
@@ -16,7 +15,6 @@ freq,word
 1,authorization
 1,but
 1,buy
-1,confusion
 1,contracts
 1,data
 1,does
@@ -38,16 +36,14 @@ freq,word
 1,mobile
 1,on
 1,or
-1,question
-1,security
 1,sensitive
 1,setup
 1,sim-card
+1,sims
 1,smart
 1,sms
 1,spoofing
 1,storing
-1,swapping
 1,talk
 1,thoughts
 1,tips
@@ -66,7 +62,6 @@ freq,word
 2,factor
 2,id
 2,phones
-2,sims
 2,spoofer
 2,uk
 2,unknown
@@ -75,5 +70,5 @@ freq,word
 3,sim
 4,get
 4,number
-8,burner
-13,phone
+7,burner
+12,phone

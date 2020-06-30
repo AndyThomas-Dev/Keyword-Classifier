@@ -1,5 +1,7 @@
 
 def checkSignifance(value):
+    if value == 0:
+        return "Not significant"
     if value < 3.84:
         return "Not significant"
     if (value >= 3.84) & (value < 6.63):

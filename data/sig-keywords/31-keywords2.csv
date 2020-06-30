@@ -1,112 +1,129 @@
 freq,word,exfreq,LL,sig
 0,'s,0,0,Not significant
-1,guides,65,0,Not significant
-1,one,33,0,Not significant
-1,vouched,53,0,Not significant
-1,cc,154,0,Not significant
+1,it,48,0,Not significant
+1,one,31,0,Not significant
+1,out,83,0,Not significant
+1,cc,149,0,Not significant
 1,card,88,0,Not significant
-1,buy,49,0,Not significant
-2,on,155,0,Not significant
-1,it,45,0,Not significant
+1,can,49,0,Not significant
+1,buy,51,0,Not significant
+1,vouched,53,0,Not significant
+1,with,229,0,Not significant
+2,from,113,0,Not significant
+1,free,134,0,Not significant
 0,to,0,0,Not significant
 0,and,0,0,Not significant
 0,how,0,0,Not significant
 0,of,0,0,Not significant
+2,on,153,0,Not significant
 0,the,0,0,Not significant
-3,your,151,0,Not significant
-4,guide,448,0,Not significant
-1,with,234,1,Not significant
-1,world,21,1,Not significant
-3,pack,106,1,Not significant
-1,bible,24,1,Not significant
-3,from,111,1,Not significant
-1,address,23,1,Not significant
+5,guide,446,0,Not significant
+1,full,21,1,Not significant
 1,learn,23,1,Not significant
-1,needed,12,2,Not significant
+1,com,26,1,Not significant
+2,guides,65,1,Not significant
+1,100,25,1,Not significant
+1,address,30,1,Not significant
+3,your,156,1,Not significant
+1,world,21,1,Not significant
+2,best,82,1,Not significant
+2,for,397,1,Not significant
+1,software,19,1,Not significant
+1,bible,20,1,Not significant
+1,someone,10,2,Not significant
+1,find,9,2,Not significant
+1,price,15,2,Not significant
 1,pass,11,2,Not significant
-3,best,79,2,Not significant
 1,australia,9,2,Not significant
-4,get,118,2,Not significant
-2,for,392,2,Not significant
-1,bypass,7,2,Not significant
-2,us,27,3,Not significant
-2,100,26,3,0.05
-1,quality,5,3,Not significant
-1,psd,6,3,Not significant
-1,looking,5,3,Not significant
-2,over,33,3,Not significant
-2,more,30,3,Not significant
-2,``,25,3,0.05
-1,age,6,3,Not significant
+1,number,14,2,Not significant
+1,almost,13,2,Not significant
+1,international,10,2,Not significant
+1,seller,7,3,Not significant
+1,quality,6,3,Not significant
+1,psd,7,3,Not significant
 1,changing,6,3,Not significant
-1,copy,4,3,0.05
+1,bypass,6,3,Not significant
+1,looking,4,4,0.05
+1,15,3,4,0.05
+4,pack,104,4,0.05
+4,get,122,4,0.05
+1,bills,3,4,0.05
+1,legit,4,4,0.05
+2,over,28,4,0.05
+1,copy,4,4,0.05
+1,age,3,4,0.05
+1,original,3,4,0.05
 1,creating,3,4,0.05
-2,change,15,5,0.05
-2,price,14,5,0.05
-1,around,2,5,0.05
-1,canadian,2,5,0.05
-1,europe,2,5,0.05
-1,15,2,5,0.05
-2,tracking,18,5,0.05
-1,279,2,5,0.05
 1,verify,2,5,0.05
-2,real,12,6,0.05
-1,dr,1,6,0.05
-1,original,1,6,0.05
-1,obtaining,1,6,0.05
+1,canadian,2,5,0.05
+1,around,2,5,0.05
+2,``,23,5,0.05
+1,279,2,5,0.05
+1,europe,2,5,0.05
+2,change,15,6,0.05
+2,tracking,16,6,0.05
+1,barcode,1,6,0.05
 1,holding,1,6,0.05
-1,bills,1,6,0.05
 1,across,1,6,0.05
-2,seller,9,7,0.01
-1,anyones,0,8,0.01
-1,austrian,0,8,0.01
-1,india,0,8,0.01
-1,incl,0,8,0.01
-1,3062,0,8,0.01
-4,all,46,8,0.01
-2,same,7,8,0.01
-1,chance,0,8,0.01
-1,citizenship,0,8,0.01
-1,dob,0,8,0.01
-1,ontario,0,8,0.01
-1,fakes,0,8,0.01
-1,licences,0,8,0.01
-1,lice,0,8,0.01
-1,2376,0,8,0.01
-2,template,5,9,0.01
-3,mega,18,9,0.01
-5,uk,61,10,0.01
-2,proof,3,10,0.001
-2,australian,4,10,0.01
-2,legit,3,10,0.001
-2,gb,4,10,0.01
-2,easily,4,10,0.01
-4,usa,25,12,0.001
-4,fake,24,12,0.001
-6,new,72,12,0.001
-2,driving,2,12,0.001
-4,'',22,13,0.001
-2,dl,1,13,0.001
-2,psds,1,13,0.001
-2,states,1,13,0.001
-2,enhanced,0,17,0.0001
-2,docs,0,17,0.0001
-2,rfid,0,17,0.0001
-2,â,0,17,0.0001
-2,idpacks,0,17,0.0001
-2,birthcert,0,17,0.0001
-2,beast,0,17,0.0001
-2,mark,0,17,0.0001
-3,driver,2,19,0.0001
-3,person,1,21,0.0001
-3,drivers,1,21,0.0001
-3,ids,1,21,0.0001
-5,templates,8,26,0.0001
-3,ssn,0,26,0.0001
-3,authentic,0,26,0.0001
-5,identity,8,26,0.0001
-4,scan,0,35,0.0001
-10,id,9,62,0.0001
-9,scans,1,72,0.0001
-11,license,1,90,0.0001
-16,passport,0,140,0.0001
+1,documents,1,6,0.05
+1,obtaining,1,6,0.05
+1,dr,1,6,0.05
+1,listings,1,6,0.05
+2,real,11,7,0.01
+3,more,31,8,0.01
+3,us,30,8,0.01
+4,uk,62,8,0.01
+1,chance,0,9,0.01
+1,2376,0,9,0.01
+1,lice,0,9,0.01
+1,licences,0,9,0.01
+1,3062,0,9,0.01
+1,fakes,0,9,0.01
+1,licenses,0,9,0.01
+2,same,7,9,0.01
+1,newlistings,0,9,0.01
+1,citizenship,0,9,0.01
+1,temps,0,9,0.01
+1,ontario,0,9,0.01
+1,austrian,0,9,0.01
+1,dob,0,9,0.01
+1,india,0,9,0.01
+1,anyones,0,9,0.01
+1,incl,0,9,0.01
+4,all,41,10,0.01
+2,australian,3,11,0.001
+2,easily,4,11,0.001
+2,proof,4,11,0.001
+2,gb,3,11,0.001
+2,template,4,11,0.001
+4,'',23,14,0.001
+6,new,73,14,0.001
+4,usa,25,14,0.001
+2,states,1,14,0.001
+2,psds,1,14,0.001
+2,dl,1,14,0.001
+4,mega,17,17,0.0001
+2,idpacks,0,18,0.0001
+2,docs,0,18,0.0001
+2,enhanced,0,18,0.0001
+2,â,0,18,0.0001
+2,mark,0,18,0.0001
+2,rfid,0,18,0.0001
+2,birthcert,0,18,0.0001
+2,beast,0,18,0.0001
+2,temp,0,18,0.0001
+3,ids,2,21,0.0001
+3,driver,2,21,0.0001
+3,driving,1,23,0.0001
+3,drivers,1,23,0.0001
+6,fake,27,24,0.0001
+5,templates,11,26,0.0001
+3,authentic,0,27,0.0001
+3,scan,0,27,0.0001
+3,person,0,27,0.0001
+6,identity,8,36,0.0001
+5,ssn,0,46,0.0001
+11,id,8,76,0.0001
+10,scans,1,86,0.0001
+11,license,1,95,0.0001
+16,passport,0,148,0.0001
