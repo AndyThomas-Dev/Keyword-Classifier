@@ -1,5 +1,6 @@
 import pandas as pd
 import nltk
+import re
 from getLLscore import tokeniseString, getLabel
 
 
@@ -45,9 +46,7 @@ def sortData(inputFile):
             raw["AutoCat"][i] = "Drugs – Production"
         else:
             searchString = raw["Product Name"][i].lower()
-            amendedString = searchString.replace("-", " ").replace("?", " ").replace("+", " ").replace("[", " ") \
-                .replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ")
-
+            amendedString = re.sub(r'\W+', ' ', searchString.lower())
             array = tokeniseString(amendedString)
 
             # Progress bar

@@ -1,83 +1,85 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-1,or,72,0,Not significant
-1,cashout,153,0,Not significant
-3,for,392,0,Not significant
-1,with,226,0,Not significant
+1,cashout,157,0,Not significant
+1,pack,111,0,Not significant
+1,with,225,0,Not significant
 0,to,0,0,Not significant
 0,how,0,0,Not significant
-3,in,196,1,Not significant
-2,pack,106,1,Not significant
-1,guide,464,1,Not significant
-1,vendor,30,1,Not significant
-1,usa,27,1,Not significant
+1,it,46,0,Not significant
+3,in,200,1,Not significant
 1,accounts,31,1,Not significant
-1,making,33,1,Not significant
-1,works,13,2,Not significant
-1,tips,17,2,Not significant
-1,personal,14,2,Not significant
-1,number,14,2,Not significant
+2,get,123,1,Not significant
+1,usa,27,1,Not significant
+1,secrets,29,1,Not significant
+1,making,30,1,Not significant
+1,guide,460,1,Not significant
+5,for,413,1,Not significant
+2,or,76,2,Not significant
+2,new,74,2,Not significant
+1,items,20,2,Not significant
 1,system,18,2,Not significant
-1,delete,17,2,Not significant
-1,advanced,16,2,Not significant
-1,items,22,2,Not significant
-1,info,8,3,Not significant
-1,building,9,3,Not significant
-1,tricks,9,3,Not significant
-1,offer,10,3,Not significant
-1,open,12,3,Not significant
-1,bundle,9,3,Not significant
-3,from,106,3,Not significant
-1,professional,9,3,Not significant
-1,line,7,4,0.05
-1,right,5,4,0.05
+1,number,16,2,Not significant
+1,tips,17,2,Not significant
+1,identity,13,2,Not significant
+1,advanced,18,2,Not significant
+1,tested,8,3,Not significant
+1,building,10,3,Not significant
+1,offer,8,3,Not significant
+1,open,11,3,Not significant
+1,professional,10,3,Not significant
+1,tricks,8,3,Not significant
 2,cards,35,4,0.05
-1,reputable,4,5,0.05
-4,your,146,5,0.05
-1,17,4,5,0.05
-2,secrets,29,5,0.05
-1,series,3,5,0.05
-2,own,24,6,0.05
+1,line,6,4,0.05
+1,bundle,7,4,0.05
+1,right,4,5,0.05
+2,vendor,34,5,0.05
+1,22,4,5,0.05
+2,own,28,5,0.05
 1,remove,2,6,0.05
-4,get,124,6,0.05
-1,add,1,7,0.01
-1,profiles,1,7,0.01
-1,contact,1,7,0.01
-1,cpns,1,7,0.01
-1,repair,1,7,0.01
-1,square,1,7,0.01
+4,from,112,6,0.05
+1,square,2,6,0.05
+1,add,2,6,0.05
+2,delete,17,7,0.01
+1,series,1,7,0.01
 1,permanently,1,7,0.01
-2,identity,14,8,0.01
+1,cpns,1,7,0.01
+1,boost,1,7,0.01
+2,personal,13,8,0.01
+5,your,148,8,0.01
 2,user,10,9,0.01
-4,new,71,9,0.01
-2,tested,8,10,0.01
+1,"25,000",0,10,0.01
 1,au,0,10,0.01
+2,info,7,10,0.01
 1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀get,0,10,0.01
 1,mega-system,0,10,0.01
 1,ntro,0,10,0.01
+1,collections,0,10,0.01
 1,primaries,0,10,0.01
-1,scores,0,10,0.01
-1,tradeline,0,10,0.01
-1,tradelines-,0,10,0.01
 1,scratch,0,10,0.01
-1,authorized,0,10,0.01
-1,authorised,0,10,0.01
-1,tri-merge,0,10,0.01
+1,scores,0,10,0.01
 1,tri-merged,0,10,0.01
-2,systems,5,11,0.001
-2,boost,1,16,0.0001
-2,profile,1,16,0.0001
+1,authorised,0,10,0.01
+1,authorized,0,10,0.01
+1,tradelines-,0,10,0.01
+2,systems,6,11,0.001
+2,reputable,4,12,0.001
+2,profile,2,14,0.001
+2,contact,1,16,0.0001
+2,profiles,1,16,0.0001
 2,negative,1,16,0.0001
-3,clone,10,16,0.0001
-4,high,20,18,0.0001
-6,â,68,19,0.0001
+2,repair,1,16,0.0001
+6,â,79,17,0.0001
+4,high,21,18,0.0001
 3,trade,5,19,0.0001
+2,tradeline,0,20,0.0001
+2,tri-merge,0,20,0.0001
 2,resale,0,20,0.0001
+4,clone,10,23,0.0001
+4,report,3,30,0.0001
 3,ghosts,0,30,0.0001
 3,bureaus,0,30,0.0001
-4,report,3,30,0.0001
-6,create,11,38,0.0001
-5,cpn,0,50,0.0001
+4,score,0,40,0.0001
+7,create,13,44,0.0001
 5,lines,0,50,0.0001
-5,score,0,50,0.0001
-22,credit,46,135,0.0001
+8,cpn,0,80,0.0001
+21,credit,43,129,0.0001

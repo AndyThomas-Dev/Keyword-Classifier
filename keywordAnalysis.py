@@ -1,5 +1,6 @@
 import pandas as pd
 import nltk
+import re
 import sys
 
 # Required inputs: 35x seperate ground truth data .CSV files in data/gt/
@@ -18,12 +19,11 @@ def getRawKeywords():
         # Forces lowercase
         raw["Product Name"] = raw["Product Name"].str.lower()
 
-        inputString = raw[raw.columns[0]].to_string().replace("+", " ").replace("?", " ").replace("+", " ") \
-            .replace("[", " ").replace("]", " ").replace(".", " ").replace("*", " ").replace("/", " ").replace("|", " ") \
-            .replace("#", " ")
+        inputString = raw[raw.columns[0]].to_string()
+        amendedString = re.sub(r'\W+', ' ', inputString.lower())
 
         # This must be a string
-        nltk_tokens = nltk.word_tokenize(inputString)
+        nltk_tokens = nltk.word_tokenize(amendedString)
 
         # Numbers removed
         for token in nltk_tokens:

@@ -2,39 +2,55 @@ freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
 0,of,0,0,Not significant
 0,the,0,0,Not significant
-1,for,394,0,Not significant
-1,web,30,2,Not significant
-1,sites,33,2,Not significant
+0,to,0,0,Not significant
+1,for,417,0,Not significant
+1,working,34,2,Not significant
+1,us,30,2,Not significant
 1,accounts,31,2,Not significant
-1,private,29,2,Not significant
-1,mail,33,2,Not significant
-1,updated,27,3,Not significant
-1,mega,22,3,Not significant
-1,daily,10,4,0.05
-1,deep,7,5,0.05
-1,deepweb,6,5,0.05
-2,ultimate,75,5,0.05
-1,clearnet,6,5,0.05
+1,way,28,3,Not significant
+1,mail,27,3,Not significant
+1,full,21,3,Not significant
+1,mega,18,3,Not significant
+1,success,15,4,0.05
+2,ultimate,77,4,0.05
+1,link,10,4,0.05
+1,newbies,7,5,0.05
 1,gmail,7,5,0.05
-1,000,6,5,0.05
-1,newbies,9,5,0.05
-1,10,9,5,0.05
-1,million,5,6,0.05
-1,url,4,6,0.05
+1,deepweb,8,5,0.05
+1,most,8,5,0.05
+1,content,7,5,0.05
+1,clearnet,6,5,0.05
+1,000,7,5,0.05
+1,shop,4,6,0.05
+1,passwords,4,6,0.05
+1,million,4,6,0.05
+1,14,4,6,0.05
+1,url,3,7,0.01
+1,monkeybusiness,3,7,0.01
+1,human,3,7,0.01
 1,adresses,2,7,0.01
-1,markets,2,7,0.01
-1,passwords,3,7,0.01
-1,useful,2,7,0.01
-1,ru,1,8,0.01
+1,useful,1,8,0.01
+1,popular,1,8,0.01
+1,awesome,1,8,0.01
+1,600,1,8,0.01
+1,april,0,11,0.001
 1,darkness,0,11,0.001
-1,active,0,11,0.001
+1,verified,0,11,0.001
 1,fed,0,11,0.001
+1,2018,0,11,0.001
 1,50k,0,11,0.001
-2,link,11,12,0.001
-2,websites,10,12,0.001
-4,list,115,12,0.001
-2,onion,8,13,0.001
+1,uncensored,0,11,0.001
+1,head,0,11,0.001
+1,ru,0,11,0.001
+1,active,0,11,0.001
+1,7839,0,11,0.001
+2,websites,9,12,0.001
+2,links,7,13,0.001
 2,addresses,5,14,0.001
-3,email,25,15,0.001
-3,darknet,10,20,0.0001
+3,web,32,14,0.001
+3,email,26,15,0.001
+3,deep,9,21,0.0001
+3,onion,9,21,0.0001
+6,list,112,22,0.0001
 2,directory,0,23,0.0001
+4,darknet,10,29,0.0001
