@@ -1,1106 +1,1087 @@
 freq,word,exfreq,LL,sig
-0,'s,0,0,Not significant
-1,textbooks,2,0,Not significant
-1,43,2,0,Not significant
-1,teaching,2,0,Not significant
-1,surveillance,3,0,Not significant
-1,success,15,0,Not significant
-1,style,2,0,Not significant
-1,stuff,6,0,Not significant
-1,stop,7,0,Not significant
-1,start,8,0,Not significant
-1,46,2,0,Not significant
-1,standard,2,0,Not significant
-1,speed,5,0,Not significant
-1,47,2,0,Not significant
-1,tools,13,0,Not significant
-1,skills,3,0,Not significant
-1,services,12,0,Not significant
-1,securing,3,0,Not significant
-1,se,4,0,Not significant
-1,50,7,0,Not significant
-1,52,3,0,Not significant
-1,53,3,0,Not significant
-1,56,2,0,Not significant
-1,64,2,0,Not significant
-1,66,5,0,Not significant
-1,71,2,0,Not significant
-1,73,2,0,Not significant
-1,75,2,0,Not significant
-1,80,2,0,Not significant
-1,simple,11,0,Not significant
-1,top,8,0,Not significant
-1,image,4,0,Not significant
-1,two,5,0,Not significant
-2,science,17,0,Not significant
-1,27,2,0,Not significant
-2,pages,8,0,Not significant
-1,300,10,0,Not significant
-2,mining,7,0,Not significant
-2,mac,21,0,Not significant
-2,into,15,0,Not significant
-2,information,7,0,Not significant
-2,high,23,0,Not significant
-2,full,20,0,Not significant
-1,33,2,0,Not significant
-2,essential,12,0,Not significant
-1,34,3,0,Not significant
-2,computer,17,0,Not significant
-1,348,2,0,Not significant
-2,access,8,0,Not significant
-1,͠≖,11,0,Not significant
-1,͜ʖ͠≖,11,0,Not significant
-1,37,2,0,Not significant
-1,writing,2,0,Not significant
-1,work,16,0,Not significant
-1,375,2,0,Not significant
-1,wireless,11,0,Not significant
-1,week,15,0,Not significant
-1,virtualbox,4,0,Not significant
-1,v2,9,0,Not significant
-1,users,8,0,Not significant
-1,40,2,0,Not significant
-1,udemy,2,0,Not significant
-1,8th,7,0,Not significant
-1,rise,3,0,Not significant
-1,97,2,0,Not significant
-1,98,2,0,Not significant
-1,driving,4,0,Not significant
-1,easiest,3,0,Not significant
-1,economics,6,0,Not significant
-1,edit,4,0,Not significant
-1,manual,9,0,Not significant
-1,managing,2,0,Not significant
-1,electronics,2,0,Not significant
-1,empire,3,0,Not significant
-1,malware,10,0,Not significant
-1,engineering,6,0,Not significant
-1,maker,3,0,Not significant
-1,every,11,0,Not significant
-1,machines,2,0,Not significant
-1,loading,2,0,Not significant
-1,fixed,2,0,Not significant
-1,life,8,0,Not significant
-1,less,4,0,Not significant
-1,fly,2,0,Not significant
-1,julia,2,0,Not significant
-1,investigation,3,0,Not significant
+0,and,0,0,Not significant
+1,jolly,2,0,Not significant
+1,investigation,5,0,Not significant
 1,introductory,3,0,Not significant
 1,interview,2,0,Not significant
-1,hacks,6,0,Not significant
-1,history,15,0,Not significant
-1,hosting,7,0,Not significant
-1,hour,5,0,Not significant
-1,how-to,2,0,Not significant
-1,human,3,0,Not significant
 1,instant,8,0,Not significant
-1,driven,2,0,Not significant
-2,secret,25,0,Not significant
-1,microeconomics,3,0,Not significant
-1,most,8,0,Not significant
-1,revolution,3,0,Not significant
-1,9th,3,0,Not significant
-1,response,2,0,Not significant
-1,age,6,0,Not significant
-1,agile,2,0,Not significant
-1,quickstart,2,0,Not significant
-1,quick,3,0,Not significant
-1,quality,6,0,Not significant
-1,protecting,4,0,Not significant
-1,protect,5,0,Not significant
-1,processing,2,0,Not significant
-1,practices,2,0,Not significant
-1,attack,3,0,Not significant
-1,attacks,5,0,Not significant
-1,practice,4,0,Not significant
-1,automated,2,0,Not significant
-1,become,11,0,Not significant
-1,beyond,4,0,Not significant
-1,black,6,0,Not significant
-1,photos,5,0,Not significant
-1,business,17,0,Not significant
-1,penetration,8,0,Not significant
-1,packages,8,0,Not significant
-1,creating,3,0,Not significant
-1,mysterious,2,0,Not significant
-1,days,6,0,Not significant
-1,defending,2,0,Not significant
-1,defense,5,0,Not significant
-1,definitive,5,0,Not significant
-1,dont,4,0,Not significant
-2,social,11,0,Not significant
+1,instagram,7,0,Not significant
 1,incident,2,0,Not significant
-3,digital,28,0,Not significant
-4,book,30,0,Not significant
-4,mobile,23,0,Not significant
-1,25,8,0,Not significant
-1,13,3,0,Not significant
-1,216,2,0,Not significant
-5,big,37,0,Not significant
-1,18,2,0,Not significant
-4,handbook,26,0,Not significant
-1,136,2,0,Not significant
-5,2017,22,0,Not significant
-1,14,4,0,Not significant
-1,12,7,0,Not significant
-2,ways,13,0,Not significant
-4,problem,22,0,Not significant
-1,148,2,0,Not significant
-1,15,5,0,Not significant
-4,privacy,20,0,Not significant
-2,way,27,0,Not significant
-2,user,10,0,Not significant
-1,231,2,0,Not significant
-4,network,21,0,Not significant
+1,julia,2,0,Not significant
+1,image,5,0,Not significant
+1,ideas,2,0,Not significant
+1,human,2,0,Not significant
+1,history,15,0,Not significant
+1,hacks,8,0,Not significant
+1,great,11,0,Not significant
+1,four,2,0,Not significant
+1,fly,2,0,Not significant
+1,ii,5,0,Not significant
+1,fixed,2,0,Not significant
+1,less,2,0,Not significant
+1,life,9,0,Not significant
+1,protect,6,0,Not significant
+1,processing,5,0,Not significant
+1,practice,4,0,Not significant
+1,photoshop,2,0,Not significant
+1,packages,9,0,Not significant
+1,mysterious,2,0,Not significant
+1,music,2,0,Not significant
+1,level,4,0,Not significant
+1,most,8,0,Not significant
+1,mining,7,0,Not significant
+1,minecraft,2,0,Not significant
+1,microeconomics,4,0,Not significant
+1,marketing,2,0,Not significant
+1,managing,2,0,Not significant
+1,malware,10,0,Not significant
+1,loading,2,0,Not significant
+1,mod,2,0,Not significant
+1,protecting,5,0,Not significant
+1,ex,3,0,Not significant
+1,engineering,5,0,Not significant
+1,attacks,4,0,Not significant
+1,attack,2,0,Not significant
+1,apex,2,0,Not significant
+1,agile,2,0,Not significant
+1,9th,2,0,Not significant
+1,96,2,0,Not significant
+1,91,2,0,Not significant
+1,audio,5,0,Not significant
+1,8th,3,0,Not significant
+1,75,2,0,Not significant
+1,70,2,0,Not significant
+1,69,2,0,Not significant
+1,59,3,0,Not significant
+1,58,3,0,Not significant
+1,53,2,0,Not significant
+1,48,3,0,Not significant
+1,82,3,0,Not significant
+1,every,11,0,Not significant
+1,become,10,0,Not significant
+1,bi,3,0,Not significant
+1,empire,3,0,Not significant
+1,electronics,2,0,Not significant
+1,du,2,0,Not significant
+1,driving,4,0,Not significant
+1,dont,4,0,Not significant
+1,diy,2,0,Not significant
+1,definitive,5,0,Not significant
+1,beyond,3,0,Not significant
+1,defense,3,0,Not significant
+1,da,2,0,Not significant
+1,creating,3,0,Not significant
+1,cre,2,0,Not significant
+1,cr,2,0,Not significant
+1,co,5,0,Not significant
+1,ca,7,0,Not significant
+1,black,6,0,Not significant
+1,days,6,0,Not significant
+1,quality,6,0,Not significant
+1,quickstart,2,0,Not significant
+1,real,13,0,Not significant
+2,ways,17,0,Not significant
 2,virtual,19,0,Not significant
-1,17,4,0,Not significant
-2,volume,11,0,Not significant
-1,223,2,0,Not significant
-1,196,2,0,Not significant
-1,23,2,0,Not significant
-1,20,4,0,Not significant
-1,109,2,0,Not significant
+2,user,12,0,Not significant
+2,understanding,6,0,Not significant
+2,test,12,0,Not significant
 2,techniques,7,0,Not significant
-1,197,2,0,Not significant
-3,beginner,12,0,Not significant
+2,system,14,0,Not significant
+3,beginner,11,0,Not significant
+2,solution,6,0,Not significant
+2,simple,12,0,Not significant
+2,secret,23,0,Not significant
+2,science,16,0,Not significant
+2,pages,8,0,Not significant
+2,into,17,0,Not significant
+2,high,23,0,Not significant
+2,essential,12,0,Not significant
+2,social,12,0,Not significant
+2,engine,7,0,Not significant
+3,day,28,0,Not significant
+3,full,19,0,Not significant
 10,guides,58,0,Not significant
-1,102,2,0,Not significant
-1,10,8,0,Not significant
-49,guide,412,0,Not significant
-1,11,2,0,Not significant
-3,tips,15,0,Not significant
-8,easy,49,0,Not significant
-8,using,68,0,Not significant
-0,and,0,0,Not significant
-2,test,10,0,Not significant
-0,the,0,0,Not significant
-1,111,2,0,Not significant
-1,249,2,0,Not significant
-0,how,0,0,Not significant
-0,of,0,0,Not significant
+8,using,69,0,Not significant
+6,step,29,0,Not significant
+6,big,33,0,Not significant
+4,software,16,0,Not significant
+4,problem,24,0,Not significant
+4,privacy,22,0,Not significant
+3,digital,29,0,Not significant
+4,practical,16,0,Not significant
+4,create,16,0,Not significant
+4,computer,19,0,Not significant
+3,volume,11,0,Not significant
+3,tutorials,28,0,Not significant
+3,network,17,0,Not significant
+3,mobile,23,0,Not significant
+3,mac,19,0,Not significant
+4,one,31,0,Not significant
+2,edit,7,0,Not significant
+2,de,11,0,Not significant
+2,business,18,0,Not significant
+1,stuff,8,0,Not significant
+1,study,2,0,Not significant
+1,stop,7,0,Not significant
+1,start,7,0,Not significant
+1,standard,2,0,Not significant
+1,st,2,0,Not significant
+1,speed,6,0,Not significant
+1,style,2,0,Not significant
+1,skills,3,0,Not significant
+1,securing,4,0,Not significant
+1,sec,4,0,Not significant
+1,se,12,0,Not significant
+1,scientific,2,0,Not significant
+1,rise,3,0,Not significant
+1,revolution,4,0,Not significant
+1,response,3,0,Not significant
+1,services,11,0,Not significant
+1,success,9,0,Not significant
+1,successful,2,0,Not significant
+1,surveillance,2,0,Not significant
+2,access,8,0,Not significant
+2,50,8,0,Not significant
+1,writing,2,0,Not significant
+1,work,15,0,Not significant
+1,wireless,14,0,Not significant
+1,week,10,0,Not significant
+1,vmware,2,0,Not significant
+1,virtualbox,4,0,Not significant
+1,v2,11,0,Not significant
+1,users,7,0,Not significant
+1,udemy,2,0,Not significant
+1,two,4,0,Not significant
+1,top,8,0,Not significant
+1,time,14,0,Not significant
+1,through,16,0,Not significant
+1,think,6,0,Not significant
+1,term,4,0,Not significant
+1,46,3,0,Not significant
+1,400,2,0,Not significant
+1,manual,7,0,Not significant
+1,121,2,0,Not significant
+1,15,2,0,Not significant
+1,162,2,0,Not significant
 0,to,0,0,Not significant
-1,93,1,1,Not significant
-1,167,1,1,Not significant
-1,85,1,1,Not significant
-1,successful,1,1,Not significant
-1,173,1,1,Not significant
-1,175,1,1,Not significant
-1,92,1,1,Not significant
-1,83,1,1,Not significant
-1,174,1,1,Not significant
-1,45,1,1,Not significant
-1,solutions,1,1,Not significant
-1,177,1,1,Not significant
-3,testing,9,1,Not significant
-1,smoke,1,1,Not significant
-1,small,1,1,Not significant
-1,19,1,1,Not significant
-1,six,1,1,Not significant
-4,advanced,15,1,Not significant
-1,189,1,1,Not significant
-1,187,1,1,Not significant
-1,scientific,1,1,Not significant
-1,184,1,1,Not significant
-1,54,1,1,Not significant
-1,57,1,1,Not significant
-1,59,1,1,Not significant
-1,sas,1,1,Not significant
-1,61,1,1,Not significant
-1,200,1,1,Not significant
-1,181,1,1,Not significant
-4,create,16,1,Not significant
-1,69,1,1,Not significant
-1,201,1,1,Not significant
-1,176,1,1,Not significant
-1,55,1,1,Not significant
-1,182,1,1,Not significant
-1,165,1,1,Not significant
-1,developing,1,1,Not significant
-1,distros,1,1,Not significant
-1,127,1,1,Not significant
-1,douglas,1,1,Not significant
-1,123,1,1,Not significant
-1,122,1,1,Not significant
-1,drone,1,1,Not significant
-1,121,1,1,Not significant
-1,120,1,1,Not significant
-1,electronic,1,1,Not significant
-1,mod,1,1,Not significant
-1,embedded,1,1,Not significant
-8,an,36,1,Not significant
-1,115,1,1,Not significant
-1,exam,1,1,Not significant
-1,exploring,1,1,Not significant
-1,features,1,1,Not significant
-1,logical,1,1,Not significant
-1,10th,1,1,Not significant
-8,tutorial,84,1,Not significant
-1,items,20,1,Not significant
-1,getting,22,1,Not significant
-1,118,1,1,Not significant
-1,desktop,1,1,Not significant
-1,130,1,1,Not significant
-1,131,1,1,Not significant
-1,164,1,1,Not significant
-1,163,1,1,Not significant
-1,162,1,1,Not significant
-1,161,1,1,Not significant
-1,promo,1,1,Not significant
-1,157,1,1,Not significant
-1,art,20,1,Not significant
-1,as,19,1,Not significant
-3,fast,8,1,Not significant
-1,bible,23,1,Not significant
-1,140,1,1,Not significant
-1,blender,1,1,Not significant
-1,photoshop,1,1,Not significant
-1,books,22,1,Not significant
-1,past,1,1,Not significant
-1,careers,1,1,Not significant
+1,19,4,0,Not significant
+1,25,6,0,Not significant
+0,the,0,0,Not significant
+0,of,0,0,Not significant
+1,16,2,0,Not significant
+1,293,2,0,Not significant
+0,make,0,0,Not significant
+1,23,3,0,Not significant
+1,17,7,0,Not significant
+0,how,0,0,Not significant
+1,303,2,0,Not significant
+1,22,5,0,Not significant
 1,passive,1,1,Not significant
-1,clients,1,1,Not significant
-5,basic,20,1,Not significant
-1,operating,1,1,Not significant
-1,customer,1,1,Not significant
-1,133,1,1,Not significant
-1,132,1,1,Not significant
 1,accounting,1,1,Not significant
-1,151,1,1,Not significant
-1,422,1,1,Not significant
-1,285,1,1,Not significant
-1,289,1,1,Not significant
-1,227,1,1,Not significant
-2,networks,5,1,Not significant
-1,365,1,1,Not significant
-2,office,6,1,Not significant
-2,one,32,1,Not significant
-1,225,1,1,Not significant
-1,372,1,1,Not significant
-1,373,1,1,Not significant
-1,222,1,1,Not significant
-1,weeks,1,1,Not significant
-1,378,1,1,Not significant
-1,38,1,1,Not significant
-1,384,1,1,Not significant
-1,279,1,1,Not significant
-1,278,1,1,Not significant
-1,virtualization,1,1,Not significant
-1,214,1,1,Not significant
-2,reference,4,1,Not significant
-1,36,1,1,Not significant
-1,291,1,1,Not significant
-1,294,1,1,Not significant
-1,295,1,1,Not significant
-1,239,1,1,Not significant
-1,315,1,1,Not significant
-1,238,1,1,Not significant
-1,241,1,1,Not significant
-2,hard,4,1,Not significant
-1,306,1,1,Not significant
-2,understanding,5,1,Not significant
-2,front,4,1,Not significant
-1,326,1,1,Not significant
-1,269,1,1,Not significant
-2,us,29,1,Not significant
-2,everyone,4,1,Not significant
-1,301,1,1,Not significant
-1,233,1,1,Not significant
-1,30,1,1,Not significant
-2,engine,5,1,Not significant
-2,day,34,1,Not significant
-1,298,1,1,Not significant
-1,340,1,1,Not significant
+1,past,1,1,Not significant
+1,155,1,1,Not significant
+1,297,1,1,Not significant
 1,296,1,1,Not significant
-1,302,1,1,Not significant
-1,268,1,1,Not significant
-2,tutorials,29,1,Not significant
-1,209,1,1,Not significant
-1,417,1,1,Not significant
-1,258,1,1,Not significant
+1,352,1,1,Not significant
+1,240,1,1,Not significant
+1,156,1,1,Not significant
+1,electronic,1,1,Not significant
+1,88,1,1,Not significant
+1,35,1,1,Not significant
+1,86,1,1,Not significant
+1,153,1,1,Not significant
+1,sas,1,1,Not significant
+1,79,1,1,Not significant
+1,29,1,1,Not significant
+1,operating,1,1,Not significant
+1,softwa,1,1,Not significant
+1,145,1,1,Not significant
+2,hard,4,1,Not significant
+1,clo,1,1,Not significant
+2,front,4,1,Not significant
+2,everyone,4,1,Not significant
+1,55,1,1,Not significant
+1,147,1,1,Not significant
+1,148,1,1,Not significant
+1,finance,1,1,Not significant
+1,366,1,1,Not significant
+1,67,1,1,Not significant
+1,365,1,1,Not significant
+1,157,1,1,Not significant
+1,76,1,1,Not significant
+1,81,1,1,Not significant
+1,291,1,1,Not significant
+1,21,1,1,Not significant
+1,298,1,1,Not significant
 1,tour,1,1,Not significant
-1,408,1,1,Not significant
-1,through,18,1,Not significant
-1,26,1,1,Not significant
-1,260,1,1,Not significant
-1,264,1,1,Not significant
-1,type,1,1,Not significant
-1,257,1,1,Not significant
-2,solution,6,1,Not significant
-1,42,1,1,Not significant
-2,systems,6,1,Not significant
+1,164,1,1,Not significant
+1,166,1,1,Not significant
+1,blender,1,1,Not significant
 1,three,1,1,Not significant
-1,253,1,1,Not significant
-1,key,28,2,Not significant
-12,by,51,2,Not significant
-5,software,16,2,Not significant
-1,good,26,2,Not significant
-2,debian,3,2,Not significant
-3,tricks,6,2,Not significant
-5,practical,14,2,Not significant
-2,better,3,2,Not significant
-4,pro,11,2,Not significant
-1,own,29,2,Not significant
-2,online,37,2,Not significant
-2,all-in-one,3,2,Not significant
-2,word,3,2,Not significant
-2,kali,3,2,Not significant
-2,level,3,2,Not significant
+1,practitioner,1,1,Not significant
+1,176,1,1,Not significant
+1,beta,1,1,Not significant
+1,textbooks,1,1,Not significant
+1,careers,1,1,Not significant
+1,getting,20,1,Not significant
+1,teaching,1,1,Not significant
+1,175,1,1,Not significant
+1,170,1,1,Not significant
+1,260,1,1,Not significant
+1,clients,1,1,Not significant
+1,168,1,1,Not significant
+1,ansible,1,1,Not significant
+1,302,1,1,Not significant
+1,beginn,1,1,Not significant
+1,host,1,1,Not significant
+1,horsemen,1,1,Not significant
+1,defending,1,1,Not significant
+1,335,1,1,Not significant
+1,160,1,1,Not significant
+1,161,1,1,Not significant
+1,art,19,1,Not significant
+1,beginne,1,1,Not significant
+1,259,1,1,Not significant
+1,305,1,1,Not significant
+1,confident,1,1,Not significant
+1,ul,1,1,Not significant
+1,type,1,1,Not significant
+1,163,1,1,Not significant
+1,practices,1,1,Not significant
+1,beg,1,1,Not significant
+1,2015,1,1,Not significant
+1,288,1,1,Not significant
+2,gu,5,1,Not significant
+1,frank,1,1,Not significant
+1,252,1,1,Not significant
+2,ubuntu,5,1,Not significant
+1,280,1,1,Not significant
+4,code,12,1,Not significant
+1,311,1,1,Not significant
+1,483,1,1,Not significant
+2,us,28,1,Not significant
+1,434,1,1,Not significant
+4,apple,12,1,Not significant
+1,distros,1,1,Not significant
+1,shell,1,1,Not significant
+1,lan,1,1,Not significant
+4,advanced,14,1,Not significant
+1,10th,1,1,Not significant
+1,44,1,1,Not significant
+3,basics,8,1,Not significant
+1,125,1,1,Not significant
+1,123,1,1,Not significant
+1,douglas,1,1,Not significant
+3,steps,8,1,Not significant
+1,446,1,1,Not significant
+3,no,44,1,Not significant
+1,secu,1,1,Not significant
+1,462,1,1,Not significant
+1,461,1,1,Not significant
+1,272,1,1,Not significant
+1,373,1,1,Not significant
+1,roger,1,1,Not significant
+2,theory,4,1,Not significant
+1,logic,1,1,Not significant
+1,logical,1,1,Not significant
+2,office,4,1,Not significant
+2,official,4,1,Not significant
+1,517,1,1,Not significant
+2,online,34,1,Not significant
+1,manager,1,1,Not significant
+12,by,61,1,Not significant
+1,nod,1,1,Not significant
+1,small,1,1,Not significant
+2,pr,5,1,Not significant
+1,141,1,1,Not significant
+9,easy,41,1,Not significant
+1,396,1,1,Not significant
+1,developing,1,1,Not significant
+1,138,1,1,Not significant
+1,139,1,1,Not significant
+1,244,1,1,Not significant
+5,pro,17,1,Not significant
+1,137,1,1,Not significant
+1,macbook,1,1,Not significant
+1,items,22,1,Not significant
+4,tips,15,1,Not significant
+1,102,1,1,Not significant
+1,desktop,1,1,Not significant
+1,315,1,1,Not significant
+1,243,1,1,Not significant
+1,six,1,1,Not significant
+1,good,24,2,Not significant
+6,basic,19,2,Not significant
+1,books,26,2,Not significant
+7,2017,25,2,Not significant
+1,bible,25,2,Not significant
+3,penetration,6,2,Not significant
+2,networks,3,2,Not significant
+3,gui,6,2,Not significant
+2,6th,3,2,Not significant
 2,specific,3,2,Not significant
-2,tut,3,2,Not significant
-2,red,3,2,Not significant
-2,marketing,3,2,Not significant
-4,complete,62,2,Not significant
-3,no,52,2,Not significant
-2,theory,3,2,Not significant
-3,basics,7,2,Not significant
-2,write,2,3,Not significant
+2,debian,3,2,Not significant
+3,fast,7,2,Not significant
+3,ipad,6,2,Not significant
+2,information,3,2,Not significant
+1,way,25,2,Not significant
+6,windows,16,3,Not significant
+2,seven,2,3,Not significant
+4,master,8,3,Not significant
+35,in,168,3,Not significant
+1,over,29,3,Not significant
+1,own,29,3,Not significant
+2,systems,2,3,Not significant
+2,automated,2,3,Not significant
+2,approach,2,3,Not significant
+2,infosec,2,3,Not significant
+11,an,39,3,Not significant
 2,developer,2,3,Not significant
-4,steps,8,3,Not significant
-5,google,12,3,Not significant
-2,finance,2,3,Not significant
-1,over,32,3,Not significant
-1,at,32,3,Not significant
-2,all,48,3,Not significant
-2,study,2,3,Not significant
-2,perl,2,3,Not significant
-1,ebook,31,3,Not significant
-2,pick-5-book,2,3,Not significant
-4,code,9,3,Not significant
-2,project,2,3,Not significant
-5,recipes,13,3,Not significant
-1,macos,0,4,0.05
-1,integrating,0,4,0.05
-1,jsp,0,4,0.05
-1,jvm,0,4,0.05
-1,kanes,0,4,0.05
-2,practitioner,1,4,0.05
-2,seven,1,4,0.05
-1,multitenancy,0,4,0.05
-1,lt,0,4,0.05
-2,native,1,4,0.05
-1,jfc,0,4,0.05
-1,multithreading,0,4,0.05
-1,kinect,0,4,0.05
-1,neo4j,0,4,0.05
-1,indesign,0,4,0.05
-1,nginx,0,4,0.05
-1,loader,0,4,0.05
-1,ngrx,0,4,0.05
-1,lisp,0,4,0.05
-8,step,22,4,0.05
-1,nutshell,0,4,0.05
-1,keyboard,0,4,0.05
-1,infraworks,0,4,0.05
-1,moodle,0,4,0.05
-1,mcsd,0,4,0.05
-1,metadata,0,4,0.05
-1,matlab,0,4,0.05
-1,leonardo,0,4,0.05
-1,micro,0,4,0.05
-1,interpreting,0,4,0.05
-1,mapping,0,4,0.05
-1,interface,0,4,0.05
-5,mastering,10,4,0.05
-1,micropython,0,4,0.05
-2,mysql,1,4,0.05
-35,in,168,4,0.05
-1,middleware,0,4,0.05
-1,migrating,0,4,0.05
-1,missing,0,4,0.05
-1,interdisciplinary,0,4,0.05
-1,manager,0,4,0.05
-1,ionic,0,4,0.05
-1,iots,0,4,0.05
-1,object,0,4,0.05
-1,ipython,0,4,0.05
-2,suite,1,4,0.05
-1,interactive,0,4,0.05
-1,mixed,0,4,0.05
-1,italian,0,4,0.05
-2,scripting,1,4,0.05
-1,intelligent,0,4,0.05
-1,meteor,0,4,0.05
-1,threads,0,4,0.05
-2,intelligence,1,4,0.05
-1,unlocked,0,4,0.05
-1,simplified,0,4,0.05
-1,uno,0,4,0.05
-1,shortcuts,0,4,0.05
-1,sharepoint,0,4,0.05
-1,servlets,0,4,0.05
-1,unsupervised,0,4,0.05
-1,serve,0,4,0.05
-1,up,38,4,0.05
-1,scrumban,0,4,0.05
-1,scraping,0,4,0.05
-1,scientists,0,4,0.05
-1,upgrading,0,4,0.05
-1,scalable,0,4,0.05
-1,scala,0,4,0.05
-1,usecases,0,4,0.05
-1,utilities,0,4,0.05
-2,wordpress,1,4,0.05
-1,veritas,0,4,0.05
-1,volumes,0,4,0.05
-1,vsts,0,4,0.05
-1,unleash,0,4,0.05
-1,slice,0,4,0.05
-3,6th,4,4,0.05
-1,snes,0,4,0.05
-1,technologies,0,4,0.05
-3,made,4,4,0.05
-1,tdd,0,4,0.05
-1,taming,0,4,0.05
-1,tableau,0,4,0.05
-1,table,0,4,0.05
-1,sysinternals,0,4,0.05
-1,supercomputing,0,4,0.05
-3,official,4,4,0.05
-3,build,4,4,0.05
-1,web-driven,0,4,0.05
-1,strategic,0,4,0.05
-1,stl,0,4,0.05
-1,statistics,0,4,0.05
-1,stacking,0,4,0.05
-1,sqlite,0,4,0.05
-1,typography,0,4,0.05
-1,spectrum,0,4,0.05
-1,solving,0,4,0.05
-1,ucs,0,4,0.05
-1,solidworks,0,4,0.05
-1,solaris,0,4,0.05
-1,storm,0,4,0.05
-1,weblogic,0,4,0.05
+1,questions,31,3,Not significant
+2,write,2,3,Not significant
+4,complete,64,3,Not significant
+1,handbook,30,3,Not significant
+1,at,31,3,Not significant
+3,end,5,3,Not significant
+1,ebook,30,3,Not significant
+1,258,0,4,0.05
+1,254,0,4,0.05
+1,responsive,0,4,0.05
+1,requirements,0,4,0.05
+1,quadcopter,0,4,0.05
+1,romset,0,4,0.05
 1,sahara,0,4,0.05
+1,rxjava,0,4,0.05
+1,publish,0,4,0.05
+1,prototyping,0,4,0.05
+1,regression,0,4,0.05
+1,robotic,0,4,0.05
+1,rest,0,4,0.05
+1,250,0,4,0.05
+1,379,0,4,0.05
+1,redis,0,4,0.05
+1,readable,0,4,0.05
+1,proto,0,4,0.05
 1,rpg,0,4,0.05
-2,cybersecurity,1,4,0.05
+1,257,0,4,0.05
+1,38,0,4,0.05
+1,promo,0,4,0.05
+1,nutshell,0,4,0.05
+1,ngrx,0,4,0.05
+1,neo4j,0,4,0.05
+1,nav,0,4,0.05
+1,267,0,4,0.05
+1,268,0,4,0.05
+1,multithreading,0,4,0.05
+1,multitenancy,0,4,0.05
+1,269,0,4,0.05
+1,moodle,0,4,0.05
+1,modular,0,4,0.05
+1,27,0,4,0.05
+1,mixed,0,4,0.05
+1,missing,0,4,0.05
+1,271,0,4,0.05
+1,migrating,0,4,0.05
+1,middleware,0,4,0.05
+1,micropython,0,4,0.05
+1,273,0,4,0.05
+1,micro,0,4,0.05
+1,meteor,0,4,0.05
+1,metadata,0,4,0.05
+1,mep,0,4,0.05
+1,mcsd,0,4,0.05
+1,maya,0,4,0.05
+1,opencv,0,4,0.05
+1,262,0,4,0.05
+1,opinionated,0,4,0.05
+1,ours,0,4,0.05
+1,programmi,0,4,0.05
+1,programmable,0,4,0.05
+1,263,0,4,0.05
+1,predict,0,4,0.05
 1,predator,0,4,0.05
+1,practitio,0,4,0.05
+1,264,0,4,0.05
+1,practica,0,4,0.05
 1,powershell,0,4,0.05
 1,postgres,0,4,0.05
 1,player,0,4,0.05
 1,plant,0,4,0.05
 1,pixlr,0,4,0.05
 1,pivot,0,4,0.05
-1,tfs,0,4,0.05
-2,express,1,4,0.05
-1,predict,0,4,0.05
-2,fedora,1,4,0.05
-2,gui,1,4,0.05
-2,hat,1,4,0.05
+1,picasso,0,4,0.05
+1,phrasebook,0,4,0.05
+1,265,0,4,0.05
+1,perspective,0,4,0.05
+1,pentes,0,4,0.05
 1,partsmay,0,4,0.05
 1,parse,0,4,0.05
-1,pandas,0,4,0.05
 1,painting,0,4,0.05
-1,painter,0,4,0.05
+1,painte,0,4,0.05
+1,266,0,4,0.05
 1,p2nmap,0,4,0.05
-1,ours,0,4,0.05
-1,opinionated,0,4,0.05
-1,perspective,0,4,0.05
-1,opencv,0,4,0.05
-1,present,0,4,0.05
-1,project-based,0,4,0.05
-1,romset,0,4,0.05
-1,xcode,0,4,0.05
-1,robotic,0,4,0.05
-1,xhtml,0,4,0.05
-4,master,7,4,0.05
-1,zurb,0,4,0.05
-1,revit,0,4,0.05
-1,rest,0,4,0.05
-2,7th,1,4,0.05
-1,requirements,0,4,0.05
-1,programmer,0,4,0.05
-1,regression,0,4,0.05
-2,agents,1,4,0.05
-1,readable,0,4,0.05
-1,r18,0,4,0.05
-2,beta,1,4,0.05
-1,publish,0,4,0.05
-1,prototyping,0,4,0.05
-1,protocols,0,4,0.05
-4,net,7,4,0.05
-2,ccfp,1,4,0.05
-2,concepts,1,4,0.05
-1,real-time,0,4,0.05
-1,picasso,0,4,0.05
-1,libgdx,0,4,0.05
-1,iii,0,4,0.05
-1,110,0,4,0.05
-1,354,0,4,0.05
-1,356,0,4,0.05
-1,357,0,4,0.05
-1,359,0,4,0.05
-1,360,0,4,0.05
-1,108,0,4,0.05
-1,116,0,4,0.05
-1,107,0,4,0.05
-1,362,0,4,0.05
-1,364,0,4,0.05
-1,366,0,4,0.05
-1,367,0,4,0.05
-1,371,0,4,0.05
-1,374,0,4,0.05
-1,376,0,4,0.05
-1,361,0,4,0.05
-1,377,0,4,0.05
-1,353,0,4,0.05
-1,345,0,4,0.05
-1,335,0,4,0.05
-1,336,0,4,0.05
+1,oriented,0,4,0.05
+1,pandas,0,4,0.05
+1,tf,0,4,0.05
+1,scalable,0,4,0.05
+1,140,0,4,0.05
+2,perl,1,4,0.05
+1,142,0,4,0.05
+2,native,1,4,0.05
+2,mysql,1,4,0.05
+2,media,1,4,0.05
 1,144,0,4,0.05
-1,338,0,4,0.05
-1,339,0,4,0.05
-1,143,0,4,0.05
-1,139,0,4,0.05
-1,346,0,4,0.05
-1,342,0,4,0.05
+2,inter,1,4,0.05
+2,intelligence,1,4,0.05
+1,146,0,4,0.05
+2,drone,1,4,0.05
+1,149,0,4,0.05
+2,solid,1,4,0.05
+2,cybersecurity,1,4,0.05
+2,ccfp,1,4,0.05
+2,begin,1,4,0.05
+2,ap,1,4,0.05
+2,all,50,4,0.05
+2,agents,1,4,0.05
+1,151,0,4,0.05
+2,7th,1,4,0.05
+1,152,0,4,0.05
+1,zurb,0,4,0.05
+1,xhtml,0,4,0.05
+1,xcode,0,4,0.05
+1,wrangling,0,4,0.05
+2,concepts,1,4,0.05
+1,weeks,0,4,0.05
+2,solutions,1,4,0.05
 1,135,0,4,0.05
-1,134,0,4,0.05
-1,128,0,4,0.05
-1,124,0,4,0.05
-1,11th,0,4,0.05
-1,11g,0,4,0.05
+43,guide,419,4,0.05
+6,recipes,13,4,0.05
+5,things,10,4,0.05
+5,google,10,4,0.05
+1,104,0,4,0.05
+1,105,0,4,0.05
+4,net,6,4,0.05
+4,deep,7,4,0.05
+1,106,0,4,0.05
+1,107,0,4,0.05
+1,116,0,4,0.05
+3,quick,4,4,0.05
+2,suite,1,4,0.05
 1,119,0,4,0.05
-1,344,0,4,0.05
-1,379,0,4,0.05
-1,381,0,4,0.05
-1,386,0,4,0.05
-1,424,0,4,0.05
-1,425,0,4,0.05
-1,426,0,4,0.05
-1,427,0,4,0.05
-1,428,0,4,0.05
-1,429,0,4,0.05
-1,430,0,4,0.05
-1,420,0,4,0.05
-1,431,0,4,0.05
-1,438,0,4,0.05
-1,440,0,4,0.05
-1,441,0,4,0.05
-1,442,0,4,0.05
-1,443,0,4,0.05
-1,444,0,4,0.05
-1,447,0,4,0.05
-1,435,0,4,0.05
-1,416,0,4,0.05
-1,413,0,4,0.05
-1,412,0,4,0.05
+1,11th,0,4,0.05
+3,hands,4,4,0.05
+1,122,0,4,0.05
+2,wordpress,1,4,0.05
+1,126,0,4,0.05
+2,virtualization,1,4,0.05
+1,128,0,4,0.05
+1,131,0,4,0.05
+1,132,0,4,0.05
+2,tutori,1,4,0.05
+1,133,0,4,0.05
+1,134,0,4,0.05
+1,11g,0,4,0.05
+1,scala,0,4,0.05
+1,weblogic,0,4,0.05
+1,158,0,4,0.05
+1,stu,0,4,0.05
+1,structu,0,4,0.05
+1,strategic,0,4,0.05
+1,stl,0,4,0.05
+1,ste,0,4,0.05
+1,statistics,0,4,0.05
+1,stacking,0,4,0.05
+1,sqlite,0,4,0.05
+1,spectru,0,4,0.05
+1,solving,0,4,0.05
+1,solut,0,4,0.05
+1,solidwork,0,4,0.05
+1,studi,0,4,0.05
+1,solaris,0,4,0.05
+1,snes,0,4,0.05
+1,slice,0,4,0.05
+1,sitepoint,0,4,0.05
+1,simplified,0,4,0.05
+1,shortcuts,0,4,0.05
+1,sharepoint,0,4,0.05
+1,servlets,0,4,0.05
+1,246,0,4,0.05
+1,247,0,4,0.05
+1,249,0,4,0.05
+1,scrumban,0,4,0.05
+1,scientists,0,4,0.05
+1,sol,0,4,0.05
+1,volumes,0,4,0.05
+1,supercomputing,0,4,0.05
+1,syntax,0,4,0.05
+1,visualization,0,4,0.05
+1,visualizatio,0,4,0.05
+1,visu,0,4,0.05
+1,veritas,0,4,0.05
+1,utilities,0,4,0.05
+1,upgrading,0,4,0.05
+1,up,37,4,0.05
+1,unsupervised,0,4,0.05
+1,uno,0,4,0.05
+1,unlocked,0,4,0.05
+1,unleash,0,4,0.05
+1,ucs,0,4,0.05
+1,169,0,4,0.05
+1,typography,0,4,0.05
+1,troubleshooting,0,4,0.05
+1,troubleshootin,0,4,0.05
+1,165,0,4,0.05
+1,threads,0,4,0.05
+1,167,0,4,0.05
+1,matlab,0,4,0.05
+1,technologies,0,4,0.05
+1,tdd,0,4,0.05
+1,taming,0,4,0.05
+1,tableau,0,4,0.05
+1,table,0,4,0.05
+1,sysinternals,0,4,0.05
+1,tu,0,4,0.05
+1,274,0,4,0.05
+1,ras,0,4,0.05
+1,72,0,4,0.05
+1,399,0,4,0.05
+1,360,0,4,0.05
+1,408,0,4,0.05
+1,85,0,4,0.05
+1,87,0,4,0.05
+1,359,0,4,0.05
+1,355,0,4,0.05
+1,95,0,4,0.05
+1,354,0,4,0.05
+1,a32,0,4,0.05
+1,406,0,4,0.05
+1,abap,0,4,0.05
+1,absolute,0,4,0.05
+1,accelerated,0,4,0.05
+1,actionscript,0,4,0.05
+1,80,0,4,0.05
+1,395,0,4,0.05
+1,77,0,4,0.05
+1,394,0,4,0.05
+1,549,0,4,0.05
+1,555,0,4,0.05
 1,388,0,4,0.05
-1,390,0,4,0.05
 1,391,0,4,0.05
 1,392,0,4,0.05
-1,394,0,4,0.05
-1,395,0,4,0.05
-1,396,0,4,0.05
-1,397,0,4,0.05
-1,398,0,4,0.05
-1,3e,0,4,0.05
-1,400,0,4,0.05
-1,401,0,4,0.05
-1,402,0,4,0.05
-1,405,0,4,0.05
-1,407,0,4,0.05
-1,410,0,4,0.05
+1,556,0,4,0.05
+1,412,0,4,0.05
+1,ada,0,4,0.05
+1,557,0,4,0.05
+1,368,0,4,0.05
+1,63,0,4,0.05
+1,364,0,4,0.05
 1,411,0,4,0.05
-1,149,0,4,0.05
-1,156,0,4,0.05
-1,159,0,4,0.05
-1,334,0,4,0.05
-1,261,0,4,0.05
-1,212,0,4,0.05
-1,262,0,4,0.05
-1,267,0,4,0.05
-1,270,0,4,0.05
-1,271,0,4,0.05
-1,211,0,4,0.05
-1,256,0,4,0.05
-1,210,0,4,0.05
-1,273,0,4,0.05
-1,208,0,4,0.05
-1,274,0,4,0.05
-1,207,0,4,0.05
-1,276,0,4,0.05
-1,281,0,4,0.05
-1,282,0,4,0.05
-1,21,0,4,0.05
-1,255,0,4,0.05
-1,254,0,4,0.05
-1,252,0,4,0.05
-1,230,0,4,0.05
-1,232,0,4,0.05
-1,235,0,4,0.05
-1,224,0,4,0.05
-1,236,0,4,0.05
-1,220,0,4,0.05
-1,240,0,4,0.05
-1,242,0,4,0.05
-1,219,0,4,0.05
-1,215,0,4,0.05
-1,243,0,4,0.05
-1,244,0,4,0.05
-1,245,0,4,0.05
-1,247,0,4,0.05
-1,213,0,4,0.05
-1,248,0,4,0.05
-1,250,0,4,0.05
-1,206,0,4,0.05
-1,448,0,4,0.05
-1,283,0,4,0.05
-1,286,0,4,0.05
-1,312,0,4,0.05
-1,314,0,4,0.05
-1,172,0,4,0.05
-1,318,0,4,0.05
-1,320,0,4,0.05
-1,321,0,4,0.05
-1,323,0,4,0.05
-1,311,0,4,0.05
-1,166,0,4,0.05
-1,325,0,4,0.05
-1,327,0,4,0.05
-1,328,0,4,0.05
-1,329,0,4,0.05
-1,160,0,4,0.05
-1,331,0,4,0.05
-1,333,0,4,0.05
-1,324,0,4,0.05
-1,179,0,4,0.05
-1,180,0,4,0.05
-1,183,0,4,0.05
-1,287,0,4,0.05
-1,203,0,4,0.05
-1,288,0,4,0.05
-1,293,0,4,0.05
-1,297,0,4,0.05
-1,304,0,4,0.05
-1,202,0,4,0.05
-1,1z0-809,0,4,0.05
-1,305,0,4,0.05
-1,194,0,4,0.05
-1,307,0,4,0.05
-1,improve,0,4,0.05
-1,309,0,4,0.05
-1,310,0,4,0.05
-1,18e,0,4,0.05
-1,188,0,4,0.05
-1,186,0,4,0.05
-1,204,0,4,0.05
-1,450,0,4,0.05
-1,423,0,4,0.05
-1,452,0,4,0.05
-1,106,0,4,0.05
-1,curriculum,0,4,0.05
-1,daniel,0,4,0.05
-1,dart,0,4,0.05
-1,debugging,0,4,0.05
-1,delphi,0,4,0.05
-1,dev,0,4,0.05
-1,develop,0,4,0.05
-1,discoverer,0,4,0.05
-1,dive,0,4,0.05
-1,django,0,4,0.05
-1,dominance,0,4,0.05
-1,dragons,0,4,0.05
-1,dreamweaver,0,4,0.05
-1,drones,0,4,0.05
-1,104,0,4,0.05
-1,dynamics,0,4,0.05
-1,crunching,0,4,0.05
-1,cross,0,4,0.05
-1,crockford,0,4,0.05
-1,crm,0,4,0.05
-1,boring,0,4,0.05
-1,busy,0,4,0.05
-1,calculus,0,4,0.05
-1,capture,0,4,0.05
-1,ccsp,0,4,0.05
-1,cfa,0,4,0.05
-1,changes,0,4,0.05
-1,circuits,0,4,0.05
-1,earlyrel,0,4,0.05
-1,cissp-issmp,0,4,0.05
-1,coders,0,4,0.05
-1,collection,35,4,0.05
-1,comprehensive,0,4,0.05
-1,confidence,0,4,0.05
-1,confident,0,4,0.05
-1,consultant,0,4,0.05
-1,cooperativism,0,4,0.05
-1,corel,0,4,0.05
-1,451,0,4,0.05
-1,easy-build,0,4,0.05
-1,ecommerce,0,4,0.05
-1,editor,0,4,0.05
-1,gang,0,4,0.05
-1,gaps,0,4,0.05
-1,gems,0,4,0.05
-1,-32,0,4,0.05
-1,gis,0,4,0.05
-1,global,0,4,0.05
-1,gmat,0,4,0.05
-1,gourmet,0,4,0.05
-1,fusion,0,4,0.05
-1,groups,0,4,0.05
-1,habit,0,4,0.05
-1,hack,38,4,0.05
-1,hardening,0,4,0.05
-1,homework,0,4,0.05
-1,horizon,0,4,0.05
-1,hostile,0,4,0.05
-1,hybrid,0,4,0.05
-1,ide,0,4,0.05
-1,guiding,0,4,0.05
-1,blueprints,0,4,0.05
-1,frank,0,4,0.05
-1,fpgas,0,4,0.05
-1,ee,0,4,0.05
-1,electron,0,4,0.05
-1,elixir,0,4,0.05
-1,enabling,0,4,0.05
-1,engineers,0,4,0.05
-1,essbase,0,4,0.05
-1,extensibility,0,4,0.05
-1,finish,0,4,0.05
-1,framework,0,4,0.05
-1,fiori,0,4,0.05
-1,flash,0,4,0.05
-1,flask,0,4,0.05
-1,flexible,0,4,0.05
-1,103,0,4,0.05
-1,floating,0,4,0.05
-1,fluent,0,4,0.05
-1,formulas,0,4,0.05
-1,foundation,0,4,0.05
-1,firewalls,0,4,0.05
-1,bi,0,4,0.05
-1,cluster,0,4,0.05
+1,401,0,4,0.05
+1,393,0,4,0.05
+1,362,0,4,0.05
+1,558,0,4,0.05
+1,548,0,4,0.05
+1,aggregate,0,4,0.05
+1,angularjs,0,4,0.05
+1,automate,0,4,0.05
+1,availability,0,4,0.05
+1,based,0,4,0.05
+1,bdd,0,4,0.05
+1,376,0,4,0.05
 1,beaglebone,0,4,0.05
-1,486,0,4,0.05
-1,489,0,4,0.05
+1,342,0,4,0.05
+1,bette,0,4,0.05
+1,341,0,4,0.05
+1,340,0,4,0.05
+1,34,0,4,0.05
+1,blackha,0,4,0.05
+1,blink,0,4,0.05
+1,boring,0,4,0.05
+1,bui,0,4,0.05
+1,augmented,0,4,0.05
+1,344,0,4,0.05
+1,345,0,4,0.05
+1,347,0,4,0.05
+1,animations,0,4,0.05
+1,anonamization,0,4,0.05
+1,anthology,0,4,0.05
+1,348,0,4,0.05
+1,api,0,4,0.05
+1,apis,0,4,0.05
+1,apprentice,0,4,0.05
+1,always,0,4,0.05
+1,approa,0,4,0.05
+1,arc,0,4,0.05
+1,arcade,0,4,0.05
+1,architects,0,4,0.05
+1,architectural,0,4,0.05
+1,arm,0,4,0.05
+1,artificial,0,4,0.05
+1,assembly,0,4,0.05
+1,arbuckles,0,4,0.05
+1,busy,0,4,0.05
+1,546,0,4,0.05
+1,414,0,4,0.05
+1,464,0,4,0.05
+1,497,0,4,0.05
+1,463,0,4,0.05
+1,460,0,4,0.05
+1,498,0,4,0.05
+1,4t,0,4,0.05
+1,500,0,4,0.05
+1,502,0,4,0.05
+1,503,0,4,0.05
+1,504,0,4,0.05
+1,506,0,4,0.05
+1,507,0,4,0.05
+1,459,0,4,0.05
+1,454,0,4,0.05
+1,452,0,4,0.05
+1,466,0,4,0.05
+1,496,0,4,0.05
+1,495,0,4,0.05
+1,494,0,4,0.05
+1,470,0,4,0.05
+1,47,0,4,0.05
+1,469,0,4,0.05
+1,472,0,4,0.05
+1,473,0,4,0.05
+1,474,0,4,0.05
+1,475,0,4,0.05
+1,508,0,4,0.05
+1,477,0,4,0.05
+1,481,0,4,0.05
+1,468,0,4,0.05
+1,484,0,4,0.05
 1,490,0,4,0.05
 1,491,0,4,0.05
 1,492,0,4,0.05
 1,493,0,4,0.05
-1,494,0,4,0.05
-1,495,0,4,0.05
-1,4e,0,4,0.05
-1,484,0,4,0.05
+1,371,0,4,0.05
+1,413,0,4,0.05
+1,451,0,4,0.05
+1,447,0,4,0.05
+1,424,0,4,0.05
+1,423,0,4,0.05
+1,384,0,4,0.05
+1,42,0,4,0.05
+1,417,0,4,0.05
+1,415,0,4,0.05
+1,527,0,4,0.05
+1,369,0,4,0.05
+1,531,0,4,0.05
+1,533,0,4,0.05
+1,536,0,4,0.05
+1,387,0,4,0.05
+1,537,0,4,0.05
+1,539,0,4,0.05
+1,545,0,4,0.05
+1,425,0,4,0.05
+1,524,0,4,0.05
+1,431,0,4,0.05
+1,432,0,4,0.05
+1,444,0,4,0.05
+1,443,0,4,0.05
 1,50s,0,4,0.05
-1,5e,0,4,0.05
-1,72,0,4,0.05
-1,81,0,4,0.05
-1,91,0,4,0.05
-1,94,0,4,0.05
-1,95,0,4,0.05
-1,begin,0,4,0.05
-1,a32,0,4,0.05
-1,abap,0,4,0.05
-1,51,0,4,0.05
-1,absolute,0,4,0.05
-1,482,0,4,0.05
-1,480,0,4,0.05
-1,454,0,4,0.05
-1,455,0,4,0.05
-1,456,0,4,0.05
-1,457,0,4,0.05
-1,459,0,4,0.05
-1,461,0,4,0.05
-1,462,0,4,0.05
-1,464,0,4,0.05
-1,465,0,4,0.05
-1,481,0,4,0.05
-1,466,0,4,0.05
-1,470,0,4,0.05
+1,441,0,4,0.05
+1,511,0,4,0.05
+1,439,0,4,0.05
+1,513,0,4,0.05
+1,449,0,4,0.05
+1,514,0,4,0.05
+1,519,0,4,0.05
+1,436,0,4,0.05
+1,435,0,4,0.05
+1,mapping,0,4,0.05
+1,520,0,4,0.05
+1,521,0,4,0.05
+1,523,0,4,0.05
+1,518,0,4,0.05
+1,339,0,4,0.05
+1,bet,0,4,0.05
+1,ccf,0,4,0.05
+1,ha,0,4,0.05
+1,habit,0,4,0.05
+1,2n,0,4,0.05
+1,han,0,4,0.05
+1,hand,0,4,0.05
+1,hardening,0,4,0.05
+1,2e,0,4,0.05
+1,guiding,0,4,0.05
+1,homework,0,4,0.05
+1,hostile,0,4,0.05
+1,hybrid,0,4,0.05
+1,iaas,0,4,0.05
+1,ide,0,4,0.05
+1,iii,0,4,0.05
+1,295,0,4,0.05
+1,improve,0,4,0.05
+1,horizon,0,4,0.05
+1,294,0,4,0.05
+1,groups,0,4,0.05
+1,gmat,0,4,0.05
+1,flash,0,4,0.05
+1,flask,0,4,0.05
+1,flexible,0,4,0.05
+1,capture,0,4,0.05
+1,fluent,0,4,0.05
+1,fo,0,4,0.05
+1,formulas,0,4,0.05
+1,gourmet,0,4,0.05
+1,foundation,0,4,0.05
+1,fusion,0,4,0.05
+1,gang,0,4,0.05
+1,gaps,0,4,0.05
+1,gems,0,4,0.05
+1,383,0,4,0.05
+1,gis,0,4,0.05
+1,global,0,4,0.05
+1,fpgas,0,4,0.05
+1,indesign,0,4,0.05
+1,inf,0,4,0.05
+1,integrating,0,4,0.05
+1,lang,0,4,0.05
+1,lear,0,4,0.05
+1,leonardo,0,4,0.05
+1,285,0,4,0.05
+1,284,0,4,0.05
+1,li,0,4,0.05
+1,libgdx,0,4,0.05
+1,ladron2,0,4,0.05
+1,library,0,4,0.05
+1,380,0,4,0.05
+1,lisp,0,4,0.05
+1,loader,0,4,0.05
+1,lt,0,4,0.05
+1,278,0,4,0.05
+1,managemen,0,4,0.05
+1,277,0,4,0.05
+1,282,0,4,0.05
+1,kinect,0,4,0.05
+1,kanes,0,4,0.05
+1,jvm,0,4,0.05
+1,intelligent,0,4,0.05
+1,interactive,0,4,0.05
+1,interme,0,4,0.05
+1,interpreting,0,4,0.05
+1,290,0,4,0.05
+1,interviews,0,4,0.05
+1,inventors,0,4,0.05
+1,ionic,0,4,0.05
+1,ipa,0,4,0.05
+1,ipython,0,4,0.05
+1,405,0,4,0.05
+1,issmp,0,4,0.05
+1,italian,0,4,0.05
+1,jfc,0,4,0.05
+1,287,0,4,0.05
+1,jsp,0,4,0.05
+1,286,0,4,0.05
+1,308,0,4,0.05
+1,firewalls,0,4,0.05
+1,floating,0,4,0.05
+1,finish,0,4,0.05
+1,334,0,4,0.05
+1,332,0,4,0.05
+1,cross,0,4,0.05
+1,crunching,0,4,0.05
+1,curriculum,0,4,0.05
+1,customization,0,4,0.05
+1,328,0,4,0.05
+1,daniel,0,4,0.05
+1,dart,0,4,0.05
+1,databas,0,4,0.05
+1,326,0,4,0.05
+1,dbas,0,4,0.05
+1,debugging,0,4,0.05
+1,325,0,4,0.05
+1,fiori,0,4,0.05
+1,324,0,4,0.05
+1,delphi,0,4,0.05
+1,cou,0,4,0.05
+1,corel,0,4,0.05
+1,coo,0,4,0.05
+1,controllers,0,4,0.05
+1,ccsp,0,4,0.05
+1,cfa,0,4,0.05
+1,changes,0,4,0.05
+1,cinema,0,4,0.05
+1,circuits,0,4,0.05
+1,cissp,0,4,0.05
+1,clou,0,4,0.05
+1,cluster,0,4,0.05
+1,dev,0,4,0.05
+1,cms,0,4,0.05
+1,coc,0,4,0.05
+1,coco,0,4,0.05
+1,coder,0,4,0.05
+1,coders,0,4,0.05
+1,cole,0,4,0.05
+1,collection,37,4,0.05
+1,confidence,0,4,0.05
+1,consultant,0,4,0.05
+1,336,0,4,0.05
+1,develo,0,4,0.05
 1,471,0,4,0.05
-1,472,0,4,0.05
-1,473,0,4,0.05
-1,474,0,4,0.05
-1,476,0,4,0.05
-1,477,0,4,0.05
-1,478,0,4,0.05
-1,479,0,4,0.05
-1,469,0,4,0.05
-1,accelerated,0,4,0.05
-1,9e,0,4,0.05
-1,apprentice,0,4,0.05
-1,apis,0,4,0.05
-1,app-driven,0,4,0.05
-1,arbuckles,0,4,0.05
-1,architect,0,4,0.05
-1,architects,0,4,0.05
-1,architectural,0,4,0.05
-1,api,0,4,0.05
-1,arm,0,4,0.05
-1,assembly,0,4,0.05
-1,augmented,0,4,0.05
-1,automate,0,4,0.05
-1,availability,0,4,0.05
-1,azure,0,4,0.05
-1,bdd,0,4,0.05
-1,artificial,0,4,0.05
-1,ansible,0,4,0.05
-1,228,0,4,0.05
-1,anonamization,0,4,0.05
-1,actionscript,0,4,0.05
-1,ada,0,4,0.05
-1,animations,0,4,0.05
-1,aggregate,0,4,0.05
-1,agility,0,4,0.05
-1,always,0,4,0.05
-1,angularjs,0,4,0.05
-4,ubuntu,5,5,0.05
-4,os,6,5,0.05
+1,developme,0,4,0.05
+1,ee,0,4,0.05
+1,317,0,4,0.05
+1,elixir,0,4,0.05
+1,develop,0,4,0.05
+1,enabl,0,4,0.05
+1,314,0,4,0.05
+1,engineers,0,4,0.05
+1,enterp,0,4,0.05
+1,essbase,0,4,0.05
+1,312,0,4,0.05
+1,exc,0,4,0.05
+1,exce,0,4,0.05
+1,expl,0,4,0.05
+1,extensi,0,4,0.05
+1,features,0,4,0.05
+1,editor,0,4,0.05
+1,econo,0,4,0.05
+1,embedded,0,4,0.05
+1,318,0,4,0.05
+1,discoverer,0,4,0.05
+1,dreamweaver,0,4,0.05
+1,drones,0,4,0.05
+1,319,0,4,0.05
+1,dragons,0,4,0.05
+1,323,0,4,0.05
+1,ecommerce,0,4,0.05
+1,django,0,4,0.05
+1,320,0,4,0.05
+1,100,39,5,0.05
+4,tricks,5,5,0.05
 4,modern,5,5,0.05
-6,apple,12,5,0.05
-6,internet,13,5,0.05
-4,ipad,5,5,0.05
-5,things,9,5,0.05
-7,windows,17,5,0.05
-4,end,5,5,0.05
-3,vmware,2,6,0.05
+6,mastering,12,5,0.05
+4,5th,4,6,0.05
+3,apps,2,6,0.05
 3,node,2,6,0.05
-3,minecraft,2,6,0.05
-5,deep,7,6,0.05
-3,js,2,6,0.05
-4,games,4,6,0.05
-1,need,47,6,0.05
-7,system,12,7,0.01
-7,yourself,12,7,0.01
-5,5th,5,8,0.01
-3,implementing,1,8,0.01
-3,html,1,8,0.01
-3,reality,1,8,0.01
-3,macbook,1,8,0.01
-3,power,1,8,0.01
-4,app,3,8,0.01
-3,solid,1,8,0.01
+1,hack,43,6,0.05
+4,tutorial,84,6,0.05
+4,os,4,6,0.05
+7,internet,13,6,0.05
+5,testing,7,6,0.05
+4,build,4,6,0.05
+3,editio,2,6,0.05
+6,course,9,7,0.01
+3,express,1,8,0.01
+7,iphone,10,8,0.01
+5,professional,5,8,0.01
+5,applications,5,8,0.01
+3,driven,1,8,0.01
 3,cisco,1,8,0.01
+3,html,1,8,0.01
+3,project,1,8,0.01
+2,nonsense,0,8,0.01
 3,architecture,1,8,0.01
-5,take,5,8,0.01
-2,xna,0,8,0.01
-2,watch,0,8,0.01
-2,yocto,0,8,0.01
-3,2015,1,8,0.01
-6,course,8,8,0.01
-3,warfare,1,8,0.01
-3,pocket,1,8,0.01
-3,shell,1,8,0.01
-2,library,0,8,0.01
-2,unleashed,0,8,0.01
-2,drupal,0,8,0.01
-2,ec-council,0,8,0.01
-2,effective,0,8,0.01
-2,electrical,0,8,0.01
+2,scraping,0,8,0.01
 2,explorations,0,8,0.01
 2,geospatial,0,8,0.01
+2,sap,0,8,0.01
+2,rel,0,8,0.01
+2,reality,0,8,0.01
 2,graphics,0,8,0.01
+2,ranch,0,8,0.01
+2,ic3,0,8,0.01
+2,programmin,0,8,0.01
 2,imac,0,8,0.01
-2,infosec,0,8,0.01
-2,dbas,0,8,0.01
-2,ipod,0,8,0.01
-2,isc,0,8,0.01
-2,issap,0,8,0.01
-2,issep,0,8,0.01
-2,issmp,0,8,0.01
-2,joomla,0,8,0.01
-2,json,0,8,0.01
-2,libraries,0,8,0.01
-2,lpic,0,8,0.01
-2,macros,0,8,0.01
-2,isaca,0,8,0.01
-2,cyber-warfare,0,8,0.01
-2,csslp,0,8,0.01
-2,coreos,0,8,0.01
-2,cbk,0,8,0.01
-2,cap,0,8,0.01
-2,ccda,0,8,0.01
-2,asp,0,8,0.01
-2,apache,0,8,0.01
-2,ccde,0,8,0.01
-2,ccent,0,8,0.01
-2,ccie,0,8,0.01
-2,angular,0,8,0.01
-2,ccna,0,8,0.01
-2,ccnp,0,8,0.01
-2,centos,0,8,0.01
-2,4d,0,8,0.01
-2,24-hour,0,8,0.01
-2,cinema,0,8,0.01
-2,cissp,0,8,0.01
-2,cocos2d,0,8,0.01
-2,components,0,8,0.01
-2,comptia,0,8,0.01
-2,visually,0,8,0.01
-2,core,0,8,0.01
-2,maya,0,8,0.01
-2,media,0,8,0.01
+2,progr,0,8,0.01
 2,iot,0,8,0.01
 2,predictive,0,8,0.01
-2,powerful,0,8,0.01
+2,ipod,0,8,0.01
 2,platform,0,8,0.01
-2,publisher,0,8,0.01
-2,pygame,0,8,0.01
+2,joomla,0,8,0.01
+2,json,0,8,0.01
 2,performance,0,8,0.01
-2,outlook,0,8,0.01
-2,ranch,0,8,0.01
-2,reactive,0,8,0.01
 2,opengl,0,8,0.01
-2,sap,0,8,0.01
-2,sdk,0,8,0.01
-2,sinatra,0,8,0.01
-2,strategic-based,0,8,0.01
-2,onenote,0,8,0.01
-2,powerpoint,0,8,0.01
-2,objective-c,0,8,0.01
-2,microservices,0,8,0.01
-2,swing,0,8,0.01
-2,mobility,0,8,0.01
-2,multidisciplinary,0,8,0.01
-2,trainer,0,8,0.01
-2,troubleshooting,0,8,0.01
-2,nonsense,0,8,0.01
-2,suse,0,8,0.01
+2,objective,0,8,0.01
+2,object,0,8,0.01
 2,nerd,0,8,0.01
-2,best,78,9,0.01
+2,languages,0,8,0.01
+2,multidisciplin,0,8,0.01
+2,microservices,0,8,0.01
+2,macros,0,8,0.01
+2,macos,0,8,0.01
+2,electrical,0,8,0.01
+2,scripting,0,8,0.01
+2,editi,0,8,0.01
+2,5t,0,8,0.01
+2,angular,0,8,0.01
+2,appl,0,8,0.01
+3,adobe,1,8,0.01
+2,asp,0,8,0.01
+2,azure,0,8,0.01
+2,cbk,0,8,0.01
+2,centos,0,8,0.01
+2,components,0,8,0.01
+2,effective,0,8,0.01
+2,comptia,0,8,0.01
+2,unreal,0,8,0.01
+2,comprehensive,0,8,0.01
+2,coreos,0,8,0.01
+2,sdk,0,8,0.01
+2,ec,0,8,0.01
+2,crm,0,8,0.01
+2,sscp,0,8,0.01
+2,unleashed,0,8,0.01
+2,strateg,0,8,0.01
+2,swing,0,8,0.01
+2,creative,0,8,0.01
+2,sy,0,8,0.01
+2,trainer,0,8,0.01
+2,structures,0,8,0.01
+2,mach,0,8,0.01
+4,js,2,9,0.01
+4,made,2,9,0.01
+1,be,60,9,0.01
+5,reference,4,9,0.01
+5,take,4,9,0.01
 4,certified,2,9,0.01
-2,ultimate,77,9,0.01
-2,or,76,9,0.01
-4,from,112,10,0.01
-6,professional,5,11,0.001
-5,2016,3,11,0.001
-25,security,79,11,0.001
-5,content,3,11,0.001
+12,dummies,26,9,0.01
+4,2016,2,9,0.01
+25,security,79,10,0.01
+4,from,113,11,0.001
 6,building,5,11,0.001
-3,bootstrap,0,12,0.001
-3,2e,0,12,0.001
+2,best,83,11,0.001
+4,program,1,11,0.001
+4,pocket,1,11,0.001
+6,app,5,11,0.001
+4,implementing,1,11,0.001
+4,html5,1,11,0.001
+4,hour,1,11,0.001
+4,models,1,11,0.001
+3,unity,0,12,0.001
 3,2d,0,12,0.001
-1,new,75,12,0.001
-75,for,343,12,0.001
-7,analysis,7,12,0.001
-3,concurrency,0,12,0.001
-3,adobe,0,12,0.001
 3,devops,0,12,0.001
-3,algorithms,0,12,0.001
-3,terminal,0,12,0.001
 3,bash,0,12,0.001
-3,structures,0,12,0.001
-3,netbeans,0,12,0.001
+3,developmen,0,12,0.001
+3,designers,0,12,0.001
+3,core,0,12,0.001
+3,concurrency,0,12,0.001
+3,algorithms,0,12,0.001
+3,cap,0,12,0.001
+3,blueprints,0,12,0.001
+3,apache,0,12,0.001
+1,or,70,12,0.001
+6,games,4,12,0.001
+3,dynamics,0,12,0.001
+3,drupal,0,12,0.001
+3,enterprise,0,12,0.001
+3,studio,0,12,0.001
+3,ruby,0,12,0.001
+3,pygame,0,12,0.001
+3,vba,0,12,0.001
+3,powerful,0,12,0.001
 3,patterns,0,12,0.001
-4,hands-on,1,12,0.001
-4,computing,1,12,0.001
-4,models,1,12,0.001
+3,netbeans,0,12,0.001
+10,yourself,14,12,0.001
 3,modeling,0,12,0.001
+3,visually,0,12,0.001
 3,kids,0,12,0.001
 3,isc2,0,12,0.001
-4,html5,1,12,0.001
+3,isc,0,12,0.001
 3,inventor,0,12,0.001
-3,ic3,0,12,0.001
-4,program,1,12,0.001
-3,vba,0,12,0.001
-3,sierra,0,12,0.001
-3,visualization,0,12,0.001
+3,frameworks,0,12,0.001
+3,intermediate,0,12,0.001
 5,3d,2,13,0.001
-13,dummies,24,13,0.001
-5,line,2,13,0.001
-7,iphone,5,14,0.001
-4,creative,0,16,0.0001
+5,ed,2,13,0.001
+1,ultimate,83,15,0.001
+1,new,83,15,0.001
+6,on,158,15,0.001
+9,machine,8,16,0.0001
+80,for,332,16,0.0001
+4,sierra,0,16,0.0001
 4,cryptography,0,16,0.0001
-4,ruby,0,16,0.0001
-4,administration,0,16,0.0001
-4,3ds,0,16,0.0001
-4,designers,0,16,0.0001
-7,game,4,16,0.0001
-7,applications,4,16,0.0001
-4,cert,0,16,0.0001
-6,cyber,2,16,0.0001
-4,fundamentals,0,16,0.0001
-4,enterprise,0,16,0.0001
-4,sscp,0,16,0.0001
 4,react,0,16,0.0001
-4,unity,0,16,0.0001
-4,intermediate,0,16,0.0001
-4,languages,0,16,0.0001
-4,max,0,16,0.0001
-4,unreal,0,16,0.0001
 4,rails,0,16,0.0001
-4,php,0,16,0.0001
-5,spark,1,16,0.0001
+4,progra,0,16,0.0001
+4,reactive,0,16,0.0001
+4,power,0,16,0.0001
+4,hours,0,16,0.0001
+9,analysis,7,17,0.0001
 8,server,5,17,0.0001
+7,release,3,17,0.0001
 11,learn,11,18,0.0001
-10,machine,8,19,0.0001
-6,projects,1,19,0.0001
-6,sql,1,19,0.0001
-7,developers,2,20,0.0001
+6,warfare,1,19,0.0001
+6,line,1,19,0.0001
+6,content,1,19,0.0001
+6,spark,1,19,0.0001
 7,4th,2,20,0.0001
-18,linux,30,20,0.0001
-7,approach,2,20,0.0001
-7,management,2,20,0.0001
-7,design,2,20,0.0001
-9,ed,5,21,0.0001
-5,autodesk,0,21,0.0001
-5,openstack,0,21,0.0001
-5,certification,0,21,0.0001
-5,apps,0,21,0.0001
-5,crash,0,21,0.0001
-5,jquery,0,21,0.0001
-5,networking,0,21,0.0001
-5,programmers,0,21,0.0001
-5,studio,0,21,0.0001
-5,command,0,21,0.0001
-5,12c,0,21,0.0001
-8,control,2,24,0.0001
-1,method,126,24,0.0001
-8,visual,2,24,0.0001
-1,get,124,24,0.0001
-6,cms,0,25,0.0001
-6,coding,0,25,0.0001
+5,programmers,0,20,0.0001
+5,3ds,0,20,0.0001
+7,cloud,2,20,0.0001
+5,bootstrap,0,20,0.0001
+5,administration,0,20,0.0001
+5,computing,0,20,0.0001
+5,php,0,20,0.0001
+5,openstack,0,20,0.0001
+5,cert,0,20,0.0001
+5,max,0,20,0.0001
+5,jquery,0,20,0.0001
+5,networking,0,20,0.0001
+5,crash,0,20,0.0001
+8,game,3,21,0.0001
+8,pi,3,21,0.0001
+8,raspberry,3,21,0.0001
+7,developers,1,23,0.0001
+7,projects,1,23,0.0001
+8,control,2,23,0.0001
+8,design,2,23,0.0001
+8,essentials,2,23,0.0001
+9,early,3,24,0.0001
+20,linux,29,24,0.0001
+6,example,0,25,0.0001
+6,certification,0,25,0.0001
+1,get,124,25,0.0001
+6,command,0,25,0.0001
+6,management,0,25,0.0001
+1,method,126,25,0.0001
 6,css,0,25,0.0001
 6,css3,0,25,0.0001
-2,your,151,25,0.0001
-9,early,3,25,0.0001
-6,example,0,25,0.0001
-6,hours,0,25,0.0001
+6,database,0,25,0.0001
 6,introducing,0,25,0.0001
-6,teach,0,25,0.0001
-10,microsoft,4,26,0.0001
-2,on,155,26,0.0001
-10,cloud,4,26,0.0001
-9,raspberry,2,28,0.0001
-9,pi,2,28,0.0001
-7,database,0,29,0.0001
-23,beginners,33,30,0.0001
-11,language,3,32,0.0001
-10,essentials,2,32,0.0001
-8,arduino,0,33,0.0001
-1,--,171,35,0.0001
-19,web,16,36,0.0001
-14,3rd,6,36,0.0001
-9,autocad,0,38,0.0001
-62,with,164,39,0.0001
-12,release,2,39,0.0001
-19,data,12,42,0.0001
-12,analytics,1,44,0.0001
-11,frameworks,0,46,0.0001
-11,murach,0,46,0.0001
-12,sharp,0,50,0.0001
-20,cookbook,9,51,0.0001
-20,learning,7,55,0.0001
-13,swift,0,55,0.0001
-19,ios,5,57,0.0001
-24,android,13,57,0.0001
-16,application,1,60,0.0001
-15,excel,0,63,0.0001
-25,introduction,11,64,0.0001
-18,plus,1,68,0.0001
-17,oracle,0,72,0.0001
-22,javascript,1,85,0.0001
-31,pick-a-book,7,96,0.0001
-32,pick-10-book,5,107,0.0001
-65,list,53,126,0.0001
-36,development,2,137,0.0001
-47,2nd,10,148,0.0001
-35,java,0,148,0.0001
-38,beginning,0,161,0.0001
-74,edition,40,176,0.0001
-69,python,3,268,0.0001
-94,programming,2,379,0.0001
+6,12c,0,25,0.0001
+9,language,2,27,0.0001
+10,cyber,3,28,0.0001
+2,your,156,28,0.0001
+7,coding,0,29,0.0001
+7,fundamentals,0,29,0.0001
+7,autodesk,0,29,0.0001
+23,beginners,31,30,0.0001
+9,sql,1,31,0.0001
+9,teach,1,31,0.0001
+14,3rd,7,33,0.0001
+13,microsoft,5,34,0.0001
+11,visual,2,35,0.0001
+63,with,168,36,0.0001
+11,application,1,39,0.0001
+18,cookbook,10,41,0.0001
+20,data,12,44,0.0001
+18,ios,7,47,0.0001
+22,web,14,47,0.0001
+12,murach,0,50,0.0001
+12,arduino,0,50,0.0001
+12,excel,0,50,0.0001
+13,analytics,0,54,0.0001
+13,autocad,0,54,0.0001
+21,learning,7,57,0.0001
+14,sharp,0,58,0.0001
+26,android,15,58,0.0001
+14,swift,0,58,0.0001
+26,introduction,14,60,0.0001
+18,plus,0,75,0.0001
+18,oracle,0,75,0.0001
+23,javascript,1,87,0.0001
+30,development,2,110,0.0001
+73,list,58,140,0.0001
+35,java,0,146,0.0001
+76,book,59,147,0.0001
+48,2nd,9,152,0.0001
+61,edition,27,153,0.0001
+40,beginning,0,166,0.0001
+73,pick,20,213,0.0001
+73,python,3,280,0.0001
+94,programming,2,373,0.0001

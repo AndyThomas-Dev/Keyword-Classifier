@@ -1,34 +1,28 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-1,you,108,3,Not significant
-1,all,49,4,0.05
-1,linux,47,4,0.05
-1,buy,53,4,0.05
-1,good,26,5,0.05
-1,software,20,6,0.05
-1,know,23,6,0.05
-1,megapack,22,6,0.05
-1,could,9,7,0.01
-1,onion,11,7,0.01
-1,tools,13,7,0.01
-1,ever,6,8,0.01
-1,who,6,8,0.01
-1,build,6,8,0.01
-3,for,415,8,0.01
-1,against,4,9,0.01
-1,script,2,10,0.01
-1,botnet,1,11,0.001
-1,discussion,1,11,0.001
-1,those,1,11,0.001
-2,methods,40,12,0.001
-1,dos,0,14,0.001
-1,scripts,0,14,0.001
-1,imagine,0,14,0.001
-1,ddosers,0,14,0.001
-1,ghostsquad,0,14,0.001
-1,stresser,0,14,0.001
-2,perl,2,23,0.0001
-2,defending,1,24,0.0001
-2,experimental,0,28,0.0001
-2,theoretical,0,28,0.0001
-5,ddos,1,66,0.0001
+2,for,410,2,Not significant
+1,you,116,2,Not significant
+1,linux,48,3,Not significant
+1,all,51,3,Not significant
+1,megapack,25,4,0.05
+1,software,19,5,0.05
+1,onion,11,6,0.05
+1,tools,11,6,0.05
+1,build,7,7,0.01
+1,could,7,7,0.01
+1,ever,5,7,0.01
+1,perl,2,9,0.01
+1,discussion,1,10,0.01
+1,defending,1,10,0.01
+1,botnet,1,10,0.01
+2,methods,38,10,0.01
+1,ghostsquad,0,13,0.001
+1,imagin,0,13,0.001
+1,dos,0,13,0.001
+1,scripts,0,13,0.001
+1,stresser,0,13,0.001
+1,defen,0,13,0.001
+1,ddosers,0,13,0.001
+2,theoretical,0,26,0.0001
+2,experimental,0,26,0.0001
+4,ddos,1,48,0.0001

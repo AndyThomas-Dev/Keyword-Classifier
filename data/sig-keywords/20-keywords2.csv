@@ -1,56 +1,53 @@
 freq,word,exfreq,LL,sig
 0,how,0,0,Not significant
-2,guide,459,0,Not significant
-1,pack,111,0,Not significant
-1,method,126,0,Not significant
-1,from,115,0,Not significant
-1,for,417,0,Not significant
-1,on,156,0,Not significant
 0,of,0,0,Not significant
 0,to,0,0,Not significant
-1,using,75,1,Not significant
-1,ultimate,78,1,Not significant
+2,guide,460,0,Not significant
+1,pack,119,0,Not significant
+1,on,163,0,Not significant
+1,method,126,0,Not significant
+1,for,411,0,Not significant
+1,from,116,0,Not significant
+1,using,76,1,Not significant
+1,ultimate,83,1,Not significant
 1,guides,67,1,Not significant
-1,more,31,2,Not significant
-1,day,35,2,Not significant
-1,anyone,32,2,Not significant
-1,methods,41,2,Not significant
-1,through,18,3,Not significant
-1,private,25,3,Not significant
-1,very,18,3,Not significant
-1,user,11,4,0.05
-1,wireless,11,4,0.05
-1,than,14,4,0.05
+1,anyone,34,2,Not significant
+1,methods,39,2,Not significant
+1,private,29,3,Not significant
+1,more,21,3,Not significant
+1,day,30,3,Not significant
+1,facebook,17,4,0.05
 1,send,14,4,0.05
-1,ways,14,4,0.05
-1,link,10,4,0.05
-1,got,13,4,0.05
-1,sending,6,5,0.05
-1,networks,6,5,0.05
-1,daily,8,5,0.05
+1,through,16,4,0.05
+1,user,13,4,0.05
+1,got,14,4,0.05
+1,very,13,4,0.05
+1,than,12,4,0.05
+1,wireless,14,4,0.05
+1,10,12,4,0.05
+1,ways,18,4,0.05
 1,message,8,5,0.05
-1,avoid,6,5,0.05
-1,download,4,6,0.05
-1,autopilot,5,6,0.05
-1,minecraft,4,6,0.05
+1,daily,7,5,0.05
 1,models,4,6,0.05
-2,easy,55,6,0.05
-1,chat,3,7,0.01
-2,me,35,7,0.01
-1,sent,2,7,0.01
-1,rat,2,7,0.01
-1,nice,1,8,0.01
-2,facebook,16,10,0.01
-4,your,149,10,0.01
+1,avoid,4,6,0.05
+1,sending,6,6,0.05
+1,autopilot,5,6,0.05
+2,easy,48,7,0.01
+2,me,39,7,0.01
+1,sent,2,8,0.01
+1,minecraft,2,8,0.01
+1,rat,1,9,0.01
+1,nice,1,9,0.01
+1,keylogger,1,9,0.01
+1,complex,0,11,0.001
+1,diffusion,0,11,0.001
+1,downlo,0,11,0.001
 1,killermachine,0,11,0.001
 1,he,0,11,0.001
-1,diffusion,0,11,0.001
 1,themostsecrit,0,11,0.001
-1,complex,0,11,0.001
-2,malware,9,12,0.001
-2,slaves,2,17,0.0001
-2,keylogger,1,19,0.0001
-2,trojan,1,19,0.0001
-3,spread,0,34,0.0001
-4,virus,2,38,0.0001
-4,spreading,0,46,0.0001
+5,your,153,15,0.001
+2,slaves,2,18,0.0001
+2,virus,2,18,0.0001
+3,malware,8,22,0.0001
+4,spreading,0,47,0.0001
+4,spread,0,47,0.0001

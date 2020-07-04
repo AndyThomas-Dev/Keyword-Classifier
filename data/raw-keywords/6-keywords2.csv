@@ -3,7 +3,6 @@ freq,word
 0,make
 0,the
 0,to
-1,clear
 1,disappear
 1,from
 1,image
@@ -11,12 +10,12 @@ freq,word
 1,lien
 1,mugshot
 1,or
-1,records
 1,removal
 1,tax
-1,▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 2,clean
+2,clear
 2,clone
 2,history
-3,criminal
-3,your
+2,records
+4,criminal
+4,your

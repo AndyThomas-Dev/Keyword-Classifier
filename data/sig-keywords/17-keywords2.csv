@@ -1,45 +1,38 @@
 freq,word,exfreq,LL,sig
 0,the,0,0,Not significant
 0,to,0,0,Not significant
-3,guide,458,1,Not significant
-1,beginners,55,1,Not significant
-1,by,62,1,Not significant
-1,new,75,1,Not significant
+1,beginners,53,2,Not significant
 1,virtual,20,3,Not significant
-1,biggest,11,4,0.05
-1,templates,16,4,0.05
-1,earn,15,4,0.05
-1,pro,14,4,0.05
-2,ultimate,77,5,0.05
-2,guides,66,5,0.05
+1,software,19,3,Not significant
+1,pro,21,3,Not significant
+1,earn,16,4,0.05
+2,ultimate,82,5,0.05
+1,biggest,10,5,0.05
+2,new,82,5,0.05
 1,websites,10,5,0.05
-1,000,7,5,0.05
-1,pics,5,6,0.05
-1,paradise,2,7,0.01
-1,70,3,7,0.01
-2,day,34,8,0.01
-2,items,19,10,0.01
-2,software,19,10,0.01
-1,ewhore,0,11,0.001
-1,"37,000",0,11,0.001
-1,vcw,0,11,0.001
-1,50-100,0,11,0.001
-1,cam,0,11,0.001
-1,▶templates,0,11,0.001
-1,vcws,0,11,0.001
-1,▶guides,0,11,0.001
-1,▶e-whore,0,11,0.001
-1,whoring,0,11,0.001
+2,by,71,5,0.05
+1,pics,4,6,0.05
+5,guide,457,6,0.05
+1,templa,3,7,0.01
+1,70,2,7,0.01
+2,day,29,8,0.01
+1,temp,1,9,0.01
+2,items,21,10,0.01
+2,000,19,10,0.01
 1,whores,0,11,0.001
-1,theshop™,0,11,0.001
-1,▶software,0,11,0.001
-2,ultra,7,13,0.001
-2,pictures,3,16,0.0001
+1,vcws,0,11,0.001
+1,vcw,0,11,0.001
+1,cam,0,11,0.001
+3,guides,65,11,0.001
+1,ewhore,0,11,0.001
+2,ultra,9,13,0.001
 2,videos,3,16,0.0001
-5,pack,107,18,0.0001
-2,ewhoring,0,23,0.0001
-2,pornleech,0,23,0.0001
+2,pictures,3,16,0.0001
+5,pack,115,17,0.0001
+2,paradise,2,18,0.0001
+2,theshop,2,18,0.0001
 2,terminator,0,23,0.0001
-3,autopilot,3,26,0.0001
-3,e-whoring,0,35,0.0001
-4,e-whore,0,46,0.0001
+3,whore,0,35,0.0001
+4,autopilot,2,39,0.0001
+4,ewhoring,0,47,0.0001
+5,whoring,0,58,0.0001

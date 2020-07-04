@@ -1,714 +1,671 @@
 freq,word,exfreq,LL,sig
-0,'s,0,0,Not significant
-1,pin,6,0,Not significant
-1,people,12,0,Not significant
-1,pdf,11,0,Not significant
-1,options,3,0,Not significant
-1,onion,11,0,Not significant
-1,official,6,0,Not significant
-1,place,8,0,Not significant
-1,off,8,0,Not significant
-1,non,4,0,Not significant
-1,ninja,3,0,Not significant
-1,next,9,0,Not significant
-1,newbie,13,0,Not significant
-1,needed,11,0,Not significant
-1,month,10,0,Not significant
-1,noobs,8,0,Not significant
-1,mega,18,0,Not significant
-1,police,8,0,Not significant
-1,quality,6,0,Not significant
-1,stealth,11,0,Not significant
-1,start,8,0,Not significant
-1,starbucks,6,0,Not significant
-1,special,3,0,Not significant
-1,some,15,0,Not significant
-1,software,20,0,Not significant
-1,profit,9,0,Not significant
-1,shop,4,0,Not significant
-1,secure,22,0,Not significant
-1,se,4,0,Not significant
-1,report,6,0,Not significant
-1,refunds,4,0,Not significant
-1,recommend,6,0,Not significant
-1,read,15,0,Not significant
-1,set,11,0,Not significant
-1,marketplace,7,0,Not significant
-1,marketing,4,0,Not significant
-1,market,13,0,Not significant
-1,home,21,0,Not significant
-1,helix,3,0,Not significant
-1,has,13,0,Not significant
-1,golden,4,0,Not significant
-1,god,5,0,Not significant
-1,game,10,0,Not significant
-1,id,19,0,Not significant
-1,front,5,0,Not significant
-1,first,12,0,Not significant
-1,everything,11,0,Not significant
-1,ever,6,0,Not significant
-1,eu,8,0,Not significant
-1,etc,12,0,Not significant
-1,electrum,3,0,Not significant
-1,french,5,0,Not significant
-1,if,15,0,Not significant
-1,info,8,0,Not significant
-1,investigation,3,0,Not significant
-1,man,5,0,Not significant
-1,maker,3,0,Not significant
-1,looking,5,0,Not significant
-1,loan,3,0,Not significant
-1,links,8,0,Not significant
-1,like,8,0,Not significant
-1,light,3,0,Not significant
-1,left,4,0,Not significant
-1,learn,21,0,Not significant
-1,le,23,0,Not significant
-1,know,23,0,Not significant
-1,killing,3,0,Not significant
-1,issue,5,0,Not significant
-1,iphones,4,0,Not significant
-1,ip,19,0,Not significant
-1,store,6,0,Not significant
-1,support,4,0,Not significant
-1,talk,6,0,Not significant
-1,tell,5,0,Not significant
-3,without,21,0,Not significant
-3,very,16,0,Not significant
-3,us,28,0,Not significant
-3,this,43,0,Not significant
-3,private,23,0,Not significant
-3,own,27,0,Not significant
-4,2017,23,0,Not significant
-3,over,30,0,Not significant
-3,full,19,0,Not significant
-3,ebay,17,0,Not significant
-3,can,45,0,Not significant
-3,buying,19,0,Not significant
-3,big,39,0,Not significant
-2,vendor,34,0,Not significant
-3,high,22,0,Not significant
-4,anyone,29,0,Not significant
-4,sites,33,0,Not significant
-4,step,26,0,Not significant
-22,with,204,0,Not significant
-12,from,104,0,Not significant
-9,money,64,0,Not significant
-9,get,116,0,Not significant
-8,ultimate,71,0,Not significant
-8,pack,104,0,Not significant
-7,uk,60,0,Not significant
-7,tutorial,85,0,Not significant
-6,no,49,0,Not significant
-6,guides,62,0,Not significant
-6,any,40,0,Not significant
-5,use,55,0,Not significant
-5,complete,61,0,Not significant
-4,way,25,0,Not significant
-4,up,35,0,Not significant
-2,that,16,0,Not significant
-1,edit,4,0,Not significant
-2,system,17,0,Not significant
-2,safely,17,0,Not significant
-1,who,6,0,Not significant
-1,where,12,0,Not significant
-1,websites,10,0,Not significant
-1,wants,3,0,Not significant
-1,virtualbox,4,0,Not significant
-1,used,5,0,Not significant
-1,whonix,21,0,Not significant
-1,ultra,8,0,Not significant
-1,tips,17,0,Not significant
-1,time,19,0,Not significant
-1,through,18,0,Not significant
-1,thousands,5,0,Not significant
-1,these,3,0,Not significant
-1,them,3,0,Not significant
-1,total,6,0,Not significant
-1,why,11,0,Not significant
-1,withdraw,7,0,Not significant
-1,work,16,0,Not significant
-2,real,12,0,Not significant
-2,problem,24,0,Not significant
-2,noob,19,0,Not significant
-2,n't,14,0,Not significant
-2,me,35,0,Not significant
-2,here,17,0,Not significant
-2,fake,32,0,Not significant
-2,evolution,9,0,Not significant
-2,drops,14,0,Not significant
-2,cardable,30,0,Not significant
-2,bible,22,0,Not significant
-2,atm,12,0,Not significant
-2,as,18,0,Not significant
-1,yourself,18,0,Not significant
-1,world,18,0,Not significant
-2,straight,31,0,Not significant
-1,earn,15,0,Not significant
-1,site,12,0,Not significant
-1,dumps,9,0,Not significant
-1,blockchain,20,0,Not significant
-1,alternative,6,0,Not significant
-1,different,3,0,Not significant
-1,before,11,0,Not significant
-1,basics,9,0,Not significant
-1,back,11,0,Not significant
-1,anything,15,0,Not significant
-1,checking,5,0,Not significant
-1,66,5,0,Not significant
-1,copies,5,0,Not significant
-1,70,3,0,Not significant
-1,country,4,0,Not significant
-1,anonymously,16,0,Not significant
-1,currency,13,0,Not significant
-1,again,9,0,Not significant
-1,almost,12,0,Not significant
-1,antidetect,5,0,Not significant
-1,business,17,0,Not significant
-1,amount,3,0,Not significant
-1,but,10,0,Not significant
 0,and,0,0,Not significant
-0,how,0,0,Not significant
-1,carders,7,0,Not significant
-1,change,15,0,Not significant
-0,make,0,0,Not significant
-0,of,0,0,Not significant
-0,the,0,0,Not significant
+1,like,7,0,Not significant
+2,problem,26,0,Not significant
+1,links,9,0,Not significant
+1,logs,5,0,Not significant
+2,over,28,0,Not significant
+1,long,3,0,Not significant
+1,looking,5,0,Not significant
+2,onion,10,0,Not significant
+1,man,7,0,Not significant
+2,off,10,0,Not significant
+1,marketplace,7,0,Not significant
+1,master,11,0,Not significant
+1,may,7,0,Not significant
+1,level,4,0,Not significant
+1,meth,11,0,Not significant
+1,mine,3,0,Not significant
+2,mega,28,0,Not significant
+1,month,10,0,Not significant
+1,more,21,0,Not significant
+2,live,10,0,Not significant
+2,great,10,0,Not significant
+1,needed,11,0,Not significant
+1,newbie,15,0,Not significant
+1,ninja,3,0,Not significant
+1,non,5,0,Not significant
+1,noobs,9,0,Not significant
+2,find,9,0,Not significant
+2,fake,29,0,Not significant
+2,never,9,0,Not significant
+2,evo,9,0,Not significant
+1,learn,21,0,Not significant
+1,know,23,0,Not significant
+3,buying,17,0,Not significant
+1,eu,7,0,Not significant
+1,ever,5,0,Not significant
+1,everything,11,0,Not significant
+1,evolution,9,0,Not significant
+1,exclusive,9,0,Not significant
+3,100,37,0,Not significant
+1,french,6,0,Not significant
+1,front,5,0,Not significant
+1,full,21,0,Not significant
+1,game,10,0,Not significant
+1,god,6,0,Not significant
+1,golden,4,0,Not significant
+2,real,12,0,Not significant
+2,us,28,0,Not significant
+1,has,13,0,Not significant
+1,helix,3,0,Not significant
+1,home,21,0,Not significant
+1,id,19,0,Not significant
+1,important,4,0,Not significant
+1,info,11,0,Not significant
+1,into,18,0,Not significant
+1,investigation,5,0,Not significant
+1,ip,21,0,Not significant
+1,usd,4,0,Not significant
+1,issue,5,0,Not significant
+2,sale,14,0,Not significant
+2,safely,16,0,Not significant
+2,tips,17,0,Not significant
+1,official,5,0,Not significant
+2,ebay,17,0,Not significant
+1,options,4,0,Not significant
+1,why,13,0,Not significant
+1,shop,4,0,Not significant
+1,whonix,22,0,Not significant
+1,who,5,0,Not significant
+1,site,11,0,Not significant
+1,slow,3,0,Not significant
+1,sold,5,0,Not significant
+1,some,14,0,Not significant
+1,where,14,0,Not significant
+1,special,3,0,Not significant
+1,starbucks,7,0,Not significant
+1,start,7,0,Not significant
+1,stealth,11,0,Not significant
+1,withdraw,6,0,Not significant
+1,stolen,3,0,Not significant
+1,we,13,0,Not significant
+1,talk,7,0,Not significant
+1,tell,5,0,Not significant
+1,term,4,0,Not significant
+1,wants,3,0,Not significant
+1,that,18,0,Not significant
+1,these,3,0,Not significant
+1,thousands,5,0,Not significant
+1,through,16,0,Not significant
+1,time,14,0,Not significant
+1,virtualbox,4,0,Not significant
+1,ultra,10,0,Not significant
+1,url,3,0,Not significant
+1,store,7,0,Not significant
+1,seven,3,0,Not significant
+1,without,21,0,Not significant
+1,seller,8,0,Not significant
+1,paradise,3,0,Not significant
+1,pay,11,0,Not significant
+1,pdf,9,0,Not significant
+1,people,13,0,Not significant
+1,pin,5,0,Not significant
+1,place,8,0,Not significant
+1,police,10,0,Not significant
+2,big,37,0,Not significant
+1,pre,4,0,Not significant
+2,bible,24,0,Not significant
+1,prepaid,4,0,Not significant
+2,atm,12,0,Not significant
+2,as,19,0,Not significant
+1,pro,21,0,Not significant
+2,anon,13,0,Not significant
+1,profit,7,0,Not significant
+1,quality,6,0,Not significant
+2,000,19,0,Not significant
+1,yourself,23,0,Not significant
+1,rate,3,0,Not significant
+1,read,16,0,Not significant
+1,receive,6,0,Not significant
+1,recommend,6,0,Not significant
+1,refunds,3,0,Not significant
+1,report,6,0,Not significant
+1,router,3,0,Not significant
+1,se,12,0,Not significant
+1,world,17,0,Not significant
+1,secure,23,0,Not significant
+1,electrum,4,0,Not significant
+1,edit,8,0,Not significant
+1,iphones,3,0,Not significant
+1,used,6,0,Not significant
+1,30,6,0,Not significant
+1,1500,3,0,Not significant
+4,way,22,0,Not significant
+1,closed,4,0,Not significant
+4,what,57,0,Not significant
+14,from,103,0,Not significant
+9,or,62,0,Not significant
+25,with,206,0,Not significant
 0,to,0,0,Not significant
-1,cheapest,3,0,Not significant
-1,14,4,0,Not significant
-1,dont,4,0,Not significant
-1,does,15,0,Not significant
+5,complete,63,0,Not significant
+4,an,46,0,Not significant
+1,bi,3,0,Not significant
+1,before,12,0,Not significant
+1,days,6,0,Not significant
+3,own,27,0,Not significant
+1,basics,10,0,Not significant
+3,sites,32,0,Not significant
+1,checking,4,0,Not significant
 1,carded,15,0,Not significant
-1,000,7,0,Not significant
-1,bypass,7,0,Not significant
-1,check,20,0,Not significant
-1,premium,25,1,Not significant
-1,questions,27,1,Not significant
+1,ca,7,0,Not significant
+10,ultimate,74,0,Not significant
+1,bypass,6,0,Not significant
+1,but,9,0,Not significant
+3,this,44,0,Not significant
+4,private,26,0,Not significant
+4,anyone,31,0,Not significant
+4,can,57,0,Not significant
+1,change,18,0,Not significant
+1,25,6,0,Not significant
+9,pack,111,0,Not significant
+1,blockchain,17,0,Not significant
+1,check,21,0,Not significant
+3,step,32,0,Not significant
+5,no,42,0,Not significant
+0,the,0,0,Not significant
+9,get,116,0,Not significant
+1,4k,3,0,Not significant
+1,down,3,0,Not significant
+0,how,0,0,Not significant
+8,by,65,0,Not significant
+1,46,3,0,Not significant
+1,double,16,0,Not significant
+1,advice,22,0,Not significant
+1,dont,4,0,Not significant
+1,after,13,0,Not significant
+1,don,5,0,Not significant
+1,alternative,7,0,Not significant
+1,does,13,0,Not significant
+6,using,71,0,Not significant
+0,make,0,0,Not significant
+6,use,63,0,Not significant
+1,antidetect,6,0,Not significant
+6,uk,58,0,Not significant
+1,australia,8,0,Not significant
+3,high,22,0,Not significant
+8,tutorial,80,0,Not significant
+3,noob,19,0,Not significant
+6,guides,62,0,Not significant
+1,available,4,0,Not significant
+0,of,0,0,Not significant
+5,day,26,1,Not significant
 1,recieve,2,1,Not significant
-1,paradise,2,1,Not significant
+8,free,116,1,Not significant
+1,marketing,2,1,Not significant
+1,major,2,1,Not significant
+1,burned,2,1,Not significant
+2,almost,8,1,Not significant
+1,questions,31,1,Not significant
+2,friendly,6,1,Not significant
+1,middle,2,1,Not significant
+1,newly,2,1,Not significant
+1,same,2,1,Not significant
+5,2017,27,1,Not significant
 1,reliable,2,1,Not significant
-1,rings,2,1,Not significant
-1,tutorials,30,1,Not significant
-1,trust,2,1,Not significant
-1,seven,2,1,Not significant
-1,blackhat,2,1,Not significant
-1,offers,2,1,Not significant
-1,threat,2,1,Not significant
-1,ask,2,1,Not significant
-1,at,32,1,Not significant
-1,term,2,1,Not significant
+2,me,39,1,Not significant
 1,sent,2,1,Not significant
-1,status,2,1,Not significant
-1,sept,2,1,Not significant
-1,slow,2,1,Not significant
-1,router,2,1,Not significant
-1,✪✪✪,2,1,Not significant
-1,acc,2,1,Not significant
-3,about,52,1,Not significant
-1,216,2,1,Not significant
-3,personal,12,1,Not significant
-3,price,14,1,Not significant
-3,really,11,1,Not significant
-3,sale,11,1,Not significant
-3,update,12,1,Not significant
-2,worldwide,7,1,Not significant
-3,what,53,1,Not significant
-4,my,75,1,Not significant
-4,using,72,1,Not significant
-6,day,30,1,Not significant
-1,'',26,1,Not significant
-8,buy,46,1,Not significant
-10,or,68,1,Not significant
-11,best,69,1,Not significant
-1,100,25,1,Not significant
-2,vbv,6,1,Not significant
-2,v1,6,1,Not significant
-2,usd,6,1,Not significant
+1,rings,2,1,Not significant
+1,multi,2,1,Not significant
+1,premium,26,1,Not significant
+1,blackhat,2,1,Not significant
+1,at,31,1,Not significant
+4,updated,21,1,Not significant
+4,my,73,1,Not significant
+11,money,67,1,Not significant
 1,75,2,1,Not significant
-1,more,31,1,Not significant
-2,25,7,1,Not significant
-2,an,42,1,Not significant
-2,anon,8,1,Not significant
-2,drop,43,1,Not significant
-1,375,2,1,Not significant
-1,348,2,1,Not significant
-2,find,8,1,Not significant
-2,friendly,7,1,Not significant
-2,never,7,1,Not significant
-2,poker,6,1,Not significant
-2,receive,6,1,Not significant
-2,same,6,1,Not significant
-2,stripe,7,1,Not significant
-2,tested,7,1,Not significant
-1,231,2,1,Not significant
-1,venmo,2,1,Not significant
-1,mine,2,1,Not significant
-1,``,27,1,Not significant
+3,very,11,1,Not significant
 1,exchange,2,1,Not significant
-1,long,2,1,Not significant
-1,currencies,2,1,Not significant
-1,lets,2,1,Not significant
+3,anonymously,14,1,Not significant
+1,trust,2,1,Not significant
+3,about,52,1,Not significant
+3,personal,12,1,Not significant
+1,few,2,1,Not significant
+12,best,73,1,Not significant
+2,stripe,8,1,Not significant
+2,tax,6,1,Not significant
+1,four,2,1,Not significant
+1,tutorials,30,1,Not significant
+1,good,24,1,Not significant
+1,trusted,2,1,Not significant
+1,death,2,1,Not significant
+1,digital,31,1,Not significant
+3,dumps,11,1,Not significant
+1,159,2,1,Not significant
+1,successful,2,1,Not significant
+3,someone,11,1,Not significant
+1,ebook,30,1,Not significant
 1,electronics,2,1,Not significant
-1,digital,30,1,Not significant
+3,update,11,1,Not significant
+1,st,2,1,Not significant
+1,light,2,1,Not significant
+3,system,13,1,Not significant
+1,lets,2,1,Not significant
+1,162,2,1,Not significant
+1,useful,2,1,Not significant
+1,venmo,2,1,Not significant
+1,ev,2,1,Not significant
+1,killing,2,1,Not significant
+1,cheapest,2,1,Not significant
 1,escrow,2,1,Not significant
-1,making,30,1,Not significant
-1,giftcards,2,1,Not significant
-1,good,26,1,Not significant
-1,down,2,1,Not significant
-1,fully,2,1,Not significant
-1,ebook,31,1,Not significant
-1,direct,2,1,Not significant
-10,account,57,2,Not significant
-1,scam,35,2,Not significant
-1,samsung,1,2,Not significant
-1,sales,1,2,Not significant
-2,setup,50,2,Not significant
-2,socks,48,2,Not significant
-1,227,1,2,Not significant
-1,tutos,1,2,Not significant
-1,convenient,1,2,Not significant
-1,drug,34,2,Not significant
-1,blender,1,2,Not significant
-1,gateway,1,2,Not significant
-1,introduction,35,2,Not significant
-2,all,48,2,Not significant
-2,today,5,2,Not significant
-1,log,1,2,Not significant
-1,ipads,1,2,Not significant
-1,funding,1,2,Not significant
-1,rhh,1,2,Not significant
+1,tumbling,1,2,Not significant
 1,written,1,2,Not significant
-1,258,1,2,Not significant
-2,easily,4,2,Not significant
-1,successful,1,2,Not significant
-2,did,5,2,Not significant
-1,banks,1,2,Not significant
-2,deposit,4,2,Not significant
-1,341,1,2,Not significant
-1,tg,1,2,Not significant
-2,half,4,2,Not significant
-1,coin,1,2,Not significant
-1,340,1,2,Not significant
-2,days,5,2,Not significant
-2,receiving,5,2,Not significant
-9,easy,48,2,Not significant
-1,asap,1,2,Not significant
-1,326,1,2,Not significant
-1,itunes,1,2,Not significant
-10,by,53,2,Not significant
-2,closed,4,2,Not significant
-1,tons,1,2,Not significant
-1,topics,1,2,Not significant
-1,269,1,2,Not significant
-2,proof,4,2,Not significant
-2,question,48,2,Not significant
-2,rate,5,2,Not significant
-9,amazon,50,2,Not significant
 1,under,1,2,Not significant
-1,promo,1,2,Not significant
-1,195,1,2,Not significant
-1,â£â£,1,2,Not significant
-1,onedollarstore◉₰◉,1,2,Not significant
-3,open,9,2,Not significant
-1,1k,1,2,Not significant
-1,mans,1,2,Not significant
-5,updated,20,2,Not significant
-1,obtaining,1,2,Not significant
-1,obtain,1,2,Not significant
-1,175,1,2,Not significant
-3,not,63,2,Not significant
-1,four,1,2,Not significant
-3,selling,10,2,Not significant
-1,newly,1,2,Not significant
-3,someone,9,2,Not significant
-1,"10,000",1,2,Not significant
-1,documents,1,2,Not significant
-1,123,1,2,Not significant
-1,100k,1,2,Not significant
-1,within,1,2,Not significant
-1,experienced,1,2,Not significant
-1,westernunion,1,2,Not significant
-1,online,38,2,Not significant
-1,avs,1,2,Not significant
-1,20k,1,2,Not significant
-1,android,36,2,Not significant
-1,useful,1,2,Not significant
-1,internal,1,2,Not significant
-1,225,1,2,Not significant
-3,fresh,9,2,Not significant
-1,bullshit,1,2,Not significant
-1,low,1,2,Not significant
-1,please,33,2,Not significant
+1,rhh,1,2,Not significant
+1,v3,1,2,Not significant
+1,446,1,2,Not significant
+1,45,1,2,Not significant
 1,vacation,1,2,Not significant
-3,great,8,2,Not significant
+1,tutos,1,2,Not significant
+1,up,37,2,Not significant
+1,vendor,32,2,Not significant
+8,easy,42,2,Not significant
+1,transferring,1,2,Not significant
+1,won,1,2,Not significant
+1,yasuo,1,2,Not significant
+1,westernunion,1,2,Not significant
+1,207,1,2,Not significant
+10,amazon,53,2,Not significant
+1,softwa,1,2,Not significant
+1,168,1,2,Not significant
+9,your,149,2,Not significant
+1,164,1,2,Not significant
+1,288,1,2,Not significant
+1,291,1,2,Not significant
+1,156,1,2,Not significant
+1,suu,1,2,Not significant
+1,366,1,2,Not significant
+1,suucess,1,2,Not significant
+1,123,1,2,Not significant
+1,108,1,2,Not significant
+1,tg,1,2,Not significant
+1,thr,1,2,Not significant
+1,tons,1,2,Not significant
+1,305,1,2,Not significant
+1,topics,1,2,Not significant
+1,sort,1,2,Not significant
+1,sept,1,2,Not significant
+1,sep,1,2,Not significant
+1,vou,1,2,Not significant
+1,335,1,2,Not significant
+1,within,1,2,Not significant
+1,20k,1,2,Not significant
+1,drug,36,2,Not significant
+1,79,1,2,Not significant
+4,currency,13,2,Not significant
+1,making,32,2,Not significant
+1,low,1,2,Not significant
+1,cardable,32,2,Not significant
+1,log,1,2,Not significant
+2,poker,5,2,Not significant
+1,cashou,1,2,Not significant
+1,6k,1,2,Not significant
+2,receiving,4,2,Not significant
+1,ipads,1,2,Not significant
+3,selling,9,2,Not significant
 1,intro,1,2,Not significant
-1,burned,1,2,Not significant
-2,major,3,3,Not significant
+3,really,10,2,Not significant
+1,internal,1,2,Not significant
+3,per,8,2,Not significant
+2,setup,49,2,Not significant
+2,socks,48,2,Not significant
+1,horsemen,1,2,Not significant
+3,open,10,2,Not significant
+1,convenient,1,2,Not significant
+1,currencies,1,2,Not significant
+2,v1,5,2,Not significant
+2,vbv,5,2,Not significant
+1,gateway,1,2,Not significant
+1,funding,1,2,Not significant
+3,10,10,2,Not significant
+1,fees,1,2,Not significant
+1,far,1,2,Not significant
+3,de,10,2,Not significant
+2,need,49,2,Not significant
+4,now,15,2,Not significant
+2,proof,5,2,Not significant
+1,blender,1,2,Not significant
+7,any,35,2,Not significant
+2,all,50,2,Not significant
+1,are,35,2,Not significant
+1,ask,1,2,Not significant
+1,please,33,2,Not significant
+2,copies,4,2,Not significant
+2,deposit,4,2,Not significant
+4,review,13,2,Not significant
+2,did,4,2,Not significant
+1,avs,1,2,Not significant
+2,easily,5,2,Not significant
+1,ou,1,2,Not significant
+1,banks,1,2,Not significant
+2,gu,5,2,Not significant
+1,ne,1,2,Not significant
+1,obtaining,1,2,Not significant
+1,online,35,2,Not significant
+2,purchase,3,3,Not significant
+3,balance,7,3,Not significant
+3,fresh,7,3,Not significant
 2,needs,3,3,Not significant
-2,tut,3,3,Not significant
-3,sold,7,3,Not significant
-2,5k,3,3,Not significant
-1,it,46,3,Not significant
 2,videos,3,3,Not significant
-3,do,77,3,Not significant
-5,you,104,3,Not significant
-4,review,12,3,Not significant
-1,package,44,3,Not significant
-4,live,11,3,Not significant
-7,free,128,3,Not significant
-3,tuto,7,3,Not significant
-1,6k,0,4,0.05
+3,instant,6,3,Not significant
+1,android,40,3,Not significant
+3,offer,6,3,Not significant
+2,not,62,3,Not significant
+2,debit,3,3,Not significant
+2,tested,3,3,Not significant
+1,introduction,39,3,Not significant
+2,sec,3,3,Not significant
+1,package,42,3,Not significant
+1,drop,44,3,Not significant
+1,scam,41,3,Not significant
+3,daily,5,4,0.05
 1,zachodni,0,4,0.05
-1,yasou,0,4,0.05
-1,£££strattonoakmont,0,4,0.05
-1,hot,0,4,0.05
-2,debit,2,4,0.05
-1,horsemen,0,4,0.05
-1,â,0,4,0.05
-1,âthe,0,4,0.05
-1,385,0,4,0.05
-1,â£22,0,4,0.05
-1,â£25,0,4,0.05
-1,450-,0,4,0.05
-1,â£2500,0,4,0.05
-1,hustleâvouchedâ8,0,4,0.05
-1,â£â£â£,0,4,0.05
-1,"5,000",0,4,0.05
-1,december2014,0,4,0.05
-1,dec,0,4,0.05
-1,âupdateâ,0,4,0.05
-1,ease,0,4,0.05
-1,methodâ,0,4,0.05
-1,dextermorgancvv,0,4,0.05
-3,10,6,4,0.05
-1,ft,0,4,0.05
-3,balance,6,4,0.05
-1,07,0,4,0.05
-3,de,6,4,0.05
-1,2016-,0,4,0.05
-1,1timefooled,0,4,0.05
-1,1k-4k,0,4,0.05
-1,1-2days,0,4,0.05
-3,offer,6,4,0.05
-1,frisch,0,4,0.05
-1,dnm,0,4,0.05
-1,fraude,0,4,0.05
-3,reviewed,6,4,0.05
-1,1-5k,0,4,0.05
-1,1-on-1,0,4,0.05
-3,solution,5,4,0.05
-1,147,0,4,0.05
-1,finally,0,4,0.05
-1,137,0,4,0.05
-1,feb,0,4,0.05
-1,famous,0,4,0.05
-4,services,9,4,0.05
-1,05,0,4,0.05
-1,001,0,4,0.05
-1,galaxy,0,4,0.05
-1,dinieroboy,0,4,0.05
-1,handwritten,0,4,0.05
-1,methodes,0,4,0.05
-1,gutscheine,0,4,0.05
-1,guide✪✪✪,0,4,0.05
-1,elegantâ,0,4,0.05
-1,emulator,0,4,0.05
-2,middle,2,4,0.05
-2,monkeybusiness,2,4,0.05
-1,et,0,4,0.05
-1,322,0,4,0.05
-1,guide-makikaki,0,4,0.05
-1,heinrichs,0,4,0.05
-1,319,0,4,0.05
-1,grand,0,4,0.05
-1,doubling,0,4,0.05
-1,ww,0,4,0.05
-1,goldmine,0,4,0.05
-1,-free,0,4,0.05
-1,24hours,0,4,0.05
-1,-make,0,4,0.05
-1,234,0,4,0.05
-1,doubleup,0,4,0.05
-2,trusted,2,4,0.05
-1,evo-,0,4,0.05
-7,your,146,4,0.05
-1,24hrs,0,4,0.05
-1,withdrawals,0,4,0.05
-1,icemandan,0,4,0.05
-1,providing,0,4,0.05
-1,btc-from-cc-pp,0,4,0.05
-1,process,0,4,0.05
-1,pro's,0,4,0.05
-1,priceâ,0,4,0.05
-1,preparation,0,4,0.05
-1,prepaids,0,4,0.05
-1,poor,0,4,0.05
-1,buisness,0,4,0.05
-1,permanent,0,4,0.05
-1,perfectmoney,0,4,0.05
-1,lowprofiles,0,4,0.05
-1,paypayl,0,4,0.05
-1,payoneer,0,4,0.05
-1,passman,0,4,0.05
-1,ps3,0,4,0.05
-1,palpal,0,4,0.05
-1,purchaseing,0,4,0.05
-1,lol,0,4,0.05
-1,secilon,0,4,0.05
-1,savings,0,4,0.05
-1,runescape,0,4,0.05
-1,claimsold,0,4,0.05
-1,roi,0,4,0.05
-1,limit,0,4,0.05
-1,req,0,4,0.05
-1,7-8k,0,4,0.05
-1,reloaded,0,4,0.05
-1,circle,0,4,0.05
-1,blinder,0,4,0.05
-1,checks,0,4,0.05
-1,book-useful,0,4,0.05
-1,raped,0,4,0.05
-1,rabbit,0,4,0.05
-1,btc-,0,4,0.05
-1,classifieds,0,4,0.05
-1,paiement,0,4,0.05
-1,outs,0,4,0.05
-1,need,47,4,0.05
-1,màj,0,4,0.05
-1,myself,0,4,0.05
-1,multi-vouched,0,4,0.05
-1,multi-level,0,4,0.05
-1,msc,0,4,0.05
-1,mrwaterhand,0,4,0.05
-1,master-,0,4,0.05
-1,cc-iban,0,4,0.05
-1,mmo,0,4,0.05
-1,misterbitcoin,0,4,0.05
-1,cc-pp,0,4,0.05
-1,min,0,4,0.05
-1,middleman,0,4,0.05
-1,methodâ,0,4,0.05
-1,cc-dumps,0,4,0.05
-1,pack-2017,0,4,0.05
-1,neiman,0,4,0.05
-1,newâ,0,4,0.05
-1,cheaptuts,0,4,0.05
-1,open4business,0,4,0.05
-1,cardcashout,0,4,0.05
-1,oneeasyway,0,4,0.05
-1,onedollarstore,0,4,0.05
-1,onedirection,0,4,0.05
-1,marcus,0,4,0.05
-1,cc2btc,0,4,0.05
-1,oder,0,4,0.05
-1,oakmont,0,4,0.05
-1,nouveau,0,4,0.05
-1,cashcash,0,4,0.05
-1,cashouts,0,4,0.05
-1,cashout£££,0,4,0.05
-1,cashplus,0,4,0.05
-1,cc-,0,4,0.05
-1,seize,0,4,0.05
-1,blenders,0,4,0.05
-1,semiclean,0,4,0.05
-1,transfert,0,4,0.05
-1,transferred,0,4,0.05
-1,tous,0,4,0.05
-1,compte,0,4,0.05
-1,tips-may,0,4,0.05
-1,appendix,0,4,0.05
-1,arrived,0,4,0.05
-1,jour,0,4,0.05
-1,junglemoney,0,4,0.05
-1,testé,0,4,0.05
-1,completed,0,4,0.05
-1,temporary,0,4,0.05
-1,auf,0,4,0.05
-1,semi-cleaned,0,4,0.05
-1,systemes,0,4,0.05
-1,comment,0,4,0.05
-1,stratton,0,4,0.05
-1,transform,0,4,0.05
-1,stillgoing,0,4,0.05
-1,triodos,0,4,0.05
-1,tuo,0,4,0.05
-1,wo,0,4,0.05
-1,cvv-buy,0,4,0.05
-1,ea,0,4,0.05
-1,ideal,0,4,0.05
-1,activated,0,4,0.05
-1,illicit,0,4,0.05
-1,westorn,0,4,0.05
-1,impressive,0,4,0.05
-1,wbk-cashing,0,4,0.05
-1,warcraft,0,4,0.05
-1,vouchedbynancy,0,4,0.05
-1,v4,0,4,0.05
+3,bonus,5,4,0.05
 1,useing,0,4,0.05
-1,uploading,0,4,0.05
-1,unique,0,4,0.05
-1,unburned,0,4,0.05
-1,un,0,4,0.05
-1,tumbling,0,4,0.05
-1,stickey,0,4,0.05
-1,sâ100,0,4,0.05
-1,banktransfer,0,4,0.05
-1,sort,0,4,0.05
-1,sonics,0,4,0.05
-1,betfair,0,4,0.05
-1,leading,0,4,0.05
-1,skril,0,4,0.05
-1,simpleâ,0,4,0.05
-1,shopify,0,4,0.05
+1,websi,0,4,0.05
+2,left,2,4,0.05
+2,1k,2,4,0.05
+3,solution,5,4,0.05
+2,vers,2,4,0.05
+1,wo,0,4,0.05
+5,you,112,4,0.05
+1,yasou,0,4,0.05
+2,different,2,4,0.05
+1,wbk,0,4,0.05
+1,vouchedbynancy,0,4,0.05
+1,westorn,0,4,0.05
+1,vouchedâ,0,4,0.05
+12,account,58,4,0.05
+1,withou,0,4,0.05
+1,witho,0,4,0.05
+1,ww,0,4,0.05
+1,warcraft,0,4,0.05
+2,status,2,4,0.05
+2,vcc,2,4,0.05
+2,shortest,2,4,0.05
 1,spiecal,0,4,0.05
-1,bitlaundry,0,4,0.05
-1,shapshift,0,4,0.05
-1,several,0,4,0.05
-1,cleaners,0,4,0.05
-1,bitmixer,0,4,0.05
-1,servers,0,4,0.05
-1,september,0,4,0.05
-1,cleancoin,0,4,0.05
-1,sheep,0,4,0.05
-1,spot,0,4,0.05
-1,bitlaunder,0,4,0.05
+1,unique,0,4,0.05
+1,famous,0,4,0.05
+1,experien,0,4,0.05
+1,exclu,0,4,0.05
+1,et,0,4,0.05
+1,emulator,0,4,0.05
+1,elegantâ,0,4,0.05
+1,updateâ,0,4,0.05
+1,001,0,4,0.05
+1,finally,0,4,0.05
+1,doubling,0,4,0.05
+1,donald,0,4,0.05
+1,dnm,0,4,0.05
+1,dinieroboy,0,4,0.05
+1,05,0,4,0.05
+1,07,0,4,0.05
+1,124,0,4,0.05
+1,dextermorgancvv,0,4,0.05
+1,dec,0,4,0.05
+1,doubleup,0,4,0.05
+1,fraude,0,4,0.05
+1,fri,0,4,0.05
+1,ft,0,4,0.05
+1,liv,0,4,0.05
+1,limit,0,4,0.05
 1,layered,0,4,0.05
 1,launderman,0,4,0.05
+1,launder,0,4,0.05
+1,kil,0,4,0.05
+1,junglemoney,0,4,0.05
+1,jour,0,4,0.05
+1,impressive,0,4,0.05
+1,illicit,0,4,0.05
+1,icemandan,0,4,0.05
+1,hustleâ,0,4,0.05
+1,hot,0,4,0.05
+1,heinrichs,0,4,0.05
+1,handwritten,0,4,0.05
+1,hacke,0,4,0.05
+1,grand,0,4,0.05
+1,goto,0,4,0.05
+1,goldmine,0,4,0.05
+1,compte,0,4,0.05
+1,lol,0,4,0.05
+1,comment,0,4,0.05
+1,cleansing,0,4,0.05
+1,bitlaunder,0,4,0.05
+1,bitfog,0,4,0.05
+1,24hours,0,4,0.05
+1,bitc,0,4,0.05
+1,betfair,0,4,0.05
+1,banktransfer,0,4,0.05
+1,255,0,4,0.05
+1,availabl,0,4,0.05
+1,bitlaundry,0,4,0.05
+1,2days,0,4,0.05
+1,auf,0,4,0.05
+1,arrived,0,4,0.05
+1,appendix,0,4,0.05
+1,acco,0,4,0.05
+1,306,0,4,0.05
+1,8k,0,4,0.05
+1,445,0,4,0.05
+1,418,0,4,0.05
+1,ava,0,4,0.05
+1,bitmixer,0,4,0.05
+1,245,0,4,0.05
+1,blenders,0,4,0.05
+1,cleaners,0,4,0.05
+1,cleancoin,0,4,0.05
+1,classifieds,0,4,0.05
+1,claimsold,0,4,0.05
+1,checks,0,4,0.05
+1,cheaptuts,0,4,0.05
+1,cc2btc,0,4,0.05
+1,cashplus,0,4,0.05
+1,cashouts,0,4,0.05
+1,cashi,0,4,0.05
+1,cashcash,0,4,0.05
+1,cardcashout,0,4,0.05
+1,busi,0,4,0.05
+1,bullshit,0,4,0.05
+1,buisness,0,4,0.05
+1,226,0,4,0.05
+1,broom,0,4,0.05
+1,bonu,0,4,0.05
+1,blinder,0,4,0.05
+1,223,0,4,0.05
+1,lowprofiles,0,4,0.05
+1,gutscheine,0,4,0.05
+1,marcus,0,4,0.05
+1,securit,0,4,0.05
+1,secilon,0,4,0.05
+1,runescape,0,4,0.05
+1,reloaded,0,4,0.05
+1,rec,0,4,0.05
+1,raped,0,4,0.05
+1,rabbit,0,4,0.05
+1,ps3,0,4,0.05
+1,providing,0,4,0.05
+1,prom,0,4,0.05
+1,process,0,4,0.05
+1,preparation,0,4,0.05
+1,prep,0,4,0.05
+1,poor,0,4,0.05
+1,perso,0,4,0.05
+1,permanent,0,4,0.05
+1,perfectmoney,0,4,0.05
+1,paypayl,0,4,0.05
+1,payoneer,0,4,0.05
+1,semi,0,4,0.05
+1,palpal,0,4,0.05
+1,semiclean,0,4,0.05
+1,sh,0,4,0.05
+1,unburned,0,4,0.05
+1,un,0,4,0.05
+1,tuo,0,4,0.05
+1,trumps,0,4,0.05
+1,triodos,0,4,0.05
+1,transform,0,4,0.05
+1,transfert,0,4,0.05
+1,tous,0,4,0.05
+1,testé,0,4,0.05
+1,temporary,0,4,0.05
+1,systemes,0,4,0.05
+1,stratton,0,4,0.05
+1,stickey,0,4,0.05
 1,squareup,0,4,0.05
-2,opening,1,5,0.05
-2,square,1,5,0.05
-1,safe,55,5,0.05
-2,suucess,1,5,0.05
-4,western,8,5,0.05
+1,sonics,0,4,0.05
+1,simpleâ,0,4,0.05
+1,shopify,0,4,0.05
+1,sheep,0,4,0.05
+1,shapshift,0,4,0.05
+1,several,0,4,0.05
+1,onedirection,0,4,0.05
+1,pric,0,4,0.05
+1,410,0,4,0.05
+1,oder,0,4,0.05
+1,msc,0,4,0.05
+1,mrwaterhand,0,4,0.05
+1,moneylaundering,0,4,0.05
+1,misterbitcoin,0,4,0.05
+1,màj,0,4,0.05
+1,neiman,0,4,0.05
+1,middleman,0,4,0.05
+1,midd,0,4,0.05
+1,methodâ,0,4,0.05
+1,methodes,0,4,0.05
+1,méthode,0,4,0.05
+1,oakmont,0,4,0.05
+1,nouveau,0,4,0.05
+3,tutoring,4,5,0.05
+2,du,1,5,0.05
 2,ticket,1,5,0.05
 3,well,4,5,0.05
-5,gift,12,5,0.05
-2,yasuo,1,5,0.05
-2,shortest,1,5,0.05
-2,fees,1,5,0.05
-10,in,193,5,0.05
-3,prepaid,4,5,0.05
-2,v3,1,5,0.05
+2,skrill,1,5,0.05
 2,io,1,5,0.05
-1,beginners,55,5,0.05
-2,wu,1,5,0.05
-2,convert,1,5,0.05
+2,coin,1,5,0.05
+1,safe,54,5,0.05
+2,ea,1,5,0.05
+2,suntrust,1,5,0.05
+2,opening,1,5,0.05
+2,itunes,1,5,0.05
+4,services,8,5,0.05
+2,obtain,1,5,0.05
+1,question,53,5,0.05
+2,ac,1,5,0.05
+2,v4,1,5,0.05
+3,ethereum,4,5,0.05
+2,bt,1,5,0.05
+2,brand,1,5,0.05
+3,coins,4,5,0.05
+2,onedollarstore,1,5,0.05
 3,latest,3,6,0.05
-3,coins,3,6,0.05
-6,service,15,6,0.05
-4,v2,6,6,0.05
-4,iban,7,6,0.05
-5,ways,10,6,0.05
-3,purchase,3,6,0.05
-3,tutoring,3,6,0.05
-3,ethereum,3,6,0.05
-4,bonus,5,7,0.01
-4,instant,5,7,0.01
-3,vcc,2,7,0.01
+4,reviewed,6,6,0.05
+5,tuto,10,6,0.05
+11,buy,42,6,0.05
 3,transfers,2,7,0.01
-9,only,28,7,0.01
-2,help,88,7,0.01
-5,union,8,8,0.01
-5,on,152,8,0.01
-4,dirty,4,8,0.01
-4,limited,4,8,0.01
+61,guide,401,7,0.01
+5,union,8,7,0.01
+5,western,8,7,0.01
+9,in,194,7,0.01
+7,only,18,7,0.01
+6,ways,13,7,0.01
+3,direct,2,7,0.01
+7,service,18,7,0.01
+5,v2,7,8,0.01
+7,video,15,8,0.01
 4,visa,4,8,0.01
-63,guide,398,9,0.01
-5,coinbase,6,9,0.01
-2,faire,0,9,0.01
-2,directly,0,9,0.01
-2,paypay,0,9,0.01
-2,pullo,0,9,0.01
-2,â§,0,9,0.01
-2,â¯,0,9,0.01
-2,yummy,0,9,0.01
-2,worldopen,0,9,0.01
-2,mycashout,0,9,0.01
-2,washing,0,9,0.01
-2,tumble,0,9,0.01
-2,titus,0,9,0.01
-2,sec,0,9,0.01
-2,suntrust,0,9,0.01
-2,4-5k,0,9,0.01
-2,street,0,9,0.01
-2,vers,0,9,0.01
-2,security,102,9,0.01
-2,altair,0,9,0.01
-2,july,0,9,0.01
-2,mycash,0,9,0.01
-2,3k,0,9,0.01
-2,du,0,9,0.01
+5,fr,7,8,0.01
+5,iban,7,8,0.01
+4,mh9,4,8,0.01
+4,dirty,4,8,0.01
+10,methods,30,8,0.01
+4,limited,4,8,0.01
+2,help,94,8,0.01
+5,week,6,9,0.01
 2,bitcoinfog,0,9,0.01
-3,is,121,9,0.01
-2,legionnaire,0,9,0.01
-2,june,0,9,0.01
-2,e-currency,0,9,0.01
-2,crazy,0,9,0.01
+2,monkeybusiness,0,9,0.01
+2,mycash,0,9,0.01
+2,pullo,0,9,0.01
+2,cas,0,9,0.01
+2,circle,0,9,0.01
+1,do,81,9,0.01
+2,altair,0,9,0.01
+2,paypay,0,9,0.01
 2,cvvs,0,9,0.01
-3,brand,1,10,0.01
-3,skrill,1,10,0.01
-10,working,25,10,0.01
-5,available,5,10,0.01
-3,strattonoakmont,1,10,0.01
-14,bitcoins,45,10,0.01
-4,fr,2,11,0.001
-2,list,116,11,0.001
-17,new,59,11,0.001
-7,fullz,10,12,0.001
-5,mh9,4,12,0.001
-5,daily,4,12,0.001
-6,via,7,12,0.001
-9,now,16,13,0.001
-19,card,66,13,0.001
-4,e-gift,1,14,0.001
-4,ccv,1,14,0.001
-3,scoobyjew,0,14,0.001
-3,paypals,0,14,0.001
-3,neteller,0,14,0.001
-3,laundry,0,14,0.001
-10,usa,18,14,0.001
+2,faire,0,9,0.01
+2,washing,0,9,0.01
+2,payp,0,9,0.01
+2,worldopen,0,9,0.01
+2,wu,0,9,0.01
+2,availa,0,9,0.01
+17,new,67,9,0.01
+2,yummy,0,9,0.01
+2,returns,0,9,0.01
+2,street,0,9,0.01
+2,july,0,9,0.01
+2,square,0,9,0.01
+4,5k,3,9,0.01
+2,skril,0,9,0.01
+2,legionnaire,0,9,0.01
+2,tut,0,9,0.01
+2,titus,0,9,0.01
+2,14,0,9,0.01
+2,tr,0,9,0.01
+2,3k,0,9,0.01
+2,tumble,0,9,0.01
+2,mmo,0,9,0.01
+3,list,128,10,0.01
+5,on,159,10,0.01
+3,is,127,10,0.01
+9,usa,19,11,0.001
+6,via,7,11,0.001
+4,giftcards,2,11,0.001
+8,gift,13,12,0.001
+7,fullz,9,13,0.001
+10,working,19,13,0.001
+1,security,103,13,0.001
 3,cleaning,0,14,0.001
-3,cash-out,0,14,0.001
-9,video,15,14,0.001
-3,e-giftcards,0,14,0.001
-6,per,4,15,0.001
-13,methods,29,15,0.001
-3,--,169,16,0.0001
-8,week,8,17,0.0001
+3,laundry,0,14,0.001
+3,scoobyjew,0,14,0.001
+4,ccv,1,14,0.001
+3,neteller,0,14,0.001
+4,strattonoakmont,1,14,0.001
+3,directly,0,14,0.001
+3,mycashout,0,14,0.001
+3,convert,0,14,0.001
+3,paypals,0,14,0.001
+5,tumbler,2,15,0.001
+5,ccs,2,15,0.001
+22,card,75,15,0.001
+6,coinbase,4,15,0.001
+17,bitcoins,45,16,0.0001
+4,methode,0,18,0.0001
+4,fog,0,18,0.0001
 9,clean,10,18,0.0001
-5,tumbler,1,18,0.0001
-16,for,402,18,0.0001
-4,fog,0,19,0.0001
-4,methode,0,19,0.0001
-4,cc-btc,0,19,0.0001
+13,cards,22,19,0.0001
+11,accounts,15,19,0.0001
 7,funds,3,21,0.0001
-23,â,62,22,0.0001
-14,cards,23,22,0.0001
-21,credit,43,27,0.0001
-13,hacked,14,27,0.0001
-7,ccs,1,27,0.0001
-6,mixers,0,28,0.0001
-15,accounts,17,30,0.0001
-5,carding,304,31,0.0001
-20,vouched,32,32,0.0001
-7,mixing,0,33,0.0001
+12,for,400,26,0.0001
+13,hacked,14,26,0.0001
+24,credit,46,32,0.0001
+7,fargo,0,33,0.0001
+5,carding,318,34,0.0001
 9,laundering,1,36,0.0001
-8,moneygram,0,38,0.0001
-8,wells,0,38,0.0001
-8,â,0,38,0.0001
-8,fargo,0,38,0.0001
-10,transfer,1,41,0.0001
-9,mixer,0,42,0.0001
-23,bank,23,50,0.0001
-50,bitcoin,119,56,0.0001
-25,cvv,14,71,0.0001
-23,pp,3,91,0.0001
-28,cashing,3,114,0.0001
-37,cash,16,114,0.0001
-60,method,67,123,0.0001
-58,out,28,173,0.0001
-98,paypal,35,321,0.0001
-110,btc,50,336,0.0001
-113,cc,36,381,0.0001
-146,cashout,12,614,0.0001
+8,mixers,0,37,0.0001
+8,wells,0,37,0.0001
+8,moneygram,0,37,0.0001
+21,vouched,28,38,0.0001
+10,transfer,1,40,0.0001
+10,mixing,0,47,0.0001
+24,bank,25,50,0.0001
+11,mixer,0,52,0.0001
+53,bitcoin,128,57,0.0001
+21,pp,4,78,0.0001
+27,cvv,12,82,0.0001
+28,cashing,4,109,0.0001
+59,method,68,117,0.0001
+42,cash,14,138,0.0001
+60,out,26,183,0.0001
+104,paypal,35,342,0.0001
+119,btc,51,366,0.0001
+132,cc,44,436,0.0001
+150,cashout,10,637,0.0001

@@ -21,7 +21,7 @@ def getUsableKeywords():
         new.to_csv(outputFile, index=False, header=True)
 
 
-
+getUsableKeywords()
 
 
 

@@ -1,69 +1,63 @@
 freq,word,exfreq,LL,sig
-0,'s,0,0,Not significant
-1,on,156,0,Not significant
-1,get,124,0,Not significant
-1,for,417,0,Not significant
-1,bitcoin,168,0,Not significant
-0,to,0,0,Not significant
-1,in,202,0,Not significant
 0,and,0,0,Not significant
-0,the,0,0,Not significant
+1,for,411,0,Not significant
+1,on,163,0,Not significant
+1,bitcoin,180,0,Not significant
+2,guide,460,0,Not significant
+1,book,134,0,Not significant
+1,get,124,0,Not significant
 0,how,0,0,Not significant
+0,the,0,0,Not significant
 0,of,0,0,Not significant
 0,make,0,0,Not significant
-3,guide,458,1,Not significant
-1,by,62,1,Not significant
-1,dummies,36,2,Not significant
-1,megapack,22,3,Not significant
-1,software,20,3,Not significant
-1,book,33,3,Not significant
-1,beginner,14,4,0.05
-1,clone,13,4,0.05
-1,advanced,18,4,0.05
-1,practical,18,4,0.05
-1,code,12,4,0.05
-1,warning,8,5,0.05
-1,essentials,11,5,0.05
+0,to,0,0,Not significant
+1,dummies,37,2,Not significant
+1,megapack,25,3,Not significant
+1,practical,19,3,Not significant
+1,software,19,3,Not significant
+1,code,15,4,0.05
+1,cyber,12,4,0.05
+1,warning,12,4,0.05
+1,beginner,13,4,0.05
+1,advanced,17,4,0.05
+1,10,12,4,0.05
 1,top,8,5,0.05
-1,cyber,7,5,0.05
-1,bypass,7,5,0.05
-1,pdf,11,5,0.05
-1,12,7,5,0.05
-1,os,9,5,0.05
+1,pdf,9,5,0.05
+1,essentials,9,5,0.05
+1,hands,6,6,0.05
 1,little,6,6,0.05
 1,black,6,6,0.05
-1,16,5,6,0.05
-1,slaves,3,7,0.01
-1,exploits,3,7,0.01
+1,bypass,6,6,0.05
+1,others,2,7,0.01
+1,multi,2,7,0.01
+1,dr,3,7,0.01
 1,source,3,7,0.01
-1,hands,2,8,0.01
-1,driven,2,8,0.01
-1,others,2,8,0.01
-1,keylogger,2,8,0.01
-1,11,2,8,0.01
-1,embedded,1,9,0.01
-1,stealing,1,9,0.01
-1,botnets,1,9,0.01
+1,slaves,3,7,0.01
+1,keylogger,1,8,0.01
+1,stealing,1,8,0.01
+2,windows,20,10,0.01
 2,create,18,10,0.01
-2,windows,22,10,0.01
+2,computer,21,10,0.01
+1,staged,0,11,0.001
+1,fud,0,11,0.001
+1,botnets,0,11,0.001
+1,antivirus,0,11,0.001
 1,targeted,0,11,0.001
-2,computer,17,11,0.001
 1,spyware,0,11,0.001
-1,spytech,0,11,0.001
-1,lots,0,11,0.001
+1,spyagent,0,11,0.001
+1,guid,0,11,0.001
+1,builders,0,11,0.001
 1,rootkits,0,11,0.001
 1,ransomware,0,11,0.001
 1,phildelphia,0,11,0.001
-1,multi-staged,0,11,0.001
-1,keyloggers,0,11,0.001
-1,fud,0,11,0.001
 1,datamining,0,11,0.001
-1,builders,0,11,0.001
-1,antivirus,0,11,0.001
-1,spyagent,0,11,0.001
-2,attacks,4,16,0.0001
-2,virus,4,16,0.0001
-3,analysis,11,21,0.0001
+1,embedd,0,11,0.001
+1,lots,0,11,0.001
+1,keyloggers,0,11,0.001
+1,spytech,0,11,0.001
+2,attacks,3,16,0.0001
+2,virus,2,17,0.0001
+3,analysis,13,19,0.0001
 2,backdoor,0,23,0.0001
 2,viruses,0,23,0.0001
-6,malware,5,56,0.0001
+5,malware,6,43,0.0001

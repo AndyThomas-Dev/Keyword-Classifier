@@ -55,3 +55,7 @@ def addToGT(inputFile):
         catNumb = catNumb + 1
 
     print("Completed.")
+
+
+setPath = "data/gt/full.csv"
+addToGT(setPath)

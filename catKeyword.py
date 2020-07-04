@@ -22,7 +22,7 @@ def sortData(inputFile):
             raw["AutoCat"][i] = "Fraud"
         elif raw["Product Name"][i].lower().find("anarchist cookbook") > -1:
             raw["AutoCat"][i] = "Weaponry & Explosives"
-        elif raw["Product Name"][i].lower().find("e-whore") > -1:
+        elif raw["Product Name"][i].lower().find("e whore") > -1:
             raw["AutoCat"][i] = "eWhoring"
         elif raw["Product Name"][i].lower().find("clear your criminal") > -1:
             raw["AutoCat"][i] = "Clearing Criminal History"
@@ -61,3 +61,6 @@ def sortData(inputFile):
             raw["LLSum"][i] = max(array)
 
     raw.to_csv(inputFile, index=False, header=True)
+
+
+sortData("data/source/market/unsorted.csv")

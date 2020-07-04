@@ -60,3 +60,6 @@ def getRawKeywords():
         df.to_csv(outputFilename, index=False, header=True)
 
     print("Completed.")
+
+
+getRawKeywords()

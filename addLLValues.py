@@ -185,3 +185,6 @@ def addLLvalues():
         outputFilename = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
         sortedDF.to_csv(outputFilename, index=False, header=True)
         counter = counter + 1
+
+
+addLLvalues()

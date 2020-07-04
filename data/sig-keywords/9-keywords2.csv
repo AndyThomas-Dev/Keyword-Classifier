@@ -1,56 +1,51 @@
 freq,word,exfreq,LL,sig
-0,'s,0,0,Not significant
-1,tutorial,91,0,Not significant
-1,for,417,0,Not significant
-0,to,0,0,Not significant
-0,the,0,0,Not significant
-1,ultimate,78,0,Not significant
-0,make,0,0,Not significant
-0,of,0,0,Not significant
 0,and,0,0,Not significant
+1,for,411,0,Not significant
+1,tutorial,87,0,Not significant
+0,to,0,0,Not significant
+1,ultimate,83,0,Not significant
+0,of,0,0,Not significant
+0,make,0,0,Not significant
 0,how,0,0,Not significant
-2,your,151,1,Not significant
-1,any,45,1,Not significant
-1,beginners,55,1,Not significant
-1,easy,56,1,Not significant
-1,one,33,2,Not significant
-1,blockchain,20,3,Not significant
-2,money,71,4,0.05
-2,bitcoins,57,4,0.05
-1,life,8,4,0.05
+0,the,0,0,Not significant
+1,beginners,53,1,Not significant
+2,your,156,1,Not significant
+1,one,34,2,Not significant
+1,blockchain,17,3,Not significant
 1,month,10,4,0.05
-1,basics,9,4,0.05
-1,copies,5,5,0.05
-1,two,5,5,0.05
+1,life,9,4,0.05
+2,bitcoins,60,4,0.05
+2,money,76,4,0.05
+1,basics,10,4,0.05
+1,guaranteed,6,5,0.05
 1,investing,5,5,0.05
-1,amount,3,6,0.05
+1,coins,6,5,0.05
+1,proof,6,5,0.05
+4,in,199,6,0.05
+2,100,38,6,0.05
+1,cryptocurrency,4,6,0.05
 1,german,2,7,0.01
-1,ton,1,8,0.01
-1,twenty,1,8,0.01
-1,winning,1,8,0.01
 1,x180,1,8,0.01
-2,100,24,8,0.01
-2,double,14,10,0.01
-1,cryptos100,0,10,0.01
-1,alt-coins,0,10,0.01
-1,profits,0,10,0.01
-3,day,33,12,0.001
+1,ton,1,8,0.01
+1,cryp,1,8,0.01
+2,000,19,9,0.01
+2,double,15,9,0.01
+1,screenshot,0,11,0.001
+1,guarante,0,11,0.001
+1,cryptos100,0,11,0.001
+1,alt,0,11,0.001
 2,offer,7,12,0.001
-2,limited,6,12,0.001
-2,000,6,12,0.001
-2,guaranteed,7,12,0.001
-2,minutes,4,14,0.001
-2,cryptocurrency,4,14,0.001
-7,in,196,17,0.0001
-3,earn,13,17,0.0001
-3,currency,11,18,0.0001
-2,cryptos,0,21,0.0001
-2,altcoin,0,21,0.0001
+2,limited,6,13,0.001
+3,day,28,13,0.001
+3,currency,14,17,0.0001
+2,altcoin,0,22,0.0001
+4,earn,13,25,0.0001
 3,crypto,2,26,0.0001
-3,million,2,26,0.0001
 3,altcoins,1,28,0.0001
-3,forex,0,32,0.0001
-3,signals,0,32,0.0001
-4,trade,4,32,0.0001
-5,legal,9,36,0.0001
-12,trading,0,131,0.0001
+3,signals,0,33,0.0001
+4,trade,4,33,0.0001
+3,cryptos,0,33,0.0001
+4,million,1,39,0.0001
+4,forex,0,44,0.0001
+7,legal,10,54,0.0001
+13,trading,0,144,0.0001
