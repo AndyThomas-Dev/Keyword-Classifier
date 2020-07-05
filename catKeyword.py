@@ -63,4 +63,4 @@ def sortData(inputFile):
     raw.to_csv(inputFile, index=False, header=True)
 
 
-sortData("data/source/market/unsorted.csv")
+sortData("data/sorted-titles-only/only-unsorted.csv")
