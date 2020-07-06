@@ -10,6 +10,9 @@ from getLLscore import tokeniseString, getLabel
 def sortData(inputFile):
     raw = pd.read_csv(inputFile, usecols=[0, 1])
 
+    # Convert column to string to prevent errors
+    raw['Product Name'] = raw['Product Name'].apply(str)
+
     # Add new columns (if required)
     raw.insert(2, "LLSum", 0)
     raw.insert(3, "AutoCat", 0)
@@ -63,4 +66,4 @@ def sortData(inputFile):
     raw.to_csv(inputFile, index=False, header=True)
 
 
-sortData("data/sorted-titles-only/only-unsorted.csv")
+sortData("data/sorted-06-07-crypto.csv")

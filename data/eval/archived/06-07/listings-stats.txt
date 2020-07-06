@@ -1,0 +1,111 @@
+Full sorted lists
+
+CK:  0.7608232729604353
+
+
+Anonymity – Other
+0   72 	 124 	 0.5806451612903226
+---------
+Anonymity – Tor
+1   48 	 50 	 0.96
+---------
+Anonymity – VPN
+2   72 	 74 	 0.972972972972973
+---------
+Anonymity – Proxies
+3   42 	 56 	 0.75
+---------
+Carding
+4   650 	 770 	 0.8441558441558441
+---------
+Cashing Out
+5   443 	 491 	 0.9022403258655805
+---------
+Clearing Criminal History
+6   5 	 9 	 0.5555555555555556
+---------
+Counterfeit Currency
+7   17 	 19 	 0.8947368421052632
+---------
+Cryptocurrency – General
+8   174 	 198 	 0.8787878787878788
+---------
+Cryptocurrency – Trading
+9   35 	 40 	 0.875
+---------
+Denial of Service
+10   10 	 11 	 0.9090909090909091
+---------
+Digital Forensics
+11   52 	 56 	 0.9285714285714286
+---------
+Doxing
+12   22 	 24 	 0.9166666666666666
+---------
+Drugs – General
+13   145 	 201 	 0.7213930348258707
+---------
+Drugs – Production
+14   211 	 278 	 0.7589928057553957
+---------
+eBooks – Other
+15   165 	 394 	 0.41878172588832485
+---------
+eBooks – Technical
+16   468 	 520 	 0.9
+---------
+eWhoring
+17   21 	 21 	 1.0
+---------
+Fraud
+18   209 	 247 	 0.8461538461538461
+---------
+Hacking – General
+19   127 	 147 	 0.8639455782312925
+---------
+Hacking – Malware Supply Chain
+20   11 	 16 	 0.6875
+---------
+Hacking – Mobile
+21   11 	 25 	 0.44
+---------
+Hacking – Phreaking
+22   9 	 10 	 0.9
+---------
+Hacking – Website
+23   30 	 57 	 0.5263157894736842
+---------
+Hacking – Wireless Networks
+24   31 	 35 	 0.8857142857142857
+---------
+Lockpicking
+25   13 	 17 	 0.7647058823529411
+---------
+Malware Authorship
+26   12 	 17 	 0.7058823529411765
+---------
+Modifying Credit
+27   49 	 49 	 1.0
+---------
+Other
+28   89 	 223 	 0.3991031390134529
+---------
+PGP/GPG
+29   22 	 22 	 1.0
+---------
+Resources – Contact Lists
+30   1 	 11 	 0.09090909090909091
+---------
+Resources – Identity Documents
+31   21 	 29 	 0.7241379310344828
+---------
+SEO
+32   35 	 35 	 1.0
+---------
+Transportation/Stealth
+33   34 	 40 	 0.85
+---------
+Weaponry & Explosives
+34   96 	 108 	 0.8888888888888888
+---------
+

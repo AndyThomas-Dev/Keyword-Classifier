@@ -9,6 +9,10 @@ def getUsableKeywords():
     for corpusId in range(35):
         fileName = "data/sig-keywords/" + str(corpusId) + "-keywords2.csv"
         raw = pd.read_csv(fileName)
+
+        # Convert column to string to prevent errors
+        raw['sig'] = raw['sig'].apply(str)
+        
         new = raw[raw['sig'].str.contains('0.01|0.001|0.0001', case=False)]
 
         # View options
