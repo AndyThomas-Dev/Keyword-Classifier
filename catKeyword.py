@@ -7,6 +7,73 @@ from getLLscore import tokeniseString, getLabel
 # Uses the data from prior keyword analysis to sort items.
 # Calculates a total LLscore ('LLSum') for each entry and assigns a category ('AutoCat') based on this.
 
+def phraseCheck(inputString):
+    if inputString.lower().find("no carding") > -1:
+        return "Fraud"
+    elif inputString.lower().find("anarchist cookbook") > -1:
+        return "Weaponry & Explosives"
+    elif inputString.lower().find("robert greene") > -1:
+        return "eBooks – Other"
+    elif inputString.lower().find("e whore") > -1:
+        return "eWhoring"
+    elif inputString.lower().find("clear your criminal") > -1:
+        return "Clearing Criminal History"
+    elif inputString.lower().find("gpg4win") > -1:
+        return "PGP/GPG"
+    elif inputString.lower().find("wifi hacking") > -1:
+        return"Hacking – Wireless Networks"
+    elif inputString.lower().find("hacking wireless") > -1:
+        return "Hacking – Wireless Networks"
+    elif inputString.lower().find("how to create a virus") > -1:
+        return "Malware Authorship"
+    elif inputString.lower().find("seo") > -1:
+        return "SEO"
+    elif inputString.lower().find("dynamite") > -1:
+        return "Weaponry & Explosives"
+    elif inputString.lower().find("thermite") > -1:
+        return "Weaponry & Explosives"
+    elif inputString.lower().find("molotov cocktail") > -1:
+        return "Weaponry & Explosives"
+    elif inputString.lower().find("havij") > -1:
+        return "Hacking – Website"
+    elif inputString.lower().find("nitrous oxide") > -1:
+        return "Drugs – General"
+    elif inputString.lower().find("meth manufactur") > -1:
+        return "Drugs – Production"
+    elif inputString.lower().find("lsd manufactur") > -1:
+        return "Drugs – Production"
+    elif inputString.lower().find("brewing") > -1:
+        return "Drugs – Production"
+    elif inputString.lower().find("hydroponics") > -1:
+        return "Drugs – Production"
+    elif inputString.lower().find("shotgun") > -1:
+        return "Weaponry & Explosives"
+    elif inputString.lower().find("c++") > -1:
+        return "eBooks – Technical"
+    elif inputString.lower().find("cardable website") > -1:
+        return "Carding"
+    elif inputString.lower().find("skimmer") > -1:
+        return "Carding"
+    elif inputString.lower().find("bitcoin mixer") > -1:
+        return "Cashing Out"
+    elif inputString.lower().find("bitcoin tumbler") > -1:
+        return "Cashing Out"
+    elif inputString.lower().find("money laundering") > -1:
+        return "Cashing Out"
+    elif inputString.lower().find("bitcoin blender") > -1:
+        return "Cashing Out"
+    elif inputString.lower().find("bitcoinfog|bitfog") > -1:
+        return "Cashing Out"
+    elif inputString.lower().find("p o box") > -1:
+        return "Transportation/Stealth"
+    elif inputString.lower().find("counterfeit") > -1:
+        return "Counterfeit Currency"
+    elif inputString.lower().find("how to be invisible") > -1:
+        return "Anonymity – Other"
+    else:
+        return 0
+
+
 def sortData(inputFile):
     raw = pd.read_csv(inputFile, usecols=[0, 1])
 
@@ -20,33 +87,10 @@ def sortData(inputFile):
     lines = int(raw.shape[0])
 
     for i in range(len(raw)):
+        temp = phraseCheck(raw["Product Name"][i])
 
-        if raw["Product Name"][i].lower().find("no carding") > -1:
-            raw["AutoCat"][i] = "Fraud"
-        elif raw["Product Name"][i].lower().find("anarchist cookbook") > -1:
-            raw["AutoCat"][i] = "Weaponry & Explosives"
-        elif raw["Product Name"][i].lower().find("e whore") > -1:
-            raw["AutoCat"][i] = "eWhoring"
-        elif raw["Product Name"][i].lower().find("clear your criminal") > -1:
-            raw["AutoCat"][i] = "Clearing Criminal History"
-        elif raw["Product Name"][i].lower().find("wifi hacking") > -1:
-            raw["AutoCat"][i] = "Hacking – Wireless Networks"
-        elif raw["Product Name"][i].lower().find("hacking wireless") > -1:
-            raw["AutoCat"][i] = "Hacking – Wireless Networks"
-        elif raw["Product Name"][i].lower().find("how to create a virus") > -1:
-            raw["AutoCat"][i] = "Malware Authorship"
-        elif raw["Product Name"][i].lower().find("seo") > -1:
-            raw["AutoCat"][i] = "SEO"
-        elif raw["Product Name"][i].lower().find("dynamite") > -1:
-            raw["AutoCat"][i] = "Weaponry & Explosives"
-        elif raw["Product Name"][i].lower().find("thermite") > -1:
-            raw["AutoCat"][i] = "Weaponry & Explosives"
-        elif raw["Product Name"][i].lower().find("molotov cocktail") > -1:
-            raw["AutoCat"][i] = "Weaponry & Explosives"
-        elif raw["Product Name"][i].lower().find("havij") > -1:
-            raw["AutoCat"][i] = "Hacking – Website"
-        elif raw["Product Name"][i].lower().find("hydroponics") > -1:
-            raw["AutoCat"][i] = "Drugs – Production"
+        if temp != 0:
+            raw["AutoCat"][i] = temp
         else:
             searchString = raw["Product Name"][i].lower()
             amendedString = re.sub(r'\W+', ' ', searchString.lower())

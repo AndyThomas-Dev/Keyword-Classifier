@@ -35,7 +35,7 @@ def printCat(number):
     return cats[number]
 
 
-filename = "data/sorted-06-07.csv"
+filename = "data/sorted-06-07-crypto.csv"
 andy = pd.read_csv(filename, usecols=[1])
 auto = pd.read_csv(filename, usecols=[3])
 

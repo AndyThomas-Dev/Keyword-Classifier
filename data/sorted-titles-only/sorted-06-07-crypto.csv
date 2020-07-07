@@ -20,7 +20,7 @@ Clear address for buying?,Anonymity – Other,70,Transportation/Stealth
 Secure .onion Email Provider,Anonymity – Other,84,Anonymity – Other
 Alternative email provider thats secure other than riseup?,Anonymity – Other,84,Anonymity – Other
 Question: How Do You Stay Fully Anonymous Online?,Anonymity – Other,148,Anonymity – Other
-My new encryption tool,PGP/GPG,116,PGP/GPG
+My new encryption tool,Anonymity – Other,116,PGP/GPG
 Do NOT use your facebook/MSN/LinkedIn/whatever email with this site!,Anonymity – Other,111,Hacking – Website
 Your Data Safty Tool  -- True Crypt -- Usage Tutorial to stay S.A.F.E,Anonymity – Other,72,eBooks – Technical
 question about tails,Anonymity – Other,324,Anonymity – Other
@@ -105,7 +105,7 @@ Because Anon,Anonymity – Other,28,Anonymity – Other
 Bleachbit or CCleaner?,Anonymity – Other,12,Other
 dns leak again,Anonymity – Other,41,Anonymity – Other
 "False first name, true last name vs Your true identity opinions please",Anonymity – Other,88,Anonymity – Other
-Help doublecheck anonymity please,Anonymity – Other,69,Other
+Help doublecheck anonumity please,Anonymity – Other,69,Other
 "Hi, need help with Tails please",Anonymity – Other,331,Anonymity – Other
 How do you find SOCKS5 proxies in the city you want?,Anonymity – Other,322,Anonymity – Proxies
 How do you stay anonymous ??,Anonymity – Other,119,Anonymity – Other
@@ -219,7 +219,7 @@ VIP72's socks5 server country list ?,Anonymity – Proxies,533,Anonymity – Pro
 Super-Socks Proxy,Anonymity – Proxies,352,Anonymity – Proxies
 Help With VIP72,Anonymity – Proxies,251,Anonymity – Proxies
 VIP72 injecting html,Anonymity – Proxies,242,Anonymity – Proxies
-Tails -> VPN -> Tor -> Socks5.... is it even possibile?,Anonymity – Tor,826,Anonymity – Tor
+Tails -> VPN -> Tor -> Socks5.... is it even possibile?,Anonymity – Proxies,826,Anonymity – Tor
 Socks 5 and VPN both necessary?,Anonymity – Proxies,723,Anonymity – VPN
 Can Someone Go Over How To Setup Tor -> VPN -> socks5,Anonymity – Proxies,817,Anonymity – Tor
 Can't make socks5 works on VM.,Anonymity – Proxies,284,Anonymity – Proxies
@@ -320,7 +320,7 @@ Transferring Bitcoins through tor,Anonymity – Tor,819,Anonymity – Tor
 Tor Configuration settings.Tor is not enough Now Configure ,Anonymity – Tor,1655,Anonymity – Tor
 Why is browsing clearnet with Tor a security risk?,Anonymity – Tor,837,Anonymity – Tor
 How to update Tor?,Anonymity – Tor,827,Anonymity – Tor
-When your tor browser starts acting funny with www preceding onion url,Anonymity – Tor,64,eBooks – Technical
+When your torbrowser starts acting funny with www preceding onion url,Anonymity – Tor,64,eBooks – Technical
 Tor or Clearnet,Anonymity – Tor,804,Anonymity – Tor
 Massive use of TOR...,Anonymity – Tor,804,Anonymity – Tor
 Tor question,Anonymity – Tor,804,Anonymity – Tor
@@ -608,7 +608,7 @@ DUMPS Carding Tutorial for Newbies!,Carding,1454,Carding
 Walmart Account + Carding Guide,Carding,1386,Carding
 Carding guide,Carding,1366,Carding
 â â â HOW TO LOAD YOUR POLISH VISA CARD IBAN WITH BTc â â â,Carding,397,Cashing Out
-Free priv8 cardable websites list + method,Carding,0,Carding
+Free priv8 cardable websites list + method,Carding,165,eBooks – Technical
 Dutch marktplaats carding guide,Carding,1366,Carding
 Best guide to carding,Carding,1373,Carding
 [GUIDE] How to use CVV on Instore for High End Physical Carding,Carding,1431,Carding
@@ -864,7 +864,7 @@ Buy BITCOIN WiTH CC [07/14] 99$ Offer,Cashing Out,502,Cashing Out
 new vcc with several new options for cashout,Cashing Out,681,Cashing Out
 The PayPal GoldMine,Cashing Out,342,Cashing Out
 Paypal Transfer Methods,Cashing Out,390,Cashing Out
-Credit Card Cashout v1.0,Cashing Out,124,Modifying Credit
+Credit CardCashout v1.0,Cashing Out,124,Modifying Credit
 (Vouched)(Reviewed) BRAND NEW Method For Cashing CC to BTC!,Cashing Out,1101,Cashing Out
 *Limited* OneDirection's Tutorial Pack (CC-BTC/CC-PP/CC-IBAN),Cashing Out,1768,Cashing Out
 [0.1 BTC] Altair's Cashout Method V3! [VOUCHED],Cashing Out,1167,Cashing Out

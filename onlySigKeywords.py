@@ -12,7 +12,7 @@ def getUsableKeywords():
 
         # Convert column to string to prevent errors
         raw['sig'] = raw['sig'].apply(str)
-        
+
         new = raw[raw['sig'].str.contains('0.01|0.001|0.0001', case=False)]
 
         # View options
