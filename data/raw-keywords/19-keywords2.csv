@@ -35,6 +35,7 @@ freq,word
 1,app
 1,ar
 1,article
+1,aspinwall
 1,attack
 1,bank
 1,basics
@@ -62,6 +63,7 @@ freq,word
 1,credit
 1,cyber
 1,data
+1,ddu
 1,deepnet
 1,doxxing
 1,drugs
@@ -87,7 +89,6 @@ freq,word
 1,got
 1,grading
 1,grugq
-1,hacks
 1,hands
 1,has
 1,help
@@ -101,6 +102,7 @@ freq,word
 1,introduction
 1,io
 1,is
+1,jim
 1,kingpin
 1,know
 1,learning
@@ -128,6 +130,7 @@ freq,word
 1,ozrort
 1,pages
 1,pass
+1,pc
 1,penet
 1,penetr
 1,pentest
@@ -154,6 +157,7 @@ freq,word
 1,support
 1,swindle
 1,system
+1,team
 1,their
 1,thinking
 1,took
@@ -178,11 +182,11 @@ freq,word
 2,become
 2,billion
 2,black
-2,by
 2,complete
 2,dummies
 2,ebooks
 2,hackpack
+2,hacks
 2,injection
 2,ip
 2,link
@@ -209,6 +213,7 @@ freq,word
 2,your
 3,advanced
 3,art
+3,by
 3,computer
 3,cracking
 3,get

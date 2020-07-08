@@ -3,7 +3,7 @@ freq,word,exfreq,LL,sig
 1,ink,1,7,0.01
 1,dollar,1,7,0.01
 1,dollars,1,7,0.01
-5,pack,115,9,0.01
+5,pack,116,9,0.01
 1,ä50,0,9,0.01
 1,removing,0,9,0.01
 1,counte,0,9,0.01
@@ -22,7 +22,7 @@ freq,word,exfreq,LL,sig
 1,swap,0,9,0.01
 3,own,27,10,0.01
 3,mega,27,10,0.01
-2,template,6,10,0.01
+2,template,6,11,0.001
 2,print,2,14,0.001
 4,making,29,15,0.001
 2,bills,1,16,0.0001
@@ -32,7 +32,7 @@ freq,word,exfreq,LL,sig
 2,counterfeits,0,19,0.0001
 4,pass,10,23,0.0001
 3,templa,1,25,0.0001
-8,money,70,28,0.0001
+8,money,70,29,0.0001
 4,quality,3,30,0.0001
 6,templates,4,46,0.0001
 7,currency,10,46,0.0001

@@ -8,11 +8,13 @@ from getLLscore import tokeniseString, getLabel
 # Calculates a total LLscore ('LLSum') for each entry and assigns a category ('AutoCat') based on this.
 
 def phraseCheck(inputString):
-    if inputString.lower().find("no carding") > -1:
+    if inputString.lower().find("no carding|not carding") > -1:
         return "Fraud"
+    elif inputString.lower().find("disappear and live free") > -1:
+        return "Anonymity – Other"
     elif inputString.lower().find("anarchist cookbook") > -1:
         return "Weaponry & Explosives"
-    elif inputString.lower().find("robert greene") > -1:
+    elif inputString.lower().find("robert greene|chomsky|karl marx|aleister crowley|1984") > -1:
         return "eBooks – Other"
     elif inputString.lower().find("e whore") > -1:
         return "eWhoring"
@@ -36,6 +38,8 @@ def phraseCheck(inputString):
         return "Weaponry & Explosives"
     elif inputString.lower().find("havij") > -1:
         return "Hacking – Website"
+    elif inputString.lower().find("psilocybe cubensis") > -1:
+        return "Drugs – Production"
     elif inputString.lower().find("nitrous oxide") > -1:
         return "Drugs – General"
     elif inputString.lower().find("meth manufactur") > -1:
@@ -110,4 +114,4 @@ def sortData(inputFile):
     raw.to_csv(inputFile, index=False, header=True)
 
 
-sortData("data/sorted-06-07-crypto.csv")
+sortData("data/input.csv")

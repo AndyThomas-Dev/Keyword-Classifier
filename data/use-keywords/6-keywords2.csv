@@ -6,7 +6,7 @@ freq,word,exfreq,LL,sig
 1,mugshot,0,13,0.001
 1,lien,0,13,0.001
 2,clean,17,14,0.001
-2,history,14,15,0.001
+2,history,15,15,0.001
 2,clone,8,17,0.0001
 4,your,154,17,0.0001
 2,clear,3,20,0.0001

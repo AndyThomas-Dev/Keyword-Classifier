@@ -2,16 +2,18 @@ freq,word
 0,and
 0,how
 0,to
-1,18
 1,19
+1,20
 1,accounts
 1,advanced
+1,approved
 1,au
 1,authorised
 1,authorized
 1,building
 1,collections
 1,cpns
+1,getting
 1,guide
 1,it
 1,items
@@ -38,7 +40,6 @@ freq,word
 1,with
 2,add
 2,boost
-2,cards
 2,contact
 2,cre
 2,delete
@@ -47,7 +48,6 @@ freq,word
 2,info
 2,merge
 2,negative
-2,new
 2,or
 2,pack
 2,personal
@@ -59,7 +59,9 @@ freq,word
 2,user
 2,vendor
 3,bureaus
+3,cards
 3,ghosts
+3,new
 3,own
 3,tri
 4,clone
@@ -74,4 +76,4 @@ freq,word
 6,your
 7,create
 8,cpn
-21,credit
+22,credit

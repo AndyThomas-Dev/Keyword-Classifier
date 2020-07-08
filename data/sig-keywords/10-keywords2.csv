@@ -1,11 +1,11 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-2,for,410,2,Not significant
+2,for,412,2,Not significant
 1,you,116,2,Not significant
-1,linux,48,3,Not significant
-1,all,51,3,Not significant
+1,linux,49,3,Not significant
+1,all,52,3,Not significant
 1,megapack,25,4,0.05
-1,software,19,5,0.05
+1,software,20,5,0.05
 1,onion,11,6,0.05
 1,tools,11,6,0.05
 1,build,7,7,0.01

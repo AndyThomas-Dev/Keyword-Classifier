@@ -1,286 +1,280 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-1,system,15,0,Not significant
-1,so,12,0,Not significant
-1,site,11,0,Not significant
-1,server,12,0,Not significant
-1,really,12,0,Not significant
-1,pro,21,0,Not significant
-1,privacy,25,0,Not significant
-1,personal,14,0,Not significant
-1,nsa,13,0,Not significant
-1,noob,21,0,Not significant
-1,than,12,0,Not significant
-1,mobile,25,0,Not significant
-1,me,40,0,Not significant
-1,massive,11,0,Not significant
-1,mac,21,0,Not significant
-1,it,48,0,Not significant
-1,ios,24,0,Not significant
-1,internet,19,0,Not significant
 1,if,15,0,Not significant
 1,home,21,0,Not significant
+1,websites,10,0,Not significant
+1,have,20,0,Not significant
+1,where,14,0,Not significant
+1,windows,21,0,Not significant
+1,wireless,14,0,Not significant
 1,fullz,15,0,Not significant
+1,working,28,0,Not significant
 1,find,10,0,Not significant
+1,works,11,0,Not significant
+1,world,17,0,Not significant
+1,everything,12,0,Not significant
+2,be,59,0,Not significant
+1,encryption,20,0,Not significant
+2,cardable,31,0,Not significant
+2,from,115,0,Not significant
+2,new,83,0,Not significant
+2,no,45,0,Not significant
+1,internet,19,0,Not significant
+2,one,33,0,Not significant
+1,ios,24,0,Not significant
+1,it,48,0,Not significant
+1,privacy,24,0,Not significant
+1,pro,21,0,Not significant
+1,personal,14,0,Not significant
+1,professional,10,0,Not significant
+1,provider,10,0,Not significant
+1,really,12,0,Not significant
+1,server,13,0,Not significant
+1,site,11,0,Not significant
+1,so,12,0,Not significant
+1,mobile,25,0,Not significant
+1,system,16,0,Not significant
+1,than,12,0,Not significant
 1,methods,39,0,Not significant
+1,me,40,0,Not significant
+1,massive,11,0,Not significant
+1,things,14,0,Not significant
+1,mac,22,0,Not significant
 1,through,16,0,Not significant
 1,tips,18,0,Not significant
 1,way,25,0,Not significant
-12,for,400,0,Not significant
-7,tor,157,0,Not significant
-4,tails,102,0,Not significant
-3,my,74,0,Not significant
-3,anonymous,57,0,Not significant
-2,socks5,47,0,Not significant
-2,security,102,0,Not significant
-2,out,84,0,Not significant
-2,one,33,0,Not significant
-2,no,45,0,Not significant
-2,new,82,0,Not significant
-2,from,115,0,Not significant
-2,cardable,31,0,Not significant
-2,by,71,0,Not significant
-2,be,59,0,Not significant
+2,out,83,0,Not significant
 2,any,40,0,Not significant
-1,world,17,0,Not significant
-1,works,11,0,Not significant
-1,working,28,0,Not significant
-1,wireless,14,0,Not significant
-1,windows,21,0,Not significant
-1,where,14,0,Not significant
-1,websites,10,0,Not significant
-1,everything,11,0,Not significant
-1,encryption,20,0,Not significant
-1,se,12,0,Not significant
-1,before,12,0,Not significant
-1,are,35,0,Not significant
-0,how,0,0,Not significant
-1,check,21,0,Not significant
-1,delete,21,0,Not significant
-1,android,40,0,Not significant
+7,on,157,0,Not significant
 1,at,31,0,Not significant
-0,the,0,0,Not significant
-1,an,49,0,Not significant
-1,computer,22,0,Not significant
 1,bad,11,0,Not significant
-1,buy,52,0,Not significant
-0,to,0,0,Not significant
-0,of,0,0,Not significant
+1,are,35,0,Not significant
+4,tails,102,0,Not significant
+1,android,41,0,Not significant
+1,an,51,0,Not significant
+3,not,62,0,Not significant
+3,my,74,0,Not significant
 1,accounts,25,0,Not significant
-1,poker,6,1,Not significant
-1,bundle,8,1,Not significant
-1,pr,6,1,Not significant
-3,question,51,1,Not significant
-1,phones,9,1,Not significant
-1,used,6,1,Not significant
-1,but,9,1,Not significant
-3,setup,48,1,Not significant
-4,not,60,1,Not significant
-4,or,67,1,Not significant
-3,safe,52,1,Not significant
-1,professional,9,1,Not significant
-2,your,156,1,Not significant
+1,buy,52,0,Not significant
+1,by,73,0,Not significant
+4,tor,160,0,Not significant
+0,to,0,0,Not significant
+1,check,21,0,Not significant
+0,the,0,0,Not significant
+3,anonymous,57,0,Not significant
+3,about,53,0,Not significant
+2,security,104,0,Not significant
+0,how,0,0,Not significant
+12,for,402,0,Not significant
+0,of,0,0,Not significant
+1,computer,22,0,Not significant
 1,quick,6,1,Not significant
-2,more,20,1,Not significant
 1,autopilot,5,1,Not significant
-1,back,6,1,Not significant
-1,been,5,1,Not significant
-1,well,6,1,Not significant
-1,being,9,1,Not significant
-1,ultimate,83,1,Not significant
-1,tutorial,87,1,Not significant
-1,blocked,5,1,Not significant
-1,solution,7,1,Not significant
-2,wifi,26,1,Not significant
-1,non,5,1,Not significant
-3,about,52,1,Not significant
-1,sending,6,1,Not significant
-3,bitcoin,178,1,Not significant
-3,in,200,1,Not significant
-1,net,9,1,Not significant
-1,anti,7,1,Not significant
-1,interesting,5,1,Not significant
-1,looking,5,1,Not significant
-10,with,221,1,Not significant
-5,help,91,1,Not significant
-1,eu,7,1,Not significant
-8,on,156,1,Not significant
+1,poker,6,1,Not significant
 1,may,7,1,Not significant
-1,legit,5,1,Not significant
-1,crack,5,1,Not significant
+5,help,91,1,Not significant
+1,anti,7,1,Not significant
+1,solution,7,1,Not significant
+6,you,111,1,Not significant
+1,net,9,1,Not significant
+1,non,6,1,Not significant
+1,looking,5,1,Not significant
+1,sending,6,1,Not significant
+10,with,231,1,Not significant
+1,phones,9,1,Not significant
+1,crack,6,1,Not significant
+1,tutorial,87,1,Not significant
+3,bitcoin,178,1,Not significant
+2,wifi,26,1,Not significant
+2,more,20,1,Not significant
+2,your,156,1,Not significant
+1,expert,7,1,Not significant
+1,chaining,6,1,Not significant
+1,but,9,1,Not significant
+1,bundle,9,1,Not significant
 1,gb,6,1,Not significant
-1,prepaid,4,2,Not significant
-1,leaks,3,2,Not significant
-2,have,19,2,Not significant
-1,support,3,2,Not significant
-1,block,3,2,Not significant
+1,back,6,1,Not significant
+3,in,203,1,Not significant
+1,well,6,1,Not significant
+1,pr,6,1,Not significant
+3,safe,52,1,Not significant
+1,legit,5,1,Not significant
+1,blocked,5,1,Not significant
+3,setup,47,1,Not significant
+1,ultimate,85,1,Not significant
+1,being,9,1,Not significant
+3,question,51,1,Not significant
+1,used,6,1,Not significant
+2,safety,16,2,Not significant
+4,what,58,2,Not significant
 3,anyone,32,2,Not significant
+1,vmware,3,2,Not significant
 1,router,3,2,Not significant
 1,run,3,2,Not significant
-1,infected,3,2,Not significant
-1,configure,3,2,Not significant
-1,shit,4,2,Not significant
-1,guys,3,2,Not significant
+1,running,3,2,Not significant
+1,support,3,2,Not significant
+1,suggest,3,2,Not significant
+1,prepaid,4,2,Not significant
 2,public,19,2,Not significant
-4,what,57,2,Not significant
-1,get,124,2,Not significant
+1,shit,4,2,Not significant
+1,configure,3,2,Not significant
+1,leaks,3,2,Not significant
+1,pack,120,2,Not significant
+1,guys,3,2,Not significant
+1,get,125,2,Not significant
 1,paid,3,2,Not significant
-1,pack,119,2,Not significant
-1,ac,2,3,Not significant
-1,skype,2,3,Not significant
-2,does,12,3,Not significant
-2,am,12,3,Not significant
-7,you,110,3,Not significant
-1,connections,2,3,Not significant
-1,native,2,3,Not significant
-1,cracked,2,3,Not significant
-2,set,11,3,Not significant
-1,thoughts,2,3,Not significant
-1,blackhat,2,3,Not significant
-2,time,13,3,Not significant
-1,vmware,2,3,Not significant
-1,traced,2,3,Not significant
-2,which,12,3,Not significant
-2,why,12,3,Not significant
-3,over,27,3,Not significant
-1,121,2,3,Not significant
-1,same,2,3,Not significant
-1,safer,2,3,Not significant
-1,russian,2,3,Not significant
-1,connection,2,3,Not significant
+1,makes,3,2,Not significant
+1,124,3,2,Not significant
+1,block,3,2,Not significant
 1,classic,2,3,Not significant
-3,whonix,20,4,0.05
-1,found,1,4,0.05
-1,opinions,1,4,0.05
-1,choose,1,4,0.05
-1,fastest,1,4,0.05
-1,dedicated,1,4,0.05
-1,chinese,1,4,0.05
-1,makes,1,4,0.05
-1,netflix,1,4,0.05
-1,ass,1,4,0.05
-1,article,1,4,0.05
-1,distros,1,4,0.05
-2,life,8,4,0.05
-2,dns,8,4,0.05
-1,months,1,4,0.05
-1,mint,1,4,0.05
-1,logging,1,4,0.05
-5,can,56,4,0.05
-1,priv,1,4,0.05
-1,load,1,4,0.05
-1,btc,169,4,0.05
-6,using,71,4,0.05
-1,considered,1,4,0.05
-1,sources,1,4,0.05
-1,rather,1,4,0.05
-2,setting,8,4,0.05
-1,plz,1,4,0.05
+1,thoughts,2,3,Not significant
+3,over,27,3,Not significant
+2,time,13,3,Not significant
+1,native,2,3,Not significant
+2,which,12,3,Not significant
+2,set,11,3,Not significant
+1,connection,2,3,Not significant
+1,skype,2,3,Not significant
+1,connections,2,3,Not significant
+1,traced,2,3,Not significant
+2,am,12,3,Not significant
+2,why,12,3,Not significant
+1,ac,2,3,Not significant
+2,does,12,3,Not significant
+1,cracked,2,3,Not significant
+1,same,2,3,Not significant
+1,blackhat,2,3,Not significant
+1,russian,2,3,Not significant
+1,safer,2,3,Not significant
 1,ironsocket,1,4,0.05
-1,purchasing,1,4,0.05
+2,setting,8,4,0.05
+1,dedicated,1,4,0.05
+2,life,8,4,0.05
+1,found,1,4,0.05
+2,dns,8,4,0.05
+1,fastest,1,4,0.05
 1,keeping,1,4,0.05
-3,ip,19,4,0.05
+1,distros,1,4,0.05
+1,priv,1,4,0.05
 1,thru,1,4,0.05
-2,rdp,7,5,0.05
-2,unlimited,6,5,0.05
-6,use,63,5,0.05
+1,plz,1,4,0.05
+6,using,72,4,0.05
+1,purchasing,1,4,0.05
+1,ass,1,4,0.05
+5,can,56,4,0.05
+4,vip72,39,4,0.05
+1,opinions,1,4,0.05
+1,load,1,4,0.05
+1,netflix,1,4,0.05
+3,whonix,20,4,0.05
+3,ip,19,4,0.05
+1,btc,167,4,0.05
+1,chinese,1,4,0.05
+1,sources,1,4,0.05
+1,choose,1,4,0.05
+1,months,1,4,0.05
+1,logging,1,4,0.05
+1,mint,1,4,0.05
 2,proxifier,6,5,0.05
-5,linux,44,5,0.05
-3,safety,15,5,0.05
-5,need,46,5,0.05
+5,linux,45,5,0.05
+2,unlimited,6,5,0.05
+5,socks5,44,5,0.05
+6,or,65,5,0.05
+2,rdp,7,5,0.05
 2,antidetect,5,6,0.05
 2,connect,4,6,0.05
 2,issues,5,6,0.05
-5,vip72,38,6,0.05
-10,free,114,7,0.01
-1,2x,0,7,0.01
-1,airvpn,0,7,0.01
-2,point,3,7,0.01
-2,hide,3,7,0.01
-2,multiple,3,7,0.01
-5,up,33,7,0.01
-1,distribution,0,7,0.01
-1,paranoic,0,7,0.01
+1,zenmate,0,7,0.01
+1,click,0,7,0.01
+1,mismatch,0,7,0.01
+1,stable,0,7,0.01
+1,neces,0,7,0.01
+1,btguard,0,7,0.01
+1,socks5premium,0,7,0.01
+1,necessary,0,7,0.01
+1,both,0,7,0.01
+1,zorro,0,7,0.01
+1,bolehvpn,0,7,0.01
+1,blocking,0,7,0.01
+1,nordvpn,0,7,0.01
+1,northkorea,0,7,0.01
+1,openvp,0,7,0.01
+1,avira,0,7,0.01
+1,org,0,7,0.01
+1,aswell,0,7,0.01
 1,recommened,0,7,0.01
 1,reccomend,0,7,0.01
-1,ff,0,7,0.01
 1,purpose,0,7,0.01
 1,providors,0,7,0.01
-1,headache,0,7,0.01
-1,btguard,0,7,0.01
+5,up,33,7,0.01
+1,paranoic,0,7,0.01
+1,payed,0,7,0.01
+1,airvpn,0,7,0.01
+1,phantom,0,7,0.01
+7,use,63,7,0.01
+1,2x,0,7,0.01
 1,privatoria,0,7,0.01
+1,togeth,0,7,0.01
+1,torguard,0,7,0.01
+1,bolivia,0,7,0.01
+1,tunnelbear,0,7,0.01
+1,ensure,0,7,0.01
+1,enc,0,7,0.01
+1,fedora,0,7,0.01
+2,debian,3,7,0.01
+1,ff,0,7,0.01
+1,doble,0,7,0.01
+2,hide,3,7,0.01
+1,totaly,0,7,0.01
+1,wheezy,0,7,0.01
+1,headache,0,7,0.01
+2,multiple,3,7,0.01
+1,distribution,0,7,0.01
+1,detect,0,7,0.01
 1,highest,0,7,0.01
 1,poxy,0,7,0.01
-1,phantom,0,7,0.01
-1,payed,0,7,0.01
-1,connec,0,7,0.01
+1,vene,0,7,0.01
 1,isp,0,7,0.01
-1,org,0,7,0.01
-1,liberty,0,7,0.01
-1,click,0,7,0.01
-1,openvp,0,7,0.01
-1,northkorea,0,7,0.01
-1,mismatch,0,7,0.01
-1,nordvpn,0,7,0.01
-1,neces,0,7,0.01
-1,both,0,7,0.01
-1,fedora,0,7,0.01
-1,bolehvpn,0,7,0.01
-1,doble,0,7,0.01
-2,debian,3,7,0.01
-1,enc,0,7,0.01
-1,aswell,0,7,0.01
-1,zorro,0,7,0.01
-1,zenmate,0,7,0.01
-1,avira,0,7,0.01
-1,wheezy,0,7,0.01
-1,ensure,0,7,0.01
 1,warra,0,7,0.01
-1,bolivia,0,7,0.01
+1,liberty,0,7,0.01
+1,unuseable,0,7,0.01
+2,point,3,7,0.01
 1,vyprvpn,0,7,0.01
 1,warr,0,7,0.01
-1,detect,0,7,0.01
-1,unuseable,0,7,0.01
 1,unstable,0,7,0.01
-1,tunnelbear,0,7,0.01
-1,totaly,0,7,0.01
-1,torguard,0,7,0.01
-1,blocking,0,7,0.01
-1,stable,0,7,0.01
-1,socks5premium,0,7,0.01
-1,vene,0,7,0.01
-1,necessary,0,7,0.01
-6,socks,44,8,0.01
-8,best,77,8,0.01
-8,do,74,8,0.01
-4,proxy,15,9,0.01
-2,fraudfox,1,10,0.01
+1,connec,0,7,0.01
+6,need,45,8,0.01
+11,free,113,10,0.01
 4,double,13,10,0.01
 3,vm,5,10,0.01
 3,client,6,10,0.01
-3,chaining,4,11,0.001
+2,fraudfox,1,10,0.01
+9,do,73,11,0.001
+12,is,118,11,0.001
 3,logs,3,13,0.001
-4,there,7,14,0.001
-13,is,117,14,0.001
-2,expressvpn,0,14,0.001
+10,best,75,13,0.001
 2,connecting,0,14,0.001
 2,openvpn,0,14,0.001
+2,expressvpn,0,14,0.001
 2,frootvpn,0,14,0.001
-3,hidemyass,1,16,0.0001
+4,there,7,14,0.001
 6,service,19,16,0.0001
+3,hidemyass,1,16,0.0001
 4,recommend,3,18,0.0001
-1,guide,461,19,0.0001
+9,socks,41,19,0.0001
+1,guide,464,20,0.0001
 4,mullvad,2,20,0.0001
-3,purevpn,0,21,0.0001
 3,strongvpn,0,21,0.0001
+3,purevpn,0,21,0.0001
 4,warranty,0,28,0.0001
-9,good,16,31,0.0001
+8,proxy,11,31,0.0001
+9,good,16,32,0.0001
 6,vps,2,33,0.0001
 6,cyberghost,1,36,0.0001
 6,ipvanish,0,42,0.0001
 14,com,11,65,0.0001
 10,vpns,0,70,0.0001
-22,account,48,71,0.0001
+23,account,47,77,0.0001
 19,premium,8,102,0.0001
 20,lifetime,4,120,0.0001
-116,vpn,22,701,0.0001
+123,vpn,15,777,0.0001

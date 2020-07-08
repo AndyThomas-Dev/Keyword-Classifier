@@ -4,7 +4,7 @@ freq,word,exfreq,LL,sig
 1,ton,1,8,0.01
 1,cryp,1,8,0.01
 2,000,19,9,0.01
-2,double,15,9,0.01
+2,double,15,10,0.01
 1,screenshot,0,11,0.001
 1,guarante,0,11,0.001
 1,cryptos100,0,11,0.001
@@ -22,5 +22,5 @@ freq,word,exfreq,LL,sig
 3,cryptos,0,33,0.0001
 4,million,1,39,0.0001
 4,forex,0,44,0.0001
-7,legal,10,54,0.0001
+7,legal,11,53,0.0001
 13,trading,0,144,0.0001

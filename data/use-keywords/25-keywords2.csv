@@ -1,8 +1,9 @@
 freq,word,exfreq,LL,sig
 1,cia,4,7,0.01
+1,11,4,7,0.01
 1,field,2,8,0.01
 1,casting,1,9,0.01
-2,video,20,11,0.001
+2,video,19,11,0.001
 1,millennium,0,12,0.001
 1,expedient,0,12,0.001
 1,dw011,0,12,0.001

@@ -11,8 +11,8 @@ freq,word,exfreq,LL,sig
 1,truly,1,9,0.01
 2,mobile,24,11,0.001
 1,secuirty,0,12,0.001
-2,america,1,21,0.0001
-4,android,37,23,0.0001
+2,america,2,19,0.0001
+4,android,38,23,0.0001
 2,bussines,0,25,0.0001
-3,hacks,6,26,0.0001
+3,hacks,7,25,0.0001
 4,ios,21,28,0.0001

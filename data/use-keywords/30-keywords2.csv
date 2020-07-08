@@ -1,7 +1,7 @@
 freq,word,exfreq,LL,sig
 1,human,2,7,0.01
 1,markets,3,7,0.01
-1,600,2,7,0.01
+1,600,3,7,0.01
 1,passwords,3,7,0.01
 1,useful,2,7,0.01
 1,awesome,2,7,0.01
@@ -21,11 +21,11 @@ freq,word,exfreq,LL,sig
 1,uncen,0,11,0.001
 2,link,9,12,0.001
 2,websites,9,12,0.001
-3,web,33,14,0.001
+3,web,34,14,0.001
 2,addresses,4,15,0.001
 3,email,27,15,0.001
+3,deep,9,21,0.0001
 3,onion,9,21,0.0001
-6,list,125,21,0.0001
-3,deep,8,22,0.0001
-3,directory,0,34,0.0001
-5,darknet,8,40,0.0001
+6,list,125,22,0.0001
+3,directory,0,35,0.0001
+5,darknet,8,41,0.0001

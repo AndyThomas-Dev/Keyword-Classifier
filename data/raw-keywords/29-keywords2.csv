@@ -6,7 +6,7 @@ freq,word
 0,the
 0,to
 1,0e
-1,136
+1,137
 1,28
 1,access
 1,account
@@ -25,7 +25,6 @@ freq,word
 1,apg
 1,apotheosis
 1,arth0s
-1,as
 1,asked
 1,author
 1,auto
@@ -44,7 +43,7 @@ freq,word
 1,bungee
 1,burned
 1,but
-1,buyer
+1,cannabis
 1,cant
 1,cd
 1,cellphones
@@ -227,6 +226,7 @@ freq,word
 1,required
 1,resources
 1,retrieving
+1,road
 1,rsa
 1,rundown
 1,safely
@@ -271,6 +271,7 @@ freq,word
 1,this
 1,thread
 1,thumb
+1,tour
 1,tracking
 1,translat
 1,tutorioal
@@ -297,9 +298,11 @@ freq,word
 1,would
 1,wrong
 2,alternative
+2,as
 2,beginner
 2,best
 2,bmr
+2,buyer
 2,client
 2,computer
 2,data
@@ -417,9 +420,9 @@ freq,word
 12,guide
 12,tails
 12,truecrypt
-12,use
 12,your
 13,on
+13,use
 18,encryption
 20,gpg
 20,help

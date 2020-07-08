@@ -36,6 +36,7 @@ freq,word
 1,know
 1,knows
 1,landline
+1,localbitcoins
 1,location
 1,me
 1,mobile
@@ -72,11 +73,11 @@ freq,word
 2,sims
 2,spoofer
 2,unknown
-2,verification
 3,anonymous
+3,verification
 4,get
 4,number
 4,sim
 5,phones
 11,burner
-15,phone
+16,phone

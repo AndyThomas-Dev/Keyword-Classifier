@@ -3,27 +3,27 @@ freq,word,exfreq,LL,sig
 0,of,0,0,Not significant
 0,the,0,0,Not significant
 0,to,0,0,Not significant
-1,for,411,0,Not significant
-1,new,83,1,Not significant
+1,for,413,0,Not significant
+1,new,84,1,Not significant
 1,pick,92,1,Not significant
-3,guide,459,2,Not significant
-1,complete,67,2,Not significant
+3,guide,462,2,Not significant
+1,complete,66,2,Not significant
 1,making,32,3,Not significant
 1,key,29,3,Not significant
 1,secrets,26,3,Not significant
-1,books,26,3,Not significant
+1,books,27,3,Not significant
 1,any,41,3,Not significant
-1,collection,37,3,Not significant
+1,collection,41,3,Not significant
 1,only,24,4,0.05
 1,noob,21,4,0.05
 1,police,10,5,0.05
 1,manual,7,6,0.05
 1,friendly,7,6,0.05
-1,11,5,6,0.05
 1,cia,4,7,0.01
+1,11,4,7,0.01
 1,field,2,8,0.01
 1,casting,1,9,0.01
-2,video,20,11,0.001
+2,video,19,11,0.001
 1,millennium,0,12,0.001
 1,expedient,0,12,0.001
 1,dw011,0,12,0.001

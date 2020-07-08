@@ -1,9 +1,9 @@
 freq,word,exfreq,LL,sig
 0,and,0,0,Not significant
-1,for,411,0,Not significant
+1,for,413,0,Not significant
 1,tutorial,87,0,Not significant
 0,to,0,0,Not significant
-1,ultimate,83,0,Not significant
+1,ultimate,85,0,Not significant
 0,of,0,0,Not significant
 0,make,0,0,Not significant
 0,how,0,0,Not significant
@@ -14,22 +14,22 @@ freq,word,exfreq,LL,sig
 1,blockchain,17,3,Not significant
 1,month,10,4,0.05
 1,life,9,4,0.05
-2,bitcoins,60,4,0.05
+2,bitcoins,61,4,0.05
 2,money,76,4,0.05
 1,basics,10,4,0.05
 1,guaranteed,6,5,0.05
 1,investing,5,5,0.05
 1,coins,6,5,0.05
 1,proof,6,5,0.05
-4,in,199,6,0.05
-2,100,38,6,0.05
+4,in,202,6,0.05
+2,100,36,6,0.05
 1,cryptocurrency,4,6,0.05
 1,german,2,7,0.01
 1,x180,1,8,0.01
 1,ton,1,8,0.01
 1,cryp,1,8,0.01
 2,000,19,9,0.01
-2,double,15,9,0.01
+2,double,15,10,0.01
 1,screenshot,0,11,0.001
 1,guarante,0,11,0.001
 1,cryptos100,0,11,0.001
@@ -47,5 +47,5 @@ freq,word,exfreq,LL,sig
 3,cryptos,0,33,0.0001
 4,million,1,39,0.0001
 4,forex,0,44,0.0001
-7,legal,10,54,0.0001
+7,legal,11,53,0.0001
 13,trading,0,144,0.0001

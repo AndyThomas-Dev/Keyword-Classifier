@@ -4,10 +4,10 @@ freq,word,exfreq,LL,sig
 0,of,0,0,Not significant
 0,the,0,0,Not significant
 0,to,0,0,Not significant
-1,your,157,0,Not significant
-1,with,230,0,Not significant
-1,guide,461,0,Not significant
-1,security,103,1,Not significant
+1,with,240,0,Not significant
+1,guide,464,0,Not significant
+1,your,157,1,Not significant
+1,security,105,1,Not significant
 1,money,77,2,Not significant
 1,or,70,2,Not significant
 1,hack,43,3,Not significant
@@ -15,12 +15,12 @@ freq,word,exfreq,LL,sig
 1,own,29,3,Not significant
 1,iphone,16,4,0.05
 1,tips,18,4,0.05
-1,application,11,5,0.05
+1,application,12,5,0.05
 1,tricks,8,6,0.05
 2,hacking,88,6,0.05
 1,exploit,8,6,0.05
 1,penetration,8,6,0.05
-1,50,9,6,0.05
+1,50,8,6,0.05
 1,applications,9,6,0.05
 1,apps,4,7,0.01
 1,securing,4,7,0.01
@@ -34,8 +34,8 @@ freq,word,exfreq,LL,sig
 1,truly,1,9,0.01
 2,mobile,24,11,0.001
 1,secuirty,0,12,0.001
-2,america,1,21,0.0001
-4,android,37,23,0.0001
+2,america,2,19,0.0001
+4,android,38,23,0.0001
 2,bussines,0,25,0.0001
-3,hacks,6,26,0.0001
+3,hacks,7,25,0.0001
 4,ios,21,28,0.0001
