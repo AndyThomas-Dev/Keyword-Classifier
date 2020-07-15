@@ -71,7 +71,7 @@ def tokeniseString(string):
 
     for token in nltk_tokens:
         result = getTotalLLScore(token)
-        # print(token, result)
+        print(token, result)
 
         for i in range(35):
             sumAll[i] = sumAll[i] + result[i]
@@ -83,8 +83,8 @@ def tokeniseString(string):
 
 
 # --- Testing features ---
-# x = "Targeted Cyber Attacks Multi-staged Attacks Driven by Exploits and Malware 2014"
-# array = tokeniseString(x.lower())
-#
-# print('Max value in Dict: ', max(array))
-# print('Key With Max value in Dict: ', getLabel(array))
+x = "Good Day All"
+array = tokeniseString(x.lower())
+
+print('Max value in Dict: ', max(array))
+print('Key With Max value in Dict: ', getLabel(array))
