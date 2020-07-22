@@ -1,0 +1,215 @@
+
+/Helvetica-Narrow findfont
+8 scalefont
+setfont
+
+1 dup dup scale
+1 exch div setlinewidth
+200 200 translate
+0 0 moveto
+
+(utilities.inc.ps) run
+
+/textheight {
+    gsave                                  % save graphic context
+    {                            
+	100 100 moveto                     % move to some point 
+	(%.\(\)0123456789) true charpath pathbbox      % gets text path bounding box (LLx LLy URx URy)
+	exch pop 3 -1 roll pop             % keeps LLy and URy
+	exch sub                           % URy - LLy
+    }
+    stopped                                % did the last block fail?
+    {
+	pop pop                            % get rid of "stopped" junk
+	currentfont /FontMatrix get 3 get  % gets alternative text height
+    }
+    if
+    grestore                               % restore graphic context
+} bind def
+
+/hairline {
+    gsave
+    1 300 div setlinewidth
+    1 setgray
+    stroke
+    grestore
+    1 600 div setlinewidth
+    0 setgray
+    stroke
+} bind def
+
+/centershow-outline {
+    /input exch def
+    gsave
+    input stringwidth pop -2 div
+    0 rmoveto
+    input true charpath
+    1 200 div setlinewidth
+    1 setgray
+    stroke
+    grestore
+} bind def
+
+/center-show {
+    /input exch def 
+    gsave
+    input centershow-outline
+    input stringwidth pop -2 div
+    0 rmoveto
+    0 setgray
+    input show
+    grestore
+} bind def
+
+% Find the length of a list of lists
+/length-2 {
+    dup length /n exch def
+    { length } forall
+    n 1 sub { add } repeat
+} bind def
+
+% Sum the elements in a list of lists
+/sum-2 {
+    dup length /n exch def
+    { sum } forall
+    n 1 sub { add } repeat
+} bind def
+
+/max-2 {
+    dup length /n exch def
+    { amaximum } forall
+    n 1 sub { maximum } repeat
+} bind def
+
+
+/bar-plot {
+    /data exch def
+    /labels exch def
+    /maxbarheight exch def % Height of the highest bar
+
+    /bar-width 10 def
+    /bar-sep 1 def
+    /group-sep 4 def
+    /tick-height 2 def
+
+    /total data sum-2 def
+    /scaling-factor maxbarheight data max-2 total div 100 mul div def
+
+    gsave
+    bar-width setlinewidth
+    % For each group of data
+    data
+    {
+	% And the data within each group
+	{
+	    /y exch def
+	    /height y total div 100 mul def
+	    
+	    % Only draw bar if there is data
+	    y 0 gt
+	    {
+		% Data
+		newpath
+		0 0 moveto
+		0 height scaling-factor mul lineto
+		0 setgray
+		bar-width setlinewidth stroke
+
+		% Data value
+		gsave
+		0 height scaling-factor mul tick-height add translate
+		90 rotate
+		%y =string cvs
+		%( \() concat
+		%height round cvi =string cvs concat
+		%(%\)) concat
+		height round cvi =string cvs (%) concat
+		0 0 moveto
+		textheight
+		-3.0 div
+		0 exch rmoveto
+		0.5 setgray
+		show
+		grestore
+	    } if
+
+	    % Tick
+	    newpath
+	    0 0 moveto
+	    0 tick-height neg lineto
+	    0 setgray
+	    hairline
+
+	    % Next bar
+	    bar-width 1 div bar-sep add 0 translate
+	    
+	}
+	forall
+	% Add a little extra space between groups
+	group-sep bar-sep sub 0 translate
+    } forall
+    grestore
+    
+    gsave
+    
+    labels
+    {
+	{
+	    /label exch def
+	    0 0 moveto
+	    gsave
+	    90 rotate
+	    tick-height 2 mul bar-sep add % x
+	    label stringwidth pop add neg % right justify
+	    textheight -3.0 div           % y
+	    rmoveto
+	    label show
+	    grestore
+	    
+	    % Next label
+	    bar-width 1 div bar-sep add 0 translate
+	} forall
+	group-sep bar-sep sub 0 translate
+    } forall
+    grestore
+    
+} bind def
+
+/cybok-short-labels 
+[[(A1) (A2) (A3) (A4)][(H1) (H2) (H3) (H4)][(I1) (I2) (I3) (I4)][(P1) (P2) (P3)][(S1) (S2) (S3) (S4)]]
+def
+
+/cybok-long-labels
+[
+    [
+	(Adversarial Behaviours)
+	(Forensics)
+	(Malware & Attack Technology)
+	(Security Operations & Incident Management)
+    ]
+    [
+	(Human Factors)
+	(Law & Regulation)
+	(Privacy & Online Rights)
+	(Risk Management & Governance)
+    ]
+    [
+	(Cyber-Physical Systems Security)
+	(Hardware Security)
+	(Network Security)
+	(Physical Layer Security)
+    ]
+    [
+	(Secure Software Lifecycle)
+	(Software Security)
+	(Web & Mobile Security)
+    ]
+    [
+	(Authentication, Authorisation & Accountability)
+	(Cryptography)
+	(Distributed Systems Security)
+	(Operating Systems & Virtualisation Security)
+    ]
+] def
+
+%%EOF
