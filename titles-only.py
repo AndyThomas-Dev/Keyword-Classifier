@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Extracts only titles and thread-id and prints to screen.
+# Extracts only titles and thread-id and returns this as a CSV file.
 
 # Only id & subject
 raw = pd.read_csv(r"data/source/hacker/security_tutorial_posts_hackers.csv", usecols=[2, 4])

@@ -3,7 +3,6 @@ import pandas as pd
 
 
 # Provides more detailed analysis of a sorted file, alongside Cohen's kappa.
-
 def getCatId(cat):
     cats = ["Anonymity – Other", "Anonymity – Tor", "Anonymity – VPN", "Anonymity – Proxies",
             "Carding", "Cashing Out", "Clearing Criminal History", "Counterfeit Currency", "Cryptocurrency – General",
