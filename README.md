@@ -31,7 +31,8 @@ The ground truth data is then tokenised.
 This will output x35 .CSV files corresponding to each corpus. Each file will contain every word present within that corpus and the number of times it occurs within that corpus.
 
 ## 2. Calculation of log likelihood (LL) values.
-#### Filename: calculateLogLikelihood.py
+#### Filename: catKeyword.py
+#### Function: calculateLogLikelihood (in addLLValues.py)
 #### Inputs: data/raw-keywords
 #### Outputs: data/sig-keywords
 Log likelihood values are calculated for each word in each corpus.

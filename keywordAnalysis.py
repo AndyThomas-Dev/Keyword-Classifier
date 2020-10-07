@@ -1,7 +1,6 @@
 import pandas as pd
 import nltk
 import re
-import sys
 
 # Required inputs: 35x seperate ground truth data .CSV files in data/gt/
 # 1. Function counts the frequency of each word in each file.

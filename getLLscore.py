@@ -83,8 +83,8 @@ def tokeniseString(string):
 
 
 # --- Testing features ---
-x = "Good Day All"
-array = tokeniseString(x.lower())
-
-print('Max value in Dict: ', max(array))
-print('Key With Max value in Dict: ', getLabel(array))
+# x = "Good Day All"
+# array = tokeniseString(x.lower())
+#
+# print('Max value in Dict: ', max(array))
+# print('Key With Max value in Dict: ', getLabel(array))
