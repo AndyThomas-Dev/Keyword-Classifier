@@ -8,13 +8,13 @@ The code will operates under some key assumptions:
 - For example, the CSV file named 29-2.csv in data/gt contains the ground truth data for the PGP/GPG category.
 
 ## Adding to Ground Truth data (if required)
-#### Filename: data/gt/full.csv
-#### Inputs: input.csv
+#### Filename: addFileToGT.py
+#### Inputs: data/gt/full.csv
 #### Outputs: data/gt/
 
 This step is only required if there is ready sorted data that needs to be added to the ground truth data set.
 
-The Python script will rip the items from the input file into the relevant ground truth category. Any duplicates are removed in the process. This prevents certain titles, for example where the same listing has been posted a large number of times being overrepresented. 
+The Python script will rip the items from the main ground truth data set into the relevant categories. Any duplicates are removed in the process. This prevents certain titles, for example where the same listing has been posted a large number of times being overrepresented. 
 
 ## 1. Extracting keywords from ground truth data.
 #### Filename: keyword-analysis.py
