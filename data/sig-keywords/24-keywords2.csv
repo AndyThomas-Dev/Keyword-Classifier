@@ -1,0 +1,113 @@
+freq,word,exfreq,LL,sig
+0,and,0,0,Not significant
+1,me,40,0,Not significant
+2,on,162,0,Not significant
+1,method,123,0,Not significant
+1,my,76,0,Not significant
+1,not,64,0,Not significant
+1,or,70,0,Not significant
+2,free,122,0,Not significant
+1,is,129,0,Not significant
+1,can,60,0,Not significant
+1,safe,54,0,Not significant
+1,it,48,0,Not significant
+2,you,115,0,Not significant
+0,how,0,0,Not significant
+0,the,0,0,Not significant
+3,guide,462,0,Not significant
+0,to,0,0,Not significant
+1,beginners,53,0,Not significant
+1,mac,22,1,Not significant
+1,high,24,1,Not significant
+1,gift,20,1,Not significant
+1,megapack,25,1,Not significant
+2,best,83,1,Not significant
+1,please,33,1,Not significant
+2,tutorial,86,1,Not significant
+1,questions,31,1,Not significant
+1,secure,23,1,Not significant
+1,buying,19,1,Not significant
+1,own,29,1,Not significant
+1,usb,14,2,Not significant
+1,vs,14,2,Not significant
+1,someone,13,2,Not significant
+1,safety,17,2,Not significant
+1,testing,11,2,Not significant
+1,where,14,2,Not significant
+7,for,407,2,Not significant
+1,if,15,2,Not significant
+3,security,103,3,Not significant
+1,could,7,3,Not significant
+1,tool,10,3,Not significant
+1,crack,6,3,Not significant
+1,building,10,3,Not significant
+1,penetration,8,3,Not significant
+1,password,8,3,Not significant
+2,any,40,3,Not significant
+1,sec,4,4,0.05
+1,level,4,4,0.05
+1,tell,5,4,0.05
+1,everyone,5,4,0.05
+3,using,75,4,0.05
+1,freebies,4,4,0.05
+1,virtualbox,4,4,0.05
+2,dummies,37,4,0.05
+1,cisco,3,5,0.05
+1,16,3,5,0.05
+2,bible,24,5,0.05
+1,connection,2,5,0.05
+1,kali,2,5,0.05
+2,hacked,25,5,0.05
+1,cracked,2,5,0.05
+1,long,3,5,0.05
+1,con,3,5,0.05
+2,video,19,6,0.05
+1,lan,1,6,0.05
+1,were,1,6,0.05
+1,type,1,6,0.05
+1,hows,1,6,0.05
+1,dongle,1,6,0.05
+2,internet,18,6,0.05
+2,hacker,16,6,0.05
+1,far,1,6,0.05
+1,lab,1,6,0.05
+2,pass,12,7,0.01
+1,wpa2,0,9,0.01
+1,wif,0,9,0.01
+1,routers,0,9,0.01
+1,target,0,9,0.01
+1,averiguar,0,9,0.01
+1,awus036h,0,9,0.01
+1,adapter,0,9,0.01
+1,wardriving,0,9,0.01
+1,claves,0,9,0.01
+1,crac,0,9,0.01
+1,cu,0,9,0.01
+1,hotspots,0,9,0.01
+1,pentesting,0,9,0.01
+1,programm,0,9,0.01
+1,range,0,9,0.01
+1,says,0,9,0.01
+1,simply,0,9,0.01
+1,ability,0,9,0.01
+1,sniffers,0,9,0.01
+1,r3,0,9,0.01
+1,alfa,0,9,0.01
+3,software,18,11,0.001
+2,exposed,4,11,0.001
+3,network,19,11,0.001
+2,cracker,2,13,0.001
+2,automated,2,13,0.001
+4,public,17,18,0.0001
+2,wep,0,19,0.0001
+2,wpa,0,19,0.0001
+2,backtrack,0,19,0.0001
+3,networks,2,22,0.0001
+3,passwords,1,24,0.0001
+4,wi,4,27,0.0001
+4,cracking,3,28,0.0001
+10,hacking,80,34,0.0001
+4,fi,0,38,0.0001
+9,hack,35,42,0.0001
+9,wireless,6,66,0.0001
+24,wifi,4,207,0.0001

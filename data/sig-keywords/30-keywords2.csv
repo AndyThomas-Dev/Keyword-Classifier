@@ -1,0 +1,56 @@
+freq,word,exfreq,LL,sig
+0,and,0,0,Not significant
+0,of,0,0,Not significant
+0,the,0,0,Not significant
+0,to,0,0,Not significant
+1,for,413,0,Not significant
+1,mail,33,2,Not significant
+1,sites,34,2,Not significant
+1,way,25,3,Not significant
+1,accounts,25,3,Not significant
+1,us,29,3,Not significant
+1,private,29,3,Not significant
+1,000,20,3,Not significant
+1,full,23,3,Not significant
+1,mega,29,3,Not significant
+1,working,28,3,Not significant
+2,ultimate,84,4,0.05
+1,success,9,5,0.05
+1,newbies,8,5,0.05
+1,deepweb,7,5,0.05
+1,most,8,5,0.05
+1,gmail,6,5,0.05
+1,links,9,5,0.05
+1,shop,4,6,0.05
+1,million,4,6,0.05
+1,clearnet,5,6,0.05
+1,human,2,7,0.01
+1,markets,3,7,0.01
+1,600,3,7,0.01
+1,passwords,3,7,0.01
+1,useful,2,7,0.01
+1,awesome,2,7,0.01
+1,adresses,2,7,0.01
+1,url,3,7,0.01
+1,ru,1,8,0.01
+1,50k,0,11,0.001
+1,7839,0,11,0.001
+1,verified,0,11,0.001
+1,lin,0,11,0.001
+1,active,0,11,0.001
+1,april,0,11,0.001
+1,popular,0,11,0.001
+1,darkness,0,11,0.001
+1,fed,0,11,0.001
+1,head,0,11,0.001
+1,uncen,0,11,0.001
+2,link,9,12,0.001
+2,websites,9,12,0.001
+3,web,34,14,0.001
+2,addresses,4,15,0.001
+3,email,27,15,0.001
+3,deep,9,21,0.0001
+3,onion,9,21,0.0001
+6,list,125,22,0.0001
+3,directory,0,35,0.0001
+5,darknet,8,41,0.0001

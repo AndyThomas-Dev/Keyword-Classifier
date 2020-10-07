@@ -1,0 +1,431 @@
+freq,word,exfreq,LL,sig
+0,and,0,0,Not significant
+1,noob,21,0,Not significant
+1,now,18,0,Not significant
+1,number,15,0,Not significant
+1,online,35,0,Not significant
+1,only,24,0,Not significant
+1,other,14,0,Not significant
+1,over,29,0,Not significant
+1,newbies,8,0,Not significant
+1,own,29,0,Not significant
+1,phones,9,0,Not significant
+1,pi,10,0,Not significant
+1,place,8,0,Not significant
+1,please,33,0,Not significant
+1,possible,14,0,Not significant
+1,practical,19,0,Not significant
+1,privacy,24,0,Not significant
+1,people,13,0,Not significant
+1,read,16,0,Not significant
+1,never,10,0,Not significant
+1,must,15,0,Not significant
+1,full,23,0,Not significant
+1,great,11,0,Not significant
+1,gui,8,0,Not significant
+1,have,20,0,Not significant
+1,id,19,0,Not significant
+1,if,15,0,Not significant
+1,info,11,0,Not significant
+1,net,9,0,Not significant
+1,iphone,16,0,Not significant
+1,learning,29,0,Not significant
+1,links,9,0,Not significant
+1,lock,7,0,Not significant
+1,man,7,0,Not significant
+1,mobile,25,0,Not significant
+1,more,21,0,Not significant
+1,most,8,0,Not significant
+1,le,23,0,Not significant
+1,find,10,0,Not significant
+1,safely,17,0,Not significant
+1,service,24,0,Not significant
+2,data,33,0,Not significant
+2,it,47,0,Not significant
+2,learn,20,0,Not significant
+2,or,69,0,Not significant
+2,without,21,0,Not significant
+3,about,53,0,Not significant
+3,complete,64,0,Not significant
+2,computer,21,0,Not significant
+3,easy,47,0,Not significant
+4,new,81,0,Not significant
+5,by,69,0,Not significant
+7,from,110,0,Not significant
+7,in,199,0,Not significant
+7,you,110,0,Not significant
+8,is,122,0,Not significant
+11,with,230,0,Not significant
+3,security,103,0,Not significant
+1,server,13,0,Not significant
+2,best,83,0,Not significant
+1,when,13,0,Not significant
+1,setting,9,0,Not significant
+1,setup,49,0,Not significant
+1,shipping,39,0,Not significant
+1,simple,13,0,Not significant
+1,software,20,0,Not significant
+1,someone,13,0,Not significant
+1,stay,9,0,Not significant
+1,would,10,0,Not significant
+1,stop,7,0,Not significant
+1,that,19,0,Not significant
+1,this,46,0,Not significant
+1,tracking,17,0,Not significant
+1,up,37,0,Not significant
+1,user,13,0,Not significant
+1,via,12,0,Not significant
+1,want,12,0,Not significant
+1,system,16,0,Not significant
+1,fast,9,0,Not significant
+1,raspberry,10,0,Not significant
+1,but,9,0,Not significant
+1,advice,22,0,Not significant
+1,am,13,0,Not significant
+1,double,16,0,Not significant
+0,to,0,0,Not significant
+0,the,0,0,Not significant
+1,android,41,0,Not significant
+1,basic,24,0,Not significant
+1,bad,11,0,Not significant
+1,access,9,0,Not significant
+1,cannabis,20,0,Not significant
+1,anonymity,21,0,Not significant
+1,development,37,0,Not significant
+0,of,0,0,Not significant
+1,does,13,0,Not significant
+0,make,0,0,Not significant
+1,create,19,0,Not significant
+0,how,0,0,Not significant
+1,code,15,0,Not significant
+1,login,5,1,Not significant
+1,installing,4,1,Not significant
+1,report,6,1,Not significant
+1,crack,6,1,Not significant
+1,interesting,5,1,Not significant
+1,program,4,1,Not significant
+1,add,5,1,Not significant
+1,old,4,1,Not significant
+1,issue,5,1,Not significant
+1,js,6,1,Not significant
+2,usb,13,1,Not significant
+2,we,13,1,Not significant
+1,keep,6,1,Not significant
+3,questions,29,1,Not significant
+4,safe,51,1,Not significant
+1,options,4,1,Not significant
+2,vs,13,1,Not significant
+1,cant,4,1,Not significant
+2,send,13,1,Not significant
+1,back,6,1,Not significant
+2,getting,19,1,Not significant
+1,account,69,1,Not significant
+1,thread,4,1,Not significant
+1,road,4,1,Not significant
+1,tell,5,1,Not significant
+1,be,60,1,Not significant
+1,files,5,1,Not significant
+2,as,19,1,Not significant
+1,hard,5,1,Not significant
+1,version,5,1,Not significant
+1,who,5,1,Not significant
+1,everyone,5,1,Not significant
+1,been,5,1,Not significant
+1,ever,5,1,Not significant
+1,securely,4,1,Not significant
+1,ubuntu,6,1,Not significant
+1,again,6,1,Not significant
+1,don,5,1,Not significant
+2,beginner,14,1,Not significant
+1,auto,2,2,Not significant
+1,newb,2,2,Not significant
+2,which,12,2,Not significant
+1,compromised,2,2,Not significant
+1,contact,2,2,Not significant
+1,them,3,2,Not significant
+1,voip,2,2,Not significant
+2,evo,9,2,Not significant
+1,page,2,2,Not significant
+1,suite,2,2,Not significant
+1,paranoid,2,2,Not significant
+1,stopped,2,2,Not significant
+2,tools,10,2,Not significant
+1,source,3,2,Not significant
+1,something,2,2,Not significant
+1,wrong,3,2,Not significant
+1,burned,2,2,Not significant
+2,so,11,2,Not significant
+1,profile,2,2,Not significant
+1,adress,3,2,Not significant
+2,needed,10,2,Not significant
+1,regarding,3,2,Not significant
+1,out,84,2,Not significant
+1,stolen,3,2,Not significant
+2,warning,11,2,Not significant
+1,creating,3,2,Not significant
+1,fixed,2,2,Not significant
+1,generator,3,2,Not significant
+1,going,2,2,Not significant
+1,guys,3,2,Not significant
+1,idiots,3,2,Not significant
+1,instead,2,2,Not significant
+1,kali,2,2,Not significant
+1,kind,3,2,Not significant
+1,137,2,2,Not significant
+4,are,32,2,Not significant
+1,ma,3,2,Not significant
+1,28,3,2,Not significant
+1,creation,2,2,Not significant
+5,all,48,2,Not significant
+1,ultimate,85,2,Not significant
+1,corrupted,1,3,Not significant
+1,signature,1,3,Not significant
+1,happened,1,3,Not significant
+1,having,1,3,Not significant
+6,can,55,3,Not significant
+1,behind,1,3,Not significant
+1,nations,1,3,Not significant
+2,buyer,7,3,Not significant
+1,highly,1,3,Not significant
+1,howto,1,3,Not significant
+1,boot,1,3,Not significant
+3,post,17,3,Not significant
+1,messages,1,3,Not significant
+1,registration,1,3,Not significant
+2,client,7,3,Not significant
+1,multisig,1,3,Not significant
+1,whole,1,3,Not significant
+1,gchq,1,3,Not significant
+1,usage,1,3,Not significant
+1,tour,1,3,Not significant
+1,exchanging,1,3,Not significant
+1,excuses,1,3,Not significant
+12,your,146,3,Not significant
+12,guide,453,3,Not significant
+1,na,1,3,Not significant
+1,anymore,1,3,Not significant
+1,n00bs,1,3,Not significant
+1,found,1,3,Not significant
+1,avoiding,1,3,Not significant
+1,wan,1,3,Not significant
+1,enabled,1,3,Not significant
+1,anonym,1,3,Not significant
+1,fear,1,3,Not significant
+1,reading,1,3,Not significant
+1,communication,1,3,Not significant
+1,mint,1,3,Not significant
+1,admins,1,3,Not significant
+1,past,1,3,Not significant
+4,private,26,3,Not significant
+1,possibly,1,3,Not significant
+1,desktop,1,3,Not significant
+1,confirm,1,3,Not significant
+1,join,1,3,Not significant
+1,pri,1,3,Not significant
+1,its,1,3,Not significant
+1,cd,1,3,Not significant
+4,vendor,29,3,Not significant
+1,programs,1,3,Not significant
+1,privnote,1,3,Not significant
+2,vendors,8,3,Not significant
+2,market,8,3,Not significant
+2,password,7,3,Not significant
+1,internal,1,3,Not significant
+1,nucleus,1,3,Not significant
+1,chat,1,3,Not significant
+2,forum,6,4,0.05
+2,trying,6,4,0.05
+7,not,58,4,0.05
+13,on,151,4,0.05
+2,alternative,6,4,0.05
+4,working,25,4,0.05
+2,issues,5,4,0.05
+8,do,74,4,0.05
+2,french,6,4,0.05
+2,used,5,4,0.05
+3,should,14,4,0.05
+3,true,10,5,0.05
+1,list,130,5,0.05
+1,pack,120,5,0.05
+1,free,123,5,0.05
+2,trouble,4,5,0.05
+1,get,125,5,0.05
+28,for,386,5,0.05
+2,tor,162,5,0.05
+3,has,11,5,0.05
+4,windows,18,5,0.05
+2,bmr,4,5,0.05
+2,import,4,5,0.05
+4,secure,20,5,0.05
+7,what,55,5,0.05
+5,step,30,5,0.05
+2,longer,3,6,0.05
+1,apotheosis,0,6,0.05
+1,united,0,6,0.05
+1,apg,0,6,0.05
+1,aes,0,6,0.05
+1,usin,0,6,0.05
+1,vend,0,6,0.05
+2,drive,3,6,0.05
+1,alright,0,6,0.05
+1,vpn,137,6,0.05
+6,me,35,6,0.05
+3,link,8,6,0.05
+2,lost,3,6,0.05
+2,urgent,3,6,0.05
+1,webbased,0,6,0.05
+1,windoze,0,6,0.05
+4,change,15,6,0.05
+1,0e,0,6,0.05
+7,question,47,6,0.05
+1,end2end,0,6,0.05
+1,tutorioal,0,6,0.05
+1,luks,0,6,0.05
+1,mailing,0,6,0.05
+1,maintainer,0,6,0.05
+1,match,0,6,0.05
+1,md5,0,6,0.05
+1,megachat,0,6,0.05
+1,msg,0,6,0.05
+1,ugh,0,6,0.05
+1,couldn,0,6,0.05
+1,noobies,0,6,0.05
+1,description,0,6,0.05
+1,compromisable,0,6,0.05
+1,club,0,6,0.05
+1,choice,0,6,0.05
+1,outlaw,0,6,0.05
+1,characters,0,6,0.05
+1,paralyzed,0,6,0.05
+1,changed,0,6,0.05
+1,pgp4win,0,6,0.05
+1,cellphones,0,6,0.05
+1,pimp,0,6,0.05
+1,ple,0,6,0.05
+1,onetimesecret,0,6,0.05
+1,linked,0,6,0.05
+1,disabled,0,6,0.05
+1,kleopatra,0,6,0.05
+1,ended,0,6,0.05
+1,expired,0,6,0.05
+1,exporting,0,6,0.05
+1,encyption,0,6,0.05
+1,encrpyted,0,6,0.05
+1,flag,0,6,0.05
+1,forced,0,6,0.05
+1,giving,0,6,0.05
+1,governments,0,6,0.05
+1,edge,0,6,0.05
+1,drives,0,6,0.05
+1,hashes,0,6,0.05
+1,heart,0,6,0.05
+1,hey,0,6,0.05
+1,incorrect,0,6,0.05
+1,disk,0,6,0.05
+1,instructable,0,6,0.05
+1,instructions,0,6,0.05
+1,integrated,0,6,0.05
+1,disappeared,0,6,0.05
+1,isnt,0,6,0.05
+1,keeps,0,6,0.05
+1,keychain,0,6,0.05
+1,preinstalled,0,6,0.05
+1,bungee,0,6,0.05
+1,msgs,0,6,0.05
+1,required,0,6,0.05
+1,spacing,0,6,0.05
+1,resources,0,6,0.05
+1,retrieving,0,6,0.05
+1,arth0s,0,6,0.05
+1,rsa,0,6,0.05
+1,sombody,0,6,0.05
+1,skynet,0,6,0.05
+1,translat,0,6,0.05
+1,rundown,0,6,0.05
+1,sk,0,6,0.05
+1,safty,0,6,0.05
+1,blackberry,0,6,0.05
+1,bigge,0,6,0.05
+1,size,0,6,0.05
+1,bestcrypt,0,6,0.05
+1,sha,0,6,0.05
+1,share,0,6,0.05
+1,signatures,0,6,0.05
+1,side,0,6,0.05
+1,thumb,0,6,0.05
+1,encyrpt,0,6,0.05
+1,sig,0,6,0.05
+1,ta,0,6,0.05
+1,author,0,6,0.05
+1,qubit,0,6,0.05
+1,randomly,0,6,0.05
+1,broke,0,6,0.05
+1,stepsmith,0,6,0.05
+1,recomended,0,6,0.05
+1,publishing,0,6,0.05
+1,recovery,0,6,0.05
+1,recreate,0,6,0.05
+1,sword,0,6,0.05
+1,repost,0,6,0.05
+1,subkeys,0,6,0.05
+1,prove,0,6,0.05
+1,stoned,0,6,0.05
+1,stick,0,6,0.05
+1,asked,0,6,0.05
+1,quantum,0,6,0.05
+2,osx,2,7,0.01
+2,signing,2,7,0.01
+7,need,44,7,0.01
+2,english,2,7,0.01
+3,noobs,7,7,0.01
+2,pls,2,7,0.01
+10,tutorial,78,7,0.01
+2,plain,2,7,0.01
+12,tails,94,8,0.01
+4,newbie,12,8,0.01
+2,messaging,1,8,0.01
+2,importing,1,8,0.01
+2,word,1,8,0.01
+2,guy,1,8,0.01
+2,encrypting,1,8,0.01
+3,problems,5,8,0.01
+3,hidden,5,8,0.01
+4,nsa,10,9,0.01
+10,my,67,9,0.01
+6,email,24,9,0.01
+10,using,68,9,0.01
+5,mac,18,9,0.01
+8,no,39,10,0.01
+4,tool,7,11,0.001
+3,pm,2,12,0.001
+3,error,2,12,0.001
+2,newbs,0,12,0.001
+2,gnupg,0,12,0.001
+2,decrypting,0,12,0.001
+3,practice,2,12,0.001
+5,here,11,12,0.001
+2,versions,0,12,0.001
+5,test,10,13,0.001
+9,linux,41,13,0.001
+5,volume,9,14,0.001
+3,better,1,14,0.001
+7,problem,21,14,0.001
+3,decrypt,0,18,0.0001
+3,autopgp,0,18,0.0001
+3,crypt,0,18,0.0001
+13,use,57,19,0.0001
+5,message,4,19,0.0001
+4,veracrypt,0,25,0.0001
+5,passphrase,0,31,0.0001
+5,gpg4win,0,31,0.0001
+6,encrypted,1,32,0.0001
+10,public,11,34,0.0001
+20,help,76,34,0.0001
+6,gpg4usb,0,37,0.0001
+7,encrypt,0,44,0.0001
+11,keys,3,55,0.0001
+12,truecrypt,0,75,0.0001
+18,encryption,3,96,0.0001
+20,gpg,0,126,0.0001
+26,key,4,140,0.0001
+150,pgp,0,945,0.0001

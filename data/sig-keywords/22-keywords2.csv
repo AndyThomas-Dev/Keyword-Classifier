@@ -1,0 +1,83 @@
+freq,word,exfreq,LL,sig
+0,and,0,0,Not significant
+1,uk,63,0,Not significant
+1,or,70,0,Not significant
+1,on,163,0,Not significant
+1,card,97,0,Not significant
+1,your,157,0,Not significant
+1,what,61,0,Not significant
+1,2nd,62,0,Not significant
+0,to,0,0,Not significant
+0,the,0,0,Not significant
+0,of,0,0,Not significant
+0,how,0,0,Not significant
+1,free,123,0,Not significant
+1,security,105,0,Not significant
+1,me,40,1,Not significant
+1,data,34,1,Not significant
+1,question,53,1,Not significant
+1,guide,464,1,Not significant
+1,setup,49,1,Not significant
+1,hack,43,1,Not significant
+1,are,35,1,Not significant
+1,vouched,48,1,Not significant
+1,anyone,34,1,Not significant
+1,about,55,1,Not significant
+1,buy,52,1,Not significant
+1,virtual,20,2,Not significant
+1,localbitcoins,18,2,Not significant
+1,know,23,2,Not significant
+1,ip,21,2,Not significant
+1,tips,18,2,Not significant
+1,mobile,25,2,Not significant
+1,tracking,17,3,Not significant
+1,got,14,3,Not significant
+1,app,10,3,Not significant
+1,services,11,3,Not significant
+1,does,13,3,Not significant
+1,work,15,3,Not significant
+1,but,9,4,0.05
+2,an,50,4,0.05
+1,alternative,7,4,0.05
+1,talk,7,4,0.05
+1,location,4,5,0.05
+1,around,2,6,0.05
+1,smart,2,6,0.05
+1,thoughts,2,6,0.05
+1,exactly,2,6,0.05
+2,cards,33,6,0.05
+1,knows,1,7,0.01
+1,spoofing,1,7,0.01
+1,authentication,1,7,0.01
+2,id,18,8,0.01
+3,anonymous,57,8,0.01
+4,get,122,8,0.01
+1,anoyone,0,10,0.01
+1,workaround,0,10,0.01
+1,imeis,0,10,0.01
+1,swapping,0,10,0.01
+1,intercept,0,10,0.01
+1,ghost,0,10,0.01
+1,landline,0,10,0.01
+1,authorization,0,10,0.01
+1,contracts,0,10,0.01
+1,enemys,0,10,0.01
+1,cell,0,10,0.01
+1,storing,0,10,0.01
+1,sms,0,10,0.01
+1,sensitive,0,10,0.01
+1,buner,0,10,0.01
+1,confusion,0,10,0.01
+2,call,3,14,0.001
+2,block,2,15,0.001
+2,unknown,1,17,0.0001
+2,spoofer,1,17,0.0001
+2,factor,0,21,0.0001
+2,caller,0,21,0.0001
+2,sims,0,21,0.0001
+3,verification,4,22,0.0001
+4,number,12,24,0.0001
+4,sim,1,37,0.0001
+5,phones,5,38,0.0001
+11,burner,4,98,0.0001
+16,phone,9,136,0.0001
