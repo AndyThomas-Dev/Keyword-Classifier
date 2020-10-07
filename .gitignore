@@ -1,6 +1,7 @@
 bash-scripts/
 deprecated/
 venv/
+temp/
 writing/*
 writing/*
 __pycache__/
