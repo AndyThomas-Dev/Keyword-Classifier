@@ -18,10 +18,10 @@ The Python script will rip the items from the input file into the relevant groun
 
 ## 1. Extracting keywords from ground truth data.
 #### Filename: keyword-analysis.py
-#### Inputs: data/rgt
+#### Inputs: data/gt
 #### Outputs: data/raw-keywords
 
-The program tokenises the ground truth data
+The ground truth data is then tokenised.
 
 - All text is treated as lowercase. For instance, 'Wifi' 'WIFI' 'WiFi' 'wifi' are treated as one token ('wifi').
 - Numerical tokens are not counted.
@@ -62,4 +62,5 @@ The last Python script is used to display Cohen's kappa and the percentage of ma
 ## Other scripts: Performing k-fold cross-validation analysis
 #### Filename: k-analysis.py
 
+The model was cross-validated using k-fold cross validation to ensure it was assigning categories to items with a high degree of accuracy.
 
