@@ -8,7 +8,7 @@ The code will operates under some key assumptions:
 - For example, the CSV file named 29-2.csv in data/gt contains the ground truth data for the PGP/GPG category.
 
 ## Adding to Ground Truth data (if required)
-#### Filename: addFileToGT.py
+#### Filename: data/gt/full.csv
 #### Inputs: input.csv
 #### Outputs: data/gt/
 
