@@ -1,2 +1,0 @@
-gs -sDEVICE=pdfwrite -dNOSAFER -dNOPAUSE -dBATCH -q -o "output.pdf" -dAutoRotatePages=/None "jtf.eps"
-gs -sDEVICE=pdfwrite -dNOSAFER -dNOPAUSE -dBATCH -q -o "output.pdf" -dAutoRotatePages=/None "jtf-kas.eps"
