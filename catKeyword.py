@@ -7,6 +7,7 @@ from getLLscore import tokeniseString, getLabel
 # Uses the data from prior keyword analysis to sort items.
 # Calculates a total LLscore ('LLSum') for each entry and assigns a category ('AutoCat') based on this.
 
+# Needs to be simplified #
 def phraseCheck(inputString):
     if inputString.lower().find("no carding|not carding") > -1:
         return "Fraud"
@@ -103,6 +104,7 @@ def sortData(inputFile):
             # Progress bar
             print(i, "--", i / lines, "%")
 
+            # Debug printing
             # print(raw["Product Name"][i])
             # print(amendedString)
             # print('Max value in Dict: ', max(array))

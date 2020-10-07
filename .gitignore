@@ -1,0 +1,7 @@
+bash-scripts/
+deprecated/
+venv/
+writing/*
+__pycache__/
+joes-spider-code/
+*.ods
