@@ -2,8 +2,7 @@ bash-scripts/
 deprecated/
 venv/
 temp/
-writing/*
-writing/*
+writing/
 __pycache__/
 joes-spider-code/
 .idea/
