@@ -1,4 +1,5 @@
 # Keyword Analysis Model 
+Constructed for my MSc dissertation where I achieved a Distinction. The classifier was designed to categorise a large amount of dark web market listings and forum titles to one of 35 predefined codebook categories using keyword analysis algorithms.
 
 ## Assumptions
 The code will operates under some key assumptions:
